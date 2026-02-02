@@ -7,6 +7,7 @@
   --text: #e5e9ef;
   --muted: #9aa4b2;
   --accent: #4fd1c5;
+  --danger: #ff7b7b;
 }
 
 * {
@@ -80,7 +81,8 @@ h1 {
   gap: 10px;
 }
 
-.controls input[type="search"] {
+.controls input[type="search"],
+.gate-controls input[type="password"] {
   background: var(--panel-2);
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -204,6 +206,47 @@ h1 {
 .empty-item {
   color: var(--muted);
   font-size: 13px;
+}
+
+.gate {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: rgba(8, 10, 14, 0.92);
+  z-index: 10;
+}
+
+.gate-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 28px;
+  width: min(420px, 90vw);
+  display: grid;
+  gap: 12px;
+  text-align: center;
+}
+
+.gate-controls {
+  display: grid;
+  gap: 12px;
+}
+
+.error {
+  color: var(--danger);
+  font-size: 12px;
+  min-height: 16px;
+}
+
+body.locked #content {
+  filter: blur(12px);
+  pointer-events: none;
+  user-select: none;
+}
+
+body.unlocked #gate {
+  display: none;
 }
 
 @media (max-width: 800px) {

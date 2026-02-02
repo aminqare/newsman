@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 import sys
@@ -21,6 +22,7 @@ def main():
     raw_summary = os.getenv("SUMMARY_LIMIT", "220").strip()
     summary_limit = int(raw_summary) if raw_summary else 220
     output_path = os.getenv("OUTPUT_PATH", "docs/data.json")
+    site_password = os.getenv("SITE_PASSWORD", "")
 
     if not raw_sources:
         log.error("Missing NEWS_SOURCES in environment")
@@ -44,10 +46,15 @@ def main():
             seen.add(key)
             iran_items.append(item)
 
+    access_hash = ""
+    if site_password:
+        access_hash = hashlib.sha256(site_password.encode("utf-8")).hexdigest()
+
     payload = {
         "generated_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sources": groups,
         "iran": iran_items,
+        "access_hash": access_hash,
     }
 
     out_dir = os.path.dirname(output_path) or "."

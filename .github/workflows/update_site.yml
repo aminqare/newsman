@@ -25,6 +25,8 @@ jobs:
         env:
           NEWS_SOURCES: ${{ secrets.NEWS_SOURCES }}
           MAX_PER_SOURCE: ${{ secrets.MAX_PER_SOURCE }}
+          SUMMARY_LIMIT: ${{ secrets.SUMMARY_LIMIT }}
+          SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
           OUTPUT_PATH: docs/data.json
         run: python -m news_bot.site_generator
       - name: Commit data

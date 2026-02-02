@@ -5,9 +5,15 @@ const iranEl = document.getElementById("iran");
 const refreshBtn = document.getElementById("refresh");
 const searchInput = document.getElementById("search");
 const showBriefsInput = document.getElementById("showBriefs");
+const gateEl = document.getElementById("gate");
+const contentEl = document.getElementById("content");
+const passwordInput = document.getElementById("password");
+const unlockBtn = document.getElementById("unlock");
+const gateError = document.getElementById("gateError");
 
 let allSources = [];
 let iranItems = [];
+let accessHash = "";
 
 function formatDate(value) {
   if (!value) return "--";
@@ -17,6 +23,37 @@ function formatDate(value) {
     dateStyle: "medium",
     timeStyle: "short",
   });
+}
+
+async function sha256(value) {
+  const encoder = new TextEncoder();
+  const data = encoder.encode(value);
+  const hashBuffer = await crypto.subtle.digest("SHA-256", data);
+  const hashArray = Array.from(new Uint8Array(hashBuffer));
+  return hashArray.map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+function setLocked(locked) {
+  document.body.classList.toggle("locked", locked);
+  document.body.classList.toggle("unlocked", !locked);
+  contentEl.setAttribute("aria-hidden", locked ? "true" : "false");
+  gateEl.setAttribute("aria-hidden", locked ? "false" : "true");
+}
+
+async function tryUnlock() {
+  gateError.textContent = "";
+  const candidate = passwordInput.value || "";
+  if (!candidate) {
+    gateError.textContent = "Enter a password.";
+    return;
+  }
+  const hash = await sha256(candidate);
+  if (hash !== accessHash) {
+    gateError.textContent = "Wrong password.";
+    return;
+  }
+  localStorage.setItem("newsman_access", accessHash);
+  setLocked(false);
 }
 
 function matchesQuery(item, query) {
@@ -152,6 +189,15 @@ async function loadData() {
     updatedEl.textContent = formatDate(data.generated_at || "");
     allSources = data.sources || [];
     iranItems = data.iran || [];
+    accessHash = data.access_hash || "";
+
+    if (!accessHash) {
+      setLocked(false);
+    } else {
+      const cached = localStorage.getItem("newsman_access");
+      setLocked(cached !== accessHash);
+    }
+
     applyFilters();
     statusEl.textContent = "Updated";
   } catch (err) {
@@ -163,6 +209,12 @@ async function loadData() {
   }
 }
 
+unlockBtn.addEventListener("click", tryUnlock);
+passwordInput.addEventListener("keydown", (event) => {
+  if (event.key === "Enter") {
+    tryUnlock();
+  }
+});
 refreshBtn.addEventListener("click", loadData);
 searchInput.addEventListener("input", applyFilters);
 showBriefsInput.addEventListener("change", applyFilters);
