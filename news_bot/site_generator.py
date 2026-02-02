@@ -5,7 +5,7 @@ import logging
 from datetime import datetime
 from dotenv import load_dotenv
 
-from .fetcher import fetch_headlines
+from .fetcher import fetch_headlines_grouped
 
 
 log = logging.getLogger("news_bot.site")
@@ -25,12 +25,11 @@ def main():
         return 1
 
     sources = [s.strip() for s in raw_sources.split(",") if s.strip()]
-    headlines = fetch_headlines(sources, max_per_source=max_per_source)
+    groups = fetch_headlines_grouped(sources, max_per_source=max_per_source)
 
     payload = {
         "generated_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "count": len(headlines),
-        "items": headlines,
+        "sources": groups,
     }
 
     out_dir = os.path.dirname(output_path) or "."
@@ -39,7 +38,8 @@ def main():
         json.dump(payload, f, ensure_ascii=True, indent=2)
         f.write("\n")
 
-    log.info("Wrote %d headlines to %s", len(headlines), output_path)
+    total_items = sum(len(g.get("items", [])) for g in groups)
+    log.info("Wrote %d headlines to %s", total_items, output_path)
     return 0
 
 

@@ -1,7 +1,5 @@
 const statusEl = document.getElementById("status");
-const countEl = document.getElementById("count");
 const updatedEl = document.getElementById("updated");
-const nextEl = document.getElementById("next");
 const listEl = document.getElementById("list");
 const refreshBtn = document.getElementById("refresh");
 
@@ -15,44 +13,63 @@ function formatDate(value) {
   });
 }
 
-function renderItems(items) {
+function renderSources(sources) {
   listEl.innerHTML = "";
-  if (!items || items.length === 0) {
+  if (!sources || sources.length === 0) {
     const empty = document.createElement("div");
     empty.className = "empty";
-    empty.textContent = "No headlines yet. Check back after the next run.";
+    empty.textContent = "No sources yet.";
     listEl.appendChild(empty);
     return;
   }
 
-  items.forEach((item, index) => {
-    const card = document.createElement("article");
-    card.className = "card";
+  sources.forEach((group) => {
+    const box = document.createElement("section");
+    box.className = "source";
 
-    const badge = document.createElement("div");
-    badge.className = "index";
-    badge.textContent = String(index + 1);
+    const heading = document.createElement("div");
+    heading.className = "source-header";
 
-    const body = document.createElement("div");
+    const title = document.createElement("h2");
+    title.textContent = group.source || "Untitled Source";
 
-    const title = document.createElement("h3");
-    const link = document.createElement("a");
-    link.href = item.link || "#";
-    link.target = "_blank";
-    link.rel = "noopener";
-    link.textContent = item.title || "Untitled";
-    title.appendChild(link);
+    if (group.source_url) {
+      const link = document.createElement("a");
+      link.href = group.source_url;
+      link.target = "_blank";
+      link.rel = "noopener";
+      link.className = "source-link";
+      link.textContent = "RSS";
+      heading.appendChild(title);
+      heading.appendChild(link);
+    } else {
+      heading.appendChild(title);
+    }
 
-    const source = document.createElement("div");
-    source.className = "source";
-    source.textContent = item.source ? `Source: ${item.source}` : "Source: Unknown";
+    const list = document.createElement("ol");
+    list.className = "items";
 
-    body.appendChild(title);
-    body.appendChild(source);
+    if (group.items && group.items.length) {
+      group.items.forEach((item) => {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = item.link || "#";
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.textContent = item.title || "Untitled";
+        li.appendChild(a);
+        list.appendChild(li);
+      });
+    } else {
+      const emptyItem = document.createElement("div");
+      emptyItem.className = "empty-item";
+      emptyItem.textContent = "No headlines.";
+      list.appendChild(emptyItem);
+    }
 
-    card.appendChild(badge);
-    card.appendChild(body);
-    listEl.appendChild(card);
+    box.appendChild(heading);
+    box.appendChild(list);
+    listEl.appendChild(box);
   });
 }
 
@@ -62,30 +79,13 @@ async function loadData() {
     const response = await fetch(`data.json?ts=${Date.now()}`);
     if (!response.ok) throw new Error("Failed to load data");
     const data = await response.json();
-    const generatedAt = data.generated_at || "";
-    countEl.textContent = data.count ?? 0;
-    updatedEl.textContent = formatDate(generatedAt);
-
-    if (generatedAt) {
-      const next = new Date(generatedAt);
-      if (!Number.isNaN(next.getTime())) {
-        next.setHours(next.getHours() + 3);
-        nextEl.textContent = formatDate(next.toISOString());
-      } else {
-        nextEl.textContent = "--";
-      }
-    } else {
-      nextEl.textContent = "--";
-    }
-
-    renderItems(data.items || []);
+    updatedEl.textContent = formatDate(data.generated_at || "");
+    renderSources(data.sources || []);
     statusEl.textContent = "Updated";
   } catch (err) {
     statusEl.textContent = "Error loading data";
-    countEl.textContent = "--";
     updatedEl.textContent = "--";
-    nextEl.textContent = "--";
-    renderItems([]);
+    renderSources([]);
   }
 }
 
