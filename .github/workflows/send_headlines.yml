@@ -1,0 +1,26 @@
+name: Send headlines
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Send headlines
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NEWS_SOURCES: ${{ secrets.NEWS_SOURCES }}
+          MAX_PER_SOURCE: ${{ secrets.MAX_PER_SOURCE }}
+          RUN_ONCE: "1"
+        run: python -m news_bot.main

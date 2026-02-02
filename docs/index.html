@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NewsPaperMan — Headlines</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Work+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <main class="wrap">
+      <header class="hero">
+        <div class="badge">NewsPaperMan</div>
+        <h1>Headlines, every three hours.</h1>
+        <p class="sub">
+          A static dashboard fed by RSS and GitHub Actions. Auto-refresh the list below or
+          open headlines directly.
+        </p>
+        <div class="meta">
+          <div class="stat">
+            <div class="label">Headlines</div>
+            <div id="count" class="value">0</div>
+          </div>
+          <div class="stat">
+            <div class="label">Last update</div>
+            <div id="updated" class="value">--</div>
+          </div>
+          <div class="stat">
+            <div class="label">Next run</div>
+            <div id="next" class="value">--</div>
+          </div>
+        </div>
+        <div class="actions">
+          <button id="refresh" class="btn">Refresh</button>
+          <span id="status" class="status">Idle</span>
+        </div>
+      </header>
+
+      <section>
+        <div id="list" class="list"></div>
+      </section>
+
+      <footer class="footer">
+        <span>Built with RSS + Telegram + GitHub Actions.</span>
+      </footer>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
