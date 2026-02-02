@@ -23,12 +23,21 @@
         <div class="status-card">
           <div class="label">Last update</div>
           <div id="updated" class="value">--</div>
-          <div class="actions">
-            <button id="refresh" class="btn">Refresh</button>
-            <span id="status" class="status">Idle</span>
+          <div class="controls">
+            <input id="search" type="search" placeholder="Filter headlines" />
+            <label class="toggle">
+              <input id="showBriefs" type="checkbox" checked />
+              <span>Show briefs</span>
+            </label>
+            <div class="actions">
+              <button id="refresh" class="btn">Fetch now</button>
+              <span id="status" class="status">Idle</span>
+            </div>
           </div>
         </div>
       </header>
+
+      <section class="iran" id="iran"></section>
 
       <section id="list" class="grid"></section>
     </main>
