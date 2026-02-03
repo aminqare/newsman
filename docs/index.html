@@ -17,8 +17,8 @@
     <div id="gate" class="gate" aria-live="polite">
       <div class="gate-card">
         <div class="kicker">Newsman</div>
-        <h1>Enter access password</h1>
-        <p class="sub">This dashboard is protected. Ask the owner for access.</p>
+        <h1>Access required</h1>
+        <p class="sub">Enter the password to view the dashboard.</p>
         <div class="gate-controls">
           <input id="password" type="password" placeholder="Password" />
           <button id="unlock" class="btn">Unlock</button>
@@ -29,24 +29,29 @@
 
     <main id="content" class="wrap" aria-hidden="true">
       <header class="top">
-        <div>
+        <div class="title-block">
           <div class="kicker">Newsman</div>
-          <h1>Top headlines, grouped by source.</h1>
-          <p class="sub">Updates every 3 hours via GitHub Actions.</p>
+          <h1>Headlines, grouped by source.</h1>
+          <p class="sub">Updated every 3 hours.</p>
         </div>
-        <div class="status-card">
-          <div class="label">Last update</div>
-          <div id="updated" class="value">--</div>
+        <div class="panel">
+          <div class="meta-row">
+            <div class="meta">
+              <span class="label">Last update</span>
+              <span id="updated" class="value">--</span>
+            </div>
+            <div class="meta">
+              <span class="label">Status</span>
+              <span id="status" class="value muted">Idle</span>
+            </div>
+          </div>
           <div class="controls">
             <input id="search" type="search" placeholder="Filter headlines" />
             <label class="toggle">
               <input id="showBriefs" type="checkbox" checked />
               <span>Show briefs</span>
             </label>
-            <div class="actions">
-              <button id="refresh" class="btn">Fetch now</button>
-              <span id="status" class="status">Idle</span>
-            </div>
+            <button id="refresh" class="btn ghost">Fetch now</button>
           </div>
         </div>
       </header>
