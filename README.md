@@ -15,7 +15,7 @@ Quickstart
 
    pip install -r requirements.txt
 
-3. Copy `.env.example` to `.env` and fill in your `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, and `NEWS_SOURCES`.
+3. Copy `.env.example` to `.env` and fill in your `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, and `NEWS_SOURCES` (plus optional GDELT settings).
 
 4. Run the service
 
@@ -34,3 +34,4 @@ Notes
 - `NEWS_SOURCES` should be a comma-separated list of RSS feed URLs.
 - The scheduler sends updates immediately on start and then every 3 hours.
 - To run as a background service, consider using a systemd unit, Docker container, or process manager like `supervisord`.
+- Optional GDELT queries can be added via `GDELT_QUERIES` for broader coverage.

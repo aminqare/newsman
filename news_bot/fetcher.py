@@ -1,7 +1,9 @@
 import html
 import re
+from urllib.parse import urlencode
 
 import feedparser
+import requests
 
 
 def _clean_text(value):
@@ -57,6 +59,74 @@ def _fetch_feed(url, max_per_source, summary_limit):
         )
 
     return feed_title, results
+
+
+def _gdelt_api_url(query, timespan, maxrecords, sort):
+    params = {
+        "query": query,
+        "mode": "artlist",
+        "format": "json",
+        "maxrecords": str(maxrecords),
+    }
+    if timespan:
+        params["timespan"] = timespan
+    if sort:
+        params["sort"] = sort
+    return f"https://api.gdeltproject.org/api/v2/doc/doc?{urlencode(params)}"
+
+
+def fetch_gdelt_grouped(queries, maxrecords=25, timespan="1day", sort="datedesc"):
+    """Fetch recent headlines from GDELT DOC 2.0 API.
+
+    Returns a list of dicts: {'source','source_url','items'}
+    """
+    groups = []
+    for query in queries:
+        query = query.strip()
+        if not query:
+            continue
+        url = _gdelt_api_url(query, timespan, maxrecords, sort)
+        items = []
+        try:
+            resp = requests.get(url, timeout=20)
+            resp.raise_for_status()
+            payload = resp.json()
+        except Exception:
+            groups.append({"source": f"GDELT: {query}", "source_url": url, "items": []})
+            continue
+
+        for article in payload.get("articles", []) or []:
+            title = (article.get("title") or "").strip()
+            link = (article.get("url") or "").strip()
+            if not title or not link:
+                continue
+            items.append(
+                {
+                    "title": title,
+                    "link": link,
+                    "summary": "",
+                    "source": f"GDELT: {query}",
+                    "source_url": url,
+                }
+            )
+
+        groups.append({"source": f"GDELT: {query}", "source_url": url, "items": items})
+
+    return groups
+
+
+def fetch_gdelt_headlines(queries, maxrecords=25, timespan="1day", sort="datedesc"):
+    """Fetch GDELT headlines into a flat list."""
+    results = []
+    seen = set()
+    for group in fetch_gdelt_grouped(queries, maxrecords, timespan, sort):
+        for item in group.get("items", []):
+            key = f"{item['title']}|{item['link']}"
+            if key in seen:
+                continue
+            seen.add(key)
+            results.append(item)
+    return results
 
 
 def fetch_headlines(sources, max_per_source=5, summary_limit=220):

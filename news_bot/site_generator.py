@@ -6,7 +6,7 @@ import logging
 from datetime import datetime
 from dotenv import load_dotenv
 
-from .fetcher import fetch_headlines_grouped
+from .fetcher import fetch_gdelt_grouped, fetch_headlines_grouped
 
 
 log = logging.getLogger("news_bot.site")
@@ -23,15 +23,34 @@ def main():
     summary_limit = int(raw_summary) if raw_summary else 220
     output_path = os.getenv("OUTPUT_PATH", "docs/data.json")
     site_password = os.getenv("SITE_PASSWORD", "")
+    raw_gdelt = os.getenv("GDELT_QUERIES", "")
+    gdelt_timespan = os.getenv("GDELT_TIMESPAN", "1day").strip()
+    gdelt_sort = os.getenv("GDELT_SORT", "datedesc").strip()
+    raw_gdelt_max = os.getenv("GDELT_MAXRECORDS", "25").strip()
+    gdelt_maxrecords = int(raw_gdelt_max) if raw_gdelt_max else 25
 
-    if not raw_sources:
-        log.error("Missing NEWS_SOURCES in environment")
+    gdelt_queries = [q.strip() for q in raw_gdelt.split(",") if q.strip()]
+    if not raw_sources and not gdelt_queries:
+        log.error("Missing NEWS_SOURCES and GDELT_QUERIES in environment")
         return 1
 
-    sources = [s.strip() for s in raw_sources.split(",") if s.strip()]
-    groups = fetch_headlines_grouped(
-        sources, max_per_source=max_per_source, summary_limit=summary_limit
-    )
+    groups = []
+    if raw_sources:
+        sources = [s.strip() for s in raw_sources.split(",") if s.strip()]
+        groups.extend(
+            fetch_headlines_grouped(
+                sources, max_per_source=max_per_source, summary_limit=summary_limit
+            )
+        )
+    if gdelt_queries:
+        groups.extend(
+            fetch_gdelt_grouped(
+                gdelt_queries,
+                maxrecords=gdelt_maxrecords,
+                timespan=gdelt_timespan,
+                sort=gdelt_sort,
+            )
+        )
 
     iran_items = []
     seen = set()

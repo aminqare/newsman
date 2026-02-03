@@ -27,6 +27,10 @@ jobs:
           MAX_PER_SOURCE: ${{ secrets.MAX_PER_SOURCE }}
           SUMMARY_LIMIT: ${{ secrets.SUMMARY_LIMIT }}
           SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
+          GDELT_QUERIES: ${{ secrets.GDELT_QUERIES }}
+          GDELT_TIMESPAN: ${{ secrets.GDELT_TIMESPAN }}
+          GDELT_SORT: ${{ secrets.GDELT_SORT }}
+          GDELT_MAXRECORDS: ${{ secrets.GDELT_MAXRECORDS }}
           OUTPUT_PATH: docs/data.json
         run: python -m news_bot.site_generator
       - name: Commit data

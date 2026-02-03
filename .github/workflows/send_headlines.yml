@@ -22,5 +22,9 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NEWS_SOURCES: ${{ secrets.NEWS_SOURCES }}
           MAX_PER_SOURCE: ${{ secrets.MAX_PER_SOURCE }}
+          GDELT_QUERIES: ${{ secrets.GDELT_QUERIES }}
+          GDELT_TIMESPAN: ${{ secrets.GDELT_TIMESPAN }}
+          GDELT_SORT: ${{ secrets.GDELT_SORT }}
+          GDELT_MAXRECORDS: ${{ secrets.GDELT_MAXRECORDS }}
           RUN_ONCE: "1"
         run: python -m news_bot.main
