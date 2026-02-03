@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T04:51:06Z",
+  "generated_at": "2026-02-03T06:01:41Z",
   "sources": [
     {
       "source": "BBC News",
@@ -27,16 +27,16 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
-          "link": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
-          "summary": "The couple bows to the House Oversight Committee's demands after arguing for months that its subpoenas were invalid.",
+          "title": "Door is open to customs union talks with UK, EU says",
+          "link": "https://www.bbc.com/news/articles/cn56dnrvq03o?at_medium=RSS&at_campaign=rss",
+          "summary": "Valdis Dombrovskis says the EU is willing to engage with Britain amid mounting global uncertainty.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Federal officers in Minneapolis to get body cameras 'effective immediately'",
-          "link": "https://www.bbc.com/news/articles/cwyw75ww9g9o?at_medium=RSS&at_campaign=rss",
-          "summary": "The decision follows bipartisan push for more accountablility after two US citizens were shot and killed by federal immigration officers in Minnesota.",
+          "title": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
+          "link": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
+          "summary": "The couple bows to the House Oversight Committee's demands after arguing for months that its subpoenas were invalid.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -134,6 +134,13 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
+          "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "How does misalignment scale with model intelligence and task complexity?",
           "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
           "summary": "Comments",
@@ -148,22 +155,15 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
+          "title": "Coding assistants are solving the wrong problem",
+          "link": "https://www.bicameral-ai.com/blog/introducing-bicameral",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "Anki ownership transferred to AnkiHub",
           "link": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Floppinux \u2013 An Embedded Linux on a Single Floppy, 2025 Edition",
-          "link": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "GitHub experience various partial-outages/degradations",
-          "link": "https://www.githubstatus.com?todayis=2026-02-02",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -174,6 +174,20 @@
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
+        {
+          "title": "Jobs, cash, loans: Can Bangladesh\u2019s parties deliver on election promises?",
+          "link": "https://www.aljazeera.com/features/2026/2/3/jobs-cash-loans-can-bangladeshs-parties-deliver-on-election-promises?traffic_source=rss",
+          "summary": "From loans to scholarships for foreign studies, Bangladesh's main parties are wooing the youth. Will it work?",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
+          "title": "Musk merges SpaceX and xAI firms, plans for space-based AI data centres",
+          "link": "https://www.aljazeera.com/news/2026/2/3/musk-merges-spacex-and-xai-firms-plans-for-space-based-ai-data-centres?traffic_source=rss",
+          "summary": "Musk says solar powered and space-based data centres are the only way to meet AI's burgeoning energy demands.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
         {
           "title": "Moscow confirms Russian forces helped repel ISIL attack on Niger airport",
           "link": "https://www.aljazeera.com/news/2026/2/3/moscow-confirms-russian-forces-helped-repel-isil-attack-on-niger-airport?traffic_source=rss",
@@ -192,20 +206,6 @@
           "title": "Cuba in contact with US, diplomat says, as Trump issues threat to block oil",
           "link": "https://www.aljazeera.com/news/2026/2/3/cuba-in-contact-with-us-diplomat-says-as-trump-issues-threat-to-block?traffic_source=rss",
           "summary": "Cuban diplomat says Havana ready for dialogue with US, but certain things are off the table, including the constitution.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "Ex-US President Bill Clinton, Hillary Clinton to testify in Epstein probe",
-          "link": "https://www.aljazeera.com/news/2026/2/3/ex-us-president-bill-clinton-hillary-clinton-to-testify-in-epstein-probe?traffic_source=rss",
-          "summary": "The Clintons agree to testify in congressional probe of high-society sex offender Jeffrey Epstein amid contempt threat.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "Russia-Ukraine war: List of key events, day 1,440",
-          "link": "https://www.aljazeera.com/news/2026/2/3/russia-ukraine-war-list-of-key-events-day-1440?traffic_source=rss",
-          "summary": "These are the key developments from day 1,440 of Russia\u2019s war on Ukraine",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,13 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "Minnesota Olympians, other athletes speak up about federal agents in Minneapolis",
+          "link": "https://www.npr.org/2026/02/03/nx-s1-5695773/minnesota-olympians-other-athletes-speak-up-about-federal-agents-in-minneapolis",
+          "summary": "\"I want to make sure you know who I'm racing for,\" wrote Minnesota-born cross-country skiing star Jessie Diggins. Meanwhile, a hospitality center for Team USA families dropped the name \"Ice House.\"",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Populist conservative Laura Fern\u00e1ndez wins Costa Rica's presidential election",
           "link": "https://www.npr.org/2026/02/02/g-s1-108418/costa-rica-election-laura-fernandez-wins",
           "summary": "Candidate Laura Fern\u00e1ndez won a resounding victory, promising to continue the aggressive reorienting of the Central American nation's politics started by her predecessor.",
@@ -283,15 +290,18 @@
           "summary": "International officials say a point-rigging scheme denied American Katie Uhlaender a shot to compete in the Milan Cortina Olympics. But a sports tribunal based in Switzerland says it can't intervene.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "The Trump Administration exempts new nuclear reactors from environmental review",
-          "link": "https://www.npr.org/2026/02/02/nx-s1-5696525/trump-nuclear-safety-regulations-environmental-review",
-          "summary": "The announcement comes just days after NPR revealed the administration had secretly rewritten safety and environmental standards.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
       ]
+    },
+    {
+      "source": "GDELT: iran OR tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran+OR+tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
+      "items": []
+    },
+    {
+      "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646 OR \u062a\u0647\u0631\u0627\u0646",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=%D8%A7%DB%8C%D8%B1%D8%A7%D9%86+OR+%D8%AA%D9%87%D8%B1%D8%A7%D9%86&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
+      "items": []
     }
   ],
   "iran": [],
