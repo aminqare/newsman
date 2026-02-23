@@ -1,14 +1,35 @@
 {
-  "generated_at": "2026-02-22T21:31:34Z",
+  "generated_at": "2026-02-23T02:43:33Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
         {
-          "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
-          "link": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
-          "summary": "The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time.",
+          "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+          "link": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
+          "summary": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "title": "Hamnet's Jessie Buckley and I Swear's Robert Aramayo win big at the Baftas",
+          "link": "https://www.bbc.com/news/articles/czx7e100r48o?at_medium=RSS&at_campaign=rss",
+          "summary": "Brit Aramayo beat US stars such Leonardo DiCaprio and Timoth\u00e9e Chalamet, while One Battle After Another picked up six awards.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "title": "Mescal and Abrams go red carpet official, a 'strong language' apology and other Bafta highlights",
+          "link": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&at_campaign=rss",
+          "summary": "This year's Bafta Film Awards had it all... A-listers, a touch of royalty, Paddington Bear - and the sun even came out, for what felt like the first time all year.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "title": "Billions in SEND funding to make schools in England more inclusive, ministers say",
+          "link": "https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&at_campaign=rss",
+          "summary": "The government is setting out big changes to how children with special educational needs get support.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
@@ -16,27 +37,6 @@
           "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
           "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
           "summary": "Nemesio Oseguera Cervantes, known as \"El Mencho\", headed one of Mexico's most powerful drug cartels.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
-          "link": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
-          "summary": "US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "Former PM Gordon Brown urges police probe into whether Andrew used RAF bases to meet Epstein",
-          "link": "https://www.bbc.com/news/articles/cj0dme87l84o?at_medium=RSS&at_campaign=rss",
-          "summary": "Reports say the former prime minister has demanded a full investigation into Andrew's role as UK trade envoy.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "Greenland says 'no thanks' to Trump US hospital boat",
-          "link": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
-          "summary": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\".",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -47,23 +47,30 @@
       "source_url": "https://feeds.bbci.co.uk/persian/rss.xml",
       "items": [
         {
-          "title": "\u0627\u0639\u062a\u0631\u0627\u0636\u200c \u0648 \u062f\u0631\u06af\u06cc\u0631\u06cc \u062f\u0631 \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646\u061b \u062f\u0648\u0631 \u0628\u0639\u062f\u06cc \u0645\u0630\u0627\u06a9\u0631\u0647 \u0628\u0627 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u067e\u0646\u062c\u200c\u0634\u0646\u0628\u0647 \u0627\u0646\u062c\u0627\u0645 \u0645\u06cc\u200c\u0634\u0648\u062f",
+          "title": "\u0639\u0631\u0627\u0642\u0686\u06cc \u062f\u0631 \u067e\u0627\u0633\u062e \u0628\u0647 \u0648\u06cc\u062a\u06a9\u0627\u0641\u061b \u0645\u06cc\u200c\u062f\u0627\u0646\u06cc \u0686\u0631\u0627 \u0628\u0647 \u062e\u0648\u0627\u0633\u062a \u062a\u0631\u0627\u0645\u067e \u062a\u0646 \u0646\u0645\u06cc\u200c\u062f\u0647\u06cc\u0645\u061f \u0686\u0648\u0646 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0647\u0633\u062a\u06cc\u0645",
           "link": "https://www.bbc.co.uk/persian/live/ce3g7q4neyyt?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0639\u0645\u0627\u0646 \u062a\u0627\u06cc\u06cc\u062f \u06a9\u0631\u062f \u06a9\u0647 \u062f\u0648\u0631 \u0628\u0639\u062f\u06cc \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u0627\u06cc\u0631\u0627\u0646 \u0648 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u067e\u0646\u062c\u200c\u0634\u0646\u0628\u0647 \u062f\u0631 \u0698\u0646\u0648 \u0628\u0631\u06af\u0632\u0627\u0631 \u0645\u06cc\u200c\u0634\u0648\u062f. \u0627\u06cc\u0646 \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u0628\u0627 \u0645\u06cc\u0627\u0646\u062c\u06cc\u06af\u0631\u06cc \u0639\u0645\u0627\u0646 \u0627\u0646\u062c\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f. \u0647\u0645\u0632\u0645\u0627\u0646 \u0634\u0645\u0627\u0631\u06cc \u0627\u0632 \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u062a\u0647\u0631\u0627\u0646 \u0627\u0645\u0631\u0648\u0632 \u0628\u0631\u0627\u06cc \u062f\u0648\u0645\u06cc\u0646 \u0631\u0648\u0632 \u0645\u062a\u0648\u0627\u0644\u06cc \u0635\u062d\u0646\u0647 \u062a\u062c\u0645\u0639\u200c\u0647\u0627\u06cc \u0627\u0639\u062a\u0631\u0627\u0636\u06cc \u0628\u0648\u062f\u060c \u0627\u0632\u2026",
+          "summary": "\u0639\u0628\u0627\u0633 \u0639\u0631\u0627\u0642\u0686\u06cc\u060c \u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u0647 \u0627\u06cc\u0631\u0627\u0646\u060c \u062f\u0631 \u0648\u0627\u06a9\u0646\u0634 \u0628\u0647 \u0645\u0635\u0627\u062d\u0628\u0647 \u0627\u062e\u06cc\u0631 \u0627\u0633\u062a\u06cc\u0648 \u0648\u06cc\u062a\u06a9\u0627\u0641 \u06a9\u0647 \u06af\u0641\u062a\u0647 \u0628\u0648\u062f \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u067e\u0631\u0633\u06cc\u062f\u0647 \u0686\u0631\u0627 \u0627\u06cc\u0646 \u062e\u0648\u0627\u0633\u062a\u0647\u200c\u0647\u0627\u06cc \u0627\u0648 \u0631\u0627 \u0646\u0645\u06cc\u200c\u067e\u0630\u06cc\u0631\u062f\u060c \u062f\u0631 \u0634\u0628\u06a9\u0647 \u0627\u06cc\u06a9\u0633 \u0646\u0648\u0634\u062a \u00ab\u0686\u0648\u0646 \u0645\u0627 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0647\u0633\u062a\u06cc\u0645\u00bb. \u0627\u06cc\u0646 \u0627\u0638\u0647\u0627\u0631\u0627\u062a \u062f\u0631 \u0622\u0633\u062a\u0627\u0646\u0647 \u062f\u0648\u0631 \u0633\u0648\u0645 \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u0645\u06cc\u0627\u0646\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
         {
-          "title": "\u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0638\u0647\u0627\u0631\u0627\u062a \u0633\u0641\u06cc\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631 \u0645\u0648\u0631\u062f \u00ab\u062d\u0642 \u062d\u0627\u06a9\u0645\u06cc\u062a \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0628\u0631 \u0628\u062e\u0634\u06cc \u06af\u0633\u062a\u0631\u062f\u0647\u200c \u0627\u0632 \u062e\u0627\u0648\u0631\u0645\u06cc\u0627\u0646\u0647\u00bb \u0631\u0627 \u0645\u062d\u06a9\u0648\u0645 \u06a9\u0631\u062f\u0646\u062f",
-          "link": "https://www.bbc.com/persian/articles/c86yg5le98eo?at_medium=RSS&at_campaign=rss",
-          "summary": "\u062f\u0648\u0644\u062a\u200c\u0647\u0627\u06cc \u0639\u0631\u0628 \u0648 \u0645\u0633\u0644\u0645\u0627\u0646 \u0627\u0638\u0647\u0627\u0631\u0627\u062a \u0645\u0627\u06cc\u06a9 \u0647\u0627\u06a9\u0628\u06cc\u060c \u0633\u0641\u06cc\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u060c \u0631\u0627 \u06a9\u0647 \u06af\u0641\u062a\u0647 \u0627\u0633\u062a \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u062d\u0642 \u062f\u0627\u0631\u062f \u0628\u0631 \u0627\u0633\u0627\u0633 \u06a9\u062a\u0627\u0628 \u0645\u0642\u062f\u0633\u060c \u0628\u062e\u0634 \u0648\u0633\u06cc\u0639\u06cc \u0627\u0632 \u062e\u0627\u0648\u0631\u0645\u06cc\u0627\u0646\u0647 \u0631\u0627 \u062a\u0635\u0631\u0641 \u06a9\u0646\u062f\u060c \u0645\u062d\u06a9\u0648\u0645 \u06a9\u0631\u062f\u0646\u062f. \u0645\u0627\u06cc\u06a9 \u0647\u0627\u06a9\u0628\u06cc \u0627\u06cc\u0646 \u0627\u0638\u0647\u0627\u0631\u0627\u062a \u0631\u0627 \u062f\u0631 \u0645\u0635\u0627\u062d\u0628\u0647\u200c\u0627\u06cc \u0628\u0627 \u062a\u0627\u06a9\u0631 \u06a9\u0627\u0631\u0644\u0633\u0648\u0646\u2026",
+          "title": "\u0686\u0631\u0627 \u0627\u0631\u0648\u067e\u0627 \u0628\u0647 \u062f\u0646\u0628\u0627\u0644 \u0645\u0645\u0646\u0648\u0639\u06cc\u062a \u062d\u0636\u0648\u0631 \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u062f\u0631 \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0627\u0633\u062a\u061f",
+          "link": "https://www.bbc.com/persian/articles/cm2r6mqeq5vo?at_medium=RSS&at_campaign=rss",
+          "summary": "\u062f\u0631 \u067e\u0631\u062a\u063a\u0627\u0644\u060c \u0646\u0648\u062c\u0648\u0627\u0646\u0627\u0646 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u0632 \u06f1\u06f4 \u0633\u0627\u0644\u06af\u06cc \u0628\u0647 \u0637\u0648\u0631 \u0642\u0627\u0646\u0648\u0646\u06cc \u0631\u0627\u0628\u0637\u0647 \u062c\u0646\u0633\u06cc \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u0646\u062f\u060c \u0627\u0645\u0627 \u0628\u0627 \u062a\u0635\u0648\u06cc\u0628 \u0642\u0627\u0646\u0648\u0646 \u062c\u062f\u06cc\u062f\u060c \u062a\u0646\u0647\u0627 \u0627\u0632 \u06f1\u06f6 \u0633\u0627\u0644\u06af\u06cc \u0645\u062c\u0627\u0632 \u0628\u0647 \u0633\u0627\u062e\u062a \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc \u062f\u0631 \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u062e\u0648\u0627\u0647\u0646\u062f \u0628\u0648\u062f. \u067e\u0627\u0631\u0644\u0645\u0627\u0646 \u0627\u06cc\u0646 \u06a9\u0634\u0648\u0631 \u062f\u0631 \u0634\u0648\u0631 \u0646\u062e\u0633\u062a\u060c \u0637\u0631\u062d\u06cc \u0631\u0627 \u062a\u0635\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
         {
-          "title": "\u0645\u0631\u062f\u06cc \u06a9\u0647 \u0648\u0627\u0631\u062f \u0645\u062d\u0648\u0637\u0647 \u062d\u0641\u0627\u0638\u062a\u200c\u0634\u062f\u0647 \u0627\u0642\u0627\u0645\u062a\u06af\u0627\u0647 \u062a\u0631\u0627\u0645\u067e \u0634\u062f\u0647 \u0628\u0648\u062f \u06a9\u0634\u062a\u0647 \u0634\u062f\u061b \u0622\u0646\u0686\u0647 \u06af\u0630\u0634\u062a",
-          "link": "https://www.bbc.co.uk/persian/live/cgjzgdjxw62t?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0633\u0631\u0648\u06cc\u0633 \u0645\u062e\u0641\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u06af\u0641\u062a \u0645\u0631\u062f\u06cc \u062d\u062f\u0648\u062f\u0627 \u06f2\u06f0 \u0633\u0627\u0644\u0647 \u0631\u0627 \u06a9\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0631\u062f\u0647 \u0628\u0648\u062f \u0648\u0627\u0631\u062f \u0627\u0642\u0627\u0645\u062a\u06af\u0627\u0647 \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u062f\u0631 \u0645\u0627\u0631\u0627\u0644\u0627\u06af\u0648 \u062f\u0631 \u0627\u06cc\u0627\u0644\u062a \u0641\u0644\u0648\u0631\u06cc\u062f\u0627 \u0634\u0648\u062f\u060c \u0647\u062f\u0641 \u06af\u0644\u0648\u0644\u0647 \u0642\u0631\u0627\u0631 \u062f\u0627\u062f\u0647 \u0648 \u06a9\u0634\u062a\u0647 \u0627\u0633\u062a. \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e\u060c \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u060c \u062f\u0631 \u0622\u0646 \u0632\u0645\u0627\u0646 \u062f\u0631 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0628\u0648\u062f. \u0628\u0647 \u06af\u0641\u2026",
+          "title": "\u0627\u0626\u062a\u0644\u0627\u0641 \u067e\u0646\u062c \u062d\u0632\u0628 \u0633\u06cc\u0627\u0633\u06cc \u06a9\u0631\u062f\u0633\u062a\u0627\u0646: \u0631\u0698\u06cc\u0645 \u0645\u0634\u0631\u0648\u0639\u06cc\u062a \u062e\u0648\u062f \u0631\u0627 \u0628\u0647 \u0637\u0648\u0631 \u06a9\u0627\u0645\u0644 \u0627\u0632 \u062f\u0633\u062a \u062f\u0627\u062f\u0647 \u0627\u0633\u062a",
+          "link": "https://www.bbc.com/persian/articles/c4gj8437dd1o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u067e\u0646\u062c \u062d\u0632\u0628 \u0633\u06cc\u0627\u0633\u06cc \u06a9\u0631\u062f\u0633\u062a\u0627\u0646 \u0627\u06cc\u0631\u0627\u0646 \u0631\u0648\u0632 \u06cc\u06a9\u0634\u0646\u0628\u0647 - \u0633\u0648\u0645 \u0627\u0633\u0641\u0646\u062f - \u062f\u0631 \u0646\u0634\u0633\u062a\u06cc \u0645\u0634\u062a\u0631\u06a9\u060c \u0627\u0632 \u062a\u0634\u06a9\u06cc\u0644 \u00ab\u0627\u0626\u062a\u0644\u0627\u0641 \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0633\u06cc\u0627\u0633\u06cc \u06a9\u0631\u062f\u0633\u062a\u0627\u0646 \u0627\u06cc\u0631\u0627\u0646\u00bb \u062e\u0628\u0631 \u062f\u0627\u062f\u0646\u062f. \u0627\u06cc\u0646 \u067e\u0646\u062c \u062d\u0632\u0628 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f\u0646\u062f \u0627\u0626\u062a\u0644\u0627\u0641\u06cc \u0631\u0627 \u062a\u0634\u06a9\u06cc\u0644 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f \u062a\u0627 \u00ab\u062d\u0636\u0648\u0631 \u062e\u0648\u062f \u0631\u0627 \u062f\u0631 \u0648\u0636\u0639\u06cc\u062a \u0633\u06cc\u0627\u0633\u06cc \u06a9\u0646\u0648\u0646\u06cc \u0627\u06cc\u0631\u0627\u0646\u2026",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u0633\u0631\u0648\u06cc\u0633 \u0645\u062e\u0641\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0645\u0631\u062f \u0645\u0633\u0644\u062d\u06cc \u06a9\u0647 \u0648\u0627\u0631\u062f \u0645\u062d\u0648\u0637\u0647 \u0627\u0642\u0627\u0645\u062a\u06af\u0627\u0647 \u062a\u0631\u0627\u0645\u067e \u0634\u062f\u0647 \u0628\u0648\u062f \u0631\u0627 \u06a9\u0634\u062a",
+          "link": "https://www.bbc.com/persian/articles/cjd92p8yy1ro?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0628\u0647 \u06af\u0641\u062a\u0647 \u0633\u0631\u0648\u06cc\u0633 \u0645\u062e\u0641\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u060c \u06cc\u06a9 \u0645\u0631\u062f \u0645\u0633\u0644\u062d \u067e\u0633 \u0627\u0632 \u0648\u0631\u0648\u062f \u0628\u0647 \u0645\u062d\u062f\u0648\u062f\u0647 \u0627\u0645\u0646\u06cc\u062a\u06cc \u0627\u0642\u0627\u0645\u062a\u06af\u0627\u0647 \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u062f\u0631 \u0645\u0627\u0631\u0627\u0644\u0627\u06af\u0648 \u062f\u0631 \u0627\u06cc\u0627\u0644\u062a \u0641\u0644\u0648\u0631\u06cc\u062f\u0627 \u0647\u062f\u0641 \u06af\u0644\u0648\u0644\u0647 \u0642\u0631\u0627\u0631 \u06af\u0631\u0641\u062a \u0648 \u06a9\u0634\u062a\u0647 \u0634\u062f.",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
@@ -71,13 +78,6 @@
           "title": "\u0627\u0639\u062a\u0631\u0627\u0636\u0627\u062a \u06f1\u06f4\u06f0\u06f4 \u0627\u06cc\u0631\u0627\u0646\u061b \u062a\u0635\u0627\u0648\u06cc\u0631 \u00ab\u0628\u0633\u06cc\u0627\u0631 \u062f\u0631\u062f\u0646\u0627\u06a9\u00bb \u0628\u06cc\u0645\u0627\u0631\u0633\u062a\u0627\u0646 \u0627\u0644\u063a\u062f\u06cc\u0631 \u00ab\u0635\u062d\u062a\u00bb \u062f\u0627\u0631\u062f",
           "link": "https://www.bbc.com/persian/articles/c0e5p9nz2gxo?at_medium=RSS&at_campaign=rss",
           "summary": "\u062d\u0633\u06cc\u0646 \u06a9\u0631\u0645\u0627\u0646\u067e\u0648\u0631\u060c \u0631\u0626\u06cc\u0633 \u0645\u0631\u06a9\u0632 \u0631\u0648\u0627\u0628\u0637\u200c\u0639\u0645\u0648\u0645\u06cc \u0648 \u0627\u0637\u0644\u0627\u0639\u200c\u0631\u0633\u0627\u0646\u06cc \u0648\u0632\u0627\u0631\u062a \u0628\u0647\u062f\u0627\u0634\u062a\u060c \u06af\u0641\u062a \u062a\u0635\u0627\u0648\u06cc\u0631\u06cc \u06a9\u0647 \u062f\u0631 \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0627\u0632 \u0628\u06cc\u0645\u0627\u0631\u0633\u062a\u0627\u0646 \u062e\u06cc\u0631\u06cc\u0647 \u0627\u0644\u063a\u062f\u06cc\u0631 \u0645\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a \u00ab\u062f\u0648\u0631 \u0627\u0632 \u0648\u0627\u0642\u0639\u06cc\u062a \u0646\u06cc\u0633\u062a.\u00bb \u0622\u0642\u0627\u06cc \u06a9\u0631\u0645\u0627\u0646\u067e\u0648\u0631 \u0627\u06cc\u0646 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0631\u0627 \u00ab\u0628\u0633\u06cc\u0627\u0631 \u062f\u0631\u062f\u0646\u0627\u06a9\u00bb \u062a\u0648\u0635\u06cc\u0641 \u06a9\u0631\u062f \u0648 \u06af\u0641\u062a\u2026",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u062d\u0645\u0644\u0627\u062a \u0647\u0648\u0627\u06cc\u06cc \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0628\u0647 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646\u061b \u062d\u06a9\u0648\u0645\u062a \u0637\u0627\u0644\u0628\u0627\u0646 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u062f\u0647\u200c\u0647\u0627 \u0646\u0641\u0631 \u06a9\u0634\u062a\u0647 \u0634\u062f\u0646\u062f",
-          "link": "https://www.bbc.com/persian/articles/c8r1ppzv2r0o?at_medium=RSS&at_campaign=rss",
-          "summary": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0686\u0646\u062f\u06cc\u0646 \u062d\u0645\u0644\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0634\u0628\u0627\u0646\u0647 \u0628\u0647 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0646\u062c\u0627\u0645 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0628\u0647 \u06af\u0641\u062a\u0647 \u0637\u0627\u0644\u0628\u0627\u0646 \u062f\u0647\u200c\u0647\u0627 \u0646\u0641\u0631 \u0627\u0632 \u062c\u0645\u0644\u0647 \u0632\u0646\u0627\u0646 \u0648 \u06a9\u0648\u062f\u06a9\u0627\u0646 \u0628\u0631 \u0627\u062b\u0631 \u0627\u06cc\u0646 \u062d\u0645\u0644\u0647 \u06a9\u0634\u062a\u0647 \u0648 \u0632\u062e\u0645\u06cc \u0634\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u06cc\u0646 \u062d\u0645\u0644\u0627\u062a \u0631\u0627 \u0645\u062d\u06a9\u0648\u0645 \u06a9\u0631\u062f \u0648 \u06af\u0641\u062a \u06a9\u0647 \u0686\u0646\u062f\u06cc\u0646 \u062e\u0627\u0646\u0647 \u063a\u06cc\u0631\u0646\u0638\u0627\u0645\u06cc \u0648 \u06cc\u06a9 \u0645\u062f\u0631\u0633\u0647\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         }
@@ -88,9 +88,9 @@
       "source_url": "https://ir.voanews.com/api/zbtpil-vomx-tpeqiyp",
       "items": [
         {
-          "title": "\u0627\u0632 \u00ab\u062a\u0627 \u0622\u062e\u0648\u0646\u062f \u06a9\u0641\u0646 \u0646\u0634\u0648\u062f\u060c \u0627\u06cc\u0646 \u0648\u0637\u0646 \u0648\u0637\u0646 \u0646\u0634\u0648\u062f\u00bb\u200b \u062a\u0627 \u00ab\u0645\u0631\u06af \u0628\u0631 \u062f\u06cc\u06a9\u062a\u0627\u062a\u0648\u0631\u00bb\u061b \u06af\u0633\u062a\u0631\u0634 \u062f\u0627\u0645\u0646\u0647 \u0627\u0639\u062a\u0631\u0627\u0636\u0627\u062a \u062f\u0631 \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646",
-          "link": "https://ir.voanews.com/a/student-uprising-in-iranian-universities/8116371.html",
-          "summary": "\u062f\u0631 \u062f\u0648 \u0631\u0648\u0632 \u06af\u0630\u0634\u062a\u0647\u060c \u0647\u0645\u200c\u0632\u0645\u0627\u0646 \u0628\u0627 \u0622\u063a\u0627\u0632 \u0646\u06cc\u0645\u0633\u0627\u0644 \u062a\u062d\u0635\u06cc\u0644\u06cc \u0648 \u0686\u0647\u0644\u0645 \u062c\u0627\u0646\u200c\u0628\u0627\u062e\u062a\u06af\u0627\u0646 \u0627\u0639\u062a\u0631\u0627\u0636\u0627\u062a \u062f\u06cc\u200c\u0645\u0627\u0647\u060c \u062f\u0647\u200c\u0647\u0627 \u0648\u06cc\u062f\u06cc\u0648 \u0648 \u06af\u0632\u0627\u0631\u0634 \u0627\u0632 \u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062a\u062c\u0645\u0639\u200c\u0647\u0627\u06cc \u06af\u0633\u062a\u0631\u062f\u0647 \u0648 \u0647\u0645\u0627\u0647\u0646\u06af \u062f\u0631 \u062f\u0627\u0646\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a.",
+          "title": "\u0639\u0645\u0627\u0646: \u062f\u0648\u0631 \u062a\u0627\u0632\u0647 \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u062a\u0647\u0631\u0627\u0646 - \u0648\u0627\u0634\u0646\u06af\u062a\u0646\u060c \u067e\u0646\u062c\u0634\u0646\u0628\u0647 \u062f\u0631 \u0698\u0646\u0648 \u0628\u0631\u06af\u0632\u0627\u0631 \u0645\u06cc\u200c\u0634\u0648\u062f",
+          "link": "https://ir.voanews.com/a/8116421.html",
+          "summary": "\u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u0647 \u0639\u0645\u0627\u0646 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u062f\u0648\u0631 \u0628\u0639\u062f\u06cc \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u0645\u06cc\u0627\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0648 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0631\u0648\u0632 \u067e\u0646\u062c\u0634\u0646\u0628\u0647 \u062f\u0631 \u0698\u0646\u0648 \u0628\u0631\u06af\u0632\u0627\u0631 \u062e\u0648\u0627\u0647\u062f \u0634\u062f. \u0627\u06cc\u0646 \u0627\u0638\u0647\u0627\u0631\u0627\u062a \u0633\u0627\u0639\u0627\u062a\u06cc \u067e\u0633 \u0627\u0632 \u0622\u0646 \u0628\u06cc\u0627\u0646 \u0634\u062f \u06a9\u0647 \u0639\u0628\u0627\u0633 \u0639\u0631\u0627\u0642\u0686\u06cc\u060c \u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u0647 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u060c \u0646\u06cc\u0632 \u06af\u0641\u062a\u0647 \u0628\u0648\u062f \u0627\u062d\u062a\u0645\u0627\u0644 \u062f\u0627\u0631\u062f \u062f\u0631\u2026",
           "source": "\u062e\u0628\u0631 \u0627\u0648\u0644 - \u0635\u062f\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
           "source_url": "https://ir.voanews.com/api/zbtpil-vomx-tpeqiyp"
         },
@@ -141,29 +141,29 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Attention Media \u2260 Social Networks",
-          "link": "https://susam.net/attention-media-vs-social-networks.html",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Show HN: Local-First Linux MicroVMs for macOS",
-          "link": "https://shuru.run",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Fix your tools",
-          "link": "https://ochagavia.nl/blog/fix-your-tools/",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
           "title": "Loops is a federated, open-source TikTok",
           "link": "https://joinloops.org/",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "Show HN: WARN Firehose \u2013 Every US layoff notice in one searchable database",
+          "link": "https://warnfirehose.com",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "The surprising power of daily rituals",
+          "link": "https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+          "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Syria moves out last residents of ISIL-linked desert camp",
-          "link": "https://www.aljazeera.com/news/2026/2/22/syria-moves-out-last-residents-of-isil-linked-desert-camp?traffic_source=rss",
-          "summary": "Official Fadi al-Qassem says all residents have left al-Hol camp, which long housed relatives of alleged ISIL members.",
+          "title": "Russia-Ukraine war: List of key events, day 1,460",
+          "link": "https://www.aljazeera.com/news/2026/2/23/russia-ukraine-war-list-of-key-events-day-1460?traffic_source=rss",
+          "summary": "These are the key developments from day 1,460 of Russia\u2019s war on Ukraine.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "The Carlson-Huckabee interview may be the wake-up call Americans needed",
-          "link": "https://www.aljazeera.com/opinions/2026/2/22/the-carlson-huckabee-interview-may-be-the-wake-up-call-americans-needed?traffic_source=rss",
-          "summary": "The interview brought the 'Israel first vs America first' debate to heart of the American right.",
+          "title": "North Korea\u2019s Kim Jong Un re-elected as chief of Workers\u2019 Party",
+          "link": "https://www.aljazeera.com/news/2026/2/22/north-koreas-kim-jong-un-re-elected-as-chief-of-workers?traffic_source=rss",
+          "summary": "Kim says his party is focused on the tasks of 'boosting economic construction and the people's standard of living'.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "The AI alarm cycle: Lots of talk, little action",
-          "link": "https://www.aljazeera.com/video/the-listening-post/2026/2/22/the-ai-alarm-cycle-lots-of-talk-little-action?traffic_source=rss",
-          "summary": "What is the point of AI alarmism if the people warning the world aren't changing course?",
+          "title": "White House post after US hockey win over Canada stirs controversy",
+          "link": "https://www.aljazeera.com/news/2026/2/22/white-house-post-after-us-hockey-win-over-canada-stirs-controversy?traffic_source=rss",
+          "summary": "Trump hails US's Olympic gold win, as some Canadians reject White House's illustration of an eagle dominating a goose.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Eze hurts Tottenham again to reignite Arsenal\u2019s title hopes with 4-1 win",
-          "link": "https://www.aljazeera.com/sports/2026/2/22/eze-hurts-tottenham-again-to-reignite-arsenals-title-hopes-with-4-1-win?traffic_source=rss",
-          "summary": "Gyokeres and Eze both score braces as Arsenal win North London derby to move five points clear at top of the table.",
+          "title": "Brazil does not want \u2018a new Cold War\u2019, says President Lula",
+          "link": "https://www.aljazeera.com/news/2026/2/22/brazil-does-not-want-a-new-cold-war-says-lula?traffic_source=rss",
+          "summary": "Lula says he wants to tell US President Trump that Brazil wishes for all countries to be treated 'equally'.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Burnt vehicles line highway near Mexican World Cup stadium",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/22/burnt-vehicles-line-highway-near-mexican-world-cup-stadium?traffic_source=rss",
-          "summary": "Burnt out buses and trucks lined the highway to Guadalajara, Mexico\u2019s Estadio Akron.",
+          "title": "Violence erupts in Mexico after killing of drug cartel kingpin \u2018El Mencho\u2019",
+          "link": "https://www.aljazeera.com/news/2026/2/22/mexico-announces-killing-of-drug-cartel-kingpin-el-mencho?traffic_source=rss",
+          "summary": "Drug lord's death sets off a wave of \u2060violence, with gunmen torching cars and blocking roads in several Mexican states.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,27 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "Newly discovered dinosaur species was a fish-eater with a huge horn",
+          "link": "https://www.npr.org/2026/02/22/nx-s1-5722918/new-dinosaur-spinosaurus-fossil-niger-horn-sereno",
+          "summary": "The semi-aquatic dinosaur, Spinosaurus mirabilis, was discovered by an international team of scientists working in Niger.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Reporters' notebook: The Olympics closing ceremony is way more fun than you'd think",
+          "link": "https://www.npr.org/2026/02/22/nx-s1-5722948/2026-olympics-closing-ceremony",
+          "summary": "Olympics opening ceremonies tend to get more love than their closing counterparts. But a pair of NPR reporters who watched both in Italy left with a newfound appreciation for the latter.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "A major winter storm hits the Northeast, with blizzard warnings in effect",
+          "link": "https://www.npr.org/2026/02/22/nx-s1-5722878/northeast-blizzard-snowstorm-new-york-jersey",
+          "summary": "New Jersey through Massachusetts could see 2 feet of snow. New York City's mayor said the city had not \"seen a storm like this in a decade.\"",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Mexican army kills leader of Jalisco New Generation Cartel, official says",
           "link": "https://www.npr.org/2026/02/22/nx-s1-5722897/mexican-army-kills-leader-of-jalisco-new-generation-cartel-official-says",
           "summary": "The Mexican army killed the leader of the powerful Jalisco New Generation Cartel, Nemesio Rub\u00e9n Oseguera Cervantes, \"El Mencho,\" in an operation Sunday, a federal official said.",
@@ -267,27 +288,6 @@
           "title": "Ukraine's combat amputees cling to hope as a weapon of war",
           "link": "https://www.npr.org/sections/the-picture-show/2026/02/22/g-s1-103854/ukraine-war-amputees",
           "summary": "Along with a growing number of war-wounded amputees, Mykhailo Varvarych and Iryna Botvynska are navigating an altered destiny after Varvarych lost both his legs during the Russian invasion.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.npr.org/2026/02/22/nx-s1-5722880/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "Iran's state news agency said students protested at five universities in the capital, Tehran, and one in the city of Mashhad on Sunday.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Pakistan claims to have killed at least 70 militants in strikes along Afghan border",
-          "link": "https://www.npr.org/2026/02/22/nx-s1-5722854/pakistan-border-strikes-afghanistan-70-killed",
-          "summary": "Pakistan's military killed at least 70 militants in strikes along the border with Afghanistan early Sunday, the deputy interior minister said.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Golden again! U.S. tops Canada to win 1st men's hockey gold since 'Miracle on Ice'",
-          "link": "https://www.npr.org/2026/02/22/nx-s1-5722810/team-usa-faces-tough-canadian-squad-in-olympic-gold-medal-hockey-game",
-          "summary": "The U.S. won its first Olympic gold in 46 years in a 2-1 overtime thriller over rival Canada. A brilliant performance by U.S. goaltender Connor Hellebuyck saved the Americans' chances.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
@@ -301,1070 +301,17 @@
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "Rozhovory united states a Ir\u00e1nu bud\u00fa pokra\u010dova\u0165 vo \u0161tvrtok , potvrdil Om\u00e1n",
-          "link": "https://www.teraz.sk/zahranicie/rozhovory-usa-a-iranu-budu-pokracova/942996-clanok.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0410\u0440\u0430\u043a\u0447\u0438 : \u0418\u0440\u0430\u043d\u0443 \u043f\u0440\u0438\u0434\u0435\u0442\u0441\u044f \u0443\u0434\u0430\u0440\u0438\u0442\u044c \u043f\u043e \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u043c \u0432\u043e\u0435\u043d\u043d\u044b\u043c \u0431\u0430\u0437\u0430\u043c \u0432 \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u043f\u0440\u0438 \u0430\u0442\u0430\u043a\u0435 \u0421\u0428\u0410",
-          "link": "https://1news.az/news/20260222082230639-Arakchi-Iranu-pridetsya-udarit-po-amerikanskim-voennym-bazam-v-regione-pri-atake-SSHA",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u201e Prasata . Na \u00dast\u00ed se val\u00ed nad\u00e1vky za zni\u010den\u00fd dron | ParlamentniListy . cz \u2013 politika ze v\u0161ech stran",
-          "link": "https://www.parlamentnilisty.cz/arena/monitor/-Prasata-Na-Usti-se-vali-nadavky-za-zniceny-dron-787446",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041d\u0430\u0437\u0432\u0430\u043d\u044b \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u0441\u0440\u043e\u043a\u0438 \u043d\u0430\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0443\u0434\u0430\u0440\u0430 \u0421\u0428\u0410 \u043f\u043e \u0418\u0440\u0430\u043d\u0443",
-          "link": "https://1news.az/news/20260222080007700-Nazvany-vozmozhnye-sroki-naneseniya-udara-SSHA-po-Iranu",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0639\u0631\u0627\u0642\u062c\u064a : \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0647\u062f\u0641 \u0633\u0647\u0644 \u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0625\u064a\u0631\u0627\u0646 \u0648\u0627\u062a\u0641\u0627\u0642 \u0646\u0648\u0648\u064a \u0623\u0642\u0648\u0649 \u0645\u0646 \u0623\u0648\u0628\u0627\u0645\u0627 \u064a\u0646\u062a\u0638\u0631 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u062c\u0646\u064a\u0641",
-          "link": "https://ghorbanews.com/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%87%D8%AF%D9%81-%D8%B3%D9%87%D9%84/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0628\u0634\u0643\u0644  \u0633\u0631\u064a  ..  \u0641\u0627\u064a\u0646\u0646\u0634\u0627\u0644 \u062a\u0627\u064a\u0645\u0632  \u062a\u0632\u0639\u0645 \u062a\u0641\u0627\u0635\u064a\u0644 \u0644\u0635\u0641\u0642\u0629 \u0635\u0648\u0627\u0631\u064a\u062e \u0628\u064a\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u0631\u0648\u0633\u064a\u0627 \u0628\u0640 589 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u2013 \u0643\u062a\u0627\u0628\u0627\u062a",
-          "link": "https://kitabat.com/news/%D8%A8%D8%B4%D9%83%D9%84-%D8%B3%D8%B1%D9%8A-%D9%81%D8%A7%D9%8A%D9%86%D9%86%D8%B4%D8%A7%D9%84-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%AA%D8%B2%D8%B9%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://knpr.org/npr/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Spannungen in Nahost : Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "https://www.volksstimme.de/deutschland-und-welt/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-4203948",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Sudani , US envoy discuss regional tensions , Syria ...",
-          "link": "https://www.rudaw.net/english/middleeast/iraq/220220264",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05d7\u05e9\u05e3 \u05d0\u05ea \u05d4\u05de\u05e9\u05d1\u05e8 \u05e2\u05dd \u05d8\u05e8\u05d0\u05de\u05e4 :  \u05d0\u05e0\u05d9 \u05de\u05d5\u05d3\u05d0\u05d2",
-          "link": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1220028-0/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Verhandlungen : Teheran best\u00e4tigt neue Gespr\u00e4ch mit US - Seite",
-          "link": "https://www.srf.ch/news/international/oman-bestaetigt-neue-atomgespraeche-zwischen-usa-und-iran-in-genf",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "LIVE MIDDEN - OOSTEN . Trump kondigt  volledig en totaal staakt - het - vuren  aan tussen Iran en Isra\u00ebl - Toch opnieuw explosies in Teheran en Tel Aviv",
-          "link": "https://www.gva.be/buitenland/live-midden-oosten.-iran-en-vs-praten-donderdag-in-geneve-over-nucleair-programma/76854338.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.krvs.org/npr-news/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US sets 48 - Hour deadline for Iranian nuclear proposal as talks hang in the balance",
-          "link": "https://www.albawaba.net/news/us-sets-48-hour-deadline-iranian-nuclear-1622629",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump has walked all over Congress , but leaders of both parties have stretched limits of emergency powers",
-          "link": "https://www.nzherald.co.nz/world/trump-has-walked-all-over-congress-but-leaders-of-both-parties-have-stretched-limits-of-emergency-powers/4RZNGSW2JRCAPE7L532JBZFVUU/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0406\u0440\u0430\u043d \u043f\u043e\u0441\u0438\u043b\u0438\u0432 \u041f\u041f\u041e \u0437\u0430\u0432\u0434\u044f\u043a\u0438 \u0420\u043e\u0441\u0456\u0457 - \u0417\u041c\u0406",
-          "link": "https://news.bigmir.net/ua/world/10296788-iran-posiliv-ppo-zavdyaki-rosiyi-zmi",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041f\u0435\u0437\u0435\u0448\u043a\u0438\u0430\u043d : \u0418\u0440\u0430\u043d \u043f\u043e\u043b\u0443\u0447\u0438\u043b \u043e\u0431\u043d\u0430\u0434\u0435\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0435 \u0441\u0438\u0433\u043d\u0430\u043b\u044b \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u0432 \u0416\u0435\u043d\u0435\u0432\u0435",
-          "link": "https://1news.az/news/20260222103700512-Pezeshkian-Iran-poluchil-obnadezhivayushcie-signaly-posle-peregovorov-v-ZHeneve",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.kwit.org/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0418\u0440\u0430\u043d\u0441\u043a\u0438\u044f\u0442 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 : \u0412 \u0441\u043a\u043e\u0440\u043e\u0448\u043d\u0438\u0442\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u0438 \u0441\u044a\u0441 \u0421\u0410\u0429 \u0438\u043c\u0430\u0448\u0435 \u043e\u0431\u043d\u0430\u0434\u0435\u0436\u0434\u0430\u0432\u0430\u0449\u0438 \u0441\u0438\u0433\u043d\u0430\u043b\u0438",
-          "link": "https://dnes.dir.bg/svyat/iranskiyat-prezident-v-skoroshnite-razgovori-sas-sasht-imashe-obnadezhdavashti-signali",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u062a\u0631\u0645\u0628 \u0628\u064a\u0646 \u0645\u0647\u0644\u0629 \u0627\u0644\u062a\u0641\u0627\u0648\u0636 \u0648\u062e\u064a\u0627\u0631 \u0627\u0644\u0646\u0627\u0631 \u0641\u064a \u0645\u0648\u0627\u062c\u0647\u0629 \u0637\u0647\u0631\u0627\u0646",
-          "link": "https://www.alwatan.com.sa/article/1177622",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "CAIR director sparks controversy over Israel draw backlash and support online",
-          "link": "https://www.albawaba.net/news/cair-director-sparks-controversy-over-1622630",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Next US - Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran",
-          "link": "https://www.thepeterboroughexaminer.com/news/world/middle-east/next-us-iran-nuclear-talks-are-thursday-in-geneva-as-washington-awaits-proposed-deal-from/article_bda9a0e5-c22a-59d8-8df0-3ab2f411780c.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Vor Verhandlungen \u2013 Nach Trump - Drohung \u2013 Iran droht mit Gegenangriff",
-          "link": "https://www.heute.at/s/nach-trump-drohung-iran-droht-mit-gegenangriff-120164197",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0130ran ile ABD n\u00fckleer g\u00f6r\u00fc\u015fmeleri 26 \u015eubatta Cenevrede devam edecek",
-          "link": "https://www.bursadabugun.com/haber/iran-ile-abd-nukleer-gorusmeleri-26-subat-ta-cenevre-de-devam-edecek-1894015.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Cheap Drones , Costly Wars",
-          "link": "https://dailypioneer.com/news/cheap-drones-costly-wars",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Cuarto aniversario | \u00bf Cu\u00e1nto ha durado la guerra de Rusia contra Ucrania ?",
-          "link": "https://www.laprovincia.es/mundo/2026/02/22/guerra-ucrania-duracion-fecha-rusia-127148188.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "ABD ve \u0130ran n\u00fckleer m\u00fczakereleri i\u00e7in 26 \u015eubatta Cenevrede bulu\u015facak",
-          "link": "https://mansethaber.com/abd-ve-iran-nukleer-muzakereleri-icin-26-subatta-cenevrede-bulusacak",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "A  Hexagon  of alliances with India , Greece , Cyprus & Arab states sought by Netanyahu against Shiite and Sunni extremism",
-          "link": "https://en.protothema.gr/2026/02/22/a-hexagon-of-alliances-with-india-greece-cyprus-and-arab-states-sought-by-netanyahu-against-shiite-and-sunni-extremism/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u6b63\u6708\u5f02\u5e38\u5929\u8c61\u5bc6\u96c6\u7206\u53d1 \u5317\u4eac\u6781\u51f6\u4e4b\u5146\u66e1\u52a0",
-          "link": "https://www.renminbao.com/rmb/articles/2026/2/23/94144.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0627\u0644\u062e\u0645\u064a\u0633 \u0627\u0644\u0645\u0642\u0628\u0644 .. \u062a\u062d\u062f\u064a\u062f \u0645\u0648\u0639\u062f \u062c\u0648\u0644\u0629 \u062c\u062f\u064a\u062f\u0629 \u0645\u0646 \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a  \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 - \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a\u0629  \u0648\u0625\u0645\u0643\u0627\u0646\u064a\u0629 \u0627\u0644\u062a\u0648\u0635\u0644 \u0644\u0627\u062a\u0641\u0627\u0642 \u0645\u0624\u0642\u062a \u2013 \u0643\u062a\u0627\u0628\u0627\u062a",
-          "link": "https://kitabat.com/news/%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AC%D9%88%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0410\u0440\u0430\u043a\u0447\u0438 : \u0418\u043d\u0441\u043f\u0435\u043a\u0446\u0438\u0438 \u041c\u0410\u0413\u0410\u0422\u042d \u0432 \u0418\u0440\u0430\u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0432\u043e\u0437\u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b",
-          "link": "https://1news.az/news/20260222100518786-Arakchi-Inspektsii-MAGATE-v-Irane-mogut-byt-vozobnovleny",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "The risk is that the RBNZ have misread NZ inflation",
-          "link": "https://www.interest.co.nz/currencies/137315/roger-j-kerr-says-there-have-be-major-question-marks-over-expected-further",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u039d\u03ad\u03bf\u03c2 \u03b3\u03cd\u03c1\u03bf\u03c2 \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03b9\u03ce\u03bd \u0397\u03a0\u0391 \u2013 \u0399\u03c1\u03ac\u03bd \u03c4\u03b7\u03bd \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 \u03c3\u03c4\u03b7 \u0393\u03b5\u03bd\u03b5\u03cd\u03b7 \u2013 \u00ab \u03a5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03af\u03c4\u03b5\u03c5\u03be\u03b7 \u03bc\u03b9\u03b1\u03c2 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1\u03c2 \u00bb, \u03bb\u03ad\u03b5\u03b9 \u03bf \u0391\u03c1\u03b1\u03b3\u03c4\u03c3\u03af",
-          "link": "https://www.inewsgr.com/97/neos-gyros-synomilion-ipa--iran-tin-pebti-sti-genevi--yparchoun-pithanotites-gia-tin-epitefxi-mias-symfonias-leei-o-aragtsi.htm",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
-          "link": "https://www.whmi.com/news/fox/iran-announces-test-new-naval-air-defense-missile-strait-hormuz-us-military-buildup-continues",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-          "link": "https://www.alquds.com/ar/posts/229092",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "newratings . de",
-          "link": "https://www.newratings.de/du/main/company_headline.m?nid=19494647",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "GALICIA | Familias acogedoras :  Los ni\u00f1os te dan m\u00e1s de lo que t\u00fa les das",
-          "link": "https://www.eldia.es/sociedad/2026/02/22/familias-acogedoras-ninos-dan-les-das-127146928.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Nouveaux pourparlers irano - am\u00e9ricains jeudi malgr\u00e9 la peur de frappes",
-          "link": "https://www.lapresse.ca/international/moyen-orient/2026-02-22/nouveaux-pourparlers-irano-americains-jeudi-malgre-la-peur-de-frappes.php",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0130ran Cumhurba\u015fkan\u0131 Peze\u015fkiyan , ABD ile M\u00fczakerelerde Olumlu Sinyaller Ald\u0131klar\u0131n\u0131 A\u00e7\u0131klad\u0131",
-          "link": "https://www.mersinhaber.com/haber-iran-cumhurbaskani-pezeskiyan-abd-ile-muzakerelerde-olumlu-sinyaller-aldiklarini-acikladi/555027",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "http://www.come-on.de/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-zr-94181876.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd - \u0397\u03a0\u0391 : \u039d\u03ad\u03bf\u03c2 \u03b3\u03cd\u03c1\u03bf\u03c2 \u03b4\u03b9\u03b1\u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd \u03c4\u03b7\u03bd \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 \u03c3\u03c4\u03b7 \u0393\u03b5\u03bd\u03b5\u03cd\u03b7 - \u00ab \u0388\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5\u03af \u03b3\u03b9\u03b1 \u03ba\u03ac\u03b8\u03b5 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc \u03c3\u03b5\u03bd\u03ac\u03c1\u03b9\u03bf \u00bb \u03bb\u03ad\u03b5\u03b9 \u03b7 \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7",
-          "link": "https://www.enikos.gr/international/iran-ipa-neos-gyros-diapragmatefseon-tin-pebti-sti-genevi-echoume-proetoimastei-gia-kathe-pithano-senario-leei-i-techerani/2537615/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Estudantes iranianos prolongam protestos antigovernamentais em Teer\u00e3o",
-          "link": "https://pt.euronews.com/2026/02/22/estudantes-iranianos-prolongam-protestos-antigovernamentais-em-teerao",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u05d0\u05e0\u05d9 \u05de\u05d5\u05d3\u05d0\u05d2 : \u05d4\u05d0\u05de\u05d9\u05e8\u05d4 \u05d4\u05de\u05e4\u05ea\u05d9\u05e2\u05d4 \u05e9\u05dc \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05d1\u05d9\u05e6\u05d9\u05d0\u05ea\u05d5 \u05de\u05d4\u05e4\u05d2\u05d9\u05e9\u05d4 \u05d4\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05e2\u05dd \u05d8\u05e8\u05d0\u05de\u05e4",
-          "link": "https://www.kikar.co.il/political-news/tavlh5",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Om\u00e1n confirm\u00f3 que Estados Unidos e Ir\u00e1n retomar\u00e1n los di\u00e1logos nucleares el pr\u00f3ximo jueves en Ginebra",
-          "link": "https://www.infobae.com/america/mundo/2026/02/22/oman-confirmo-que-estados-unidos-e-iran-retomaran-los-dialogos-nucleares-el-proximo-jueves-en-ginebra/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "El ayuno como un veh\u00edculo hacia la paz",
-          "link": "https://www.ellitoral.com/opinion/guerras-conflictos-paz-negociaciones-ramadan-ayuno-musulmanes-islamismo-religiosidad-pacificacion-gestiones_0_1TqnFmdb2k.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Om AI - toppm\u00f6te i Delhi , Trumps stora tullnederlag , kommande attack p\u00e5 Iran och lite annat .",
-          "link": "https://carlbildt.wordpress.com/2026/02/22/om-ai-toppmote-i-delhi-trumps-stora-tullnederlag-kommande-attack-pa-iran-och-lite-annat/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran ready for nuclear consessions , relaxing of sanctions",
-          "link": "http://www.jpost.com/middle-east/iran-news/article-887546",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": ": La cLa calima te\u00f1ir\u00e1 los cielos de Canarias al menos hasta el mi\u00e9rcoles",
-          "link": "https://www.laprovincia.es/canarias/2026/02/22/calima-tenira-cielos-canarias-miercoles-127147502.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Abzug kubanischer Sicherheitskr\u00e4fte aus Venezuela st\u00e4rkt US - Position \u2013 Iran ger\u00e4t unter Druck",
-          "link": "http://www.az-online.de/politik/abzug-kubanischer-sicherheitskraefte-aus-venezuela-staerkt-us-position-iran-geraet-unter-druck-zr-94181881.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-          "link": "https://www.alquds.com/ar/posts/229105",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "Rozhovory united states a Ir\u00e1nu bud\u00fa pokra\u010dova\u0165 vo \u0161tvrtok , potvrdil Om\u00e1n",
-          "link": "https://www.teraz.sk/zahranicie/rozhovory-usa-a-iranu-budu-pokracova/942996-clanok.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0639\u0631\u0627\u0642\u062c\u064a : \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0647\u062f\u0641 \u0633\u0647\u0644 \u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0625\u064a\u0631\u0627\u0646 \u0648\u0627\u062a\u0641\u0627\u0642 \u0646\u0648\u0648\u064a \u0623\u0642\u0648\u0649 \u0645\u0646 \u0623\u0648\u0628\u0627\u0645\u0627 \u064a\u0646\u062a\u0638\u0631 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u062c\u0646\u064a\u0641",
-          "link": "https://ghorbanews.com/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%87%D8%AF%D9%81-%D8%B3%D9%87%D9%84/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0628\u0634\u0643\u0644  \u0633\u0631\u064a  ..  \u0641\u0627\u064a\u0646\u0646\u0634\u0627\u0644 \u062a\u0627\u064a\u0645\u0632  \u062a\u0632\u0639\u0645 \u062a\u0641\u0627\u0635\u064a\u0644 \u0644\u0635\u0641\u0642\u0629 \u0635\u0648\u0627\u0631\u064a\u062e \u0628\u064a\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u0631\u0648\u0633\u064a\u0627 \u0628\u0640 589 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u2013 \u0643\u062a\u0627\u0628\u0627\u062a",
-          "link": "https://kitabat.com/news/%D8%A8%D8%B4%D9%83%D9%84-%D8%B3%D8%B1%D9%8A-%D9%81%D8%A7%D9%8A%D9%86%D9%86%D8%B4%D8%A7%D9%84-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%AA%D8%B2%D8%B9%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://knpr.org/npr/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Spannungen in Nahost : Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "https://www.volksstimme.de/deutschland-und-welt/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-4203948",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Sudani , US envoy discuss regional tensions , Syria ...",
-          "link": "https://www.rudaw.net/english/middleeast/iraq/220220264",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05d7\u05e9\u05e3 \u05d0\u05ea \u05d4\u05de\u05e9\u05d1\u05e8 \u05e2\u05dd \u05d8\u05e8\u05d0\u05de\u05e4 :  \u05d0\u05e0\u05d9 \u05de\u05d5\u05d3\u05d0\u05d2",
-          "link": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1220028-0/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Verhandlungen : Teheran best\u00e4tigt neue Gespr\u00e4ch mit US - Seite",
-          "link": "https://www.srf.ch/news/international/oman-bestaetigt-neue-atomgespraeche-zwischen-usa-und-iran-in-genf",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "LIVE MIDDEN - OOSTEN . Trump kondigt  volledig en totaal staakt - het - vuren  aan tussen Iran en Isra\u00ebl - Toch opnieuw explosies in Teheran en Tel Aviv",
-          "link": "https://www.gva.be/buitenland/live-midden-oosten.-iran-en-vs-praten-donderdag-in-geneve-over-nucleair-programma/76854338.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.krvs.org/npr-news/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US sets 48 - Hour deadline for Iranian nuclear proposal as talks hang in the balance",
-          "link": "https://www.albawaba.net/news/us-sets-48-hour-deadline-iranian-nuclear-1622629",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0406\u0440\u0430\u043d \u043f\u043e\u0441\u0438\u043b\u0438\u0432 \u041f\u041f\u041e \u0437\u0430\u0432\u0434\u044f\u043a\u0438 \u0420\u043e\u0441\u0456\u0457 - \u0417\u041c\u0406",
-          "link": "https://news.bigmir.net/ua/world/10296788-iran-posiliv-ppo-zavdyaki-rosiyi-zmi",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.kwit.org/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0418\u0440\u0430\u043d\u0441\u043a\u0438\u044f\u0442 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 : \u0412 \u0441\u043a\u043e\u0440\u043e\u0448\u043d\u0438\u0442\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u0438 \u0441\u044a\u0441 \u0421\u0410\u0429 \u0438\u043c\u0430\u0448\u0435 \u043e\u0431\u043d\u0430\u0434\u0435\u0436\u0434\u0430\u0432\u0430\u0449\u0438 \u0441\u0438\u0433\u043d\u0430\u043b\u0438",
-          "link": "https://dnes.dir.bg/svyat/iranskiyat-prezident-v-skoroshnite-razgovori-sas-sasht-imashe-obnadezhdavashti-signali",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u062a\u0631\u0645\u0628 \u0628\u064a\u0646 \u0645\u0647\u0644\u0629 \u0627\u0644\u062a\u0641\u0627\u0648\u0636 \u0648\u062e\u064a\u0627\u0631 \u0627\u0644\u0646\u0627\u0631 \u0641\u064a \u0645\u0648\u0627\u062c\u0647\u0629 \u0637\u0647\u0631\u0627\u0646",
-          "link": "https://www.alwatan.com.sa/article/1177622",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Next US - Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran",
-          "link": "https://www.thepeterboroughexaminer.com/news/world/middle-east/next-us-iran-nuclear-talks-are-thursday-in-geneva-as-washington-awaits-proposed-deal-from/article_bda9a0e5-c22a-59d8-8df0-3ab2f411780c.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Vor Verhandlungen \u2013 Nach Trump - Drohung \u2013 Iran droht mit Gegenangriff",
-          "link": "https://www.heute.at/s/nach-trump-drohung-iran-droht-mit-gegenangriff-120164197",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0627\u0644\u062e\u0645\u064a\u0633 \u0627\u0644\u0645\u0642\u0628\u0644 .. \u062a\u062d\u062f\u064a\u062f \u0645\u0648\u0639\u062f \u062c\u0648\u0644\u0629 \u062c\u062f\u064a\u062f\u0629 \u0645\u0646 \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a  \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 - \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a\u0629  \u0648\u0625\u0645\u0643\u0627\u0646\u064a\u0629 \u0627\u0644\u062a\u0648\u0635\u0644 \u0644\u0627\u062a\u0641\u0627\u0642 \u0645\u0624\u0642\u062a \u2013 \u0643\u062a\u0627\u0628\u0627\u062a",
-          "link": "https://kitabat.com/news/%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AC%D9%88%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0410\u0440\u0430\u043a\u0447\u0438 : \u0418\u043d\u0441\u043f\u0435\u043a\u0446\u0438\u0438 \u041c\u0410\u0413\u0410\u0422\u042d \u0432 \u0418\u0440\u0430\u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0432\u043e\u0437\u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b",
-          "link": "https://1news.az/news/20260222100518786-Arakchi-Inspektsii-MAGATE-v-Irane-mogut-byt-vozobnovleny",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u039d\u03ad\u03bf\u03c2 \u03b3\u03cd\u03c1\u03bf\u03c2 \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03b9\u03ce\u03bd \u0397\u03a0\u0391 \u2013 \u0399\u03c1\u03ac\u03bd \u03c4\u03b7\u03bd \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 \u03c3\u03c4\u03b7 \u0393\u03b5\u03bd\u03b5\u03cd\u03b7 \u2013 \u00ab \u03a5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03af\u03c4\u03b5\u03c5\u03be\u03b7 \u03bc\u03b9\u03b1\u03c2 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1\u03c2 \u00bb, \u03bb\u03ad\u03b5\u03b9 \u03bf \u0391\u03c1\u03b1\u03b3\u03c4\u03c3\u03af",
-          "link": "https://www.inewsgr.com/97/neos-gyros-synomilion-ipa--iran-tin-pebti-sti-genevi--yparchoun-pithanotites-gia-tin-epitefxi-mias-symfonias-leei-o-aragtsi.htm",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
-          "link": "https://www.whmi.com/news/fox/iran-announces-test-new-naval-air-defense-missile-strait-hormuz-us-military-buildup-continues",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-          "link": "https://www.alquds.com/ar/posts/229092",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "newratings . de",
-          "link": "https://www.newratings.de/du/main/company_headline.m?nid=19494647",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "http://www.come-on.de/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-zr-94181876.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd - \u0397\u03a0\u0391 : \u039d\u03ad\u03bf\u03c2 \u03b3\u03cd\u03c1\u03bf\u03c2 \u03b4\u03b9\u03b1\u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd \u03c4\u03b7\u03bd \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 \u03c3\u03c4\u03b7 \u0393\u03b5\u03bd\u03b5\u03cd\u03b7 - \u00ab \u0388\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5\u03af \u03b3\u03b9\u03b1 \u03ba\u03ac\u03b8\u03b5 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc \u03c3\u03b5\u03bd\u03ac\u03c1\u03b9\u03bf \u00bb \u03bb\u03ad\u03b5\u03b9 \u03b7 \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7",
-          "link": "https://www.enikos.gr/international/iran-ipa-neos-gyros-diapragmatefseon-tin-pebti-sti-genevi-echoume-proetoimastei-gia-kathe-pithano-senario-leei-i-techerani/2537615/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Estudantes iranianos prolongam protestos antigovernamentais em Teer\u00e3o",
-          "link": "https://pt.euronews.com/2026/02/22/estudantes-iranianos-prolongam-protestos-antigovernamentais-em-teerao",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Om\u00e1n confirm\u00f3 que Estados Unidos e Ir\u00e1n retomar\u00e1n los di\u00e1logos nucleares el pr\u00f3ximo jueves en Ginebra",
-          "link": "https://www.infobae.com/america/mundo/2026/02/22/oman-confirmo-que-estados-unidos-e-iran-retomaran-los-dialogos-nucleares-el-proximo-jueves-en-ginebra/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran ready for nuclear consessions , relaxing of sanctions",
-          "link": "http://www.jpost.com/middle-east/iran-news/article-887546",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Abzug kubanischer Sicherheitskr\u00e4fte aus Venezuela st\u00e4rkt US - Position \u2013 Iran ger\u00e4t unter Druck",
-          "link": "http://www.az-online.de/politik/abzug-kubanischer-sicherheitskraefte-aus-venezuela-staerkt-us-position-iran-geraet-unter-druck-zr-94181881.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u00bb \u010ce nas ZDA napadejo , imamo vso pravico , da se branimo \u00ab",
-          "link": "https://www.mladina.si/246979/ce-nas-zda-napadejo-imamo-vso-pravico-da-se-branimo/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "https://www.nwzonline.de/politik-meldungen/spannungen-in-nahost-iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf_a_4,2,3936741393.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran spreman ograni\u010diti nuklearni program ako SAD ispuni njegove zahtjeve",
-          "link": "https://www.index.hr/vijesti/clanak/iran-spreman-ograniciti-nuklearni-program-ako-sad-ispuni-njegove-zahtjeve/2763573.aspx",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - US talks expected Thursday despite fears of strikes",
-          "link": "https://www.hindustantimes.com/world-news/us-news/iranus-talks-expected-thursday-despite-fears-of-strikes-101771788486693.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Leaked documents expose secret Iran - Russia agreement",
-          "link": "https://www.albawaba.com/news/leaked-documents-expose-secret-iran-1622634",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd - \u0397\u03a0\u0391 : \u039d\u03ad\u03b5\u03c2 \u03b4\u03b9\u03b1\u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b5\u03cd\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03b5\u03c7\u03ae \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 \u03c3\u03c4\u03b7 \u0393\u03b5\u03bd\u03b5\u03cd\u03b7",
-          "link": "https://www.sofokleousin.gr/epikairotita/diethni/iran-ipa-nees-diapragmateyseis-tin-prosexi-pempti-sti-geneyi",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran declares EU naval and air forces  terrorists organisation  in reciporocal move after action agaisnt IRGC",
-          "link": "https://news.webindia123.com/news/Articles/World/20260222/4419352.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Russia Missile Deal Revealed",
-          "link": "https://athens-times.com/iran-signs-secret-500m-missile-deal-with-russia/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041f\u0440\u0435\u0434\u0441\u0435\u0434\u043d\u0438\u043a \u041f\u0435\u0437\u0435\u0448\u043a\u0438\u0458\u0430\u043d : \u041f\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u0438 \u0441\u0430 \u0421\u0410\u0414 \u0441\u0443 \u0434\u0430\u043b\u0438 \u043e\u0445\u0440\u0430\u0431\u0440\u0443\u0458\u0443\u045b\u0435 \u0441\u0438\u0433\u043d\u0430\u043b\u0435",
-          "link": "https://www.politika.rs/scc/clanak/734003/predsednik-pezeskijan-pregovori-sa-sad-su-dali-ohrabrujuce-signale",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran aktuell : Gespr\u00e4che werden am Donnerstag fortgesetzt : united states und Iran verhandeln erneut in Genf \u2013 alle News im Liveticker",
-          "link": "https://www.goettinger-tageblatt.de/politik/iran-aktuell-gespraeche-werden-am-donnerstag-fortgesetzt-usa-und-iran-verhandeln-erneut-in-genf-alle-SUZZT272ANCR5LXBULZCKG7OB4.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US military buildup signals potential strike on Iran",
-          "link": "http://www.jpost.com/middle-east/iran-news/article-887549",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Witkoff Says Trump Is  Curiou Why Iran Hasnt  Capitulated",
-          "link": "https://news.antiwar.com/2026/02/22/witkoff-says-trump-is-curious-why-iran-hasnt-capitulated/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Nye demonstrationer i Iran :  De studerende skal v\u00e6re meget opm\u00e6rksomme p\u00e5 , at det ikke m\u00e5 f\u00f8re til vold",
-          "link": "https://www.dr.dk/nyheder/udland/nye-demonstrationer-i-iran-de-studerende-skal-vaere-meget-opmaerksomme-paa-det-ikke-maa-foere-til",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.wboc.com/news/international/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed/article_5379c5ba-cc28-5839-aaee-9a2ef7730dd4.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - US Talks Resume in Geneva Amid Diplomatic Optimism",
-          "link": "https://athens-times.com/irans-president-receives-encouraging-messages-in-us-talks-ahead-of-geneva-round/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0391\u03c1\u03b1\u03b3\u03c4\u03c3\u03af : \u00ab \u03a5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03b1\u03ba\u03cc\u03bc\u03b7 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u00bb \u03b3\u03b9\u03b1 \u03b5\u03c0\u03af\u03c4\u03b5\u03c5\u03be\u03b7 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
-          "link": "https://www.skai.gr/news/world/aragtsi-yparxoun-akomi-pithanotites-gia-tin-epiteyksi-symfonias-me-tis-ipa",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n cree que es posible alcanzar un acuerdo con Estados Unidos sobre su plan nuclear",
-          "link": "https://www.perfil.com/noticias/internacional/iran-cree-que-es-posible-alcanzar-un-acuerdo-con-estados-unidos-sobre-su-plan-nuclear.phtml",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "http://www.az-online.de/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-zr-94181876.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Oman FM confirms U . S .- Iran negotiations set for Thursday in Geneva",
-          "link": "http://www.calcuttanews.net/news/278882680/oman-fm-confirms-us-iran-negotiations-set-for-thursday-in-geneva",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Pentagon Pizza Index ties pizza spikes to military action",
-          "link": "http://www.jpost.com/international/article-887543",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.kedm.org/npr-news/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "Rozhovory united states a Ir\u00e1nu bud\u00fa pokra\u010dova\u0165 vo \u0161tvrtok , potvrdil Om\u00e1n",
-          "link": "https://www.teraz.sk/zahranicie/rozhovory-usa-a-iranu-budu-pokracova/942996-clanok.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0639\u0631\u0627\u0642\u062c\u064a : \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0647\u062f\u0641 \u0633\u0647\u0644 \u0644\u0635\u0648\u0627\u0631\u064a\u062e \u0625\u064a\u0631\u0627\u0646 \u0648\u0627\u062a\u0641\u0627\u0642 \u0646\u0648\u0648\u064a \u0623\u0642\u0648\u0649 \u0645\u0646 \u0623\u0648\u0628\u0627\u0645\u0627 \u064a\u0646\u062a\u0638\u0631 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u062c\u0646\u064a\u0641",
-          "link": "https://ghorbanews.com/%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%87%D8%AF%D9%81-%D8%B3%D9%87%D9%84/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0628\u0634\u0643\u0644  \u0633\u0631\u064a  ..  \u0641\u0627\u064a\u0646\u0646\u0634\u0627\u0644 \u062a\u0627\u064a\u0645\u0632  \u062a\u0632\u0639\u0645 \u062a\u0641\u0627\u0635\u064a\u0644 \u0644\u0635\u0641\u0642\u0629 \u0635\u0648\u0627\u0631\u064a\u062e \u0628\u064a\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u0631\u0648\u0633\u064a\u0627 \u0628\u0640 589 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 \u2013 \u0643\u062a\u0627\u0628\u0627\u062a",
-          "link": "https://kitabat.com/news/%D8%A8%D8%B4%D9%83%D9%84-%D8%B3%D8%B1%D9%8A-%D9%81%D8%A7%D9%8A%D9%86%D9%86%D8%B4%D8%A7%D9%84-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%AA%D8%B2%D8%B9%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://knpr.org/npr/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Spannungen in Nahost : Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "https://www.volksstimme.de/deutschland-und-welt/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-4203948",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Sudani , US envoy discuss regional tensions , Syria ...",
-          "link": "https://www.rudaw.net/english/middleeast/iraq/220220264",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u05e0\u05ea\u05e0\u05d9\u05d4\u05d5 \u05d7\u05e9\u05e3 \u05d0\u05ea \u05d4\u05de\u05e9\u05d1\u05e8 \u05e2\u05dd \u05d8\u05e8\u05d0\u05de\u05e4 :  \u05d0\u05e0\u05d9 \u05de\u05d5\u05d3\u05d0\u05d2",
-          "link": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1220028-0/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Verhandlungen : Teheran best\u00e4tigt neue Gespr\u00e4ch mit US - Seite",
-          "link": "https://www.srf.ch/news/international/oman-bestaetigt-neue-atomgespraeche-zwischen-usa-und-iran-in-genf",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "LIVE MIDDEN - OOSTEN . Trump kondigt  volledig en totaal staakt - het - vuren  aan tussen Iran en Isra\u00ebl - Toch opnieuw explosies in Teheran en Tel Aviv",
-          "link": "https://www.gva.be/buitenland/live-midden-oosten.-iran-en-vs-praten-donderdag-in-geneve-over-nucleair-programma/76854338.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.krvs.org/npr-news/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US sets 48 - Hour deadline for Iranian nuclear proposal as talks hang in the balance",
-          "link": "https://www.albawaba.net/news/us-sets-48-hour-deadline-iranian-nuclear-1622629",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0406\u0440\u0430\u043d \u043f\u043e\u0441\u0438\u043b\u0438\u0432 \u041f\u041f\u041e \u0437\u0430\u0432\u0434\u044f\u043a\u0438 \u0420\u043e\u0441\u0456\u0457 - \u0417\u041c\u0406",
-          "link": "https://news.bigmir.net/ua/world/10296788-iran-posiliv-ppo-zavdyaki-rosiyi-zmi",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.kwit.org/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0418\u0440\u0430\u043d\u0441\u043a\u0438\u044f\u0442 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 : \u0412 \u0441\u043a\u043e\u0440\u043e\u0448\u043d\u0438\u0442\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u0438 \u0441\u044a\u0441 \u0421\u0410\u0429 \u0438\u043c\u0430\u0448\u0435 \u043e\u0431\u043d\u0430\u0434\u0435\u0436\u0434\u0430\u0432\u0430\u0449\u0438 \u0441\u0438\u0433\u043d\u0430\u043b\u0438",
-          "link": "https://dnes.dir.bg/svyat/iranskiyat-prezident-v-skoroshnite-razgovori-sas-sasht-imashe-obnadezhdavashti-signali",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u062a\u0631\u0645\u0628 \u0628\u064a\u0646 \u0645\u0647\u0644\u0629 \u0627\u0644\u062a\u0641\u0627\u0648\u0636 \u0648\u062e\u064a\u0627\u0631 \u0627\u0644\u0646\u0627\u0631 \u0641\u064a \u0645\u0648\u0627\u062c\u0647\u0629 \u0637\u0647\u0631\u0627\u0646",
-          "link": "https://www.alwatan.com.sa/article/1177622",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Next US - Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran",
-          "link": "https://www.thepeterboroughexaminer.com/news/world/middle-east/next-us-iran-nuclear-talks-are-thursday-in-geneva-as-washington-awaits-proposed-deal-from/article_bda9a0e5-c22a-59d8-8df0-3ab2f411780c.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Vor Verhandlungen \u2013 Nach Trump - Drohung \u2013 Iran droht mit Gegenangriff",
-          "link": "https://www.heute.at/s/nach-trump-drohung-iran-droht-mit-gegenangriff-120164197",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0627\u0644\u062e\u0645\u064a\u0633 \u0627\u0644\u0645\u0642\u0628\u0644 .. \u062a\u062d\u062f\u064a\u062f \u0645\u0648\u0639\u062f \u062c\u0648\u0644\u0629 \u062c\u062f\u064a\u062f\u0629 \u0645\u0646 \u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062a  \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 - \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a\u0629  \u0648\u0625\u0645\u0643\u0627\u0646\u064a\u0629 \u0627\u0644\u062a\u0648\u0635\u0644 \u0644\u0627\u062a\u0641\u0627\u0642 \u0645\u0624\u0642\u062a \u2013 \u0643\u062a\u0627\u0628\u0627\u062a",
-          "link": "https://kitabat.com/news/%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D9%85%D9%88%D8%B9%D8%AF-%D8%AC%D9%88%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0410\u0440\u0430\u043a\u0447\u0438 : \u0418\u043d\u0441\u043f\u0435\u043a\u0446\u0438\u0438 \u041c\u0410\u0413\u0410\u0422\u042d \u0432 \u0418\u0440\u0430\u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0432\u043e\u0437\u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u044b",
-          "link": "https://1news.az/news/20260222100518786-Arakchi-Inspektsii-MAGATE-v-Irane-mogut-byt-vozobnovleny",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u039d\u03ad\u03bf\u03c2 \u03b3\u03cd\u03c1\u03bf\u03c2 \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03b9\u03ce\u03bd \u0397\u03a0\u0391 \u2013 \u0399\u03c1\u03ac\u03bd \u03c4\u03b7\u03bd \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 \u03c3\u03c4\u03b7 \u0393\u03b5\u03bd\u03b5\u03cd\u03b7 \u2013 \u00ab \u03a5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03af\u03c4\u03b5\u03c5\u03be\u03b7 \u03bc\u03b9\u03b1\u03c2 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1\u03c2 \u00bb, \u03bb\u03ad\u03b5\u03b9 \u03bf \u0391\u03c1\u03b1\u03b3\u03c4\u03c3\u03af",
-          "link": "https://www.inewsgr.com/97/neos-gyros-synomilion-ipa--iran-tin-pebti-sti-genevi--yparchoun-pithanotites-gia-tin-epitefxi-mias-symfonias-leei-o-aragtsi.htm",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Radio Station WHMI 93 . 5 FM Livingston County Michigan News , Weather , Traffic , Sports , School Updates , and the Best Classic Hit",
-          "link": "https://www.whmi.com/news/fox/iran-announces-test-new-naval-air-defense-missile-strait-hormuz-us-military-buildup-continues",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0642\u062f\u0633",
-          "link": "https://www.alquds.com/ar/posts/229092",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "newratings . de",
-          "link": "https://www.newratings.de/du/main/company_headline.m?nid=19494647",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "http://www.come-on.de/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-zr-94181876.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd - \u0397\u03a0\u0391 : \u039d\u03ad\u03bf\u03c2 \u03b3\u03cd\u03c1\u03bf\u03c2 \u03b4\u03b9\u03b1\u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd \u03c4\u03b7\u03bd \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 \u03c3\u03c4\u03b7 \u0393\u03b5\u03bd\u03b5\u03cd\u03b7 - \u00ab \u0388\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5\u03af \u03b3\u03b9\u03b1 \u03ba\u03ac\u03b8\u03b5 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc \u03c3\u03b5\u03bd\u03ac\u03c1\u03b9\u03bf \u00bb \u03bb\u03ad\u03b5\u03b9 \u03b7 \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7",
-          "link": "https://www.enikos.gr/international/iran-ipa-neos-gyros-diapragmatefseon-tin-pebti-sti-genevi-echoume-proetoimastei-gia-kathe-pithano-senario-leei-i-techerani/2537615/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Estudantes iranianos prolongam protestos antigovernamentais em Teer\u00e3o",
-          "link": "https://pt.euronews.com/2026/02/22/estudantes-iranianos-prolongam-protestos-antigovernamentais-em-teerao",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Om\u00e1n confirm\u00f3 que Estados Unidos e Ir\u00e1n retomar\u00e1n los di\u00e1logos nucleares el pr\u00f3ximo jueves en Ginebra",
-          "link": "https://www.infobae.com/america/mundo/2026/02/22/oman-confirmo-que-estados-unidos-e-iran-retomaran-los-dialogos-nucleares-el-proximo-jueves-en-ginebra/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran ready for nuclear consessions , relaxing of sanctions",
-          "link": "http://www.jpost.com/middle-east/iran-news/article-887546",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Abzug kubanischer Sicherheitskr\u00e4fte aus Venezuela st\u00e4rkt US - Position \u2013 Iran ger\u00e4t unter Druck",
-          "link": "http://www.az-online.de/politik/abzug-kubanischer-sicherheitskraefte-aus-venezuela-staerkt-us-position-iran-geraet-unter-druck-zr-94181881.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u00bb \u010ce nas ZDA napadejo , imamo vso pravico , da se branimo \u00ab",
-          "link": "https://www.mladina.si/246979/ce-nas-zda-napadejo-imamo-vso-pravico-da-se-branimo/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "https://www.nwzonline.de/politik-meldungen/spannungen-in-nahost-iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf_a_4,2,3936741393.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran spreman ograni\u010diti nuklearni program ako SAD ispuni njegove zahtjeve",
-          "link": "https://www.index.hr/vijesti/clanak/iran-spreman-ograniciti-nuklearni-program-ako-sad-ispuni-njegove-zahtjeve/2763573.aspx",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - US talks expected Thursday despite fears of strikes",
-          "link": "https://www.hindustantimes.com/world-news/us-news/iranus-talks-expected-thursday-despite-fears-of-strikes-101771788486693.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Leaked documents expose secret Iran - Russia agreement",
-          "link": "https://www.albawaba.com/news/leaked-documents-expose-secret-iran-1622634",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd - \u0397\u03a0\u0391 : \u039d\u03ad\u03b5\u03c2 \u03b4\u03b9\u03b1\u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b5\u03cd\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03b5\u03c7\u03ae \u03a0\u03ad\u03bc\u03c0\u03c4\u03b7 \u03c3\u03c4\u03b7 \u0393\u03b5\u03bd\u03b5\u03cd\u03b7",
-          "link": "https://www.sofokleousin.gr/epikairotita/diethni/iran-ipa-nees-diapragmateyseis-tin-prosexi-pempti-sti-geneyi",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran declares EU naval and air forces  terrorists organisation  in reciporocal move after action agaisnt IRGC",
-          "link": "https://news.webindia123.com/news/Articles/World/20260222/4419352.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Russia Missile Deal Revealed",
-          "link": "https://athens-times.com/iran-signs-secret-500m-missile-deal-with-russia/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041f\u0440\u0435\u0434\u0441\u0435\u0434\u043d\u0438\u043a \u041f\u0435\u0437\u0435\u0448\u043a\u0438\u0458\u0430\u043d : \u041f\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u0438 \u0441\u0430 \u0421\u0410\u0414 \u0441\u0443 \u0434\u0430\u043b\u0438 \u043e\u0445\u0440\u0430\u0431\u0440\u0443\u0458\u0443\u045b\u0435 \u0441\u0438\u0433\u043d\u0430\u043b\u0435",
-          "link": "https://www.politika.rs/scc/clanak/734003/predsednik-pezeskijan-pregovori-sa-sad-su-dali-ohrabrujuce-signale",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran aktuell : Gespr\u00e4che werden am Donnerstag fortgesetzt : united states und Iran verhandeln erneut in Genf \u2013 alle News im Liveticker",
-          "link": "https://www.goettinger-tageblatt.de/politik/iran-aktuell-gespraeche-werden-am-donnerstag-fortgesetzt-usa-und-iran-verhandeln-erneut-in-genf-alle-SUZZT272ANCR5LXBULZCKG7OB4.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US military buildup signals potential strike on Iran",
-          "link": "http://www.jpost.com/middle-east/iran-news/article-887549",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Witkoff Says Trump Is  Curiou Why Iran Hasnt  Capitulated",
-          "link": "https://news.antiwar.com/2026/02/22/witkoff-says-trump-is-curious-why-iran-hasnt-capitulated/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Nye demonstrationer i Iran :  De studerende skal v\u00e6re meget opm\u00e6rksomme p\u00e5 , at det ikke m\u00e5 f\u00f8re til vold",
-          "link": "https://www.dr.dk/nyheder/udland/nye-demonstrationer-i-iran-de-studerende-skal-vaere-meget-opmaerksomme-paa-det-ikke-maa-foere-til",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.wboc.com/news/international/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed/article_5379c5ba-cc28-5839-aaee-9a2ef7730dd4.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - US Talks Resume in Geneva Amid Diplomatic Optimism",
-          "link": "https://athens-times.com/irans-president-receives-encouraging-messages-in-us-talks-ahead-of-geneva-round/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0391\u03c1\u03b1\u03b3\u03c4\u03c3\u03af : \u00ab \u03a5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03b1\u03ba\u03cc\u03bc\u03b7 \u03c0\u03b9\u03b8\u03b1\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u00bb \u03b3\u03b9\u03b1 \u03b5\u03c0\u03af\u03c4\u03b5\u03c5\u03be\u03b7 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
-          "link": "https://www.skai.gr/news/world/aragtsi-yparxoun-akomi-pithanotites-gia-tin-epiteyksi-symfonias-me-tis-ipa",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n cree que es posible alcanzar un acuerdo con Estados Unidos sobre su plan nuclear",
-          "link": "https://www.perfil.com/noticias/internacional/iran-cree-que-es-posible-alcanzar-un-acuerdo-con-estados-unidos-sobre-su-plan-nuclear.phtml",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-          "link": "http://www.az-online.de/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-zr-94181876.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Oman FM confirms U . S .- Iran negotiations set for Thursday in Geneva",
-          "link": "http://www.calcuttanews.net/news/278882680/oman-fm-confirms-us-iran-negotiations-set-for-thursday-in-geneva",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Pentagon Pizza Index ties pizza spikes to military action",
-          "link": "http://www.jpost.com/international/article-887543",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "University students hold new protests in Iran around memorials for those killed",
-          "link": "https://www.kedm.org/npr-news/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -1372,231 +319,6 @@
       "items": []
     }
   ],
-  "iran": [
-    {
-      "title": "Trump curious why Iran has not 'capitulated', US envoy Witkoff says",
-      "link": "https://www.bbc.com/news/articles/cn5gk15rr70o?at_medium=RSS&at_campaign=rss",
-      "summary": "US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby.",
-      "source": "BBC News",
-      "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-    },
-    {
-      "title": "University students hold new protests in Iran around memorials for those killed",
-      "link": "https://www.npr.org/2026/02/22/nx-s1-5722880/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-      "summary": "Iran's state news agency said students protested at five universities in the capital, Tehran, and one in the city of Mashhad on Sunday.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "title": "University students hold new protests in Iran around memorials for those killed",
-      "link": "https://knpr.org/npr/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Spannungen in Nahost : Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-      "link": "https://www.volksstimme.de/deutschland-und-welt/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-4203948",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran - Verhandlungen : Teheran best\u00e4tigt neue Gespr\u00e4ch mit US - Seite",
-      "link": "https://www.srf.ch/news/international/oman-bestaetigt-neue-atomgespraeche-zwischen-usa-und-iran-in-genf",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "LIVE MIDDEN - OOSTEN . Trump kondigt  volledig en totaal staakt - het - vuren  aan tussen Iran en Isra\u00ebl - Toch opnieuw explosies in Teheran en Tel Aviv",
-      "link": "https://www.gva.be/buitenland/live-midden-oosten.-iran-en-vs-praten-donderdag-in-geneve-over-nucleair-programma/76854338.html",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "University students hold new protests in Iran around memorials for those killed",
-      "link": "https://www.krvs.org/npr-news/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US sets 48 - Hour deadline for Iranian nuclear proposal as talks hang in the balance",
-      "link": "https://www.albawaba.net/news/us-sets-48-hour-deadline-iranian-nuclear-1622629",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "University students hold new protests in Iran around memorials for those killed",
-      "link": "https://www.kwit.org/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Next US - Iran nuclear talks are Thursday in Geneva as Washington awaits proposed deal from Tehran",
-      "link": "https://www.thepeterboroughexaminer.com/news/world/middle-east/next-us-iran-nuclear-talks-are-thursday-in-geneva-as-washington-awaits-proposed-deal-from/article_bda9a0e5-c22a-59d8-8df0-3ab2f411780c.html",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Vor Verhandlungen \u2013 Nach Trump - Drohung \u2013 Iran droht mit Gegenangriff",
-      "link": "https://www.heute.at/s/nach-trump-drohung-iran-droht-mit-gegenangriff-120164197",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Nouveaux pourparlers irano - am\u00e9ricains jeudi malgr\u00e9 la peur de frappes",
-      "link": "https://www.lapresse.ca/international/moyen-orient/2026-02-22/nouveaux-pourparlers-irano-americains-jeudi-malgre-la-peur-de-frappes.php",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-      "link": "http://www.come-on.de/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-zr-94181876.html",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Estudantes iranianos prolongam protestos antigovernamentais em Teer\u00e3o",
-      "link": "https://pt.euronews.com/2026/02/22/estudantes-iranianos-prolongam-protestos-antigovernamentais-em-teerao",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Om AI - toppm\u00f6te i Delhi , Trumps stora tullnederlag , kommande attack p\u00e5 Iran och lite annat .",
-      "link": "https://carlbildt.wordpress.com/2026/02/22/om-ai-toppmote-i-delhi-trumps-stora-tullnederlag-kommande-attack-pa-iran-och-lite-annat/",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran ready for nuclear consessions , relaxing of sanctions",
-      "link": "http://www.jpost.com/middle-east/iran-news/article-887546",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Abzug kubanischer Sicherheitskr\u00e4fte aus Venezuela st\u00e4rkt US - Position \u2013 Iran ger\u00e4t unter Druck",
-      "link": "http://www.az-online.de/politik/abzug-kubanischer-sicherheitskraefte-aus-venezuela-staerkt-us-position-iran-geraet-unter-druck-zr-94181881.html",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-      "link": "https://www.nwzonline.de/politik-meldungen/spannungen-in-nahost-iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf_a_4,2,3936741393.html",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran spreman ograni\u010diti nuklearni program ako SAD ispuni njegove zahtjeve",
-      "link": "https://www.index.hr/vijesti/clanak/iran-spreman-ograniciti-nuklearni-program-ako-sad-ispuni-njegove-zahtjeve/2763573.aspx",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran - US talks expected Thursday despite fears of strikes",
-      "link": "https://www.hindustantimes.com/world-news/us-news/iranus-talks-expected-thursday-despite-fears-of-strikes-101771788486693.html",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Leaked documents expose secret Iran - Russia agreement",
-      "link": "https://www.albawaba.com/news/leaked-documents-expose-secret-iran-1622634",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran declares EU naval and air forces  terrorists organisation  in reciporocal move after action agaisnt IRGC",
-      "link": "https://news.webindia123.com/news/Articles/World/20260222/4419352.html",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran - Russia Missile Deal Revealed",
-      "link": "https://athens-times.com/iran-signs-secret-500m-missile-deal-with-russia/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran aktuell : Gespr\u00e4che werden am Donnerstag fortgesetzt : united states und Iran verhandeln erneut in Genf \u2013 alle News im Liveticker",
-      "link": "https://www.goettinger-tageblatt.de/politik/iran-aktuell-gespraeche-werden-am-donnerstag-fortgesetzt-usa-und-iran-verhandeln-erneut-in-genf-alle-SUZZT272ANCR5LXBULZCKG7OB4.html",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US military buildup signals potential strike on Iran",
-      "link": "http://www.jpost.com/middle-east/iran-news/article-887549",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Witkoff Says Trump Is  Curiou Why Iran Hasnt  Capitulated",
-      "link": "https://news.antiwar.com/2026/02/22/witkoff-says-trump-is-curious-why-iran-hasnt-capitulated/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Nye demonstrationer i Iran :  De studerende skal v\u00e6re meget opm\u00e6rksomme p\u00e5 , at det ikke m\u00e5 f\u00f8re til vold",
-      "link": "https://www.dr.dk/nyheder/udland/nye-demonstrationer-i-iran-de-studerende-skal-vaere-meget-opmaerksomme-paa-det-ikke-maa-foere-til",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "University students hold new protests in Iran around memorials for those killed",
-      "link": "https://www.wboc.com/news/international/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed/article_5379c5ba-cc28-5839-aaee-9a2ef7730dd4.html",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran - US Talks Resume in Geneva Amid Diplomatic Optimism",
-      "link": "https://athens-times.com/irans-president-receives-encouraging-messages-in-us-talks-ahead-of-geneva-round/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran : Verhandlungen mit united states wohl Donnerstag in Genf",
-      "link": "http://www.az-online.de/politik/iran-verhandlungen-mit-usa-wohl-donnerstag-in-genf-zr-94181876.html",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Oman FM confirms U . S .- Iran negotiations set for Thursday in Geneva",
-      "link": "http://www.calcuttanews.net/news/278882680/oman-fm-confirms-us-iran-negotiations-set-for-thursday-in-geneva",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "University students hold new protests in Iran around memorials for those killed",
-      "link": "https://www.kedm.org/npr-news/2026-02-22/university-students-hold-new-protests-in-iran-around-memorials-for-those-killed",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    }
-  ],
+  "iran": [],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
 }
