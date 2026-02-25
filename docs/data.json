@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-02-25T07:09:37Z",
+  "generated_at": "2026-02-25T10:01:14Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
         {
-          "title": "Household energy bills to fall by \u00a3117 a year in April",
+          "title": "Household energy bills to fall in April after charges shake-up",
           "link": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&at_campaign=rss",
           "summary": "Changes announced in the Budget mean all energy bills will see some kind of reduction, but it will vary.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Analysis: Trump issues patriotic rallying cry with eye on crucial elections",
+          "title": "President issues patriotic rallying cry with eye on crucial elections",
           "link": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss",
           "summary": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech.",
           "source": "BBC News",
@@ -34,9 +34,9 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
-          "link": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&at_campaign=rss",
-          "summary": "The peer's lawyers say there is no truth in the suggestion he was planning to leave the UK.",
+          "title": "Disabled woman, 33, put in nursing home against her will feels 'betrayed'",
+          "link": "https://www.bbc.com/news/articles/czj1ndzz9xyo?at_medium=RSS&at_campaign=rss",
+          "summary": "Lucinda Ritchie, who has full mental capacity, was transferred from a hospital bed despite her refusal.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -134,6 +134,13 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "LLM=True",
+          "link": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "I'm helping my dog vibe code games",
           "link": "https://www.calebleak.com/posts/dog-game/",
           "summary": "Comments",
@@ -141,22 +148,8 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Cl-kawa: Scheme on Java on Common Lisp",
-          "link": "https://github.com/atgreen/cl-kawa",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Show HN: Moonshine Open-Weights STT models \u2013 higher accuracy than WhisperLargev3",
-          "link": "https://github.com/moonshine-ai/moonshine",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-          "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+          "title": "Meta problem with URPF our bundle in Boca raton",
+          "link": "https://metafixthis.com/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -164,6 +157,13 @@
         {
           "title": "Pi \u2013 A minimal terminal coding harness",
           "link": "https://pi.dev",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "Turing Completeness of GNU find",
+          "link": "https://arxiv.org/abs/2602.20762",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Trump says preference is to solve Iran tensions through diplomacy",
-          "link": "https://www.aljazeera.com/news/2026/2/25/trump-says-preference-is-to-solve-iran-tensions-through-diplomacy?traffic_source=rss",
-          "summary": "Trump strikes belligerent tone on Iran during State of the Union, but says he would prefer a diplomatic solution.",
+          "title": "Key takeaways from Trump\u2019s State of the Union address",
+          "link": "https://www.aljazeera.com/video/2026/2/25/key-takeaways-from-trumps-state-of-the-union-address?traffic_source=rss",
+          "summary": "President Donald Trump used his State of Union address to talk up his successes & railed against Democrats.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Venezuela reports over 3,200 people fully released under new amnesty law",
-          "link": "https://www.aljazeera.com/news/2026/2/25/venezuela-reports-over-3200-people-fully-released-under-new-amnesty-law?traffic_source=rss",
-          "summary": "Venezuela's National Assembly says thousands of people have regained freedom under a new amnesty law.",
+          "title": "Senegal prime minister decries Morocco\u2019s jailing of fans after AFCON final",
+          "link": "https://www.aljazeera.com/sports/2026/2/25/senegal-prime-minister-hits-out-at-moroccos-jailing-of-fans-after-afcon?traffic_source=rss",
+          "summary": "Morocco sentenced 18 Senegalese football fans last Thursday following disturbances at the Africa Cup of Nations final.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Sri Lanka\u2019s former intelligence chief arrested over 2019 Easter attacks",
-          "link": "https://www.aljazeera.com/news/2026/2/25/sri-lankas-former-intelligence-chief-arrested-over-2019-easter-attacks?traffic_source=rss",
-          "summary": "Investigators say Suresh Sallay aided and conspired in the deadly Easter Sunday attacks that killed nearly 300 people.",
+          "title": "Syria faces twin battles as Assad loyalists and ISIL attack in west, east",
+          "link": "https://www.aljazeera.com/news/2026/2/25/syria-faces-twin-battles-as-assad-loyalists-and-isil-attack-in-west-east?traffic_source=rss",
+          "summary": "A shadowy armed group linked to regime remnants launched an attack on security positions in Latakia.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Key takeaways from Trump\u2019s State of the Union speech",
-          "link": "https://www.aljazeera.com/news/2026/2/25/trumps-state-of-the-union-touts-economic-turnaround-as-approval-slumps?traffic_source=rss",
-          "summary": "Trump's hardline stance on Iran and nuclear weapons, alongside foreign policy moves, dominate key moments of his speech.",
+          "title": "Rescuers search for missing after storm deluge kills 30 in Brazil",
+          "link": "https://www.aljazeera.com/gallery/2026/2/25/rescuers-search-for-missing-after-storm-deluge-kills-30-in-brazil?traffic_source=rss",
+          "summary": "Record rains trigger floods and landslides in Brazil, killing 30 as rescuers search for dozens missing.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Trump says US has received 80m barrels of Venezuelan oil; 3rd tanker seized",
-          "link": "https://www.aljazeera.com/news/2026/2/25/trump-says-us-has-received-80m-barrels-of-venezuelan-oil-3rd-tanker-seized?traffic_source=rss",
-          "summary": "US forces have 'captured' a third oil tanker in the Indian Ocean weeks after it reportedly left Venezuelan waters.",
+          "title": "Fact-checking Donald Trump\u2019s State of the Union address",
+          "link": "https://www.aljazeera.com/news/2026/2/25/fact-checking-donald-trumps-state-of-the-union-address?traffic_source=rss",
+          "summary": "The US president exaggerates on economy and immigration amid sagging popularity before the crucial midterm elections.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,13 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "5 takeaways from Trump's State of the Union address",
+          "link": "https://www.npr.org/2026/02/25/nx-s1-5717096/trump-congress-state-union-highlights",
+          "summary": "President Trump hit familiar notes on immigration and culture in his speech Tuesday night, but he largely underplayed the economic problems that voters say they are most concerned about.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "China restricts exports to 40 Japanese entities with ties to military",
           "link": "https://www.npr.org/2026/02/25/g-s1-111441/china-restricts-exports-to-40-japanese-entities-with-ties-to-military",
           "summary": "China on Tuesday restricted exports to 40 Japanese entities it says are contributing to Japan's \"remilitarization,\" in the latest escalation of tensions with Tokyo.",
@@ -283,376 +290,369 @@
           "summary": "The celebration of the men's team comes after FBI Director Kash Patel's trip to the Games in Milan, and the president's comments about the U.S. women's team, have drawn scrutiny.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Trump's speech is longest State of the Union address in recent history",
-          "link": "https://www.npr.org/2026/02/24/nx-s1-5725496/trump-state-union-longest-speech",
-          "summary": "Speaking for approximately one hour and 48 minutes, President Trump beat his previous record for longest speech given to a joint session of Congress.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
       ]
     },
     {
       "source": "GDELT: iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "Read Trump 2026 State of the Union address",
-          "link": "https://www.npr.org/2026/02/25/nx-s1-5716159/trump-congress-state-union-read",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "News1 | \u05d7\u05d6\u05d5\u05df \u05de\u05d0\u05e1\u05e7 : \u05e8\u05d5\u05d1\u05d5\u05d8\u05d9\u05dd \u05d9\u05d7\u05dc\u05d9\u05e4\u05d5 \u05d0\u05ea \u05d4\u05de\u05e0\u05ea\u05d7\u05d9\u05dd \u05d1\u05ea\u05d5\u05da \u05e9\u05dc\u05d5\u05e9 \u05e9\u05e0\u05d9\u05dd",
-          "link": "https://www.news1.co.il/Archive/001-D-514882-00.html",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 : \u00ab \u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c8\u03c9 \u03c0\u03bf\u03c4\u03ad \u03c3\u03c4\u03bf \u0399\u03c1\u03ac\u03bd \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03b5\u03b9 \u03c0\u03c5\u03c1\u03b7\u03bd\u03b9\u03ba\u03cc \u03cc\u03c0\u03bb\u03bf \u00bb",
-          "link": "https://www.inewsgr.com/379/trab-den-tha-epitrepso-pote-sto-iran-na-apoktisei-pyriniko-oplo.htm",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://wamz.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://963kissfm.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump prefers to solve the Iran crisis through diplomacy",
-          "link": "https://www.omanobserver.om/article/1185017/world/region/trump-prefers-to-solve-the-iran-crisis-through-diplomacy",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Jesse Ramsdell",
-          "link": "https://smallwarsjournal.com/author/jesse-ramsdell/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\ud2b8\ub7fc\ud504 , \uad6d\uc815\uc5f0\uc124\uc11c  \ubbf8\uad6d \ud669\uae08\uae30  \uc790\ud654\uc790\ucc2c \u2026 \uad00\uc138 \ub4dc\ub77c\uc774\ube0c \uc7ac\ud655\uc778 [ \uc885\ud569 ]",
-          "link": "https://www.etoday.co.kr/news/view/2559469",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://theflo1029.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://939beat.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Donald Trump says countries are  happy  with tariffs as he vows to keep them",
-          "link": "https://www.theboltonnews.co.uk/news/national/25884352.donald-trump-says-countries-happy-tariffs-vows-keep/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://thebeat1037.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Read Trump 2026 State of the Union address",
-          "link": "https://www.kunr.org/npr-news/2026-02-24/read-trumps-2026-state-of-the-union-address",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://kfyi.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump State of the Union speech : From tariffs to economy , fact - checking US president claims \u2013 Firstpost",
-          "link": "https://www.firstpost.com/explainers/donald-trump-state-of-the-union-speech-fact-check-13983439.html",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0433\u043e\u0442\u043e\u0432 \u0431\u043e\u043c\u0431\u0438\u0442\u044c \u0418\u0440\u0430\u043d \u0438 \u043e\u0442\u043c\u0435\u043d\u0438\u0442\u044c \u043d\u0430\u043b\u043e\u0433\u0438 : \u043f\u0435\u0440\u0432\u043e\u0435 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u0435  \u043f\u043e\u0437\u043e\u0440\u043d\u043e\u0433\u043e  \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0448\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043b\u043e \u043c\u0438\u0440",
-          "link": "https://www.mk.ru/politics/2026/02/25/tramp-ustydil-demokratov-v-svoem-poslanii-o-polozhenii-v-strane.html",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Donald Trump e il discorso fluviale sullo Stato dellUnione | Siamo allet\u00e0 delloro ma i consensi calano",
-          "link": "https://www.zazoom.it/2026-02-25/donald-trump-e-il-discorso-fluviale-sullo-stato-dellunione-siamo-alleta-delloro-ma-i-consensi-calano/18722413/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "America is winning too much : Trump declares victory in State of Union address",
-          "link": "https://www.aol.co.uk/articles/america-winning-too-much-trump-062421093.html",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "El reporte mundial que tiene a Uruguay segundo en Latinoam\u00e9rica , por  un nivel de previsibilidad inusual en la regi\u00f3n",
-          "link": "https://www.elpais.com.uy/negocios/noticias/el-reporte-mundial-que-tiene-a-uruguay-segundo-en-latinoamerica-por-un-nivel-de-previsibilidad-inusual-en-la-region",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://island985.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Da nessuna parte  di Yasmina Reza , o del dove fa il nido la felicit\u00e0",
-          "link": "https://www.illibraio.it/news/narrativa/da-nessuna-parte-di-yasmina-reza-1489517/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0627\u062f\u0639\u0627\u06cc \u062a\u0627\u0632\u0647 \u062a\u0631\u0627\u0645\u067e \u062f\u0631\u0628\u0627\u0631\u0647 \u062a\u0631\u0648\u0631 \u0633\u067e\u0647\u0628\u062f \u0634\u0647\u06cc\u062f \u062d\u0627\u062c \u0642\u0627\u0633\u0645 \u0633\u0644\u06cc\u0645\u0627\u0646\u06cc",
-          "link": "https://meylesokhan.com/%DA%A9%DB%8C%D9%86%D9%87-%D9%86%D8%A7%D8%AA%D9%85%D8%A7%D9%85-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A7%D8%B2-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AD%D8%A7%D8%AC-%D9%82%D8%A7%D8%B3%D9%85-%D8%B3%D9%84%DB%8C%D9%85/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Quanto \u00e8 solido il regime iraniano ?",
-          "link": "https://www.ilpost.it/2026/01/16/regime-iran-forte-debole/?homepagePosition=26.2&referrerPost=3523612",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Usa discorso record di Trump | prova a convincere gli americani dei suoi risultati",
-          "link": "https://www.zazoom.it/2026-02-25/usa-discorso-record-di-trump-prova-a-convincere-gli-americani-dei-suoi-risultati/18722450/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0395\u03c6\u03b9\u03ba\u03c4\u03ae \u03bc\u03b9\u03b1 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b7 \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7 \u03c0\u03c1\u03b9\u03bd \u03c4\u03b9\u03c2 \u03bd\u03ad\u03b5\u03c2 \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03af\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
-          "link": "https://dialogos.com.cy/efikti-mia-symfonia-dilonei-i-techerani-prin-tis-nees-synomilies-me-tis-ipa/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Donald Trump speech today : Fact - checking State of the Union , or SOTU 2026 , address",
-          "link": "https://abc7ny.com/post/president-donald-trump-speech-today-fact-checking-state-union-sotu-2026-address/18646901/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://1007wzxl.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Indian Stock Market : \u092e\u093e\u0930\u094d\u0915\u0947\u091f \u092e\u0947\u0902 \u091c\u092c\u0930\u0926\u0938\u094d\u0924 \u0930\u093f\u0915\u0935\u0930\u0940 , \u0938\u0947\u0902\u0938\u0947\u0915\u094d\u0938 - \u0928\u093f\u092b\u094d\u091f\u0940 \u092e\u0947\u0902 \u0924\u0942\u092b\u093e\u0928\u0940 \u0909\u091b\u093e\u0932 , \u0915\u094d\u092f\u093e \u0916\u0924\u094d\u092e \u0939\u0941\u0906 \u092e\u0902\u0926\u0940 \u0915\u093e \u0921\u0930 ?",
-          "link": "https://www.prabhatkhabar.com/business/indian-stock-market-recovery-sensex-nifty-rise-2026",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://wsus1023.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Nasce il Polo museale ma tra maggioranza e minoranza \u00e8 bagarre sui selfie dei vip",
-          "link": "https://www.zazoom.it/2026-02-25/nasce-il-polo-museale-ma-tra-maggioranza-e-minoranza-e-bagarre-sui-selfie-dei-vip/18722435/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Top moments and takeaways from Trump State of the Union",
-          "link": "https://foxreno.com/news/nation-world/top-moments-and-takeaways-from-president-donald-trumps-state-of-the-union-immigration-crackdown-inflation-cost-of-living-affordability-team-usa-medal-of-freedom-politics-ai-iran-nuclear-deal",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump claims Iran working on missiles that could hit US",
-          "link": "https://www.standardmedia.co.ke/world/article/2001541684/trump-claims-iran-working-on-missiles-that-could-hit-us",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://kee100.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "As war looms , indicted al - Qaeda chief has been under Iranian regime protection for years",
-          "link": "https://justthenews.com/government/security/war-looms-indicted-al-qaeda-chief-has-been-under-iranian-regime-protection-many",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "EUA e Ir\u00e3 em rota de colis\u00e3o",
-          "link": "https://www.estadao.com.br/opiniao/eua-e-ira-em-rota-de-colisao/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Five moments from Trump record - breaking State of the Union address",
-          "link": "https://www.standardmedia.co.ke/world/article/2001541685/five-moments-from-trump-s-record-breaking-state-of-the-union-address",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump : Ir\u00e1n vyv\u00edja rakety , ktor\u00fdmi m\u00f4\u017ee zasiahnu\u0165 united states",
-          "link": "https://www1.pluska.sk/spravy/chaos-pocas-prejavu-donald-trump-varuje-pred-iranom-zasahovala-ochranka",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://mixnation.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Top moments and takeaways from Trump State of the Union",
-          "link": "https://krcgtv.com/news/connect-to-congress/top-moments-and-takeaways-from-president-donald-trumps-state-of-the-union-immigration-crackdown-inflation-cost-of-living-affordability-team-usa-medal-of-freedom-politics-ai-iran-nuclear-deal",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "What Trump ferocious 108 - minute State of the Union tells us about the battle he knows is coming",
-          "link": "https://www.dailymail.co.uk/news/article-15590029/What-Trumps-ferocious-108-minute-State-Union-tells-battle-knows-coming.html",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Donald Trump says countries are  happy  with tariffs as he vows to keep them",
-          "link": "https://www.thisisoxfordshire.co.uk/news/national/25884352.donald-trump-says-countries-happy-tariffs-vows-keep/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "How To Listen To President Donald Trump State Of The Union Address",
-          "link": "https://kfyi.iheart.com/content/2026-02-24-how-to-listen-to-president-donald-trumps-state-of-the-union-address-tonight/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd : \u03a5\u03c0\u03cc \u03ba\u03c1\u03ac\u03c4\u03b7\u03c3\u03b7 \u0399\u03ac\u03c0\u03c9\u03bd\u03b1\u03c2 \u03c5\u03c0\u03ae\u03ba\u03bf\u03bf\u03c2 \u2013 \u03a4\u03bf \u03a4\u03cc\u03ba\u03b9\u03bf \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5\u03af \u03c4\u03b7\u03bd \u03ac\u03bc\u03b5\u03c3\u03b7 \u03b1\u03c0\u03b5\u03bb\u03b5\u03c5\u03b8\u03ad\u03c1\u03c9\u03c3\u03ae \u03c4\u03bf\u03c5",
-          "link": "https://www.kathimerini.gr/world/564094768/iran-ypo-kratisi-iaponas-ypikoos-to-tokio-apaitei-tin-amesi-apeleytherosi-toy/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://star941fm.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "In Democratic response , Spanberger accuses Trump of lying in State of the Union",
-          "link": "https://www.turnto23.com/politics/in-democratic-response-spanberger-accuses-trump-of-lying-in-state-of-the-union",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0421\u0428\u0410 \u0432 \u0420\u0430\u0434\u0431\u0435\u0437\u0456 \u041e\u041e\u041d \u043d\u0430\u0437\u0432\u0430\u043b\u0438 \u043a\u0440\u0430\u0457\u043d\u0438 , \u044f\u043a\u0456 \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u044e\u0442\u044c \u0440\u043e\u0441\u0456\u0457 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0443\u0432\u0430\u0442\u0438 \u0432\u0456\u0439\u043d\u0443 \u043f\u0440\u043e\u0442\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
-          "link": "https://unn.ua/news/ssha-v-radbezi-oon-nazvaly-krainy-yaki-dopomahaiut-rosii-prodovzhuvaty-viinu-proty-ukrainy",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Dems Vote With Their Eyelids on Trump Record - Breaking Speech",
-          "link": "https://www.thedailybeast.com/dems-vote-with-their-eyelids-on-trumps-record-breaking-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Read NPR annotated fact check of President Trump State of the Union",
-          "link": "https://www.wfdd.org/national/2026-02-24/read-nprs-annotated-fact-check-of-president-trumps-state-of-the-union",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump :  Iran non avr\u00e0 mai arma nucleare , non lo permetto",
-          "link": "https://tuttoggi.info/trump-iran-non-avra-mai-arma-nucleare-non-lo-permetto/977314/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
-          "link": "https://1061kissfm.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
-          "summary": "",
-          "source": "GDELT: iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "\u0938\u0948\u0928\u094d\u092f \u0926\u092c\u093e\u092c\u092c\u093f\u091a \u091f\u094d\u0930\u092e\u094d\u092a \u092d\u0928\u094d\u091b\u0928\u094d : \u0907\u0930\u093e\u0928\u0938\u0901\u0917 \u0915\u0942\u091f\u0928\u0940\u0924\u093f\u0915 \u0938\u092e\u093e\u0927\u093e\u0928 \u0928\u0948 \u092a\u0939\u093f\u0932\u094b \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915\u0924\u093e | Nepal first 24 - hour updated news portal",
+          "link": "https://www.ratopati.com/story/546310/amid-military-pressure-trump-says-diplomatic-solution-with-iran-is-top-priority",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump , discorso sullo Stato dellUnione :  America \u00e8 tornata , questa \u00e8 et\u00e0 delloro",
+          "link": "https://gazzettadellaspezia.com/ultimaora/item/172956-trump,-discorso-sullo-stato-dell-unione-america-%C3%A8-tornata,-questa-%C3%A8-et%C3%A0-dell-oro",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tech firms lead Asian markets rally as Seoul , Tokyo hit records",
+          "link": "https://www.hometownregister.com/news/national/tech-firms-lead-asian-markets-rally-as-seoul-tokyo-hit-records/article_1ac4af29-49f0-5418-93d2-50022d1e8bea.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629 \u062a\u0646\u0641\u064a \u0644\u0640RT \u0625\u062e\u0644\u0627\u0621 \u0633\u0641\u0627\u0631\u0627\u062a",
+          "link": "https://arabic.rt.com/middle_east/1761107-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D9%84%D9%80rt-%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D8%B3%D9%81%D8%A7%D8%B1%D8%A7%D8%AA/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Una campa\u00f1a de Sant Joan de D\u00e9u recauda 140 . 000 euros para enfermedades raras tras recorrer 634 municipios de Espa\u00f1a",
+          "link": "https://www.elperiodico.com/es/sanidad/20260225/campana-sant-joan-deu-recorre-municipios-espana-recauda-fondos-enfermedades-raras-viaje-de-nica-127218121",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\uc774\ub780 \ud575 \uc808\ub300 \ubd88\uac00 \u2026 \uc774\ubbfc\uc790\ubd80\ud130 \ubd80\uc815\uc120\uac70\uae4c\uc9c0 \ucd08\uc9c0\uc77c\uad00  \uac15\uacbd",
+          "link": "http://www.newstomato.com/ReadNews.aspx?no=1292416",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trumptan \u0130rana \u00dcst\u00fc Kapal\u0131 Tehdit : Asla \u0130zin Vermeyece\u011fim",
+          "link": "https://www.gercekgundem.com/dunya/trumptan-irana-ustu-kapali-tehdit-asla-izin-vermeyecegim-567237",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran altri 12 F - 22 Raptor united states  parcheggiati  in Israele Decine di caccia e aerei cisterna pronti La USS G Ford si avvicina",
+          "link": "https://www.zazoom.it/2026-02-25/iran-altri-12-f-22-raptor-usa-parcheggiati-in-israele-decine-di-caccia-e-aerei-cisterna-pronti-la-uss-g-ford-si-avvicina/18723392/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Demisii , mustr\u0103ri aspre \u0219i retrograd\u0103ri \u00een domeniul silvic , dup\u0103 defri\u0219\u0103rile ilegale stabilite \u00een cadrul unor controale",
+          "link": "https://news.yam.md/ro/story/18692916",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump touts  roaring economy  as Americans continue to struggle \u2013 NBC Connecticut",
+          "link": "https://www.nbcconnecticut.com/news/national-international/trump-touts-roaring-economy-state-of-union-americans-struggle/3707466/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran dismisses missile , nuclear claims after Trump alleges  sinister ambitions",
+          "link": "https://www.hometownregister.com/news/national/iran-dismisses-missile-nuclear-claims-after-trump-alleges-sinister-ambitions/article_8aba9303-118d-5a3a-bbaf-7f15ff1e01c8.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0642\u0644\u0642 \u0641\u064a \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u0645\u0646  \u0627\u062a\u0641\u0627\u0642 \u0633\u0631\u064a\u0639  \u0628\u064a\u0646 \u0648\u0627\u0634\u0646\u0637\u0646 \u0648\u0637\u0647\u0631\u0627\u0646",
+          "link": "https://pnn.ps/news/720241",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump : \u0130ran  \u0131n n\u00fckleer silaha sahip olmas\u0131na izin vermem \u2013 G\u00fcncel Haberler , Son Dakika Haberleri , Turktime Haber Portal\u0131",
+          "link": "https://www.turktime.com/haber/trump-iran-in-nukleer-silaha-sahip-olmasina-izin-vermem/738876",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0413\u0435\u043d\u0430\u0441\u0441\u0430\u043c\u0431\u043b\u0435\u044f \u041e\u041e\u041d \u043f\u0440\u0438\u043d\u044f\u043b\u0430 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u044e \u00ab \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043c\u0438\u0440\u0430 \u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u00bb: \u0448\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043b\u0430 \u043f\u043e\u0437\u0438\u0446\u0438\u044f \u0421\u0428\u0410",
+          "link": "https://society.comments.ua/news/developments/vashington-snova-podygryval-putinu-i-nacistskoy-rossii-chto-proizoshlo-798589.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fact - checking Trump 2026 State of the Union address",
+          "link": "https://www.nbcconnecticut.com/news/politics/fact-checking-trump-2026-state-of-the-union/3707459/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u00bf Hacia una tormenta sobre Teher\u00e1n ?",
+          "link": "https://www.elnuevosiglo.com.co/columnistas/hacia-una-tormenta-sobre-teheran",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u00bf Por qu\u00e9 no se rinde Ir\u00e1n ? | Todas las noticias de Palencia",
+          "link": "https://www.diariopalentino.es/noticia/zb021dc42-7ad2-4091-ae458ad0aaddfd9a/202602/por-que-no-se-rinde-iran",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
+          "link": "https://wdasfm.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0218edin\u021b\u0103 ultra - secret\u0103 , la cel mai \u00eenalt nivel la Casa Alb\u0103 : S - au luat deciziile privitoare la Iran",
+          "link": "https://www.stiripesurse.ro/sedinta-ultra-secreta-la-cel-mai-inalt-nivel-la-casa-alba-s-au-luat-deciziile-privitoare-la-iran_3862409",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump - Kenner : Bei Iran macht Pr\u00e4sident indirektes Gest\u00e4ndnis",
+          "link": "https://www.focus.de/politik/ausland/trump-kenner-bei-iran-macht-praesident-indirektes-gestaendnis_0b07d4a6-54c6-4267-a90d-ad0a6add8d42.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Beyaz Saraydan \u0130ran \u00c7\u0131kmaz\u0131 ! Trumpa En Yak\u0131n \u0130simler Sald\u0131r\u0131ya Kar\u015f\u0131 \u00c7\u0131k\u0131yor",
+          "link": "https://beyazgazete.com/haber/2026/2/25/beyaz-saray-dan-iran-cikmazi-trump-a-en-yakin-isimler-saldiriya-karsi-cikiyor-7171553.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Takeaways from Trump State of the Union address",
+          "link": "https://www.twincities.com/2026/02/24/state-of-the-union-takeaways/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Modi Israel Visit Iran Us Confict , \u0908\u0930\u093e\u0928 \u092a\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0939\u092e\u0932\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0907\u091c\u0930\u093e\u092f\u0932 \u0915\u0947 \u0926\u094c\u0930\u0947 \u092a\u0930 \u092a\u0940\u090f\u092e \u092e\u094b\u0926\u0940 , \u0915\u094d\u200d\u092f\u093e \u0924\u0947\u0939\u0930\u093e\u0928 \u0915\u094b \u0939\u0948 \u0938\u0940\u0927\u093e \u0938\u0902\u0926\u0947\u0936 , \u0938\u092e\u091d\u0947\u0902 - pm modi in israel ahead of us iran conflict has delhi chosen its side a message to tehran - Uae News",
+          "link": "https://navbharattimes.indiatimes.com/world/uae/pm-modi-in-israel-ahead-of-us-iran-conflict-has-delhi-chosen-its-side-a-message-to-tehran/articleshow/128775453.cms",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Baystreet . ca - Futures Slides on Trade Uncertainty",
+          "link": "http://baystreet.ca/articles/marketupdates/118727/Futures-Slides-on-Trade-Uncertainty",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Lurer . com | \u0539\u0580\u0561\u0574\u0583\u0568 \u0570\u0561\u0575\u057f\u0561\u0580\u0561\u0580\u0565\u056c \u0567 \u00ab \u0531\u0574\u0565\u0580\u056b\u056f\u0561\u0575\u056b \u0578\u057d\u056f\u0565 \u0564\u0561\u0580\u0561\u0577\u0580\u057b\u0561\u0576\u056b \u00bb \u0574\u0561\u057d\u056b\u0576",
+          "link": "https://lurer.com/article/715061/am",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
+          "link": "https://alice955.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Piyasalarda g\u00f6zler o bilan\u00e7oda \u2013 G\u00fcncel Haberler , Son Dakika Haberleri , Turktime Haber Portal\u0131",
+          "link": "https://www.turktime.com/haber/piyasalarda-gozler-o-bilancoda/738877",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\uc804\uc7c1 \uc704\uae30\uac10\uc5d0 \uc9d0 \uc2f8\ub294 \uc774\ub780\uc778\ub4e4 \u2026 \ub2f9\uad6d\uc740  \uc2ec\uac01\ud55c \uc804\uc7c1 \uc5c6\uc744 \uac83  \uc77c\ucd95",
+          "link": "https://www.munhwa.com:443/article/11570571",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran says students must respect  red line after protests",
+          "link": "https://www.suncommercial.com/brazil_times/news/national/article_bfe0f9d2-44c0-5c66-98bc-f1c4df3ed0e0.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tech firms lead Asian markets rally as Seoul , Tokyo hit records",
+          "link": "https://www.ashleycountyledger.com/news/national/tech-firms-lead-asian-markets-rally-as-seoul-tokyo-hit-records/article_eadb905f-4770-5de8-b8da-e4705cd86ce2.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Lalleanza  storica  tra India e Israele . Cos\u00ec lasse \u00e8 diventato strategico . Il discorso di Modi alla Knesset",
+          "link": "https://www.ilfoglio.it/esteri/2026/02/25/news/l-alleanza-storica-tra-india-e-israele-cosi-l-asse-e-diventato-strategico-il-discorso-di-modi-alla-knesset-8700525/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041a\u0435\u043b\u043b\u043e\u0433 \u043e\u0441\u0443\u0434\u0438\u043b \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0421\u0428\u0410 \u0432\u043e\u0437\u0434\u0435\u0440\u0436\u0430\u0442\u044c\u0441\u044f \u043e\u0442 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u043e\u0439 \u0440\u0435\u0437\u043e\u043b\u044e\u0446\u0438\u0438 \u0432 \u041e\u041e\u041d",
+          "link": "https://life.ru/p/1845693",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "TVA pentru HoReCa : Autorit\u0103\u021bile invoc\u0103 echitate pentru angaja\u021bi , industria avertizeaz\u0103 asupra falimentelor",
+          "link": "https://news.yam.md/ro/story/18692915",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tech firms lead Asian markets rally as Seoul , Tokyo hit records",
+          "link": "https://www.wataugademocrat.com/news/national/tech-firms-lead-asian-markets-rally-as-seoul-tokyo-hit-records/article_58b30d83-b408-5f32-ba91-dbb5ea1dab95.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump State of the Union speech : Fact checking Donald Trump marathon pitch to the US voter",
+          "link": "https://www.smh.com.au/world/north-america/fact-checking-trump-s-marathon-state-of-the-union-speech-20260225-p5o5hk.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
+          "link": "https://thebeatgulfcoast.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0539\u0580\u0561\u0574\u0583\u0568 \u0570\u0561\u0575\u057f\u0561\u0580\u0561\u0580\u0565\u056c \u0567 \u055d \u0569\u0578\u0582\u0575\u056c \u0579\u056b \u057f\u0561 , \u0578\u0580 \u0561\u0577\u056d\u0561\u0580\u0570\u0578\u0582\u0574 \u00ab \u0561\u0570\u0561\u0562\u0565\u056f\u0579\u0578\u0582\u0569\u0575\u0561\u0576 \u0563\u056c\u056d\u0561\u057e\u0578\u0580 \u0570\u0578\u057e\u0561\u0576\u0561\u057e\u0578\u0580 \u00bb \u053b\u0580\u0561\u0576\u0568 \u0574\u056b\u057b\u0578\u0582\u056f\u0561\u0575\u056b\u0576 \u0566\u0565\u0576\u0584 \u0578\u0582\u0576\u0565\u0576\u0561",
+          "link": "https://www.azatutyun.am/a/trampy-haytararel-e-chi-touyl-ta-or-ashkharhoum-ahabekchoutyan-glkhavor-hovanavor-irany-mijoukayin-zenk-ounena/33687615.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran dismisses missile , nuclear claims after Trump alleges  sinister ambitions",
+          "link": "https://www.elpasoinc.com/news/national/iran-dismisses-missile-nuclear-claims-after-trump-alleges-sinister-ambitions/article_80e4172a-9d38-5298-a230-d8e55fcb77fc.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Il lungo discorso di Trump sullo Stato dell  Unione | L  Iran ha missili in grado di colpire l  Europa",
+          "link": "https://www.zazoom.it/2026-02-25/il-lungo-discorso-di-trump-sullo-stato-dellunione-liran-ha-missili-in-grado-di-colpire-leuropa/18723419/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump amenaza a Ir\u00e1n y se enfrenta agresivo a los dem\u00f3cratas en un discurso triunfalista sobre el estado de la Uni\u00f3n",
+          "link": "https://www.diariocordoba.com/internacional/2026/02/24/trump-discurso-estado-union-eeuu-127227089.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "President Trump Touts  Golden Age  Of America In State Of The Union Speech",
+          "link": "https://103jamz.iheart.com/content/2026-02-24-president-trump-touts-golden-age-of-america-in-state-of-the-union-speech/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fact - checking Trump 2026 State of the Union address",
+          "link": "https://www.nbcmiami.com/news/politics/fact-checking-trump-2026-state-of-the-union/3772590/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trumps Rede zur Lage der Nation : Was er sagte und was nicht",
+          "link": "https://www.nw.de/nachrichten/politik/24278673_Trumps-Rede-zur-Lage-der-Nation-Was-er-sagte-und-was-nicht.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Takeaways from Trump State of the Union address to Congress",
+          "link": "https://www.straitstimes.com/world/united-states/takeaways-from-trumps-state-of-the-union-address-to-congress",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u062a\u062d\u0630\u0631 \u0644\u0628\u0646\u0627\u0646 \u0628\u0636\u0631\u0628 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u064a\u0629 \u0627\u0644\u0645\u062f\u0646\u064a\u0629 \u062d\u0627\u0644 \u062a\u062f\u062e\u0644 \u062d\u0632\u0628 \u0627\u0644\u0644\u0647 \u0641\u064a \u0635\u0631\u0627\u0639 \u0623\u0645\u0631\u064a\u0643\u064a - \u0625\u064a\u0631\u0627\u0646\u064a",
+          "link": "https://www.almontasaf.net/news135924.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fundo partid\u00e1rio bate recorde . STF tenta aliviar press\u00e3o",
+          "link": "https://www.gazetadopovo.com.br/opiniao/bom-dia/fundo-partidario-recorde-stf-pressao/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump pare s\u0103 fi decis soarta Iranului - Temutele F - 22 Raptor au decolat c\u0103tre Orientul Mijlociu",
+          "link": "https://www.stiripesurse.ro/trump-pare-sa-fi-decis-soarta-iranului-temutele-f-22-raptor-au-decolat-catre-orientul-mijlociu_3862240",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041c\u0438\u0440\u043e\u0432\u044b\u0435 \u0446\u0435\u043d\u044b \u043d\u0430 \u043d\u0435\u0444\u0442\u044c \u0434\u043e\u0441\u0442\u0438\u0433\u043b\u0438 \u0433\u043e\u0434\u043e\u0432\u043e\u0433\u043e \u0440\u0435\u043a\u043e\u0440\u0434\u0430 - \u0447\u0442\u043e \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u043e",
+          "link": "https://gazeta.ua/ru/articles/economics/_mirovye-ceny-na-neft-dostigli-godovogo-rekorda-chto-proizoshlo/1244687",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran dismisses missile , nuclear claims after Trump alleges  sinister ambitions",
+          "link": "https://www.hometownregister.com/news/national/iran-dismisses-missile-nuclear-claims-after-trump-alleges-sinister-ambitions/article_8b5732ef-83de-5f33-80ed-f2f78fd20eee.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ir\u00e1n vyv\u00edja rakety schopn\u00e9 zasiahnu\u0165 united states , tvrd\u00ed Trump",
+          "link": "https://www.topky.sk/cl/11/9332635/Dramaticky-odkaz-Trumpa--Iran-vyvija-rakety-schopne-zasiahnut-USA--Teheran-to-oznacil-za-lzi",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: tehran",
@@ -662,358 +662,7 @@
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "News1 | \u05d7\u05d6\u05d5\u05df \u05de\u05d0\u05e1\u05e7 : \u05e8\u05d5\u05d1\u05d5\u05d8\u05d9\u05dd \u05d9\u05d7\u05dc\u05d9\u05e4\u05d5 \u05d0\u05ea \u05d4\u05de\u05e0\u05ea\u05d7\u05d9\u05dd \u05d1\u05ea\u05d5\u05da \u05e9\u05dc\u05d5\u05e9 \u05e9\u05e0\u05d9\u05dd",
-          "link": "https://www.news1.co.il/Archive/001-D-514882-00.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 : \u00ab \u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c8\u03c9 \u03c0\u03bf\u03c4\u03ad \u03c3\u03c4\u03bf \u0399\u03c1\u03ac\u03bd \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03b5\u03b9 \u03c0\u03c5\u03c1\u03b7\u03bd\u03b9\u03ba\u03cc \u03cc\u03c0\u03bb\u03bf \u00bb",
-          "link": "https://www.inewsgr.com/379/trab-den-tha-epitrepso-pote-sto-iran-na-apoktisei-pyriniko-oplo.htm",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump prefers to solve the Iran crisis through diplomacy",
-          "link": "https://www.omanobserver.om/article/1185017/world/region/trump-prefers-to-solve-the-iran-crisis-through-diplomacy",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Quanto \u00e8 solido il regime iraniano ?",
-          "link": "https://www.ilpost.it/2026/01/16/regime-iran-forte-debole/?homepagePosition=26.2&referrerPost=3523612",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0395\u03c6\u03b9\u03ba\u03c4\u03ae \u03bc\u03b9\u03b1 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b7 \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7 \u03c0\u03c1\u03b9\u03bd \u03c4\u03b9\u03c2 \u03bd\u03ad\u03b5\u03c2 \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03af\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
-          "link": "https://dialogos.com.cy/efikti-mia-symfonia-dilonei-i-techerani-prin-tis-nees-synomilies-me-tis-ipa/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Top moments and takeaways from Trump State of the Union",
-          "link": "https://foxreno.com/news/nation-world/top-moments-and-takeaways-from-president-donald-trumps-state-of-the-union-immigration-crackdown-inflation-cost-of-living-affordability-team-usa-medal-of-freedom-politics-ai-iran-nuclear-deal",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump claims Iran working on missiles that could hit US",
-          "link": "https://www.standardmedia.co.ke/world/article/2001541684/trump-claims-iran-working-on-missiles-that-could-hit-us",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "As war looms , indicted al - Qaeda chief has been under Iranian regime protection for years",
-          "link": "https://justthenews.com/government/security/war-looms-indicted-al-qaeda-chief-has-been-under-iranian-regime-protection-many",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "EUA e Ir\u00e3 em rota de colis\u00e3o",
-          "link": "https://www.estadao.com.br/opiniao/eua-e-ira-em-rota-de-colisao/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump : Ir\u00e1n vyv\u00edja rakety , ktor\u00fdmi m\u00f4\u017ee zasiahnu\u0165 united states",
-          "link": "https://www1.pluska.sk/spravy/chaos-pocas-prejavu-donald-trump-varuje-pred-iranom-zasahovala-ochranka",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Top moments and takeaways from Trump State of the Union",
-          "link": "https://krcgtv.com/news/connect-to-congress/top-moments-and-takeaways-from-president-donald-trumps-state-of-the-union-immigration-crackdown-inflation-cost-of-living-affordability-team-usa-medal-of-freedom-politics-ai-iran-nuclear-deal",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd : \u03a5\u03c0\u03cc \u03ba\u03c1\u03ac\u03c4\u03b7\u03c3\u03b7 \u0399\u03ac\u03c0\u03c9\u03bd\u03b1\u03c2 \u03c5\u03c0\u03ae\u03ba\u03bf\u03bf\u03c2 \u2013 \u03a4\u03bf \u03a4\u03cc\u03ba\u03b9\u03bf \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5\u03af \u03c4\u03b7\u03bd \u03ac\u03bc\u03b5\u03c3\u03b7 \u03b1\u03c0\u03b5\u03bb\u03b5\u03c5\u03b8\u03ad\u03c1\u03c9\u03c3\u03ae \u03c4\u03bf\u03c5",
-          "link": "https://www.kathimerini.gr/world/564094768/iran-ypo-kratisi-iaponas-ypikoos-to-tokio-apaitei-tin-amesi-apeleytherosi-toy/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump :  Iran non avr\u00e0 mai arma nucleare , non lo permetto",
-          "link": "https://tuttoggi.info/trump-iran-non-avra-mai-arma-nucleare-non-lo-permetto/977314/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Bad news for Starmer as Trump thanked for opposing  appalling  Chagos move | Politics | News",
-          "link": "https://www.express.co.uk/news/politics/2175091/trump-white-house-thanked-chagos-surrender",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump hails economic  turnaround  and threatens Iran in longest ever State of the Union \u2013 The Times Of Earth",
-          "link": "https://www.timesofearth.com/2026/02/25/trump-hails-economic-turnaround-and-threatens-iran-in-longest-ever-state-of-the-union/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0397 CIA \u03ba\u03b1\u03bb\u03b5\u03af \u0399\u03c1\u03b1\u03bd\u03bf\u03cd\u03c2 \u03c5\u03c0\u03bf\u03c8\u03ae\u03c6\u03b9\u03bf\u03c5\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03bf\u03b4\u03cc\u03c4\u03b5\u03c2 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03ae\u03c3\u03bf\u03c5\u03bd \u03bc\u03b1\u03b6\u03af \u03c4\u03b7\u03c2 \u03b5\u03bd \u03bc\u03ad\u03c3\u03c9 \u03c4\u03c9\u03bd \u03b1\u03c0\u03b5\u03b9\u03bb\u03ce\u03bd \u03a4\u03c1\u03b1\u03bc\u03c0 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b7\u03bd \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7",
-          "link": "https://www.inewsgr.com/184/i-CIA-kalei-iranous-ypopsifious--pliroforiodotes-na-epikoinonisoun-mazi-tis-en-meso-ton-apeilon-trab-pros-tin-techerani.htm",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran Warns Against External Interference in the Region , Says Defense Ministry \u2022 MassisPost",
-          "link": "https://massispost.com/2026/02/iran-warns-against-external-interference-in-the-region-says-defense-ministry/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "DECRYPTAGE . Iran\u00a0 : quelles cons\u00e9quences sur les prix du p\u00e9trole et des carburants\u00a0auraient une attaque des Etats - Unis\u00a0 ?",
-          "link": "https://www.ladepeche.fr/2026/02/25/decryptage-iran-quelles-consequences-sur-les-prix-du-petrole-et-des-carburants-auraient-une-attaque-des-etats-unis-13242149.php",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0422\u0440\u0430\u043c\u043f : \u0418\u0440\u0430\u043d \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u0440\u0430\u043a\u0435\u0442\u044b , \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u044b\u0435 \u0434\u043e\u043b\u0435\u0442\u0435\u0442\u044c \u0434\u043e \u0421\u0428\u0410",
-          "link": "https://vesti.az/v-mire/tramp-iran-razrabatyvaet-rakety-sposobnye-doletet-do-ssa-580518",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran siap berunding dengan AS demi kesepakatan nuklir adil dan setara",
-          "link": "https://www.antaranews.com/berita/5436866/iran-siap-berunding-dengan-as-demi-kesepakatan-nuklir-adil-dan-setara",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "India PM Narendra Modi heads to Israel to  strengthen cooperation",
-          "link": "https://www.standardmedia.co.ke/world/article/2001541683/india-pm-modi-heads-to-israel-to-strengthen-cooperation",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 \u03c3\u03c4\u03bf \u039a\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf : \u00ab \u0397 \u03c7\u03ce\u03c1\u03b1 \u03bc\u03b1\u03c2 \u03b5\u03c0\u03ad\u03c3\u03c4\u03c1\u03b5\u03c8\u03b5 - \u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c8\u03c9 \u03c0\u03bf\u03c4\u03ad \u03c3\u03c4\u03bf \u0399\u03c1\u03ac\u03bd \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03b5\u03b9 \u03c0\u03c5\u03c1\u03b7\u03bd\u03b9\u03ba\u03cc \u03cc\u03c0\u03bb\u03bf \u00bb",
-          "link": "https://www.dnews.gr/eidhseis/kosmos/574467/tramp-sto-kogkreso-i-xora-mas-epestrepse-den-tha-epitrepso-pote-sto-iran-na-apoktisei-pyriniko-oplo",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "12 Jet Tempur AS Mendarat di Israel , Ada Armada Paling Canggih di Dunia",
-          "link": "https://internasional.kompas.com/read/2026/02/25/132000370/12-jet-tempur-as-mendarat-di-israel-ada-armada-paling-canggih-di-dunia",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump uses longest - ever State of the Union to try to convince voters that US is  winning so much",
-          "link": "https://www.springfieldnewssun.com/news/nation-world/trump-uses-longest-ever-state-of-the-union-to-try-to-convince-voters-that-us-is-winning-so-much/WK72CU23XBM7HNTTKUOR55S4G4/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Japan demands the swift release of a Japanese national detained in Iran \u2013 Brandon Sun",
-          "link": "https://www.brandonsun.com/world/2026/02/24/japan-demands-the-swift-release-of-a-japanese-national-detained-in-iran",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0627\u06cc\u0631\u0627\u0646 \u062f\u0631 \u0631\u0633\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0627\u0633\u067e\u0627\u0646\u06cc\u0627 \u061b \u0633\u0631\u06a9\u0648\u0628 \u060c \u0633\u0627\u06cc\u0647 \u062c\u0646\u06af \u0648 \u0628\u0627\u0632\u06af\u0634\u062a \u0646\u0627\u0645 \u067e\u0647\u0644\u0648\u06cc",
-          "link": "https://www.bbc.com/persian/articles/c3rz4dnne8wo",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u062a\u0647\u062f\u062f \u0628\u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0627\u0644\u0628\u0646\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u064a\u0629 \u0641\u064a \u0644\u0628\u0646\u0627\u0646",
-          "link": "https://www.3yonnews.com/1960265",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "CIAden \u0130ran halk\u0131na ileti\u015fime ge\u00e7me \u00e7a\u011fr\u0131s\u0131",
-          "link": "https://tr.euronews.com/2026/02/25/ciaden-iran-halkina-iletisime-gecme-cagrisi",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Were winning so much . Trump State of the Union seeks to calm economic jitters ahead of midterms \u2013 Butler Eagle",
-          "link": "https://www.butlereagle.com/20260224/were-winning-so-much-trumps-state-of-the-union-seeks-to-calm-economic-jitters-ahead-of-midterms/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump a dezv\u0103luit pentru prima dat\u0103 num\u0103rul uria\u0219 de mor\u021bi \u00een urma revoltei s\u00e2ngeroase din Iran . \u201e Ei \u00ee\u0219i urm\u0103resc din nou ambi\u021biile sinistre",
-          "link": "https://protv.md/international/trump-a-dezvaluit-pentru-prima-data-numarul-urias-de-morti-in-urma-revoltei-sangeroase-din-iran-ei-isi-urmaresc-din-nou-ambitiile-sinistre---2751553.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump dice que Ir\u00e1n sigue sin renegar de un  arma nuclear  y que  nunca lo permitir\u00e1",
-          "link": "https://www.huffingtonpost.es/global/trump-dicean-sigue-renegar-arma-nuclear-nunca-permitirabr-f202602.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Top moments and takeaways from Trump State of the Union",
-          "link": "https://mynews4.com/news/connect-to-congress/top-moments-and-takeaways-from-president-donald-trumps-state-of-the-union-immigration-crackdown-inflation-cost-of-living-affordability-team-usa-medal-of-freedom-politics-ai-iran-nuclear-deal",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Atom - Konflikt : Grter Flugzeugtr\u00e4ger der Welt erreicht Kreta",
-          "link": "https://www.focus.de/politik/ausland/atom-konflikt-groesster-flugzeugtraeger-der-welt-erreicht-kreta_38899722-7b96-4810-8b84-4609d563ee3e.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump a Ir\u00e1n :  Prefiero resolver este problema por la v\u00eda diplom\u00e1tica , pero jam\u00e1s permitir\u00e9 que el principal patrocinador mundial del terrorismo tenga un arma nuclear",
-          "link": "https://www.elmundo.es/internacional/2026/02/25/699e924efc6c832d4c8b45b1.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "State of the Union : Trump : Werden keine iranische Atombombe zulassen",
-          "link": "https://www.handelsblatt.com/dpa/state-of-the-union-trump-werden-keine-iranische-atombombe-zulassen/100203137.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US F - 22 fighter planes have landed in Israel : Report",
-          "link": "https://economictimes.indiatimes.com/news/defence/us-f-22-fighter-planes-have-landed-in-israel-report/articleshow/128771531.cms",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "CIA publica gu\u00eda en farsi para contactar desde Ir\u00e1n",
-          "link": "https://www.aurora-israel.co.il/cia-guia-farsi-contacto-iran/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Top moments and takeaways from Trump State of the Union",
-          "link": "https://ktul.com/news/connect-to-congress/top-moments-and-takeaways-from-president-donald-trumps-state-of-the-union-immigration-crackdown-inflation-cost-of-living-affordability-team-usa-medal-of-freedom-politics-ai-iran-nuclear-deal",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0627\u06cc\u0631\u0627\u0646 \u062c\u0644\u062f \u0627\u06cc\u0633\u06d2 \u0645\u06cc\u0632\u0627\u0626\u0644 \u0628\u0646\u0627\u0644\u06d2 \u06af\u0627 \u062c\u0648 \u0627\u0645\u0631\u06cc\u06a9\u0627 \u062a\u06a9 \u067e\u06c1\u0646\u0686\u06cc\u06ba \u06af\u06d2 \u060c \u0679\u0631\u0645\u067e",
-          "link": "https://www.express.pk/story/2802139/trump-warns-iran-missiles-could-reach-us-2802139",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0421\u0428\u0410 \u0436\u0434\u0443\u0442 \u043e\u0442 \u0418\u0440\u0430\u043d\u0430  \u0437\u0430\u0432\u0435\u0442\u043d\u044b\u0445 \u0441\u043b\u043e\u0432  \u043e\u0431 \u043e\u0442\u043a\u0430\u0437\u0435 \u043e\u0442 \u044f\u0434\u0435\u0440\u043d\u043e\u0433\u043e \u043e\u0440\u0443\u0436\u0438\u044f",
-          "link": "https://vestikavkaza.ru/news/ssa-zdut-ot-irana-zavetnyh-slov-ob-otkaze-ot-adernogo-oruzia.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump uses longest - ever State of the Union to convince voters U . S . is  winning so much",
-          "link": "https://www.dallasnews.com/news/politics/2026/02/24/trump-uses-longest-ever-state-of-the-union-to-convince-voters-us-is-winning-so-much/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "State of the Union offers Trump chance to discuss foreign policy",
-          "link": "https://www.sbsun.com/2026/02/24/state-of-the-union-trump-foreign-policy/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Geopolitinis pokeris Artimuosiuose Rytuose : ar JAV galios demonstravimas taps lemtinga klaida ?",
-          "link": "https://ve.lt/pasaulis/geopolitinis-pokeris-artimuosiuose-rytuose-ar-jav-galios-demonstravimas-taps-lemtinga",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump uses longest - ever State of the Union to try to convince voters that US is  winning so much",
-          "link": "https://www.journal-news.com/news/nation-world/trump-uses-longest-ever-state-of-the-union-to-try-to-convince-voters-that-us-is-winning-so-much/WK72CU23XBM7HNTTKUOR55S4G4/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "USA : Trump vante \u00ab un redressement historique \u00bb de lAm\u00e9rique",
-          "link": "https://www.rtn.ch/rtn/Actualite/economie/USA-Trump-vante-un-redressement-historique-de-l-Amerique.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0413\u043b\u0430\u0432\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043a \u0443\u0442\u0440\u0443 25 \u0444\u0435\u0432\u0440\u0430\u043b\u044f",
-          "link": "https://www.kommersant.ru/doc/8461930",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Why a US - Iran war would be nothing like Iraq 2003 - 5 strategic consequences",
-          "link": "https://www.theweek.in/news/middle-east/2026/02/25/why-a-us-iran-war-would-be-nothing-like-iraq-2003-5-strategic-consequences.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u30a4\u30e9\u30f3\u5f53\u5c40\u304c\u65e5\u672c\u4eba\uff11\u4eba\u62d8\u675f \uff2e\uff28\uff2b\u306e\u652f\u5c40\u9577\u3068\u5831\u9053 : \u56fd\u969b : \u798f\u5cf6\u6c11\u53cb\u65b0\u805e\u793e",
-          "link": "https://www.minyu-net.com/newspack/detail/2026022501001608",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump warns Iran in State of the Union address , says would  never  allow it to develop nuclear weapon",
-          "link": "https://aninews.in/news/world/us/trump-warns-iran-in-state-of-the-union-address-says-would-never-allow-it-to-develop-nuclear-weapon20260225095526/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a5\u03c0\u03ae\u03ba\u03bf\u03bf\u03c2 \u0399\u03b1\u03c0\u03c9\u03bd\u03af\u03b1\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03c6\u03c5\u03bb\u03b1\u03ba\u03b9\u03c3\u03c4\u03b5\u03af \u03c3\u03c4\u03bf \u0399\u03c1\u03ac\u03bd - \u03a4\u03bf \u03a4\u03cc\u03ba\u03b9\u03bf \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5\u03af \u03c4\u03b7\u03bd \u03ac\u03bc\u03b5\u03c3\u03b7 \u03b1\u03c0\u03b5\u03bb\u03b5\u03c5\u03b8\u03ad\u03c1\u03c9\u03c3\u03ae \u03c4\u03bf\u03c5",
-          "link": "https://www.inewsgr.com/184/ypikoos-iaponias-echei-fylakistei-sto-iran--to-tokio-apaitei-tin-amesi-apeleftherosi-tou.htm",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -1023,116 +672,74 @@
   ],
   "iran": [
     {
-      "title": "Trump says preference is to solve Iran tensions through diplomacy",
-      "link": "https://www.aljazeera.com/news/2026/2/25/trump-says-preference-is-to-solve-iran-tensions-through-diplomacy?traffic_source=rss",
-      "summary": "Trump strikes belligerent tone on Iran during State of the Union, but says he would prefer a diplomatic solution.",
-      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-    },
-    {
-      "title": "Key takeaways from Trump\u2019s State of the Union speech",
-      "link": "https://www.aljazeera.com/news/2026/2/25/trumps-state-of-the-union-touts-economic-turnaround-as-approval-slumps?traffic_source=rss",
-      "summary": "Trump's hardline stance on Iran and nuclear weapons, alongside foreign policy moves, dominate key moments of his speech.",
-      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-    },
-    {
-      "title": "Trump prefers to solve the Iran crisis through diplomacy",
-      "link": "https://www.omanobserver.om/article/1185017/world/region/trump-prefers-to-solve-the-iran-crisis-through-diplomacy",
+      "title": "Iran altri 12 F - 22 Raptor united states  parcheggiati  in Israele Decine di caccia e aerei cisterna pronti La USS G Ford si avvicina",
+      "link": "https://www.zazoom.it/2026-02-25/iran-altri-12-f-22-raptor-usa-parcheggiati-in-israele-decine-di-caccia-e-aerei-cisterna-pronti-la-uss-g-ford-si-avvicina/18723392/",
       "summary": "",
-      "source": "GDELT: iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Quanto \u00e8 solido il regime iraniano ?",
-      "link": "https://www.ilpost.it/2026/01/16/regime-iran-forte-debole/?homepagePosition=26.2&referrerPost=3523612",
+      "title": "Iran dismisses missile , nuclear claims after Trump alleges  sinister ambitions",
+      "link": "https://www.hometownregister.com/news/national/iran-dismisses-missile-nuclear-claims-after-trump-alleges-sinister-ambitions/article_8aba9303-118d-5a3a-bbaf-7f15ff1e01c8.html",
       "summary": "",
-      "source": "GDELT: iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump claims Iran working on missiles that could hit US",
-      "link": "https://www.standardmedia.co.ke/world/article/2001541684/trump-claims-iran-working-on-missiles-that-could-hit-us",
+      "title": "\u0218edin\u021b\u0103 ultra - secret\u0103 , la cel mai \u00eenalt nivel la Casa Alb\u0103 : S - au luat deciziile privitoare la Iran",
+      "link": "https://www.stiripesurse.ro/sedinta-ultra-secreta-la-cel-mai-inalt-nivel-la-casa-alba-s-au-luat-deciziile-privitoare-la-iran_3862409",
       "summary": "",
-      "source": "GDELT: iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "As war looms , indicted al - Qaeda chief has been under Iranian regime protection for years",
-      "link": "https://justthenews.com/government/security/war-looms-indicted-al-qaeda-chief-has-been-under-iranian-regime-protection-many",
+      "title": "Trump - Kenner : Bei Iran macht Pr\u00e4sident indirektes Gest\u00e4ndnis",
+      "link": "https://www.focus.de/politik/ausland/trump-kenner-bei-iran-macht-praesident-indirektes-gestaendnis_0b07d4a6-54c6-4267-a90d-ad0a6add8d42.html",
       "summary": "",
-      "source": "GDELT: iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump :  Iran non avr\u00e0 mai arma nucleare , non lo permetto",
-      "link": "https://tuttoggi.info/trump-iran-non-avra-mai-arma-nucleare-non-lo-permetto/977314/",
+      "title": "Modi Israel Visit Iran Us Confict , \u0908\u0930\u093e\u0928 \u092a\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0939\u092e\u0932\u0947 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0907\u091c\u0930\u093e\u092f\u0932 \u0915\u0947 \u0926\u094c\u0930\u0947 \u092a\u0930 \u092a\u0940\u090f\u092e \u092e\u094b\u0926\u0940 , \u0915\u094d\u200d\u092f\u093e \u0924\u0947\u0939\u0930\u093e\u0928 \u0915\u094b \u0939\u0948 \u0938\u0940\u0927\u093e \u0938\u0902\u0926\u0947\u0936 , \u0938\u092e\u091d\u0947\u0902 - pm modi in israel ahead of us iran conflict has delhi chosen its side a message to tehran - Uae News",
+      "link": "https://navbharattimes.indiatimes.com/world/uae/pm-modi-in-israel-ahead-of-us-iran-conflict-has-delhi-chosen-its-side-a-message-to-tehran/articleshow/128775453.cms",
       "summary": "",
-      "source": "GDELT: iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump hails economic  turnaround  and threatens Iran in longest ever State of the Union \u2013 The Times Of Earth",
-      "link": "https://www.timesofearth.com/2026/02/25/trump-hails-economic-turnaround-and-threatens-iran-in-longest-ever-state-of-the-union/",
+      "title": "Iran says students must respect  red line after protests",
+      "link": "https://www.suncommercial.com/brazil_times/news/national/article_bfe0f9d2-44c0-5c66-98bc-f1c4df3ed0e0.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran Warns Against External Interference in the Region , Says Defense Ministry \u2022 MassisPost",
-      "link": "https://massispost.com/2026/02/iran-warns-against-external-interference-in-the-region-says-defense-ministry/",
+      "title": "Iran dismisses missile , nuclear claims after Trump alleges  sinister ambitions",
+      "link": "https://www.elpasoinc.com/news/national/iran-dismisses-missile-nuclear-claims-after-trump-alleges-sinister-ambitions/article_80e4172a-9d38-5298-a230-d8e55fcb77fc.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "DECRYPTAGE . Iran\u00a0 : quelles cons\u00e9quences sur les prix du p\u00e9trole et des carburants\u00a0auraient une attaque des Etats - Unis\u00a0 ?",
-      "link": "https://www.ladepeche.fr/2026/02/25/decryptage-iran-quelles-consequences-sur-les-prix-du-petrole-et-des-carburants-auraient-une-attaque-des-etats-unis-13242149.php",
+      "title": "Il lungo discorso di Trump sullo Stato dell  Unione | L  Iran ha missili in grado di colpire l  Europa",
+      "link": "https://www.zazoom.it/2026-02-25/il-lungo-discorso-di-trump-sullo-stato-dellunione-liran-ha-missili-in-grado-di-colpire-leuropa/18723419/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran siap berunding dengan AS demi kesepakatan nuklir adil dan setara",
-      "link": "https://www.antaranews.com/berita/5436866/iran-siap-berunding-dengan-as-demi-kesepakatan-nuklir-adil-dan-setara",
+      "title": "Trump pare s\u0103 fi decis soarta Iranului - Temutele F - 22 Raptor au decolat c\u0103tre Orientul Mijlociu",
+      "link": "https://www.stiripesurse.ro/trump-pare-sa-fi-decis-soarta-iranului-temutele-f-22-raptor-au-decolat-catre-orientul-mijlociu_3862240",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Japan demands the swift release of a Japanese national detained in Iran \u2013 Brandon Sun",
-      "link": "https://www.brandonsun.com/world/2026/02/24/japan-demands-the-swift-release-of-a-japanese-national-detained-in-iran",
+      "title": "Iran dismisses missile , nuclear claims after Trump alleges  sinister ambitions",
+      "link": "https://www.hometownregister.com/news/national/iran-dismisses-missile-nuclear-claims-after-trump-alleges-sinister-ambitions/article_8b5732ef-83de-5f33-80ed-f2f78fd20eee.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Trump a dezv\u0103luit pentru prima dat\u0103 num\u0103rul uria\u0219 de mor\u021bi \u00een urma revoltei s\u00e2ngeroase din Iran . \u201e Ei \u00ee\u0219i urm\u0103resc din nou ambi\u021biile sinistre",
-      "link": "https://protv.md/international/trump-a-dezvaluit-pentru-prima-data-numarul-urias-de-morti-in-urma-revoltei-sangeroase-din-iran-ei-isi-urmaresc-din-nou-ambitiile-sinistre---2751553.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "State of the Union : Trump : Werden keine iranische Atombombe zulassen",
-      "link": "https://www.handelsblatt.com/dpa/state-of-the-union-trump-werden-keine-iranische-atombombe-zulassen/100203137.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Why a US - Iran war would be nothing like Iraq 2003 - 5 strategic consequences",
-      "link": "https://www.theweek.in/news/middle-east/2026/02/25/why-a-us-iran-war-would-be-nothing-like-iraq-2003-5-strategic-consequences.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Trump warns Iran in State of the Union address , says would  never  allow it to develop nuclear weapon",
-      "link": "https://aninews.in/news/world/us/trump-warns-iran-in-state-of-the-union-address-says-would-never-allow-it-to-develop-nuclear-weapon20260225095526/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
