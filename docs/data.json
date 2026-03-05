@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-03-05T13:12:34Z",
+  "generated_at": "2026-03-05T15:55:15Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
+        {
+          "title": "First UK government flight departs Middle East after delay",
+          "link": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss",
+          "summary": "The plane was due to leave Oman on Wednesday but remained grounded due to problems getting passengers on board.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
         {
           "title": "Checkpoints everywhere and queues for bread: Fear in Iran as US-Israeli strikes intensify",
           "link": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&at_campaign=rss",
@@ -13,7 +20,7 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Cyprus criticises UK's response to drone attack ahead of Healey visit",
+          "title": "Healey visits Cyprus after criticism of UK response to drone attacks",
           "link": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&at_campaign=rss",
           "summary": "The Cypriot government has criticised how the UK has handled information sharing after drone attacks.",
           "source": "BBC News",
@@ -32,13 +39,6 @@
           "summary": "The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "In maps: Six days of strikes across the Middle East",
-          "link": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Israel has continued strikes across Iran and Lebanon as Donald Trump warns action could continue for weeks",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
       ]
     },
@@ -47,9 +47,16 @@
       "source_url": "https://feeds.bbci.co.uk/persian/rss.xml",
       "items": [
         {
-          "title": "\u0648\u0642\u0648\u0639 \u0627\u0646\u0641\u062c\u0627\u0631\u0647\u0627\u06cc \u0645\u0647\u06cc\u0628 \u062f\u0631 \u062a\u0647\u0631\u0627\u0646\u061b \u062d\u0645\u0644\u0627\u062a \u0645\u062a\u0642\u0627\u0628\u0644 \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0648 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0645\u0646\u0637\u0642\u0647",
+          "title": "\u0627\u06cc\u0631\u0627\u0646 \u062d\u0645\u0644\u0647 \u067e\u0647\u067e\u0627\u062f\u06cc \u0628\u0647 \u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646 \u0631\u0627 \u062a\u06a9\u0630\u06cc\u0628 \u06a9\u0631\u062f\u061b \u0639\u0644\u06cc\u200c\u0627\u0641 \u0627\u06cc\u0631\u0627\u0646 \u0631\u0627 \u0628\u0647 \u00ab\u062a\u0631\u0648\u0631\u06cc\u0633\u0645\u00bb \u0645\u062a\u0647\u0645 \u06a9\u0631\u062f",
           "link": "https://www.bbc.co.uk/persian/live/cpv8878mpvjt?at_medium=RSS&at_campaign=rss",
-          "summary": "\u062f\u0631 \u0634\u0634\u0645\u06cc\u0646 \u0631\u0648\u0632 \u0627\u0632 \u062d\u0645\u0644\u0627\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0628\u0647 \u0627\u06cc\u0631\u0627\u0646\u060c \u0627\u0646\u0641\u062c\u0627\u0631\u0647\u0627\u06cc \u0645\u062a\u0639\u062f\u062f \u0648 \u0645\u0647\u06cc\u0628 \u062f\u0631 \u062a\u0647\u0631\u0627\u0646 \u0648 \u062f\u06cc\u06af\u0631 \u0634\u0647\u0631\u0647\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0631\u062e \u062f\u0627\u062f\u0647 \u0627\u0633\u062a. \u0633\u062a\u0648\u0646\u200c\u0647\u0627\u06cc \u062f\u0648\u062f \u0622\u0633\u0645\u0627\u0646 \u062a\u0647\u0631\u0627\u0646 \u0631\u0627 \u0641\u0631\u0627 \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u062a. \u0634\u0647\u0631 \u06a9\u0631\u062c \u062f\u0631 \u063a\u0631\u0628 \u062a\u0647\u0631\u0627\u0646 \u0647\u0645 \u0628\u0627\u0631 \u062f\u06cc\u06af\u0631 \u0635\u0628\u062d \u067e\u0646\u062c\u0634\u0646\u0628\u0647 \u0647\u062f\u0641 \u062d\u0645\u0644\u0627\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627\u2026",
+          "summary": "\u062f\u0631 \u0634\u0634\u0645\u06cc\u0646 \u0631\u0648\u0632 \u062c\u0646\u06af \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0628\u0627 \u0627\u06cc\u0631\u0627\u0646\u060c \u062d\u0645\u0644\u0627\u062a \u0633\u0646\u06af\u06cc\u0646 \u0628\u0647 \u062a\u0647\u0631\u0627\u0646 \u0648 \u062f\u06cc\u06af\u0631 \u0634\u0647\u0631\u0647\u0627 \u0648 \u062d\u0645\u0644\u0627\u062a \u0645\u062a\u0642\u0627\u0628\u0644 \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0648 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0645\u0646\u0637\u0642\u0647 \u0627\u062f\u0627\u0645\u0647 \u062f\u0627\u0631\u062f. \u0631\u0648\u0632 \u067e\u0646\u062c\u0634\u0646\u0628\u0647 \u062f\u0631 \u067e\u06cc \u0627\u0635\u0627\u0628\u062a \u06cc\u06a9 \u067e\u0647\u067e\u0627\u062f \u0628\u0647 \u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u062e\u062c\u0648\u0627\u0646 \u062f\u0631 \u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646\u060c \u0633\u062a\u0627\u062f\u06a9\u0644 \u0646\u06cc\u2026",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u062e\u0648\u06cc\u0634\u0627\u0648\u0646\u062f\u0627\u0646 \u0639\u0644\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc \u0648 \u0634\u0628\u06a9\u0647 \u062e\u0627\u0646\u0648\u0627\u062f\u06af\u06cc \u062a\u0627\u062b\u06cc\u0631\u06af\u0630\u0627\u0631\u062a\u0631\u06cc\u0646 \u062e\u0627\u0646\u062f\u0627\u0646 \u0633\u06cc\u0627\u0633\u06cc \u0627\u06cc\u0631\u0627\u0646",
+          "link": "https://www.bbc.com/persian/articles/cvg331y3ne0o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0627\u0646\u062a\u0634\u0627\u0631 \u062e\u0628\u0631 \u06a9\u0634\u062a\u0647 \u0634\u062f\u0646 \u0628\u0631\u062e\u06cc \u0627\u0639\u0636\u0627\u06cc \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u0639\u0644\u06cc \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc\u060c \u0646\u06af\u0627\u0647\u200c\u0647\u0627 \u0631\u0627 \u0628\u0647 \u062c\u0627\u06cc\u06af\u0627\u0647\u060c \u0648\u0627\u0628\u0633\u062a\u06af\u06cc \u0633\u06cc\u0627\u0633\u06cc \u0648 \u0631\u0648\u0627\u0628\u0637 \u062e\u0648\u06cc\u0634\u0627\u0648\u0646\u062f\u06cc \u0627\u0648 \u0628\u0627 \u062e\u0627\u0646\u0648\u0627\u062f\u0647\u200c\u0647\u0627\u06cc \u0628\u0627\u0646\u0641\u0648\u0630 \u0627\u06cc\u0631\u0627\u0646 \u062c\u0644\u0628 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u062f\u0631 \u0627\u06cc\u0646 \u0645\u0637\u0644\u0628 \u0627\u0637\u0644\u0627\u0639\u0627\u062a\u06cc \u06a9\u0647 \u0628\u0647 \u0635\u0648\u0631\u062a \u0639\u0645\u0648\u0645\u06cc \u062f\u0631\u0628\u0627\u0631\u0647 \u0627\u0639\u0636\u0627\u06cc \u062e\u0627\u0646\u0648\u0627\u062f\u0647 \u0639\u0644\u06cc \u062e\u0627\u0645\u0646\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
@@ -73,13 +80,6 @@
           "summary": "\u062d\u0645\u0644\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0628\u0647 \u0627\u06cc\u0631\u0627\u0646 \u0648 \u06af\u0633\u062a\u0631\u0634 \u062f\u0631\u06af\u06cc\u0631\u06cc\u200c\u0647\u0627 \u062f\u0631 \u062e\u0627\u0648\u0631\u0645\u06cc\u0627\u0646\u0647\u060c \u062d\u0631\u06cc\u0645\u200c\u0647\u0627\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0631\u0627 \u0628\u0633\u062a\u0647\u060c \u0641\u0631\u0648\u062f\u06af\u0627\u0647\u200c\u0647\u0627 \u0631\u0627 \u0645\u062e\u062a\u0644 \u06a9\u0631\u062f\u0647 \u0648 \u0647\u0634\u062f\u0627\u0631\u0647\u0627\u06cc \u0633\u0641\u0631 \u0631\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a. \u0648\u0636\u0639\u06cc\u062a \u062f\u0631 \u0647\u0631 \u06cc\u06a9 \u0627\u0632 \u06a9\u0634\u0648\u0631\u0647\u0627 \u067e\u06cc\u0686\u06cc\u062f\u0647 \u0648 \u0628\u0647 \u0633\u0631\u0639\u062a \u062f\u0631 \u062d\u0627\u0644 \u062a\u063a\u06cc\u06cc\u0631 \u0627\u0633\u062a \u0648 \u06af\u0627\u0647 \u062d\u062a\u06cc \u062f\u0631 \u0641\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u0646\u062e\u0633\u062a\u200c\u0648\u0632\u06cc\u0631 \u0627\u0633\u067e\u0627\u0646\u06cc\u0627\u060c \u062f\u0631 \u0648\u0627\u06a9\u0646\u0634 \u0628\u0647 \u062a\u0647\u062f\u06cc\u062f \u062a\u0631\u0627\u0645\u067e \u0628\u0631\u0627\u06cc \u0642\u0637\u0639 \u062a\u062c\u0627\u0631\u062a \u06af\u0641\u062a: \u00ab\u0646\u0647 \u0628\u0647 \u062c\u0646\u06af\u00bb",
-          "link": "https://www.bbc.com/persian/articles/c4g00p0gzmeo?at_medium=RSS&at_campaign=rss",
-          "summary": "\u067e\u062f\u0631\u0648 \u0633\u0627\u0646\u0686\u0632 \u0628\u0627 \u062a\u0627\u06a9\u06cc\u062f \u062f\u0648\u0628\u0627\u0631\u0647 \u0628\u0631 \u0645\u062e\u0627\u0644\u0641\u062a \u062e\u0648\u062f \u0628\u0627 \u062c\u0646\u06af \u0648 \u0622\u0646\u0686\u0647 \u00ab\u0641\u0631\u0648\u067e\u0627\u0634\u06cc \u062d\u0642\u0648\u0642 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u00bb \u062e\u0648\u0627\u0646\u062f\u060c \u067e\u0627\u0633\u062e\u06cc \u062a\u0646\u062f \u0628\u0647 \u062a\u0647\u062f\u06cc\u062f \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e\u060c \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627\u060c \u0628\u0631\u0627\u06cc \u067e\u0627\u06cc\u0627\u0646 \u062f\u0627\u062f\u0646 \u0628\u0647 \u062a\u062c\u0627\u0631\u062a \u0628\u0627 \u0627\u0633\u067e\u0627\u0646\u06cc\u0627 \u062f\u0627\u062f. \u0646\u062e\u0633\u062a\u200c\u0648\u0632\u06cc\u0631 \u0627\u0633\u067e\u0627\u0646\u06cc\u0627 \u062f\u0631 \u06cc\u06a9 \u0633\u062e\u0646\u0631\u0627\u0646\u06cc \u062a\u0644\u0648\u06cc\u0632\u06cc\u0648\u2026",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         }
       ]
     },
@@ -88,7 +88,7 @@
       "source_url": "https://ir.voanews.com/api/zbtpil-vomx-tpeqiyp",
       "items": [
         {
-          "title": "\ud83d\udd34 \u062a\u0631\u0627\u0645\u067e: \u0647\u0631 \u06a9\u0633 \u0628\u062e\u0648\u0627\u0647\u062f \u0631\u0647\u0628\u0631 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0634\u0648\u062f\u060c \u062f\u0631 \u0646\u0647\u0627\u06cc\u062a \u06a9\u0634\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f",
+          "title": "\ud83d\udd34 \u0641\u0648\u0631\u06cc: \u062f\u0648\u0644\u062a \u0644\u0628\u0646\u0627\u0646: \u0627\u0639\u0636\u0627\u06cc \u0633\u067e\u0627\u0647 \u067e\u0627\u0633\u062f\u0627\u0631\u0627\u0646 \u0631\u0627 \u0628\u0627\u0632\u062f\u0627\u0634\u062a \u0645\u06cc\u200c\u06a9\u0646\u06cc\u0645",
           "link": "https://ir.voanews.com/a/8118506.html",
           "summary": "\u0627\u0631\u062a\u0634 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u0645\u0648\u062c \u062a\u0627\u0632\u0647\u200c\u0627\u06cc \u0627\u0632 \u062d\u0645\u0644\u0627\u062a \u06af\u0633\u062a\u0631\u062f\u0647 \u0639\u0644\u06cc\u0647 \u0627\u0647\u062f\u0627\u0641 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u062f\u0631 \u062a\u0647\u0631\u0627\u0646 \u0622\u063a\u0627\u0632 \u0634\u062f\u0647 \u0648 \u0628\u0647 \u06af\u0641\u062a\u0647 \u0633\u062e\u0646\u06af\u0648\u06cc \u0627\u06cc\u0646 \u0627\u0631\u062a\u0634\u060c \u00ab\u062f\u0647\u0645\u06cc\u0646 \u0645\u0648\u062c \u062d\u0645\u0644\u0627\u062a\u00bb \u0628\u0647 \u067e\u0627\u06cc\u062a\u062e\u062a \u0627\u06cc\u0631\u0627\u0646 \u062f\u0631 \u062c\u0631\u06cc\u0627\u0646 \u0627\u0633\u062a.",
           "source": "\u062e\u0628\u0631 \u0627\u0648\u0644 - \u0635\u062f\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
@@ -134,6 +134,20 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "Judge Orders Government to Begin Refunding More Than $130B in Tariffs",
+          "link": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "Google Safe Browsing missed 84% of phishing sites we found in February",
+          "link": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
           "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
           "summary": "Comments",
@@ -141,29 +155,15 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
+          "title": "Fast-Servers",
+          "link": "https://geocar.sdf1.org/fast-servers.html",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "Google Workspace CLI",
           "link": "https://github.com/googleworkspace/cli",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "The L in \"LLM\" Stands for Lying",
-          "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Relicensing with AI-Assisted Rewrite",
-          "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Poor Man's Polaroid",
-          "link": "https://boxart.lt/blog/poor_mans_polaroid",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Will the US benefit from the oil crisis sparked by the war on Iran?",
-          "link": "https://www.aljazeera.com/news/2026/3/5/will-the-us-benefit-from-the-oil-crisis-sparked-by-the-war-on-iran?traffic_source=rss",
-          "summary": "Attacks on energy sites in the Gulf and disruptions in the Strait of Hormuz give Western exporters a chance to profit.",
+          "title": "Videos show destruction after US and Israeli strikes on Iran",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/videos-show-destruction-after-us-and-israeli-strikes-on-iran?traffic_source=rss",
+          "summary": "New videos show destruction across Iran after US and Israeli air strikes.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Nepal elections frame new era after youth protests toppled leaders",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/nepal-elections-frame-new-era-after-youth-protests-toppled-leaders?traffic_source=rss",
-          "summary": "Six months after youth-led protests ousted Nepal\u2019s prime minister, people in Kathmandu have been voting in election.",
+          "title": "\u2018Our children were sold off\u2019: The South Africans sent to fight Russia\u2019s war",
+          "link": "https://www.aljazeera.com/features/2026/3/5/our-children-were-sold-off-the-south-africans-sent-to-fight-russias-war?traffic_source=rss",
+          "summary": "Men 'lured' into fighting in the Ukraine war say Africans were subjected to worse treatment on the front lines.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Gaza flotilla activists confronted by Tunisian police",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/gaza-flotilla-activists-confronted-by-tunisian-police?traffic_source=rss",
-          "summary": "Global Sumud Flotilla activists say they were beaten by Tunisian police after being blocked from Sidi Bou Said port.",
+          "title": "Iran women\u2019s football team salute, sing national anthem in Asian Cup match",
+          "link": "https://www.aljazeera.com/sports/2026/3/5/iran-womens-football-team-salute-sing-national-anthem-in-asian-cup-match?traffic_source=rss",
+          "summary": "Players chose to sing the anthem before their game against Australia, in contrast to their silence during the previous tie.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Iranians get by as US, Israeli bombs rain down, internet blocked",
-          "link": "https://www.aljazeera.com/news/2026/3/5/iranians-get-by-as-us-israeli-bombs-rain-down-internet-blocked?traffic_source=rss",
-          "summary": "Officials say some water, electricity facilities damaged amid US-Israel bombing, but no widespread outages reported yet.",
+          "title": "Which Kurdish groups is the US rallying to fight Iran?",
+          "link": "https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss",
+          "summary": "US President Donald Trump has spoken to at least three Kurdish groups in Iran and Iraq in recent days.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Iran, The US, and the World Cup",
-          "link": "https://www.aljazeera.com/video/game-theory/2026/3/5/aje-onl-iran-wc_v5-050326?traffic_source=rss",
-          "summary": "The 2026 World Cup is nearly here, but Iran\u2019s spot in the tournament may be in doubt. Can sport ever be neutral?",
+          "title": "Map shows how big Iran is compared with the 50 US states",
+          "link": "https://www.aljazeera.com/news/2026/3/5/map-shows-how-big-iran-is-compared-with-the-50-us-states?traffic_source=rss",
+          "summary": "Iran is roughly the same size as Alaska, 2.5 times the size of Texas and covers about one-sixth of the US land area.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -215,6 +215,13 @@
       "source": "World news | The Guardian",
       "source_url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Lewis Hamilton sets sights on racing in an African grand prix before retiring",
+          "link": "https://www.theguardian.com/sport/2026/mar/05/lewis-hamilton-race-africa-grand-prix-retiring-formula-one-colonial",
+          "summary": "British former champion hits out at former colonial rulers \u2018I\u2019m hoping countries unite and take Africa back\u2019 Lewis Hamilton has called for a movement to \u201ctake Africa back\u201d, claiming the continent is being \u201ccontrolled\u201d b\u2026",
+          "source": "World news | The Guardian",
+          "source_url": "https://www.theguardian.com/world/rss"
+        },
         {
           "title": "South Sudan risks return to full-blown civil war as violence escalates",
           "link": "https://www.theguardian.com/world/2026/mar/03/south-sudan-risks-return-civil-war-violence-escalates",
@@ -240,13 +247,6 @@
           "title": "Rising anger over \u2018lop-sided\u2019 and \u2018immoral\u2019 US health funding pacts with African countries",
           "link": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
           "summary": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny A series of bilateral health agreements being negotiated between African countries and the administr\u2026",
-          "source": "World news | The Guardian",
-          "source_url": "https://www.theguardian.com/world/rss"
-        },
-        {
-          "title": "Two women arrested in Uganda for allegedly kissing in public could face life sentence",
-          "link": "https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws",
-          "summary": "Wendy Faith and Alesi Diana Denise were taken into custody under laws that have outraged LGBTQ+ community and rights activists Two women have been arrested and detained in Uganda after allegedly kissing in public, an ac\u2026",
           "source": "World news | The Guardian",
           "source_url": "https://www.theguardian.com/world/rss"
         }
@@ -285,9 +285,9 @@
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         },
         {
-          "title": "March (Audio) Madness! Here are the finalists in NPR's College Podcast Challenge",
-          "link": "https://www.npr.org/2026/03/05/nx-s1-5727689/npr-college-podcast-challenge-2025-finalists",
-          "summary": "From 75 campuses across 35 states, we've listened to hundreds of student entries to select the very best for NPR's College Podcast Challenge.",
+          "title": "A run for their money: Young candidates rival older incumbents in midterm fundraising",
+          "link": "https://www.npr.org/2026/03/05/nx-s1-5736533/midterms-fundraising-democrats",
+          "summary": "As a growing crop of young candidates challenge longtime Democratic incumbents, some are not just breaking through in the money race, but outraising their opponents altogether.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
@@ -296,7 +296,358 @@
     {
       "source": "GDELT: iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "UK Foreign Office issues six major Middle East travel updates on March | Travel News | Travel",
+          "link": "https://www.express.co.uk/travel/articles/2178708/uk-foreign-office-issues-six",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0679\u0631\u0645\u067e \u06a9\u06d2 \u0642\u062a\u0644 \u06a9\u0627 \u0645\u0646\u0635\u0648\u0628\u06c1 \u0627\u0648\u0631 \u06af\u0631\u0641\u062a\u0627\u0631 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u06cc \u0634\u06c1\u0631\u06cc \u0622\u0635\u0641 \u0645\u0631\u0686\u0646\u0679 \u06a9\u06cc \u0639\u062f\u0627\u0644\u062a \u0645\u06cc\u06ba \u067e\u06cc\u0634\u06cc :  \u0645\u06cc\u0631\u06d2 \u067e\u0627\u0633 \u0627\u0648\u0631 \u06a9\u0648\u0626\u06cc \u0631\u0627\u0633\u062a\u06c1 \u0646\u06c1\u06cc\u06ba \u062a\u06be\u0627",
+          "link": "https://www.bbc.com/urdu/articles/c98gg6z9e4xo",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Espa\u00f1a despliega su fragata m\u00e1s avanzada en Chipre",
+          "link": "https://www.estrelladigital.es/articulo/seguridad-defensa/espana-despliega-fragata-mas-avanzada-chipre/20260305142830442225.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a3\u03b5 \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7 \u03ba\u03b1\u03c4\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7\u03c2 \u03b7 Wall Street , \u03bc\u03b5 \u03c4\u03bf \u03b2\u03bb\u03ad\u03bc\u03bc\u03b1 \u03c3\u03c4\u03b7 \u039c\u03ad\u03c3\u03b7 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03ae",
+          "link": "https://www.bankingnews.gr/diethni/articles/860522/wall-street-apoleies-me-to-vlemma-sti-mesi-anatoli-o-s-p-0-4%20title=",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Usa una carta di credito rubata per gli acquisti denunciata 50enne nel capoluogo",
+          "link": "https://www.zazoom.it/2026-03-05/usa-una-carta-di-credito-rubata-per-gli-acquisti-denunciata-50enne-nel-capoluogo/18775407/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Stansted - Emirates flights to Dubai update amid closures",
+          "link": "https://www.gazette-news.co.uk/news/25909843.stansted---emirates-flights-dubai-update-amid-closures/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0418\u0440\u0430\u043d\u0434\u0430\u0493\u044b \u049b\u044b\u0437\u0434\u0430\u0440 \u043c\u0435\u043a\u0442\u0435\u0431\u0456\u043d\u0435 \u04d9\u0443\u0435 \u0441\u043e\u049b\u049b\u044b\u0441\u044b\u043d \u043a\u0456\u043c \u0436\u0430\u0441\u0430\u0434\u044b ?",
+          "link": "https://zhasalash.kz/news/irandagi-kizdar-mektebne-aue-sokkisin-km-zhasadi-1d7b11/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "How To Position Through A Shooting War",
+          "link": "https://www.benzinga.com/Opinion/26/03/51068072/how-to-position-through-a-shooting-war",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0424\u0440\u0430\u043d\u0446\u0456\u044f \u0434\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u0430 \u0421\u0428\u0410 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u0442\u0438 \u0457\u0457 \u0430\u0432\u0456\u0430\u0431\u0430\u0437\u0438 \u043d\u0430 \u0411\u043b\u0438\u0437\u044c\u043a\u043e\u043c\u0443 \u0421\u0445\u043e\u0434\u0456",
+          "link": "https://uainfo.org/blognews/1772707691-frantsiya-dozvolila-ssha-vikoristovuvati-yiyi-aviabazi-na-blizkomu.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u7f8e\u4ee5\u7a7a\u88ad\u4f0a\u6717\uff5c\u4eb2\u7779\u5bfc\u5f39\u7206\u70b8 \u65b0\u52a0\u5761\u4eba\u8fea\u62dc \u5b89\u5168\u56de\u56fd | \u4e2d\u570b\u5831 China Press",
+          "link": "https://www.chinapress.com.my/20260305/%E7%BE%8E%E4%BB%A5%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97%EF%BD%9C%E4%BA%B2%E7%9D%B9%E5%AF%BC%E5%BC%B9%E7%88%86%E7%82%B8-%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%BA%BA%E8%BF%AA%E6%8B%9C-%E5%AE%89%E5%85%A8%E5%9B%9E/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "u\u017eivo Sukobi na Bliskom istoku : Azerbejd\u017ean optu\u017eio Iran za napad dronovima , Teheran negira , Baku sprema odmazdu",
+          "link": "https://naslovi.net/2026-03-05/nin/uzivo-sukobi-na-bliskom-istoku-azerbejdzan-optuzio-iran-za-napad-dronovima-teheran-negira-baku-sprema-odmazdu/41435303",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "House to vote on Iran war powers resolution in test of Trump strategy",
+          "link": "https://www.courant.com/2026/03/05/house-iran-war-powers-resolution/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Azerbaijan accuses neighbor Iran of drone attack and vows to retaliate",
+          "link": "https://www.capitalgazette.com/2026/03/05/azerbaijan-iran-drone-attack/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041f\u043e\u0441\u043e\u043b \u0418\u0440\u0430\u043d\u0430 : \u043c\u044b \u043d\u0435 \u043d\u0430\u0446\u0435\u043b\u0438\u0432\u0430\u043b\u0438\u0441\u044c \u043d\u0430 \u041d\u0430\u0445\u0438\u0447\u0435\u0432\u0430\u043d\u044c",
+          "link": "https://russian.rt.com/world/news/1603465-posol-iran-nacelivalis-nahichevan",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "ABDye sava\u015f faturas\u0131 : 4 g\u00fcnde 2 milyar dolar kay\u0131p",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3609582-abdye-savas-faturasi-4-gunde-2-milyar-dolar-kayip",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Brittisk f\u00f6rst\u00e4rkning av f\u00f6rsvar till Qatar",
+          "link": "https://www.gp.se/nyheter/varlden/brittisk-forstarkning-av-forsvar-till-qatar.086a4f6a-b699-565f-a370-d81cff693010",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Extra British fighter jets will deploy to Middle East , Keir Starmer announces",
+          "link": "https://www.penarthtimes.co.uk/news/national/25911392.extra-british-fighter-jets-will-deploy-middle-east-keir-starmer-announces/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran - R\u00fcckschlag f\u00fcr Putin : Wie der Kreml seine wichtigsten Allianzen verliert",
+          "link": "https://www.kn-online.de/politik/iran-rueckschlag-fuer-putin-wie-der-kreml-seine-wichtigsten-allianzen-verliert-3YMQSSS6GBGZNLN544OB7CWACA.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India",
+          "link": "https://www.wsls.com/news/world/2026/03/05/iranian-warship-sunk-by-the-us-was-sailing-home-after-taking-part-in-an-exhibition-hosted-by-india/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran : Protesters to rally at RAF Fairford at weekend | Wilts and Gloucestershire Standard",
+          "link": "https://www.wiltsglosstandard.co.uk/news/25910540.iran-protesters-gather-outside-raf-fairford-weekend/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran , Crosetto  Attacco non condiviso e fuori del diritto internazionale",
+          "link": "https://www.laprovinciacr.it/news/italia-e-mondo/570235/iran-crosetto-attacco-non-condiviso-e-fuori-del-diritto-internazionale.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Dubai Fairmont The Palm bounces back after incident during strikes",
+          "link": "https://gulfbusiness.com/dubais-fairmont-the-palm-bounces-back-after-incident-during-strikes/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "IR\u00c1N advierte a EE . UU . que lamentar\u00e1 amargamente el hundimiento del Iris Dena",
+          "link": "https://insurgente.org/iran-advierte-a-ee-uu-que-lamentara-amargamente-el-hundimiento-del-iris-dena/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0986\u099c\u09be\u09b0\u09ac\u09be\u0987\u099c\u09be\u09a8\u09c7 \u09a1\u09cd\u09b0\u09cb\u09a8 \u09b9\u09be\u09ae\u09b2\u09be \u0995\u09b0\u09b2 \u0995\u09be\u09b0\u09be , \u09af\u09be \u099c\u09be\u09a8\u09be \u0997\u09c7\u09b2 |",
+          "link": "https://www.bd-pratidin.com/international-news/2026/03/05/1224531",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Zivilschutz in Deutschland : Schutzr\u00e4ume und Vorsorge f\u00fcr Notf\u00e4lle",
+          "link": "https://www.schwaebische.de/politik/kein-krieg-aber-auch-kein-frieden-mehr-mehr-anschlaege-nicht-komplett-unrealistisch-4404723",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Hipergamia , looksmaxxing y recompensas de 25 . 000 d\u00f3lares : el nuevo lenguaje del amor en internet va de ver cu\u00e1nto vales ( y pagar\u00edan por ti ) para tener una cita",
+          "link": "https://www.trendencias.com/hombres/hipergamia-looksmaxxing-recompensas-25-000-dolares-nuevo-lenguaje-amor-internet-va-ver-cuanto-vales-pagarian-ti-para-tener-cita",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Irani sh\u00ebnjestron bazat e grupeve opozitare kurde iraniane n\u00eb Irakun verior",
+          "link": "https://tvkoha.tv/irani-shenjestron-bazat-e-grupeve-opozitare-kurde-iraniane-ne-irakun-verior/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "La Chine enverra un envoy\u00e9 sp\u00e9cial au Moyen - Orient pour \u0153uvrer \u00e0 lapaisement des tensions - Xinhua",
+          "link": "http://french.xinhuanet.com/20260305/dbfbb00f4d1b4e6b8d915cf420cf2e8d/c.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "UPSC Essentials | Daily subject - wise quiz : Economy MCQs on application industries of Crude , countervailing duties and more ( Week 152 )",
+          "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-essentials-daily-subject-wise-quiz-economy-week-152-10566553/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Chaos sown by Iran attacks across the Persian Gulf is key to its strategy",
+          "link": "https://www.wsls.com/news/world/2026/03/05/irans-barrage-of-attacks-across-the-persian-gulf-shows-regional-chaos-is-key-to-its-strategy/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Azerbaijani Defense Ministry : Four Iranian drones targeted civilian infrastructure , including school",
+          "link": "https://www.israelnationalnews.com/flashes/678227",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran conflict : CBSE cancels Class 10 board exams scheduled till March 11 in Middle East",
+          "link": "https://www.tribuneindia.com/news/world/iran-conflict-cbse-cancels-class-10-board-exams-scheduled-till-march-11-in-middle-east/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Si riaccende il fronte tra Pakistan e Afghanistan",
+          "link": "https://www.infoaut.org/conflitti-globali/si-riaccende-il-fronte-tra-pakistan-e-afghanistan",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Estreito de ormuz \u00e9 chave para v\u00e1rios produtos brasileiros | GDA \u2013 Grupo de Diarios Am\u00e9rica",
+          "link": "https://gda.com/detalle-de-la-noticia/?article=6001535",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The Nashville Ledger",
+          "link": "http://www.tnledger.com/editorial/Article.aspx?id=200970",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Extra British fighter jets will deploy to Middle East , Keir Starmer announces",
+          "link": "https://www.wiltsglosstandard.co.uk/news/national/25911392.extra-british-fighter-jets-will-deploy-middle-east-keir-starmer-announces/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Azerbaijan Accuses Iran of Drone Attack on Nakhchivan - The Times Of Central Asia",
+          "link": "https://timesca.com/__trashed-5/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tanker hit by explosion in Persian Gulf , UKMTO says",
+          "link": "https://abc30.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18679828/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0427\u0435\u0433\u043e \u043e\u043f\u0430\u0441\u0430\u0435\u0442\u0441\u044f \u0417\u0435\u043b\u0435\u043d\u0441\u043a\u0438\u0439 \u0438\u0437 - \u0437\u0430 \u0432\u043e\u0439\u043d\u044b \u0432 \u0418\u0440\u0430\u043d\u0435 : \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u0434\u0435\u043f\u0443\u0442\u0430\u0442\u0430 \u0413\u043e\u0441\u0434\u0443\u043c\u044b \u0410\u043b\u0435\u043a\u0441\u0435\u044f \u0427\u0435\u043f\u044b",
+          "link": "https://news.mail.ru/politics/70050782/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d \u043f\u0440\u0438\u0432\u0456\u0432 \u0432\u0456\u0439\u0441\u044c\u043a\u0430 \u0443 \u0441\u0442\u0430\u043d \u043d\u0430\u0439\u0432\u0438\u0449\u043e\u0457 \u0433\u043e\u0442\u043e\u0432\u043d\u043e\u0441\u0442\u0456",
+          "link": "https://www.eurointegration.com.ua/news/2026/03/5/7232567/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "UK sending four extra Typhoon jets to Qatar , PM Starmer says",
+          "link": "https://en.apa.az/europe/uk-sending-four-extra-typhoon-jets-to-qatar-pm-starmer-says-495104",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "El Rey reclama contenci\u00f3n en el uso de la fuerza en el conflicto en Oriente Medio",
+          "link": "https://www.diariosur.es/nacional/rey-reclama-contencion-uso-fuerza-conflicto-oriente-20260305152641-ntrc.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Embajada brit\u00e1nica en EAU pide a sus ciudadanos  refugiarse  y alejarse de ventanas ante escalada regional MercoPress",
+          "link": "https://es.mercopress.com/2026/03/05/embajada-britanica-en-eau-pide-a-sus-ciudadanos-refugiarse-y-alejarse-de-ventanas-ante-escalada-regional",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Apr\u00e8s lUkraine , la guerre au Moyen - Orient lance la saison\u00a02 de la s\u00e9rie  Breaking Gaz  \u00a0en Europe",
+          "link": "https://www.nouvelobs.com/ecologie/20260305.OBS112916/apres-l-ukraine-la-guerre-au-moyen-orient-lance-la-saison-2-de-la-serie-breaking-gaz-en-europe.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Everything we know on day 6 of the Middle East war",
+          "link": "https://www.news8000.com/news/national-world/everything-we-know-on-day-6-of-the-middle-east-war/article_dfcfbe37-099f-5361-aa22-2838a5176f0f.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0642\u0631\u064a\u0631 :  \u0645\u062f\u0646 \u0627\u0644\u0635\u0648\u0627\u0631\u064a\u062e  \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 \u062a\u062a\u062d\u0648\u0644 \u0645\u0646 \u062d\u0635\u0646 \u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0625\u0644\u0649  \u0646\u0642\u0637\u0629 \u0636\u0639\u0641  \u0641\u064a \u0627\u0644\u062d\u0631\u0628",
+          "link": "https://arabic.euronews.com/2026/03/05/report-irans-missile-cities-are-turning-from-a-strategic-stronghold-into-a-weak-point",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran hits Kurdish groups in Iraq as conflict widens",
+          "link": "https://www.spacewar.com/reports/Iran_hits_Kurdish_groups_in_Iraq_as_conflict_widens_999.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "La guerra de Ir\u00e1n deja en el aire las vacaciones de Semana Santa y amenaza con p\u00e9rdidas :  Dicen que el miedo no se cubre",
+          "link": "https://www.antena3.com/programas/espejo-publico/noticias/guerra-iran-deja-aire-vacaciones-semana-santa-amenaza-perdidas-dicen-que-miedo-cubre_2026030569a98f55d489bf782e0c4763.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Expert does not rule out global  fight for LNG  amid Middle East tensions - Business & Economy",
+          "link": "https://tass.com/economy/2097091",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Aumento do pre\u00e7o do petr\u00f3leo pressiona combust\u00edveis no Brasil",
+          "link": "https://www.gazetadigital.com.br/editorias/economia/aumento-do-preco-do-petroleo-pressiona-combustiveis-no-brasil/839088",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: Iran",
@@ -342,30 +693,30 @@
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
     },
     {
-      "title": "In maps: Six days of strikes across the Middle East",
-      "link": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel has continued strikes across Iran and Lebanon as Donald Trump warns action could continue for weeks",
-      "source": "BBC News",
-      "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-    },
-    {
-      "title": "Will the US benefit from the oil crisis sparked by the war on Iran?",
-      "link": "https://www.aljazeera.com/news/2026/3/5/will-the-us-benefit-from-the-oil-crisis-sparked-by-the-war-on-iran?traffic_source=rss",
-      "summary": "Attacks on energy sites in the Gulf and disruptions in the Strait of Hormuz give Western exporters a chance to profit.",
+      "title": "Videos show destruction after US and Israeli strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/videos-show-destruction-after-us-and-israeli-strikes-on-iran?traffic_source=rss",
+      "summary": "New videos show destruction across Iran after US and Israeli air strikes.",
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     },
     {
-      "title": "Iranians get by as US, Israeli bombs rain down, internet blocked",
-      "link": "https://www.aljazeera.com/news/2026/3/5/iranians-get-by-as-us-israeli-bombs-rain-down-internet-blocked?traffic_source=rss",
-      "summary": "Officials say some water, electricity facilities damaged amid US-Israel bombing, but no widespread outages reported yet.",
+      "title": "Iran women\u2019s football team salute, sing national anthem in Asian Cup match",
+      "link": "https://www.aljazeera.com/sports/2026/3/5/iran-womens-football-team-salute-sing-national-anthem-in-asian-cup-match?traffic_source=rss",
+      "summary": "Players chose to sing the anthem before their game against Australia, in contrast to their silence during the previous tie.",
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     },
     {
-      "title": "Iran, The US, and the World Cup",
-      "link": "https://www.aljazeera.com/video/game-theory/2026/3/5/aje-onl-iran-wc_v5-050326?traffic_source=rss",
-      "summary": "The 2026 World Cup is nearly here, but Iran\u2019s spot in the tournament may be in doubt. Can sport ever be neutral?",
+      "title": "Which Kurdish groups is the US rallying to fight Iran?",
+      "link": "https://www.aljazeera.com/news/2026/3/5/which-kurdish-groups-is-the-us-rallying-to-fight?traffic_source=rss",
+      "summary": "US President Donald Trump has spoken to at least three Kurdish groups in Iran and Iraq in recent days.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "title": "Map shows how big Iran is compared with the 50 US states",
+      "link": "https://www.aljazeera.com/news/2026/3/5/map-shows-how-big-iran-is-compared-with-the-50-us-states?traffic_source=rss",
+      "summary": "Iran is roughly the same size as Alaska, 2.5 times the size of Texas and covers about one-sixth of the US land area.",
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     },
@@ -389,6 +740,97 @@
       "summary": "The U.S. and Israel say they conducted new strikes inside Iran overnight, targeting ballistic missile launchers. Iran claims it struck a U.S. oil tanker in the northern Persian Gulf.",
       "source": "NPR Topics: News",
       "source_url": "https://feeds.npr.org/1001/rss.xml"
+    },
+    {
+      "title": "u\u017eivo Sukobi na Bliskom istoku : Azerbejd\u017ean optu\u017eio Iran za napad dronovima , Teheran negira , Baku sprema odmazdu",
+      "link": "https://naslovi.net/2026-03-05/nin/uzivo-sukobi-na-bliskom-istoku-azerbejdzan-optuzio-iran-za-napad-dronovima-teheran-negira-baku-sprema-odmazdu/41435303",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "House to vote on Iran war powers resolution in test of Trump strategy",
+      "link": "https://www.courant.com/2026/03/05/house-iran-war-powers-resolution/",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Azerbaijan accuses neighbor Iran of drone attack and vows to retaliate",
+      "link": "https://www.capitalgazette.com/2026/03/05/azerbaijan-iran-drone-attack/",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran - R\u00fcckschlag f\u00fcr Putin : Wie der Kreml seine wichtigsten Allianzen verliert",
+      "link": "https://www.kn-online.de/politik/iran-rueckschlag-fuer-putin-wie-der-kreml-seine-wichtigsten-allianzen-verliert-3YMQSSS6GBGZNLN544OB7CWACA.html",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India",
+      "link": "https://www.wsls.com/news/world/2026/03/05/iranian-warship-sunk-by-the-us-was-sailing-home-after-taking-part-in-an-exhibition-hosted-by-india/",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran : Protesters to rally at RAF Fairford at weekend | Wilts and Gloucestershire Standard",
+      "link": "https://www.wiltsglosstandard.co.uk/news/25910540.iran-protesters-gather-outside-raf-fairford-weekend/",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran , Crosetto  Attacco non condiviso e fuori del diritto internazionale",
+      "link": "https://www.laprovinciacr.it/news/italia-e-mondo/570235/iran-crosetto-attacco-non-condiviso-e-fuori-del-diritto-internazionale.html",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Irani sh\u00ebnjestron bazat e grupeve opozitare kurde iraniane n\u00eb Irakun verior",
+      "link": "https://tvkoha.tv/irani-shenjestron-bazat-e-grupeve-opozitare-kurde-iraniane-ne-irakun-verior/",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Chaos sown by Iran attacks across the Persian Gulf is key to its strategy",
+      "link": "https://www.wsls.com/news/world/2026/03/05/irans-barrage-of-attacks-across-the-persian-gulf-shows-regional-chaos-is-key-to-its-strategy/",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Azerbaijani Defense Ministry : Four Iranian drones targeted civilian infrastructure , including school",
+      "link": "https://www.israelnationalnews.com/flashes/678227",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran conflict : CBSE cancels Class 10 board exams scheduled till March 11 in Middle East",
+      "link": "https://www.tribuneindia.com/news/world/iran-conflict-cbse-cancels-class-10-board-exams-scheduled-till-march-11-in-middle-east/",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Azerbaijan Accuses Iran of Drone Attack on Nakhchivan - The Times Of Central Asia",
+      "link": "https://timesca.com/__trashed-5/",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran hits Kurdish groups in Iraq as conflict widens",
+      "link": "https://www.spacewar.com/reports/Iran_hits_Kurdish_groups_in_Iraq_as_conflict_widens_999.html",
+      "summary": "",
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
