@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T19:20:08Z",
+  "generated_at": "2026-03-05T21:41:32Z",
   "sources": [
     {
       "source": "BBC News",
@@ -27,16 +27,16 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Israeli evacuation order for Beirut's southern suburbs sparks panic",
-          "link": "https://www.bbc.com/news/articles/cj32750e7j6o?at_medium=RSS&at_campaign=rss",
-          "summary": "Huge traffic jams form after the unprecedented warning for people to leave the Hezbollah stronghold, as Israel steps up its strikes across Lebanon.",
+          "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+          "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
+          "summary": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Failed asylum seeker families to be offered up to \u00a340k to leave UK",
-          "link": "https://www.bbc.com/news/articles/c0j559146e6o?at_medium=RSS&at_campaign=rss",
-          "summary": "The home secretary says the \"incentives\" will deliver a \"significant saving to the taxpayer\".",
+          "title": "Labour MP 'voluntarily suspends herself' after husband arrested in China spy probe",
+          "link": "https://www.bbc.com/news/articles/cvg8edz1ng2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Joani Reid said she had temporarily stood down from the party after her husband was arrested on suspicion of spying for China.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -134,6 +134,13 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "GPT-5.4",
+          "link": "https://openai.com/index/introducing-gpt-5-4/",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "Wikipedia in read-only mode following mass admin account compromise",
           "link": "https://www.wikimediastatus.net",
           "summary": "Comments",
@@ -141,22 +148,15 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "GPT-5.4 Thinking System Card",
-          "link": "https://openai.com/index/gpt-5-4-thinking-system-card/",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-          "link": "https://jido.run/blog/jido-2-0-is-here",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
           "title": "The Brand Age",
           "link": "https://paulgraham.com/brandage.html",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "Hardware hotplug events on Linux, the gory details",
+          "link": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Israel kills more than 100 Lebanese as it commands Beirut residents to flee",
-          "link": "https://www.aljazeera.com/gallery/2026/3/5/buildings-devastated-by-israeli-strikes-in-lebanon-death-toll-rises-to-77?traffic_source=rss",
-          "summary": "More than 38,000 Syrians flee Lebanon for Syria, as mounting violence causes displacement across the Middle East and beyond.",
+          "title": "Why has Hezbollah joined Middle East war?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/3/5/why-has-hezbollah-joined-middle-east-war?traffic_source=rss",
+          "summary": "Hezbollah has been attacking Israel as it pummels southern Lebanon and parts of Beirut.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "India beat England to reach T20 World Cup final as Sanju stars again",
-          "link": "https://www.aljazeera.com/sports/2026/3/5/india-beat-england-to-reach-t20-world-cup-final-as-sanju-stars-again?traffic_source=rss",
-          "summary": "Sanju Samson hit 89 for India as they posted 253-6 and beat England by 7 runs in second semifinal of 2026 T20 World Cup.",
+          "title": "Trump voices support for possible Kurdish offensive in Iran",
+          "link": "https://www.aljazeera.com/news/2026/3/5/trump-voices-support-for-possible-kurdish-offensive-in-iran?traffic_source=rss",
+          "summary": "US president says he'd be 'all for' Kurdish ground assault on Iran amid reports that Washington is egging on rebellion.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Israel\u2019s Smotrich threatens Beirut suburbs amid evacuation orders",
-          "link": "https://www.aljazeera.com/news/2026/3/5/israels-smotrich-threatens-beirut-suburbs-amid-evacuation-orders?traffic_source=rss",
-          "summary": "Israel issues forced evacuation order for entire Dahiyeh area of Lebanon's capital, home to hundreds of thousands.",
+          "title": "Israel cancels Friday prayers at Al-Aqsa Mosque amid Iran conflict",
+          "link": "https://www.aljazeera.com/news/2026/3/5/israel-cancels-friday-prayers-at-al-aqsa-mosque-amid-iran-conflict?traffic_source=rss",
+          "summary": "Authorities say the mosque will be closed to worshippers, visitors of all faiths on Friday amid spread of the conflict.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "\u2018The Truth Social war\u2019: the US playbook for war with Iran",
-          "link": "https://www.aljazeera.com/video/the-take-2/2026/3/5/aje-onl-tt_irn_usiranmonday_av_v1-020326?traffic_source=rss",
-          "summary": "Trump declared \u2018major combat operations\u2019 on social media. Will this reshape the region for decades?",
+          "title": "US House of Representatives to vote on latest effort to halt Iran war",
+          "link": "https://www.aljazeera.com/news/2026/3/5/us-house-of-representatives-to-vote-on-latest-effort-to-halt-iran-war?traffic_source=rss",
+          "summary": "Vote comes day after a parallel resolution failed in the Senate, underscoring Republican support for Trump-launched war.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Cuba\u2019s economy on edge: Fuel shortages and rising hardship",
-          "link": "https://www.aljazeera.com/economy/2026/3/5/cubas-economy-on-edge-fuel-shortages-and-rising-hardship?traffic_source=rss",
-          "summary": "Havana's streets have changed as a US fuel blockade restricts the movements of vehicles and people and hits businesses.",
+          "title": "Trump fires Homeland Security head Kristi Noem, names Mullin as replacement",
+          "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-will-replace-homeland-security-chief-kristi-noem?traffic_source=rss",
+          "summary": "Noem, a former governor, became a prominent figure in the Trump administration's controversial crackdown on immigration.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -216,16 +216,16 @@
       "source_url": "https://www.theguardian.com/world/rss",
       "items": [
         {
-          "title": "South Africa\u2019s president calls Trump\u2019s policy to offer refuge to white Afrikaners \u2018racist\u2019",
-          "link": "https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
-          "summary": "US president is \u2018truly uninformed\u2019 for spreading claims of \u2018white genocide\u2019 in South Africa, Cyril Ramaphosa tells New York Times South Africa\u2019s president, Cyril Ramaphosa, has called Donald Trump\u2019s policy of allowing w\u2026",
+          "title": "Three men deported by US file legal case against Eswatini over detention",
+          "link": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
+          "summary": "The men, sent to Africa after completing criminal sentences in the US, are from Cuba, Jamaica and Yemen Three men deported by the US to Eswatini \u2013 rather than their home countries \u2013 have filed a case against Eswatini\u2019s\u2026",
           "source": "World news | The Guardian",
           "source_url": "https://www.theguardian.com/world/rss"
         },
         {
-          "title": "Three men deported by US file legal case against Eswatini over detention",
-          "link": "https://www.theguardian.com/world/2026/mar/05/three-men-deported-us-eswatini-legal-case-detention",
-          "summary": "The men, who had been released after completing criminal sentences, are from Cuba, Jamaica and Yemen Three men deported by the US to Eswatini \u2013 rather than their home countries \u2013 have filed a case against Eswatini\u2019s gov\u2026",
+          "title": "South Africa\u2019s president calls Trump\u2019s policy to offer refuge to white Afrikaners \u2018racist\u2019",
+          "link": "https://www.theguardian.com/world/2026/mar/05/south-africa-president-cyril-ramaphosa-calls-donald-trump-policy-white-afrikaners-racist",
+          "summary": "US president is \u2018truly uninformed\u2019 for spreading claims of \u2018white genocide\u2019 in South Africa, Cyril Ramaphosa tells New York Times South Africa\u2019s president, Cyril Ramaphosa, has called Donald Trump\u2019s policy of allowing w\u2026",
           "source": "World news | The Guardian",
           "source_url": "https://www.theguardian.com/world/rss"
         },
@@ -257,6 +257,27 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "Travel industry pushes Congress to end DHS shutdown and pay federal security workers",
+          "link": "https://www.npr.org/2026/03/05/nx-s1-5737455/travel-industry-dhs-shutdown",
+          "summary": "With the busy spring break travel season looming, travel and aviation industry leaders urged Congress to end the stalemate over DHS funding before workers at TSA and ports miss a full paycheck.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Trump fires Kristi Noem as DHS chief, names Sen. Markwayne Mullin to replace her",
+          "link": "https://www.npr.org/2026/03/05/nx-s1-5667546/kristi-noem-homeland-security-fired",
+          "summary": "President Trump has fired his homeland security secretary, Kristi Noem, and said Markwayne Mullin, a senator from Oklahoma, would replace her.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Can a digital tablet cut back a country's overuse of antibiotics?",
+          "link": "https://www.npr.org/2026/03/05/nx-s1-5732471/antibiotic-overuse-resistance-rwanda-digital-tablet",
+          "summary": "Overprescribing antibiotics breeds antibiotic resistance. A new tool aims to lower a notably high rate of such prescriptions in Rwanda.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "They were led off course in a big race. But a fix is more complicated than prize money",
           "link": "https://www.npr.org/2026/03/05/nx-s1-5735682/atlanta-half-marathon-world-championship-mcclain-born-hurley-kurgat",
           "summary": "Top finishers in the Atlanta half marathon are calling for U.S. track officials to ensure that Jess McClain and two other athletes aren't excluded from the world championships because of an error.",
@@ -267,27 +288,6 @@
           "title": "A Jan. 6 rioter pardoned by Trump was sentenced to life in prison for child sex abuse",
           "link": "https://www.npr.org/2026/03/05/nx-s1-5725470/trump-jan-6-pardon-sexual-abuse-prison",
           "summary": "Since receiving presidential pardons, dozens of former Capitol rioters have gotten into more legal trouble. In Florida, Andrew Paul Johnson was sentenced to life in prison for child sex abuse.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "President Trump, Pam Bondi sued over sale of TikTok assets",
-          "link": "https://www.npr.org/2026/03/05/g-s1-112605/tiktok-deal-lawsuit-trump-bondi",
-          "summary": "The case accuses the Trump administration of ignoring legislation designed to stop the spread of Chinese propaganda \u2014 and instead helping to broker a partial sale to businessmen close to Trump.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "A rift between Spain and Trump widens over Spanish opposition to the Iran war",
-          "link": "https://www.npr.org/2026/03/05/nx-s1-5737285/iran-war-spain-trump",
-          "summary": "The Spanish government reiterated it would not let U.S. forces use two joint military bases in Spain as the U.S.-Israeli war in Iran escalates, widening a rift with the Trump administration.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "House to vote on Trump's war powers. And, Minnesota sues over halted Medicaid funding",
-          "link": "https://www.npr.org/2026/03/05/g-s1-112596/up-first-newsletter-iran-israel-us-trump-democratic-primaries-minnesota-medicaid",
-          "summary": "The House is set to vote today on whether to constrain President Trump's authority to continue to wage war on Iran. And, Minnesota sues the Trump administration over halted Medicaid funding.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
@@ -301,719 +301,368 @@
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "Macron wants to protect Lebanon from escalation in Iran war",
+          "link": "https://www.yahoo.com/news/articles/macron-wants-protect-lebanon-escalation-201330706.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "President Trump Demands A Say On Who Is Named Iran New Supreme Leader",
+          "link": "https://newsradio910wltp.iheart.com/content/2026-03-05-president-trump-demands-a-say-on-who-is-named-irans-new-supreme-leader/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "DS\u00d6  den N\u00fckleer Felaket Uyar\u0131s\u0131 :  Telafi Edilemez Sonu\u00e7lar Do\u011furur  -",
+          "link": "https://dogruhaber.com.tr/dsoden-nukleer-felaket-uyarisi-telafi-edilemez-sonuclar-dogurur",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Threat Of Attacks Has Snarled Shipping Through The Strait of Hormuz",
+          "link": "https://newstalk1230.iheart.com/content/2026-03-05-threats-of-attacks-has-snarled-shipping-through-the-strait-of-hormuz/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Gas rationing shuts five urea factories",
+          "link": "https://banglamirrornews.com/2026/03/05/gas-rationing-shuts-five-urea-factories/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump says he wants to be involved in picking Iran next leader",
+          "link": "https://www.tdtnews.com/news/article_8f3df019-4238-401d-80ff-c5a441b2f3f8.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0417\u0435\u043b\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0432\u0456\u0432 \u0440\u043e\u0437\u043c\u043e\u0432\u0443 \u0437 \u041c\u0435\u043b\u043e\u043d\u0456",
+          "link": "https://ua.korrespondent.net/ukraine/4860129-zelenskyi-proviv-rozmovu-z-meloni",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fuel price increase set to trigger fare increases for travellers",
+          "link": "https://www.zimbabwesituation.com/news/fuel-price-increase-set-to-trigger-fare-increases-for-travellers/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u0928\u0947 \u0908\u0930\u093e\u0928\u0940 \u091c\u0939\u093e\u091c \u0915\u0947 208 \u0915\u094d\u0930\u0942 \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0928\u093f\u0915\u093e\u0932\u093e , \u090f\u0915 \u0926\u093f\u0928 \u092a\u0939\u0932\u0947 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0928\u0947 \u0921\u0941\u092c\u094b\u092f\u093e \u0925\u093e \u092f\u0941\u0926\u094d\u0927\u092a\u094b\u0924 - sri lanka rescues 208 iranian crew amid usiran tensions",
+          "link": "https://www.jagran.com/world/other-sri-lanka-rescues-208-iranian-crew-amid-usiran-tensions-40162317.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tehrangele , el barrio iran\u00ed de Los \u00c1ngeles , espera que su pueblo se levante",
+          "link": "https://efe.com/mundo/2026-03-05/tehrangeles-barrio-irani-los-angeles-estados-unido-lucha-pueblo/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Petr\u00f3leo dispara e WTI toca maior n\u00edvel desde julho de 2024 focado em Ormuz e escalada militar",
+          "link": "https://jornaldebrasilia.com.br/noticias/mundo/petroleo-dispara-e-wti-toca-maior-nivel-desde-julho-de-2024-focado-em-ormuz-e-escalada-militar/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Habervitrini . com | Erdo\u011fan dan \u0130ran a\u00e7\u0131klamas\u0131 Bar\u0131\u015f odakl\u0131 temaslar s\u00fcrecek",
+          "link": "https://www.habervitrini.com/erdogandan-iran-aciklamasi-baris-odakli-temaslar-surecek/1158751",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "UE arrisca ser arrastada para a guerra ? Eurodeputados debatem crise no M\u00e9dio Oriente",
+          "link": "https://pt.euronews.com/my-europe/2026/03/05/ue-arrisca-ser-arrastada-para-a-guerra-eurodeputados-debatem-crise-no-medio-oriente",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Petrol fiyatlar\u0131 20 ay\u0131n zirvesinde",
+          "link": "https://www.bloomberght.com/petrol-fiyatlari-20-ayin-zirvesinde-3771101",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "M . \u015eerif Durmaz : \u0130ran  \u0131n hedefi kom\u015fular de\u011fil ABDnin fitne merkezleridir -",
+          "link": "https://dogruhaber.com.tr/iranin-hedefi-komsular-degil-abdnin-fitne-merkezleridir",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Panic in Beirut as Israel warns people to evacuate from the city southern suburbs",
+          "link": "https://www.wboc.com/news/international/panic-in-beirut-as-israel-warns-people-to-evacuate-from-the-citys-southern-suburbs/article_60400022-add6-5193-a8fe-f59a32401d9c.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Canada and Australia leaders urge de - escalation of Iran war",
+          "link": "https://www.halesowennews.co.uk/news/national/25912755.canada-australia-leaders-urge-de-escalation-iran-war/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump \u017eiada okam\u017eite milos\u0165 pre Netanjahua v jeho kauz\u00e1ch , aby sa mohol s\u00fastredi\u0165 na Ir\u00e1n",
+          "link": "https://hnonline.sk/svet/96268796-trump-ziada-okamzite-milost-pre-netanjahua-v-jeho-kauzach-aby-sa-mohol-sustredit-na-iran",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "It official : The Pentagon has labeled Anthropic a supply chain risk",
+          "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Kashmir Restrictions Continue , Internet Limited to 2G",
+          "link": "https://www.newkerala.com/news/a/restrictions-remain-place-kashmir-today-319.htm",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman says company doesnt  get to make operational decision on military use of its tech : Source",
+          "link": "https://www.kxl.com/syndicated-article/?id=1660492",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0422\u0440\u0430\u043c\u043f \u0432\u0432\u0430\u0436\u0430\u0454 \u0421\u0442\u0430\u0440\u043c\u0435\u0440\u0430 \u043d\u0435\u0432\u0434\u0430\u0445\u043e\u044e \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u0437\u0438\u0446\u0456\u044e \u0449\u043e\u0434\u043e \u0406\u0440\u0430\u043d\u0443 \u0442\u0430 \u0431\u0430\u0437\u0438 \u0414\u0456\u0454\u0433\u043e - \u0413\u0430\u0440\u0441\u0456\u044f",
+          "link": "https://www.rbc.ua/rus/news/nevdaha-maybutnogo-tramp-obrazivsya-starmera-1772736963.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Analysis : Hezbollah new reckless war endangers Lebanon",
+          "link": "https://www.yahoo.com/news/articles/analysis-hezbollah-reckless-war-endangers-204238632.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fetterman on Dem Iran  hysteria :  Theyre afraid to agree with Trump on anything  * WorldNetDaily * by Anthony Iafrate , Daily Caller News Foundation",
+          "link": "https://www.wnd.com/2026/03/fetterman-dems-iran-hysteria-theyre-afraid-agree-trump/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Says He Must Help Choose Iran Next Leader",
+          "link": "https://www.newser.com/story/384884/trump-says-he-must-help-choose-irans-next-leader.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc \u03c4\u03c9\u03bd \u03b5\u03be\u03bf\u03c5\u03c3\u03b9\u03ce\u03bd \u03c4\u03bf\u03c5 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03c3\u03c4\u03bf\u03bd \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf \u03c4\u03bf\u03c5 \u0399\u03c1\u03ac\u03bd \u03c8\u03b7\u03c6\u03af\u03b6\u03b5\u03b9 \u03b7 \u0392\u03bf\u03c5\u03bb\u03ae \u03c4\u03c9\u03bd \u0391\u03bd\u03c4\u03b9\u03c0\u03c1\u03bf\u03c3\u03ce\u03c0\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 ( video )",
+          "link": "https://www.e-radio.gr/post/315335/protasi-gia-periorismo-twn-exoysiwn-toy-tramp-ston-polemo-toy-iran-psifizei-i-voyli-twn-antiproswpwn-stis-ipa",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "I numeri di lanci di missili ci dicono come sta andando la guerra",
+          "link": "https://www.ilpost.it/2026/03/04/numero-missili-guerra-iran/?homepagePosition=14.1&referrerPost=3531119",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "OTS condemns drone attack on Nakhchivan",
+          "link": "https://en.apa.az/foreign-policy/ots-condemns-drone-attack-on-nakhchivan-495178",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Kolejne problemy klient\u00f3w Itaki . Biuro nie chce zwr\u00f3ci\u0107 pieni\u0119dzy za Oman",
+          "link": "https://www.newsweek.pl/polska/spoleczenstwo/kolejne-problemy-klientow-itaki-biuro-nie-chce-zwrocic-pieniedzy-za-oman/fmff6zg",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Los detalles de la acusaci\u00f3n de la Fiscal\u00eda contra Julio Gerlein y dos abogados : ir\u00e1n a juicio por presunto soborno a Aida Merlano",
+          "link": "https://www.elheraldo.co/colombia/2026/03/05/los-detalles-de-la-acusacion-de-la-fiscalia-contra-julio-gerlein-el-empresario-ira-a-juicio-por-presunto-soborno-a-aida-merlano/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Refuerzan la seguridad en la represa de Salto Grande por el conflicto en Medio Oriente",
+          "link": "https://www.unoentrerios.com.ar/la-provincia/refuerzan-la-seguridad-la-represa-salto-grande-el-conflicto-medio-oriente-n10247693.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u00bf Qui\u00e9nes recibir\u00e1n m\u00e1s de Bs 700 de aumento en sus rentas desde abril ?",
+          "link": "https://eju.tv/2026/03/quienes-recibiran-mas-de-bs-700-de-aumento-en-sus-rentas-desde-abril/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Izraelsk\u00e1 arm\u00e1da ozn\u00e1mila \u010fal\u0161iu f\u00e1zu vojny s Ir\u00e1nom",
+          "link": "https://www.cas.sk/spravy/izraelska-armada-oznamila-dalsiu-fazu-vojny-s-iranom-pozrite-sa-co-planuje-v-tychto-dnoch",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "State leaders warn about possible price gouging as Middle East conflict disrupts supply chains",
+          "link": "https://www.whec.com/top-news/state-leaders-warn-about-possible-price-gouging-as-middle-east-conflict-disrupts-supply-chains/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "In praise of tortoise trains that foster a welcome change of pace",
+          "link": "https://www.bluemountainsgazette.com.au/story/9188166/in-praise-of-tortoise-trains-that-foster-a-welcome-change-of-pace/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran school and nearby military base struck multiple times , satellite image reveals",
+          "link": "https://www.bbc.co.uk/news/articles/c5yqqyly9n0o",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Stranded travelers share firsthand accounts from the Middle East",
+          "link": "https://krcgtv.com/news/nation-world/stranded-travelers-share-firsthand-accounts-from-the-middle-east",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Videos show terrifying moments during mass shooting that left 3 dead",
+          "link": "https://www.advocate-news.com/2026/03/05/texas-bar-shooting-bodycam-footage/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Senate Democrats Block Bill To Fund Department Of Homeland Security",
+          "link": "https://wtag.iheart.com/content/2026-03-05-senate-democrats-block-bill-to-fund-department-of-homeland-security/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump a demis - o pe secretara pentru securitate intern\u0103 , Kristi Noem , \u015fi anun\u0163\u0103 o nou\u0103 schimbare de regim : \u201e \u015ei Cuba va c\u0103dea",
+          "link": "https://www.ziarulprofit.ro/trump-a-demis-o-pe-secretara-pentru-securitate-interna-kristi-noem-si-anunta-o-noua-schimbare-de-regim-si-cuba-va-cadea/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0391\u03bd\u03c4\u03b1\u03c0\u03cc\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7 : \u0392\u03cc\u03bc\u03b2\u03b5\u03c2 , \u03bc\u03c0\u03bb\u03b1\u03ba \u03ac\u03bf\u03c5\u03c4 \u03c3\u03c4\u03bf \u0394\u03b9\u03b1\u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03ba\u03b1\u03b9 \u03bf\u03c5\u03c1\u03ad\u03c2 \u03b3\u03b9\u03b1 \u03c8\u03c9\u03bc\u03af",
+          "link": "https://www.kathimerini.gr/world/564109993/antapokrisi-apo-techerani-vomves-mplak-aoyt-sto-diadiktyo-kai-oyres-gia-psomi/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Canada and Australia leaders urge de - escalation of Iran war",
+          "link": "https://www.theboltonnews.co.uk/news/national/25912755.canada-australia-leaders-urge-de-escalation-iran-war/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Izrael najavio novu fazu rata . Iran : Spremni smo na ameri\u010dku kopnenu invaziju",
+          "link": "https://www.index.hr/vijesti/clanak/izrael-najavio-novu-fazu-rata-iran-spremni-smo-na-americku-kopnenu-invaziju/2767609.aspx?index_ref=homepage_comment_box_d&commentId=10667576",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0435 \u043c\u0435\u0434\u0438\u0430 \u0448\u0438\u0440\u043e\u043a\u043e \u043e\u0441\u0432\u0435\u0442\u0438\u043b\u0438 \u0437\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u041f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u0430 \u0418\u043b\u044c\u0445\u0430\u043c\u0430 \u0410\u043b\u0438\u0435\u0432\u0430 \u043d\u0430 \u0437\u0430\u0441\u0435\u0434\u0430\u043d\u0438\u0438 \u0421\u043e\u0432\u0435\u0442\u0430 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+          "link": "https://news.day.az/politics/1820307.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Naton ballististen ohjusten puolustusvalmiutta on lis\u00e4tty , kerrotaan Euroopan - joukkojen esikunnasta",
+          "link": "https://www.savonsanomat.fi/uutissuomalainen/9277912",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fetterman says he was shocked by Newsom calling Israel an apartheid state",
+          "link": "https://krcgtv.com/news/nation-world/fetterman-says-he-was-shocked-by-newsom-calling-israel-an-apartheid-state-gavin-newsom-iran",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "BMT ba\u015f katibind\u0259n Nax\u00e7\u0131vana dron h\u00fccumuna reaksiya",
+          "link": "https://ayna.az/bmt-bas-katibinden-naxcivana-dron-hucumuna-reaksiya",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump acredita em queda do regime em Cuba :  Vai cair tamb\u00e9m",
+          "link": "https://www.folhavitoria.com.br/mundo/trump-acredita-em-queda-do-regime-em-cuba-vai-cair-tambem/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "BBC : Iranska \u0161kola u kojoj je ubijeno preko 160 djevoj\u010dica pogo\u0111ena vi\u0161e puta",
+          "link": "https://www.index.hr/vijesti/clanak/bbc-iranska-skola-u-kojoj-je-ubijeno-preko-160-djevojcica-pogodjena-vise-puta/2768005.aspx?index_tid=944681&index_ref=naslovnica_vijesti_najnovije_d",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Threat Of Attacks Has Snarled Shipping Through The Strait of Hormuz",
+          "link": "https://newsradio910wltp.iheart.com/content/2026-03-05-threats-of-attacks-has-snarled-shipping-through-the-strait-of-hormuz/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "Unbearanble : The pain and sadness for Iranians in Australia | Bega District News",
-          "link": "https://www.begadistrictnews.com.au/story/9191437/unbearanble-the-pain-and-sadness-for-iranians-in-australia/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranians  ready to disgrace  US troops if they invade , top official says - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/iranians-ready-to-disgrace-us-troops-if-they-invade-top-official-says/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Krieg im Live - Blog : Bahrain : Iranischer Angriff trifft \u00d6l - Anlage",
-          "link": "https://www.gmx.ch/magazine/politik/nahostkonflikt/bahrain-iranischer-angriff-trifft-oel-anlage-41967054",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump busca abrir un frente kurdo contra el r\u00e9gimen en Ir\u00e1n",
-          "link": "https://www.abc.es/internacional/trump-busca-abrir-frente-kurdo-regimen-iran-20260304192904-nt.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Los kurdos en Ir\u00e1n : \u00bf tienen la capacidad de abrir un frente de guerra terrestre ?",
-          "link": "https://rpp.pe/mundo/medio-oriente/los-kurdos-en-iran-tienen-la-capacidad-de-abrir-un-frente-de-guerra-terrestre-noticia-1678731",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Watch shipping through the Strait of Hormuz grind to a halt amid Iran conflict",
-          "link": "https://foxwilmington.com/watch-shipping-through-the-strait-of-hormuz-grind-to-a-halt-amid-iran-conflict/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "A New Front In Iran War ? US Considers Arming Iranian Kurdish Opposition Groups \u2013 Analysis",
-          "link": "https://www.eurasiareview.com/05032026-a-new-front-in-iran-war-us-considers-arming-iranian-kurdish-opposition-groups-analysis/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n lanza nueva ola de misiles contra Israel\u00a0y mantiene control del estrecho de Ormuz",
-          "link": "https://ultimasnoticias.com.ve/actualidad/iran-lanza-nueva-ola-de-misiles-contra-israel-y-mantiene-control-del-estrecho-de-ormuz/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Nakhchivan Drone Incident : Could Azerbaijan Become Proxy in Ground War Against Iran ?",
-          "link": "https://english.pravda.ru/world/166082-azerbaijan-iran-conflict-nakhchivan-drone-incident/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran Abbas Araghchi : We Wont Negotiate With Trump",
-          "link": "https://www.mediaite.com/media/news/just-in-iranian-fm-tells-nbc-news-they-are-ready-for-us-ground-invasion-will-not-negotiate-with-trump/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Emotional turmoil grips Iranians watching conflict unfold overseas - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/emotional-turmoil-grips-iranians-watching-conflict-unfold-overseas/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Spania trimite \u00een Cipru fregata  Cristofor Columb",
-          "link": "https://www.romania-actualitati.ro/stiri/in-lume/spania-trimite-in-cipru-fregata-cristofor-columb-id224715.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Vous vous \u00eates attir\u00e9 lenfer sur vous - m\u00eames  : un ministre isra\u00e9lien menace de d\u00e9vaster le sud de Beyrouth comme Gaza",
-          "link": "https://www.tf1info.fr/international/guerre-moyen-orient-iran-un-ministre-israelien-menace-de-devaster-le-sud-de-beyrouth-comme-gaza-2428448.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041a\u0421\u0418\u0420 \u043e\u0442\u0447\u0438\u0442\u0430\u043b\u0441\u044f \u043e\u0431 \u0443\u0434\u0430\u0440\u0435 \u0434\u0440\u043e\u043d\u043e\u0432 \u043f\u043e \u0430\u0432\u0438\u0430\u043d\u043e\u0441\u0446\u0443 \u0421\u0428\u0410 \u0432 \u041e\u043c\u0430\u043d\u0441\u043a\u043e\u043c \u0437\u0430\u043b\u0438\u0432\u0435",
-          "link": "https://news.mail.ru/society/70054018/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Comunicado oficial de la UEFA sobre la Finalissima : \u00bf d\u00f3nde se jugar\u00e1 el Argentina - Espa\u00f1a ante el conflicto ?",
-          "link": "https://www.diez.hn/internacionales/finalissima-uefa-comunicado-oficial-argentina-espana-partido-qatar-iran-EG29584635",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Are nevoie Rom\u00e2nia de umbrela nuclear\u0103 francez\u0103 ?",
-          "link": "https://adevarul.ro/blogurile-adevarul/are-nevoie-romania-de-umbrela-nucleara-franceza-2513015.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u201e Viele deutsche Politiker waren Narren : Abrechnung mit der Iran - Appeasement - Politik",
-          "link": "http://www.az-online.de/politik/viele-deutsche-politiker-waren-narren-abrechnung-mit-der-iran-appeasement-politik-zr-94203098.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0639\u0631\u0627\u0642\u062c\u064a : \u0645\u0633\u062a\u0639\u062f\u0648\u0646 \u0644\u063a\u0632\u0648 \u0628\u0631\u064a \u0623\u0645\u0631\u064a\u0643\u064a .. \u0648\u0644\u0645 \u0646\u0637\u0644\u0628 \u0648\u0642\u0641\u064b\u0627 \u0644\u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631",
-          "link": "https://www.shorouknews.com/news/view.aspx?cdate=05032026&id=17d5cebf-ca7f-4554-b0c9-87bc002d6d3a",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Putin warning fuels calls in EU to drop sanctions",
-          "link": "http://www.heraldglobe.com/news/278904326/putin-warning-fuels-calls-in-eu-to-drop-sanctions",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Pre\u0163urile petrolului au urcat joi cu peste 3 %, pe fondul temerilor privind aprovizionarea",
-          "link": "https://www.stiripesurse.ro/preturile-petrolului-au-urcat-joi-cu-peste-3-pe-fondul-temerilor-privind-aprovizionarea_3865061",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Meet Pedro S\u00e1nchez , Europe most vocal critic of Trump Iran attacks",
-          "link": "https://www.sbsun.com/2026/03/05/pedro-sanchez/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump Blasts Herzog Over Netanyahu Trial , Demands Immediate Pardon",
-          "link": "https://themedialine.org/headlines/trump-blasts-herzog-over-netanyahu-trial-demands-immediate-pardon/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Over 1 , 230 killed as US and Israel attacks on Iran escalate regional conflict",
-          "link": "https://dunyanews.tv/en/World/938971-over-1230-killed-as-us-and-israel-attacks-on-iran-escalate-regional-c",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Time . ai",
-          "link": "https://time.mk/ai/a242388320/mk/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u043f\u0440\u0438\u0433\u0440\u043e\u0437\u0438\u043b \u0421\u0428\u0410 \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u043e\u0439 \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u044f",
-          "link": "https://news.mail.ru/politics/70054007/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0410\u0440\u0430\u0433\u0447\u0438 : \u041f\u043e\u0434\u0433\u043e\u0442\u0432\u0435\u043d\u0438 \u0441\u043c\u0435 \u0437\u0430 \u043a\u043e\u043f\u043d\u0435\u043d\u0430 \u0438\u043d\u0432\u0430\u0437\u0438\u0458\u0430 \u043d\u0430 \u0421\u0410\u0414",
-          "link": "https://time.mk/c/b953d3d78b/iran-ne-barame-prekin-na-ognot-i-nema-da-pregovarame-so-sad.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n no ha cerrado el estrecho de Ormuz , dice mando militar",
-          "link": "https://horacero.com.mx/internacional/iran-no-ha-cerrado-el-estrecho-de-ormuz",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "A True Force Multiplier : Hegseth Lauds Israel as Joint Forces Pound Iran",
-          "link": "https://www.breitbart.com/politics/2026/03/04/true-force-multiplier-hegseth-lauds-israels-unmatched-skill-as-joint-forces-continue-pound-iran/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03b1 \u03c0\u03bf\u03bb\u03b5\u03bc\u03b9\u03ba\u03ac \u03c0\u03b1\u03af\u03b3\u03bd\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7\u03c2 : \u0395\u03be\u03b1\u03bd\u03c4\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03c0\u03c5\u03c1\u03b1\u03c5\u03bb\u03b9\u03ba\u03ac \u03c4\u03b7\u03c2 \u03b1\u03c0\u03bf\u03b8\u03ad\u03bc\u03b1\u03c4\u03b1 \u03ae \u03ba\u03ac\u03bd\u03b5\u03b9 \u00ab \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u00bb \u03b3\u03b9\u03b1 \u03bc\u03af\u03b1 \u03c3\u03cd\u03b3\u03ba\u03c1\u03bf\u03c5\u03c3\u03b7 \u03b4\u03b9\u03b1\u03c1\u03ba\u03b5\u03af\u03b1\u03c2 ; \u03a4\u03b9 \u03bb\u03ad\u03bd\u03b5 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af",
-          "link": "https://news.makedonias.gr/2026/03/2091949/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Analista : Ir\u00e3 possui m\u00edsseis hipers\u00f4nicos , mas os mant\u00e9m at\u00e9 que defesa antia\u00e9rea do inimigo se esgote",
-          "link": "https://noticiabrasil.net.br/20260305/analista-ira-possui-misseis-hipersonicos-mas-os-mantem-ate-que-defesa-antiaerea-do-inimigo-se-48624009.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Four Days In , Hegseth , Caine Say US Making Decisive Progress In Iran",
-          "link": "https://www.eurasiareview.com/04032026-four-days-in-hegseth-caine-say-us-making-decisive-progress-in-iran/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0433\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u043f\u043e\u043c\u043e\u0449\u044c \u043b\u044e\u0431\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u043f\u0440\u043e\u0442\u0438\u0432 \u0418\u0440\u0430\u043d\u0430",
-          "link": "https://news.mail.ru/politics/70053930/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Turkey Says NATO Defenses Destroyed Incoming Missile From Iran",
-          "link": "https://www.eurasiareview.com/05032026-turkey-says-nato-defenses-destroyed-incoming-missile-from-iran/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran denies Kurdish fighters crossed border",
-          "link": "http://www.batonrougepost.com/news/278904215/iran-denies-kurdish-fighters-crossed-border",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Putin warning fuels calls in EU to drop sanctions",
-          "link": "http://www.batonrougepost.com/news/278904326/putin-warning-fuels-calls-in-eu-to-drop-sanctions",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Former state secretary",
-          "link": "https://wcti12.com/news/nation-world/former-state-secretary-condoleezza-rice-president-donald-trump-administration-trying-to-neuter-iran-military-power-war",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Stati Uniti , un uomo che tent\u00f2 di organizzare attentati a politici :  Costretto dallIran",
-          "link": "https://it.euronews.com/2026/03/05/stati-uniti-un-uomo-che-tento-di-organizzare-attentati-a-politici-costretto-dalliran",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Abu Dhabi  under fire  from Iran as UAE intercepts missile attack",
-          "link": "https://www.irishmirror.ie/news/world-news/abu-dhabi-under-fire-iran-36823700",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "El Rey pide contenci\u00f3n en el uso de la fuerza en Oriente Medio",
-          "link": "https://www.diariodeavila.es/noticia/zc3be1224-de9d-4e06-8e07535e9976c8c9/202603/el-rey-pide-contencion-en-el-uso-de-la-fuerza-en-oriente-medio",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Irans Streitkr\u00e4fte melden Angriff auf US - Flugzeugtr\u00e4ger",
-          "link": "http://www.az-online.de/politik/irans-streitkraefte-melden-angriff-auf-us-flugzeugtraeger-zr-94203932.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Meet Pedro S\u00e1nchez , Europe most vocal critic of Trump Iran attacks",
-          "link": "https://www.dailybreeze.com/2026/03/05/pedro-sanchez/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd : \u0397 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1 - \u039f \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2 \u03c4\u03c9\u03bd \u0397\u03a0\u0391 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03b9\u03ba\u03ae \u03c4\u03ad\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03b9\u03c7\u03bd\u03b9\u03b4\u03b9\u03bf\u03cd",
-          "link": "https://www.in.gr/2026/03/05/world/iran-katastrofi-den-einai-politiki-epityxia-o-polemos-ton-ipa-xoris-stratigiki-telous-tou-paixnidiou/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran news : Trump wants to be involved in picking new leader",
-          "link": "https://www.cp24.com/news/world/2026/03/05/trump-says-he-wants-to-be-involved-in-picking-irans-next-leader-as-war-ripples-across-the-region/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Regime - Sturz Teheran : \u00ab Trump hat Kontakt aufgenommen \u2013 wir haben eine eigene Agenda \u00bb",
-          "link": "https://www.20min.ch/story/regime-sturz-teheran-trump-hat-kontakt-aufgenommen-wir-haben-eine-eigene-agenda-103519516",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03bf \u0399\u03c1\u03ac\u03bd \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03c3\u03c4\u03bf\u03c7\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03b5\u03c3\u03b2\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u0397\u03a0\u0391 \u03c3\u03c4\u03bf \u03a1\u03b9\u03ac\u03bd\u03c4",
-          "link": "https://www.iefimerida.gr/kosmos/iran-arneitai-oti-stohopoiise-presbeia-ipa-riant",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Epic Fury : Hezbollah struggles , time to strike politically",
-          "link": "http://www.jpost.com/opinion/article-888978",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a0\u03ce\u03c2 \u03b7 \u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03af\u03b1 \u03b8\u03b1 \u00ab \u03c3\u03ce\u03c3\u03b5\u03b9 \u00bb \u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b9\u03c1\u03b1\u03bd\u03b9\u03ba\u03ac Shahed",
-          "link": "https://www.newsbeast.gr/world/arthro/12941652/pos-i-oukrania-tha-sosei-tis-ipa-apo-ta-iranika-shahed",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran , lo Stretto di Hormuz \u00e8 chiuso o no ? Il caso",
-          "link": "https://www.adnkronos.com/internazionale/esteri/lo-stretto-di-hormuz-e-chiuso-o-no-la-risposta-ha-un-peso-giuridico-e-legale_6OoWIm9ps87bTycCIZnndO",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "On Iran , Trump officials say US mission is  that simple . It depends",
-          "link": "https://www.pressdemocrat.com/2026/03/05/trump-iran-changing-rationale/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran is pummeled by airstrikes as Trump says he should help pick its next leader",
-          "link": "https://www.stripes.com/theaters/middle_east/2026-03-05/iran-pummeled-airstrikes-new-wave-attacks-bases-20960841.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "Unbearanble : The pain and sadness for Iranians in Australia | Bega District News",
-          "link": "https://www.begadistrictnews.com.au/story/9191437/unbearanble-the-pain-and-sadness-for-iranians-in-australia/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranians  ready to disgrace  US troops if they invade , top official says - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/iranians-ready-to-disgrace-us-troops-if-they-invade-top-official-says/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Krieg im Live - Blog : Bahrain : Iranischer Angriff trifft \u00d6l - Anlage",
-          "link": "https://www.gmx.ch/magazine/politik/nahostkonflikt/bahrain-iranischer-angriff-trifft-oel-anlage-41967054",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump busca abrir un frente kurdo contra el r\u00e9gimen en Ir\u00e1n",
-          "link": "https://www.abc.es/internacional/trump-busca-abrir-frente-kurdo-regimen-iran-20260304192904-nt.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Los kurdos en Ir\u00e1n : \u00bf tienen la capacidad de abrir un frente de guerra terrestre ?",
-          "link": "https://rpp.pe/mundo/medio-oriente/los-kurdos-en-iran-tienen-la-capacidad-de-abrir-un-frente-de-guerra-terrestre-noticia-1678731",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Watch shipping through the Strait of Hormuz grind to a halt amid Iran conflict",
-          "link": "https://foxwilmington.com/watch-shipping-through-the-strait-of-hormuz-grind-to-a-halt-amid-iran-conflict/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "A New Front In Iran War ? US Considers Arming Iranian Kurdish Opposition Groups \u2013 Analysis",
-          "link": "https://www.eurasiareview.com/05032026-a-new-front-in-iran-war-us-considers-arming-iranian-kurdish-opposition-groups-analysis/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n lanza nueva ola de misiles contra Israel\u00a0y mantiene control del estrecho de Ormuz",
-          "link": "https://ultimasnoticias.com.ve/actualidad/iran-lanza-nueva-ola-de-misiles-contra-israel-y-mantiene-control-del-estrecho-de-ormuz/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Nakhchivan Drone Incident : Could Azerbaijan Become Proxy in Ground War Against Iran ?",
-          "link": "https://english.pravda.ru/world/166082-azerbaijan-iran-conflict-nakhchivan-drone-incident/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran Abbas Araghchi : We Wont Negotiate With Trump",
-          "link": "https://www.mediaite.com/media/news/just-in-iranian-fm-tells-nbc-news-they-are-ready-for-us-ground-invasion-will-not-negotiate-with-trump/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Emotional turmoil grips Iranians watching conflict unfold overseas - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/emotional-turmoil-grips-iranians-watching-conflict-unfold-overseas/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Spania trimite \u00een Cipru fregata  Cristofor Columb",
-          "link": "https://www.romania-actualitati.ro/stiri/in-lume/spania-trimite-in-cipru-fregata-cristofor-columb-id224715.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Vous vous \u00eates attir\u00e9 lenfer sur vous - m\u00eames  : un ministre isra\u00e9lien menace de d\u00e9vaster le sud de Beyrouth comme Gaza",
-          "link": "https://www.tf1info.fr/international/guerre-moyen-orient-iran-un-ministre-israelien-menace-de-devaster-le-sud-de-beyrouth-comme-gaza-2428448.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041a\u0421\u0418\u0420 \u043e\u0442\u0447\u0438\u0442\u0430\u043b\u0441\u044f \u043e\u0431 \u0443\u0434\u0430\u0440\u0435 \u0434\u0440\u043e\u043d\u043e\u0432 \u043f\u043e \u0430\u0432\u0438\u0430\u043d\u043e\u0441\u0446\u0443 \u0421\u0428\u0410 \u0432 \u041e\u043c\u0430\u043d\u0441\u043a\u043e\u043c \u0437\u0430\u043b\u0438\u0432\u0435",
-          "link": "https://news.mail.ru/society/70054018/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Comunicado oficial de la UEFA sobre la Finalissima : \u00bf d\u00f3nde se jugar\u00e1 el Argentina - Espa\u00f1a ante el conflicto ?",
-          "link": "https://www.diez.hn/internacionales/finalissima-uefa-comunicado-oficial-argentina-espana-partido-qatar-iran-EG29584635",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Are nevoie Rom\u00e2nia de umbrela nuclear\u0103 francez\u0103 ?",
-          "link": "https://adevarul.ro/blogurile-adevarul/are-nevoie-romania-de-umbrela-nucleara-franceza-2513015.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u201e Viele deutsche Politiker waren Narren : Abrechnung mit der Iran - Appeasement - Politik",
-          "link": "http://www.az-online.de/politik/viele-deutsche-politiker-waren-narren-abrechnung-mit-der-iran-appeasement-politik-zr-94203098.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0639\u0631\u0627\u0642\u062c\u064a : \u0645\u0633\u062a\u0639\u062f\u0648\u0646 \u0644\u063a\u0632\u0648 \u0628\u0631\u064a \u0623\u0645\u0631\u064a\u0643\u064a .. \u0648\u0644\u0645 \u0646\u0637\u0644\u0628 \u0648\u0642\u0641\u064b\u0627 \u0644\u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631",
-          "link": "https://www.shorouknews.com/news/view.aspx?cdate=05032026&id=17d5cebf-ca7f-4554-b0c9-87bc002d6d3a",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Putin warning fuels calls in EU to drop sanctions",
-          "link": "http://www.heraldglobe.com/news/278904326/putin-warning-fuels-calls-in-eu-to-drop-sanctions",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Pre\u0163urile petrolului au urcat joi cu peste 3 %, pe fondul temerilor privind aprovizionarea",
-          "link": "https://www.stiripesurse.ro/preturile-petrolului-au-urcat-joi-cu-peste-3-pe-fondul-temerilor-privind-aprovizionarea_3865061",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Meet Pedro S\u00e1nchez , Europe most vocal critic of Trump Iran attacks",
-          "link": "https://www.sbsun.com/2026/03/05/pedro-sanchez/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump Blasts Herzog Over Netanyahu Trial , Demands Immediate Pardon",
-          "link": "https://themedialine.org/headlines/trump-blasts-herzog-over-netanyahu-trial-demands-immediate-pardon/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Over 1 , 230 killed as US and Israel attacks on Iran escalate regional conflict",
-          "link": "https://dunyanews.tv/en/World/938971-over-1230-killed-as-us-and-israel-attacks-on-iran-escalate-regional-c",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Time . ai",
-          "link": "https://time.mk/ai/a242388320/mk/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u043f\u0440\u0438\u0433\u0440\u043e\u0437\u0438\u043b \u0421\u0428\u0410 \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u043e\u0439 \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u0432\u0442\u043e\u0440\u0436\u0435\u043d\u0438\u044f",
-          "link": "https://news.mail.ru/politics/70054007/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0410\u0440\u0430\u0433\u0447\u0438 : \u041f\u043e\u0434\u0433\u043e\u0442\u0432\u0435\u043d\u0438 \u0441\u043c\u0435 \u0437\u0430 \u043a\u043e\u043f\u043d\u0435\u043d\u0430 \u0438\u043d\u0432\u0430\u0437\u0438\u0458\u0430 \u043d\u0430 \u0421\u0410\u0414",
-          "link": "https://time.mk/c/b953d3d78b/iran-ne-barame-prekin-na-ognot-i-nema-da-pregovarame-so-sad.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n no ha cerrado el estrecho de Ormuz , dice mando militar",
-          "link": "https://horacero.com.mx/internacional/iran-no-ha-cerrado-el-estrecho-de-ormuz",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "A True Force Multiplier : Hegseth Lauds Israel as Joint Forces Pound Iran",
-          "link": "https://www.breitbart.com/politics/2026/03/04/true-force-multiplier-hegseth-lauds-israels-unmatched-skill-as-joint-forces-continue-pound-iran/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03b1 \u03c0\u03bf\u03bb\u03b5\u03bc\u03b9\u03ba\u03ac \u03c0\u03b1\u03af\u03b3\u03bd\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03a4\u03b5\u03c7\u03b5\u03c1\u03ac\u03bd\u03b7\u03c2 : \u0395\u03be\u03b1\u03bd\u03c4\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03c0\u03c5\u03c1\u03b1\u03c5\u03bb\u03b9\u03ba\u03ac \u03c4\u03b7\u03c2 \u03b1\u03c0\u03bf\u03b8\u03ad\u03bc\u03b1\u03c4\u03b1 \u03ae \u03ba\u03ac\u03bd\u03b5\u03b9 \u00ab \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u00bb \u03b3\u03b9\u03b1 \u03bc\u03af\u03b1 \u03c3\u03cd\u03b3\u03ba\u03c1\u03bf\u03c5\u03c3\u03b7 \u03b4\u03b9\u03b1\u03c1\u03ba\u03b5\u03af\u03b1\u03c2 ; \u03a4\u03b9 \u03bb\u03ad\u03bd\u03b5 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af",
-          "link": "https://news.makedonias.gr/2026/03/2091949/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Analista : Ir\u00e3 possui m\u00edsseis hipers\u00f4nicos , mas os mant\u00e9m at\u00e9 que defesa antia\u00e9rea do inimigo se esgote",
-          "link": "https://noticiabrasil.net.br/20260305/analista-ira-possui-misseis-hipersonicos-mas-os-mantem-ate-que-defesa-antiaerea-do-inimigo-se-48624009.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Four Days In , Hegseth , Caine Say US Making Decisive Progress In Iran",
-          "link": "https://www.eurasiareview.com/04032026-four-days-in-hegseth-caine-say-us-making-decisive-progress-in-iran/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0433\u043e\u0442\u043e\u0432 \u043f\u0440\u0438\u043d\u044f\u0442\u044c \u043f\u043e\u043c\u043e\u0449\u044c \u043b\u044e\u0431\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u044b \u043f\u0440\u043e\u0442\u0438\u0432 \u0418\u0440\u0430\u043d\u0430",
-          "link": "https://news.mail.ru/politics/70053930/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Turkey Says NATO Defenses Destroyed Incoming Missile From Iran",
-          "link": "https://www.eurasiareview.com/05032026-turkey-says-nato-defenses-destroyed-incoming-missile-from-iran/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran denies Kurdish fighters crossed border",
-          "link": "http://www.batonrougepost.com/news/278904215/iran-denies-kurdish-fighters-crossed-border",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Putin warning fuels calls in EU to drop sanctions",
-          "link": "http://www.batonrougepost.com/news/278904326/putin-warning-fuels-calls-in-eu-to-drop-sanctions",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Former state secretary",
-          "link": "https://wcti12.com/news/nation-world/former-state-secretary-condoleezza-rice-president-donald-trump-administration-trying-to-neuter-iran-military-power-war",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Stati Uniti , un uomo che tent\u00f2 di organizzare attentati a politici :  Costretto dallIran",
-          "link": "https://it.euronews.com/2026/03/05/stati-uniti-un-uomo-che-tento-di-organizzare-attentati-a-politici-costretto-dalliran",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Abu Dhabi  under fire  from Iran as UAE intercepts missile attack",
-          "link": "https://www.irishmirror.ie/news/world-news/abu-dhabi-under-fire-iran-36823700",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "El Rey pide contenci\u00f3n en el uso de la fuerza en Oriente Medio",
-          "link": "https://www.diariodeavila.es/noticia/zc3be1224-de9d-4e06-8e07535e9976c8c9/202603/el-rey-pide-contencion-en-el-uso-de-la-fuerza-en-oriente-medio",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Irans Streitkr\u00e4fte melden Angriff auf US - Flugzeugtr\u00e4ger",
-          "link": "http://www.az-online.de/politik/irans-streitkraefte-melden-angriff-auf-us-flugzeugtraeger-zr-94203932.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Meet Pedro S\u00e1nchez , Europe most vocal critic of Trump Iran attacks",
-          "link": "https://www.dailybreeze.com/2026/03/05/pedro-sanchez/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd : \u0397 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b1 - \u039f \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2 \u03c4\u03c9\u03bd \u0397\u03a0\u0391 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03b9\u03ba\u03ae \u03c4\u03ad\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03b9\u03c7\u03bd\u03b9\u03b4\u03b9\u03bf\u03cd",
-          "link": "https://www.in.gr/2026/03/05/world/iran-katastrofi-den-einai-politiki-epityxia-o-polemos-ton-ipa-xoris-stratigiki-telous-tou-paixnidiou/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran news : Trump wants to be involved in picking new leader",
-          "link": "https://www.cp24.com/news/world/2026/03/05/trump-says-he-wants-to-be-involved-in-picking-irans-next-leader-as-war-ripples-across-the-region/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Regime - Sturz Teheran : \u00ab Trump hat Kontakt aufgenommen \u2013 wir haben eine eigene Agenda \u00bb",
-          "link": "https://www.20min.ch/story/regime-sturz-teheran-trump-hat-kontakt-aufgenommen-wir-haben-eine-eigene-agenda-103519516",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03bf \u0399\u03c1\u03ac\u03bd \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03c3\u03c4\u03bf\u03c7\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03b5\u03c3\u03b2\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u0397\u03a0\u0391 \u03c3\u03c4\u03bf \u03a1\u03b9\u03ac\u03bd\u03c4",
-          "link": "https://www.iefimerida.gr/kosmos/iran-arneitai-oti-stohopoiise-presbeia-ipa-riant",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Epic Fury : Hezbollah struggles , time to strike politically",
-          "link": "http://www.jpost.com/opinion/article-888978",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a0\u03ce\u03c2 \u03b7 \u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03af\u03b1 \u03b8\u03b1 \u00ab \u03c3\u03ce\u03c3\u03b5\u03b9 \u00bb \u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b9\u03c1\u03b1\u03bd\u03b9\u03ba\u03ac Shahed",
-          "link": "https://www.newsbeast.gr/world/arthro/12941652/pos-i-oukrania-tha-sosei-tis-ipa-apo-ta-iranika-shahed",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran , lo Stretto di Hormuz \u00e8 chiuso o no ? Il caso",
-          "link": "https://www.adnkronos.com/internazionale/esteri/lo-stretto-di-hormuz-e-chiuso-o-no-la-risposta-ha-un-peso-giuridico-e-legale_6OoWIm9ps87bTycCIZnndO",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "On Iran , Trump officials say US mission is  that simple . It depends",
-          "link": "https://www.pressdemocrat.com/2026/03/05/trump-iran-changing-rationale/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran is pummeled by airstrikes as Trump says he should help pick its next leader",
-          "link": "https://www.stripes.com/theaters/middle_east/2026-03-05/iran-pummeled-airstrikes-new-wave-attacks-bases-20960841.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -1044,9 +693,30 @@
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
     },
     {
-      "title": "\u2018The Truth Social war\u2019: the US playbook for war with Iran",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/5/aje-onl-tt_irn_usiranmonday_av_v1-020326?traffic_source=rss",
-      "summary": "Trump declared \u2018major combat operations\u2019 on social media. Will this reshape the region for decades?",
+      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+      "link": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so.",
+      "source": "BBC News",
+      "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+    },
+    {
+      "title": "Trump voices support for possible Kurdish offensive in Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/5/trump-voices-support-for-possible-kurdish-offensive-in-iran?traffic_source=rss",
+      "summary": "US president says he'd be 'all for' Kurdish ground assault on Iran amid reports that Washington is egging on rebellion.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "title": "Israel cancels Friday prayers at Al-Aqsa Mosque amid Iran conflict",
+      "link": "https://www.aljazeera.com/news/2026/3/5/israel-cancels-friday-prayers-at-al-aqsa-mosque-amid-iran-conflict?traffic_source=rss",
+      "summary": "Authorities say the mosque will be closed to worshippers, visitors of all faiths on Friday amid spread of the conflict.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "title": "US House of Representatives to vote on latest effort to halt Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/5/us-house-of-representatives-to-vote-on-latest-effort-to-halt-iran-war?traffic_source=rss",
+      "summary": "Vote comes day after a parallel resolution failed in the Senate, underscoring Republican support for Trump-launched war.",
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     },
@@ -1058,179 +728,88 @@
       "source_url": "https://www.theguardian.com/world/rss"
     },
     {
-      "title": "A rift between Spain and Trump widens over Spanish opposition to the Iran war",
-      "link": "https://www.npr.org/2026/03/05/nx-s1-5737285/iran-war-spain-trump",
-      "summary": "The Spanish government reiterated it would not let U.S. forces use two joint military bases in Spain as the U.S.-Israeli war in Iran escalates, widening a rift with the Trump administration.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "title": "House to vote on Trump's war powers. And, Minnesota sues over halted Medicaid funding",
-      "link": "https://www.npr.org/2026/03/05/g-s1-112596/up-first-newsletter-iran-israel-us-trump-democratic-primaries-minnesota-medicaid",
-      "summary": "The House is set to vote today on whether to constrain President Trump's authority to continue to wage war on Iran. And, Minnesota sues the Trump administration over halted Medicaid funding.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "title": "Unbearanble : The pain and sadness for Iranians in Australia | Bega District News",
-      "link": "https://www.begadistrictnews.com.au/story/9191437/unbearanble-the-pain-and-sadness-for-iranians-in-australia/",
+      "title": "Macron wants to protect Lebanon from escalation in Iran war",
+      "link": "https://www.yahoo.com/news/articles/macron-wants-protect-lebanon-escalation-201330706.html",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranians  ready to disgrace  US troops if they invade , top official says - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-      "link": "https://dominicanrepublicpost.com/iranians-ready-to-disgrace-us-troops-if-they-invade-top-official-says/",
+      "title": "President Trump Demands A Say On Who Is Named Iran New Supreme Leader",
+      "link": "https://newsradio910wltp.iheart.com/content/2026-03-05-president-trump-demands-a-say-on-who-is-named-irans-new-supreme-leader/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran - Krieg im Live - Blog : Bahrain : Iranischer Angriff trifft \u00d6l - Anlage",
-      "link": "https://www.gmx.ch/magazine/politik/nahostkonflikt/bahrain-iranischer-angriff-trifft-oel-anlage-41967054",
+      "title": "Trump says he wants to be involved in picking Iran next leader",
+      "link": "https://www.tdtnews.com/news/article_8f3df019-4238-401d-80ff-c5a441b2f3f8.html",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Watch shipping through the Strait of Hormuz grind to a halt amid Iran conflict",
-      "link": "https://foxwilmington.com/watch-shipping-through-the-strait-of-hormuz-grind-to-a-halt-amid-iran-conflict/",
+      "title": "\u0936\u094d\u0930\u0940\u0932\u0902\u0915\u093e \u0928\u0947 \u0908\u0930\u093e\u0928\u0940 \u091c\u0939\u093e\u091c \u0915\u0947 208 \u0915\u094d\u0930\u0942 \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0928\u093f\u0915\u093e\u0932\u093e , \u090f\u0915 \u0926\u093f\u0928 \u092a\u0939\u0932\u0947 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0928\u0947 \u0921\u0941\u092c\u094b\u092f\u093e \u0925\u093e \u092f\u0941\u0926\u094d\u0927\u092a\u094b\u0924 - sri lanka rescues 208 iranian crew amid usiran tensions",
+      "link": "https://www.jagran.com/world/other-sri-lanka-rescues-208-iranian-crew-amid-usiran-tensions-40162317.html",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "A New Front In Iran War ? US Considers Arming Iranian Kurdish Opposition Groups \u2013 Analysis",
-      "link": "https://www.eurasiareview.com/05032026-a-new-front-in-iran-war-us-considers-arming-iranian-kurdish-opposition-groups-analysis/",
+      "title": "Tehrangele , el barrio iran\u00ed de Los \u00c1ngeles , espera que su pueblo se levante",
+      "link": "https://efe.com/mundo/2026-03-05/tehrangeles-barrio-irani-los-angeles-estados-unido-lucha-pueblo/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Nakhchivan Drone Incident : Could Azerbaijan Become Proxy in Ground War Against Iran ?",
-      "link": "https://english.pravda.ru/world/166082-azerbaijan-iran-conflict-nakhchivan-drone-incident/",
+      "title": "Canada and Australia leaders urge de - escalation of Iran war",
+      "link": "https://www.halesowennews.co.uk/news/national/25912755.canada-australia-leaders-urge-de-escalation-iran-war/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran Abbas Araghchi : We Wont Negotiate With Trump",
-      "link": "https://www.mediaite.com/media/news/just-in-iranian-fm-tells-nbc-news-they-are-ready-for-us-ground-invasion-will-not-negotiate-with-trump/",
+      "title": "Fetterman on Dem Iran  hysteria :  Theyre afraid to agree with Trump on anything  * WorldNetDaily * by Anthony Iafrate , Daily Caller News Foundation",
+      "link": "https://www.wnd.com/2026/03/fetterman-dems-iran-hysteria-theyre-afraid-agree-trump/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Emotional turmoil grips Iranians watching conflict unfold overseas - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-      "link": "https://dominicanrepublicpost.com/emotional-turmoil-grips-iranians-watching-conflict-unfold-overseas/",
+      "title": "Trump Says He Must Help Choose Iran Next Leader",
+      "link": "https://www.newser.com/story/384884/trump-says-he-must-help-choose-irans-next-leader.html",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "\u201e Viele deutsche Politiker waren Narren : Abrechnung mit der Iran - Appeasement - Politik",
-      "link": "http://www.az-online.de/politik/viele-deutsche-politiker-waren-narren-abrechnung-mit-der-iran-appeasement-politik-zr-94203098.html",
+      "title": "Iran school and nearby military base struck multiple times , satellite image reveals",
+      "link": "https://www.bbc.co.uk/news/articles/c5yqqyly9n0o",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Meet Pedro S\u00e1nchez , Europe most vocal critic of Trump Iran attacks",
-      "link": "https://www.sbsun.com/2026/03/05/pedro-sanchez/",
+      "title": "Canada and Australia leaders urge de - escalation of Iran war",
+      "link": "https://www.theboltonnews.co.uk/news/national/25912755.canada-australia-leaders-urge-de-escalation-iran-war/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Over 1 , 230 killed as US and Israel attacks on Iran escalate regional conflict",
-      "link": "https://dunyanews.tv/en/World/938971-over-1230-killed-as-us-and-israel-attacks-on-iran-escalate-regional-c",
+      "title": "Izrael najavio novu fazu rata . Iran : Spremni smo na ameri\u010dku kopnenu invaziju",
+      "link": "https://www.index.hr/vijesti/clanak/izrael-najavio-novu-fazu-rata-iran-spremni-smo-na-americku-kopnenu-invaziju/2767609.aspx?index_ref=homepage_comment_box_d&commentId=10667576",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "A True Force Multiplier : Hegseth Lauds Israel as Joint Forces Pound Iran",
-      "link": "https://www.breitbart.com/politics/2026/03/04/true-force-multiplier-hegseth-lauds-israels-unmatched-skill-as-joint-forces-continue-pound-iran/",
+      "title": "BBC : Iranska \u0161kola u kojoj je ubijeno preko 160 djevoj\u010dica pogo\u0111ena vi\u0161e puta",
+      "link": "https://www.index.hr/vijesti/clanak/bbc-iranska-skola-u-kojoj-je-ubijeno-preko-160-djevojcica-pogodjena-vise-puta/2768005.aspx?index_tid=944681&index_ref=naslovnica_vijesti_najnovije_d",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Four Days In , Hegseth , Caine Say US Making Decisive Progress In Iran",
-      "link": "https://www.eurasiareview.com/04032026-four-days-in-hegseth-caine-say-us-making-decisive-progress-in-iran/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Turkey Says NATO Defenses Destroyed Incoming Missile From Iran",
-      "link": "https://www.eurasiareview.com/05032026-turkey-says-nato-defenses-destroyed-incoming-missile-from-iran/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran denies Kurdish fighters crossed border",
-      "link": "http://www.batonrougepost.com/news/278904215/iran-denies-kurdish-fighters-crossed-border",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Stati Uniti , un uomo che tent\u00f2 di organizzare attentati a politici :  Costretto dallIran",
-      "link": "https://it.euronews.com/2026/03/05/stati-uniti-un-uomo-che-tento-di-organizzare-attentati-a-politici-costretto-dalliran",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Abu Dhabi  under fire  from Iran as UAE intercepts missile attack",
-      "link": "https://www.irishmirror.ie/news/world-news/abu-dhabi-under-fire-iran-36823700",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Irans Streitkr\u00e4fte melden Angriff auf US - Flugzeugtr\u00e4ger",
-      "link": "http://www.az-online.de/politik/irans-streitkraefte-melden-angriff-auf-us-flugzeugtraeger-zr-94203932.html",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Meet Pedro S\u00e1nchez , Europe most vocal critic of Trump Iran attacks",
-      "link": "https://www.dailybreeze.com/2026/03/05/pedro-sanchez/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran news : Trump wants to be involved in picking new leader",
-      "link": "https://www.cp24.com/news/world/2026/03/05/trump-says-he-wants-to-be-involved-in-picking-irans-next-leader-as-war-ripples-across-the-region/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran , lo Stretto di Hormuz \u00e8 chiuso o no ? Il caso",
-      "link": "https://www.adnkronos.com/internazionale/esteri/lo-stretto-di-hormuz-e-chiuso-o-no-la-risposta-ha-un-peso-giuridico-e-legale_6OoWIm9ps87bTycCIZnndO",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "On Iran , Trump officials say US mission is  that simple . It depends",
-      "link": "https://www.pressdemocrat.com/2026/03/05/trump-iran-changing-rationale/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran is pummeled by airstrikes as Trump says he should help pick its next leader",
-      "link": "https://www.stripes.com/theaters/middle_east/2026-03-05/iran-pummeled-airstrikes-new-wave-attacks-bases-20960841.html",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
