@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T13:57:16Z",
+  "generated_at": "2026-04-22T16:12:51Z",
   "sources": [
     {
       "source": "BBC News",
@@ -8,7 +8,14 @@
         {
           "title": "Starmer admits No 10 asked about job for aide Matthew Doyle",
           "link": "https://www.bbc.com/news/articles/cq59xx6n3j7o?at_medium=RSS&at_campaign=rss",
-          "summary": "The ex-communications chief was made a Labour peer after leaving Downing Street in March 2025, but was suspended from the parliamentary party this February over links with a convicted sex offender.",
+          "summary": "The prime minister was questioned at PMQs about allegations that Downing Street had asked about a diplomat role for the then-communications chief.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "title": "PM's ex-chief of staff to give evidence on Mandelson vetting",
+          "link": "https://www.bbc.com/news/articles/c5yjl1pmv55o?at_medium=RSS&at_campaign=rss",
+          "summary": "The prime minister's former chief of staff will face questions about his role in the appointment of Lord Mandelson.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
@@ -20,23 +27,16 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
+          "title": "Black children eight times more likely to be strip searched by police, report says",
+          "link": "https://www.bbc.com/news/articles/cn8de0dg5j9o?at_medium=RSS&at_campaign=rss",
+          "summary": "A new report says while the number of strip searches has decreased, ethnic disparities in their use persist.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
           "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
           "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
           "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "EU approves \u20ac90bn loan for Ukraine as pipeline is turned on ending deadlock",
-          "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "Three ways the latest inflation figures affect you",
-          "link": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
-          "summary": "How high could inflation get? And what could it mean for borrowers and savers around the country?",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -88,9 +88,9 @@
       "source_url": "https://ir.voanews.com/api/zbtpil-vomx-tpeqiyp",
       "items": [
         {
-          "title": "\ud83d\udd34 \u062f\u0633\u062a\u200c\u06a9\u0645 \u0633\u0647 \u06a9\u0634\u062a\u06cc \u0631\u0648\u0632 \u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647\u060c \u0647\u062f\u0641 \u062d\u0645\u0644\u0627\u062a \u062f\u0631\u06cc\u0627\u06cc\u06cc \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0642\u0631\u0627\u0631 \u06af\u0631\u0641\u062a\u0646\u062f\u061b \u0633\u067e\u0627\u0647 \u0627\u0632 \u00ab\u062a\u0648\u0642\u06cc\u0641\u00bb \u062f\u0648 \u06a9\u0634\u062a\u06cc \u062f\u0631 \u0646\u0632\u062f\u06cc\u06a9\u06cc \u0647\u0631\u0645\u0632 \u062e\u0628\u0631 \u062f\u0627\u062f",
+          "title": "\ud83d\udd34 \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f: \u062a\u0645\u062f\u06cc\u062f \u0622\u062a\u0634\u200c\u0628\u0633 \u0628\u0627 \u062d\u06a9\u0648\u0645\u062a \u0627\u06cc\u0631\u0627\u0646 \u062a\u0646\u0647\u0627 \u06f3 \u062a\u0627 \u06f5 \u0631\u0648\u0632 \u0627\u0639\u062a\u0628\u0627\u0631 \u062f\u0627\u0631\u062f\u061b \u067e\u0631\u0632\u06cc\u062f\u0646\u062a \u062a\u0631\u0627\u0645\u067e \u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0648\u0631 \u062f\u0648\u0645 \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u0631\u0627 \u0645\u062d\u062a\u0645\u0644 \u062f\u0627\u0646\u0633\u062a",
           "link": "https://ir.voanews.com/a/8118506.html",
-          "summary": "\u0631\u0648\u0632 \u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647 \u062f\u0633\u062a\u200c\u06a9\u0645 \u0633\u0647 \u062d\u0645\u0644\u0647 \u0628\u0647 \u06a9\u0634\u062a\u06cc\u200c\u0647\u0627\u06cc \u0628\u0627\u0631\u06cc \u062f\u0631 \u0622\u0628\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0627\u06cc\u0631\u0627\u0646 \u062b\u0628\u062a \u0634\u062f\u0647 \u0627\u0633\u062a. \u0647\u0645\u0632\u0645\u0627\u0646 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0633\u067e\u0627\u0647 \u067e\u0627\u0633\u062f\u0627\u0631\u0627\u0646 \u0627\u0646\u0642\u0644\u0627\u0628 \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0632 \u062a\u0648\u0642\u06cc\u0641 \u062f\u0648 \u06a9\u0634\u062a\u06cc \u0628\u0627\u0631\u0628\u0631\u06cc \u062f\u0631 \u0622\u0628\u200c\u0647\u0627\u06cc \u0646\u0632\u062f\u06cc\u06a9 \u062a\u0646\u06af\u0647 \u0647\u0631\u0645\u0632 \u062e\u0628\u0631 \u062f\u0627\u062f\u060c \u0648 \u06cc\u06a9\u06cc \u0627\u0632 \u0627\u06cc\u0646 \u06a9\u0634\u062a\u06cc\u200c\u0647\u0627 \u0631\u0627 \u0628\u0647 \u0627\u0633\u0631\u0627\u0626\u2026",
+          "summary": "\u06a9\u0627\u062e \u0633\u0641\u06cc\u062f \u062f\u0631 \u0628\u06cc\u0627\u0646\u06cc\u0647\u200c\u0627\u06cc \u062e\u0637\u0627\u0628 \u0628\u0647 \u0634\u0628\u06a9\u0647 \u0641\u0627\u06a9\u0633 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u06a9\u0647 \u062a\u0645\u062f\u06cc\u062f \u0622\u062a\u0634\u200c\u0628\u0633 \u0627\u0632 \u0633\u0648\u06cc \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u0628\u0633\u06cc\u0627\u0631 \u0645\u062d\u062f\u0648\u062f \u062e\u0648\u0627\u0647\u062f \u0628\u0648\u062f \u0648 \u062a\u0646\u0647\u0627 \u0628\u0631\u0627\u06cc \u06cc\u06a9 \u0628\u0627\u0632\u0647 \u0632\u0645\u0627\u0646\u06cc \u06f3 \u062a\u0627 \u06f5 \u0631\u0648\u0632\u0647 \u062f\u0631 \u0646\u0638\u0631 \u06af\u0631\u0641\u062a\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a.",
           "source": "\u062e\u0628\u0631 \u0627\u0648\u0644 - \u0635\u062f\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
           "source_url": "https://ir.voanews.com/api/zbtpil-vomx-tpeqiyp"
         },
@@ -141,8 +141,8 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "GitHub CLI now collects pseudoanonymous telemetry",
-          "link": "https://cli.github.com/telemetry",
+          "title": "Our eighth generation TPUs: two chips for the agentic era",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -155,15 +155,15 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Our eighth generation TPUs: two chips for the agentic era",
-          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+          "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+          "link": "https://qwen.ai/blog?id=qwen3.6-27b",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "The eighth-generation TPU: An architecture deep dive",
-          "link": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive",
+          "title": "Treetops glowing during storms captured on film for first time",
+          "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Arsenal have grown, but they still have not learned how to dominate",
-          "link": "https://www.aljazeera.com/opinions/2026/4/22/arsenal-have-grown-but-they-still-have-not-learned-how-to-dominate?traffic_source=rss",
-          "summary": "Arsenal\u2019s title challenge is again being undermined by dropped points in decisive moments.",
+          "title": "Israeli settlers block Palestinian children from school in the West Bank",
+          "link": "https://www.aljazeera.com/videos/2026/4/22/israeli-settlers-block-palestinian-children-from-school-in-the-west-bank?traffic_source=rss",
+          "summary": "Students, teachers and families stage daily peaceful sit-ins at the site of the fence near Umm al-Khair village.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "New York exhibit casts \u2018Trumpism\u2019 as a modern faith",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/new-york-exhibit-casts-trumpism-as-a-modern-faith?traffic_source=rss",
-          "summary": "A New York gallery has transformed into a chapel-style installation exploring \u2018Trumpism\u2019 as a modern American belief.",
+          "title": "Iran\u2019s leaders debate war and peace after Trump ceasefire extension",
+          "link": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension?traffic_source=rss",
+          "summary": "State television pushes line that Iranians want more war, but others urge reason and moderation.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Beyond the desecrated statue: What truly demands our outrage",
-          "link": "https://www.aljazeera.com/opinions/2026/4/22/beyond-the-desecrated-statue-what-truly-demands-our-outrage?traffic_source=rss",
-          "summary": "Destruction of a statue of Jesus in Lebanon is disturbing, but Israel\u2019s genocide is what really demands our outrage.",
+          "title": "Trump calls Iran\u2019s leadership \u2018fractured\u2019. Is it, and who\u2019s in charge?",
+          "link": "https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge?traffic_source=rss",
+          "summary": "Almost 53 days into war, there is little evidence suggesting that Iranian government is fragmented.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Deadly Israeli settler attack on school kills two in Ramallah",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/deadly-israeli-settler-attack-on-school-kills-two-in-ramallah?traffic_source=rss",
-          "summary": "Two people have been killed after Israeli settlers opened fire on a school in the occupied West Bank.",
+          "title": "Fires ignited by Ukrainian drones rage at Russian oil refinery",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/fires-ignited-by-ukrainian-drones-rage-at-russian-oil-refinery?traffic_source=rss",
+          "summary": "Hundreds of firefighters are trying to contain fires at Russia\u2019s Tuapse oil refinery.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Runners help collapsed competitor at Boston Marathon",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/runners-help-collapsed-competitor-at-boston-marathon?traffic_source=rss",
-          "summary": "Runners help collapsed competitor at Boston Marathon",
+          "title": "Nepal\u2019s home minister resigns, second cabinet exit in one month",
+          "link": "https://www.aljazeera.com/news/2026/4/22/nepals-home-minister-resigns-second-cabinet-exit-in-one-month?traffic_source=rss",
+          "summary": "Sudan Gurung steps down after less than a month in office, citing questions about his investments \u200band other matters.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,37 +257,37 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "Inside Linda McMahon's effort to dismantle the Department of Education",
+          "link": "https://www.npr.org/2026/04/22/nx-s1-5794689/from-professional-wrestling-to-the-department-of-education-inside-linda-mcmahons-effort-to-dismantle-the-department-of-education",
+          "summary": "A former pro-wrestling executive, McMahon is now the education secretary Trump tasked with abolishing the agency. New Yorker writer Zach Helfand explains how her WWE experience led her to this role.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Iranians are leaving the country just to access the internet",
+          "link": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey",
+          "summary": "Iran has cut off its access to the global internet. To find an internet connection, some Iranians are traveling across the border with Turkey \u2014 even just to make video calls and then go back home.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Gene therapy for a rare type of deafness shows lasting results",
+          "link": "https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing",
+          "summary": "Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two years for some patients.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Family influencers make the lifestyle look good. But kids pay the price, new book says",
+          "link": "https://www.npr.org/2026/04/22/nx-s1-5794005/like-follow-subscribe-influencer-book-review",
+          "summary": "What does it mean to monetize your offspring? To turn their childhood into content? In Like, Follow, Subscribe Fortesa Latifi explores what drives parents to become family influencers.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Greetings from an Islamabad park, a peaceful vantage point in an uncertain world",
           "link": "https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park",
           "summary": "The park, near the venue where inconclusive Iran-U.S. peace talks took place this month, provides respite to those who visit it.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Restrictions on obesity drug coverage force patients to pivot",
-          "link": "https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound",
-          "summary": "Twelve million people lost coverage for Zepbound over the last year. The same number of people lost coverage for Wegovy, according to an analysis by GoodRx, a drug discount website.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Ships attacked in Strait of Hormuz. And, VA voters approve redistricting effort",
-          "link": "https://www.npr.org/2026/04/22/g-s1-118328/up-first-newsletter-iran-us-ceasefire-virginia-redistricting-aca",
-          "summary": "Two ships came under attack in the Strait of Hormuz, hours after Trump extended the ceasefire with Iran. And, Virginia voters approved a measure allowing Democrats to redraw the congressional map.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Iran attacks ships in Hormuz Strait as the U.S. continues its blockade amid ceasefire",
-          "link": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
-          "summary": "Three vessels came under fire in the Strait of Hormuz, after the U.S. and Iran failed to meet in Pakistan for talks to end the war and as President Trump extended the ceasefire but kept the blockade.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "RFK Jr. is on a congressional hearing blitz, after a long absence from Capitol Hill",
-          "link": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
-          "summary": "Health Secretary Robert F. Kennedy Jr. caps off seven budget hearings in as many days, the first time he has testified before Congress since September.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
@@ -296,358 +296,709 @@
     {
       "source": "GDELT: iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "Le TSX ouvre en hausse , Trump prolongeant le cessez - le - feu en Iran - 22 / 04 / 2026 \u00e0 15 : 35",
+          "link": "https://www.boursorama.com/bourse/actualites/le-tsx-ouvre-en-hausse-trump-prolongeant-le-cessez-le-feu-en-iran-fed032e22c0cb75cbe22281470419f30",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u039c\u03c0\u03ac\u03bd\u03bf\u03bd : \u039e\u03b5\u03c7\u03bd\u03ac\u03bc\u03b5 \u03c0\u03ce\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03b1\u03b3\u03b1\u03b8\u03ac , \u03b7 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c5\u03c0\u03b5\u03c1\u03b4\u03cd\u03bd\u03b1\u03bc\u03b7",
+          "link": "https://www.kathimerini.gr/world/564188017/mpanon-xechname-pos-metaferontai-ta-agatha-i-ellada-einai-yperdynami/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ir\u00e1n secuestra tres cargueros en el Estrecho de Ormuz y tensa la tregua con EE . UU .",
+          "link": "https://www.cadena3.com/noticia/mundo/iran-secuestra-tres-cargueros-en-el-estrecho-de-ormuz-y-tensa-la-tregua-con-eeuu_544029",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ropa zdra\u017euje po \u00fatokoch v Hormuzskom prielive , Brent sa vr\u00e1til nad 100 sto dol\u00e1rov",
+          "link": "https://hnonline.sk/finweb/zahranicna-ekonomika/96277234-ropa-zdrazuje-po-utokoch-v-hormuzskom-prielive-brent-sa-vratil-nad-100-sto-dolarov",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u0637\u0648\u0642 \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a \u064a\u062a\u0635\u062f\u0651\u0639  .. 34 \u0646\u0627\u0642\u0644\u0629 \u0646\u0641\u0637 \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0625\u064a\u0631\u0627\u0646 \u062a\u062e\u062a\u0631\u0642 \u0627\u0644\u062d\u0635\u0627\u0631 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0648\u062a\u062d\u0642\u0642 \u0639\u0648\u0627\u0626\u062f \u0628\u0642\u064a\u0645\u0629 910 \u0645\u0644\u0627\u064a\u064a\u0646 \u062f\u0648\u0644\u0627\u0631",
+          "link": "https://pnn.ps/news/722111",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Why Is Iran Angry With Asim Munir : How Pakistan Field Marshal Tried To Bridge Tehran - US Tensions And Why The Plan Is Now Backfiring ?",
+          "link": "https://www.newsx.com/world/why-is-iran-angry-with-asim-munir-how-pakistans-field-marshal-tried-to-bridge-tehran-us-tensions-and-why-the-plan-is-now-backfiring-203200/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Food prices in supermarkets rising again as inflation climbs",
+          "link": "https://www.lancashiretelegraph.co.uk/news/national/uk-today/26043221.food-prices-supermarkets-rising-inflation-climbs/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.dumbartonreporter.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Companhia a\u00e9rea anuncia corte de 20 mil voos para economizar combust\u00edvel por conta de guerra no Ir\u00e3",
+          "link": "https://www.estadao.com.br/economia/companhia-aerea-anuncia-corte-de-20-mil-voos-para-economizar-combustivel-por-conta-de-guerra-no-ira-npr/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on 3 ships in Strait of Hormuz hours after Trump extends ceasefire",
+          "link": "https://wgme.com/news/nation-world/iran-fires-on-3-ships-in-strait-of-hormuz-hours-after-us-president-donald-trump-extends-ceasefire-indefinitely-middle-east-conflict-israeli-airstrikes-lebanon-pakistan-mediators-peace-deal",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Bela ku\u0107a demantovala navode o Trampovom poku\u0161aju aktiviranja nuklearnih kodova",
+          "link": "https://informer.rs/planeta/vesti/1109277/bela-kuca-nuklearni-kodovi-donald-tramp",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran attacks ships in Hormuz Strait as the U . S . continues its blockade amid ceasefire",
+          "link": "https://www.aspenpublicradio.org/2026-04-22/iran-attacks-ships-in-hormuz-strait-as-the-u-s-continues-its-blockade-amid-ceasefire",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a4\u03ad\u03bb\u03bf\u03c2 \u03b5\u03c0\u03bf\u03c7\u03ae\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03a3\u03c4\u03b5\u03bd\u03cc \u03c4\u03bf\u03c5 Hormuz \u2013 \u0397 \u00ab \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ae \u00bb \u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03c3\u03c4\u03bf\u03bd \u039c\u03b5\u03c3\u03b1\u03af\u03bf \u0394\u03b9\u03ac\u03b4\u03c1\u03bf\u03bc\u03bf \u03c4\u03bf\u03c5 \u039a\u03b1\u03b6\u03b1\u03ba\u03c3\u03c4\u03ac\u03bd \u03c4\u03b9\u03bd\u03ac\u03b6\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b9\u03bc\u03ad\u03c2 \u03c3\u03c4\u03bf\u03bd \u03b1\u03ad\u03c1\u03b1",
+          "link": "https://www.bankingnews.gr/diethni/articles/870258/telos-epoxis-gia-to-steno-tou-hormuz-i-ypoxreotiki-strofi-ston-mesaio-diadromo-tou-kazakstan-tinazei-tis-times-ston-aera%20title=",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "India to purchase fertilizer at nearly double pre - war price",
+          "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/chem-/-fertilisers/india-to-purchase-fertilizer-at-nearly-double-pre-war-price/articleshow/130445376.cms",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Guerre au Moyen - Orient : lAllemagne en queue de peloton des \u00e9conomies europ\u00e9ennes - 22 / 04 / 2026 \u00e0 16 : 07",
+          "link": "https://www.boursorama.com/actualite-economique/actualites/guerre-au-moyen-orient-l-allemagne-en-queue-de-peloton-des-economies-europeennes-136df0fa78ee9bc113e6917624fe1e9b",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "La guerra hunde la econom\u00eda de las familias iran\u00edes",
+          "link": "https://www.larazon.es/internacional/guerra-hunde-economia-familias-iranies_2026042269e8e71a16cd5c2d46683ef9.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a4\u03bf \u03c0\u03bb\u03bf\u03af\u03bf \u03c4\u03bf\u03c5 \u03b5\u03c6\u03bf\u03c0\u03bb\u03b9\u03c3\u03c4\u03ae \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c5 \u0393\u03b9\u03bf\u03c5\u03c1\u03bf\u03cd\u03ba\u03bf\u03c5 \u03c7\u03c4\u03cd\u03c0\u03b7\u03c3\u03b1\u03bd \u03c3\u03c4\u03b1 \u03a3\u03c4\u03b5\u03bd\u03ac \u03c4\u03bf\u03c5 \u039f\u03c1\u03bc\u03bf\u03cd\u03b6 - \u03a0\u03bf\u03b9\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03b5\u03c6\u03bf\u03c0\u03bb\u03b9\u03c3\u03c4\u03ae\u03c2",
+          "link": "https://empisteutiko.gr/to-ploio-toy-efoplisti-giorgoy-gioyroykoy-chtypisan-sta-stena-toy-ormoyz-poios-einai-o-efoplistis/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "EU unblocks 90 - bn - euro Ukraine loan after Hungary row",
+          "link": "https://www.hometownregister.com/news/national/eu-unblocks-90-bn-euro-ukraine-loan-after-hungary-row/article_474a1448-db6e-521c-a14e-31e1c4ea57ee.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Guerre au Moyen - Orient : Trump prolonge la tr\u00eave sans lever le blocus maritime",
+          "link": "https://www.mediacongo.net/article-actualite-162934_guerre_au_moyen_orient_trump_prolonge_la_treve_sans_lever_le_blocus_maritime.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Kamala Harris Dangerous Iran Revisionism - The Jewish Press - JewishPress . com | Editorial Board | Wednesday , April 22 , 2026",
+          "link": "https://jewishpress.com/kamala-harriss-dangerous-iran-revisionism/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Israel sancionar\u00e1 a dos soldados por da\u00f1ar estatua de Jesucristo en L\u00edbano",
+          "link": "https://www.cadena3.com/noticia/cadena-3-mundo/israel-sancionara-a-dos-soldados-por-danar-estatua-de-jesucristo-en-libano_543978",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "MAGA movement set to crumble after  exodu of key members : strategist",
+          "link": "https://www.rawstory.com/maga-trump-2676798734/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Three ships targeted in Hormuz , Iran seizes two : monitors , Guards",
+          "link": "https://www.hurriyetdailynews.com/three-ships-targeted-in-hormuz-iran-seizes-two-monitors-guards-221360",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Alone , Or Set Apart ? Israel Dilemma - The Jewish Press - JewishPress . com | Rabbi Yehuda L Oppenheimer | Wednesday , April 22 , 2026",
+          "link": "https://jewishpress.com/alone-or-set-apart-israels-dilemma/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0633\u0646\u064a\u0645 : \u0625\u064a\u0631\u0627\u0646 \u0644\u0645 \u062a\u0639\u0644\u0646 \u0639\u0646 \u0645\u0648\u0642\u0641 \u0631\u0633\u0645\u064a \u0628\u0634\u0623\u0646 \u062a\u0645\u062f\u064a\u062f \u0648\u0642\u0641 \u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0648\u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0645\u0642\u0628\u0644\u0629 \u062d\u062a\u0649 \u0627\u0644\u0644\u062d\u0638\u0629 \u2013 \u0642\u0646\u0627\u0629 \u0627\u0644\u0645\u0646\u0627\u0631",
+          "link": "https://www.almanar.com.lb/article/785517/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0421\u041c\u0418 : \u0421\u0428\u0410 \u0445\u043e\u0442\u044f\u0442 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0442\u044c \u0432\u0440\u0435\u043c\u044f \u0434\u043b\u044f \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0418\u0440\u0430\u043d\u0430 \u043f\u043e \u0443\u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e",
+          "link": "https://news.mail.ru/politics/70635531/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "T\u00fcrkiyenin ihracat\u0131ndaki kan kayb\u0131 durdurulabilir mi ?",
+          "link": "https://www.ogunhaber.com/ekonomi/turkiyenin-ihracatindaki-kan-kaybi-durdurulabilir-mi-2999224h.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "COMMENTARY : Democrats ignore context on Trump economic record | Jefferson City News Tribune",
+          "link": "http://www.newstribune.com/news/2026/apr/22/commentary-democrats-ignore-context-on-trump/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "3 Vessels Hit By Iranian Fire In Hormuz Hours After Extended Ceasefire",
+          "link": "https://wwnc.iheart.com/content/2026-04-22-3-vessels-hit-by-iranian-fire-in-hormuz-hours-after-extended-ceaseifre/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wall Street ouvre en hausse sur fond doptimisme au Moyen - Orient - 22 / 04 / 2026 \u00e0 15 : 55",
+          "link": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-sur-fond-d-optimisme-au-moyen-orient-423eef53adefb5adf0fd8b5f75c25ca4",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "3 Vessels Hit By Iranian Fire In Hormuz Hours After Extended Ceasefire",
+          "link": "https://wsfcam.iheart.com/content/2026-04-22-3-vessels-hit-by-iranian-fire-in-hormuz-hours-after-extended-ceaseifre/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0420\u044e\u0442\u0442\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u043d\u0430\u0440\u0430\u0449\u0438\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043e\u0431\u043e\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438",
+          "link": "https://unn.ua/ru/news/ryutte-prizivaet-soyuznikov-sovmestno-narashchivat-proizvodstvo-oboronnoi-produktsii",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041d\u0438\u043a\u043e\u043b\u044f \u0411\u0430\u0432\u0435\u0440\u0435 :  \u041c\u0438\u0440\u043e\u0432\u0430\u044f \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u043e\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c \u043d\u0430 \u0433\u0440\u0430\u043d\u0438 \u0445\u0430\u043e\u0441\u0430  ( Le Figaro , \u0424\u0440\u0430\u043d\u0446\u0438\u044f )",
+          "link": "https://inosmi.ru/20260422/ekonomika-278084906.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Reuters : \u0421\u0428\u0410 \u043f\u043e\u0447\u0430\u043b\u0438 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u0442\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u0457 \u043f\u0440\u043e\u0442\u0438\u0434\u0456\u0457 \u0434\u0440\u043e\u043d\u0430\u043c",
+          "link": "https://lb.ua/world/2026/04/22/734139_reuters_viyskovi_ssha_pochali.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.eveshamjournal.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump ka\u017ee da je iznena\u0111en zaplijenjenim  kineskim poklonom Iranu",
+          "link": "https://www.dnevno.hr/geopolitika-news/trump-kaze-da-je-iznenaden-zaplijenjenim-kineskim-poklonom-iranu-0/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wall Street ouvre en hausse sur fond doptimisme au Moyen - Orient - 22 / 04 / 2026 \u00e0 15 : 53",
+          "link": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-sur-fond-d-optimisme-au-moyen-orient-73679e5f21b4915ea5517696ac8759fc",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Millones de trabajadores en Ir\u00e1n pierden el trabajo a causa de la guerra con EE . UU . e Israel",
+          "link": "https://www.teletica.com/bbc-news-mundo/millones-de-trabajadores-en-iran-pierden-el-trabajo-a-causa-de-la-guerra-con-ee-uu-e-israel_407349",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.lancashiretelegraph.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0647\u0631\u0645\u0632 .. \u0642\u0635\u0629 \u0645\u0636\u064a\u0642 \u0641\u062a\u062d\u0647 \u0623\u0635\u0639\u0628 \u0645\u0646 \u063a\u0644\u0642\u0647",
+          "link": "https://www.aljazeera.net/politics/2026/4/22/%D9%87%D8%B1%D9%85%D8%B2-%D9%82%D8%B5%D8%A9-%D9%85%D8%B6%D9%8A%D9%82-%D9%81%D8%AA%D8%AD%D9%87-%D8%A3%D8%B5%D8%B9%D8%A8-%D9%85%D9%86-%D8%BA%D9%84%D9%82%D9%87",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0421\u0430\u0430\u0434 \u0425\u0430\u043b\u0430\u0444 : \u041b\u0430\u0432\u0440\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0440\u0443\u043a\u043e\u0439 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0432\u0435\u0440\u044c \u043a \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u0430\u043c , \u0434\u0440\u0443\u0433\u043e\u0439 \u0433\u0440\u043e\u0437\u0438\u0442 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435\u043c \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0430 \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u044b \u0423\u043a\u0440\u0430\u0438\u043d\u044b ( Almasry Alyoum , \u0415\u0433\u0438\u043f\u0435\u0442 )",
+          "link": "https://inosmi.ru/20260422/lavrov-278090090.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a6\u03ac\u03bc\u03b5\u03bb\u03bb\u03bf\u03c2 \u03b3\u03b9\u03b1 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 : \u00ab \u0391\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b4\u03b5\u03bd \u03ad\u03b2\u03c1\u03b9\u03c3\u03ba\u03b5 \u03bb\u03b5\u03c6\u03c4\u03ac \u00bb",
+          "link": "https://www.typosthes.gr/politiki/426567_famellos-gia-mitsotaki-anakoinose-metra-gia-ta-opoia-den-ebriske-lefta",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Heating oil cost help from Blackburn with Darwen Council",
+          "link": "https://www.lancashiretelegraph.co.uk/news/26043395.heating-oil-cost-help-blackburn-darwen-council/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Stories \u2013 Things Come Undone \u2013 Daily Kos",
+          "link": "https://www.dailykos.com/user/things-come-undone/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The Latest : Iran attacks 3 ships in the Strait of Hormuz as Trump indefinitely extends ceasefire",
+          "link": "https://www.idahostatejournal.com/news/national/the-latest-iran-attacks-3-ships-in-the-strait-of-hormuz-as-trump-indefinitely-extends/article_db039f96-32f5-577d-84cc-0c63ba1f6863.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0646\u0627\u0626\u0628 \u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a : \u0644\u0627 \u064a\u0648\u062c\u062f \u0637\u0631\u064a\u0642 \u0645\u0633\u062f\u0648\u062f \u0623\u0645\u0627\u0645 \u0627\u0644\u062d\u0631\u0633 \u0627\u0644\u062b\u0648\u0631\u064a",
+          "link": "https://assabeel.net/70231",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Rentenstreit in der Bundesregierung : Glaubt der Kanzler noch an die Rente ?",
+          "link": "https://www.zeit.de/politik/2026-04/rentenstreit-bundesregierung-friedrich-merz-basisrente-nachrichtenpodcast",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041f\u043e\u0441\u043e\u043b \u0437\u0430\u044f\u0432\u0438\u043b , \u0447\u0442\u043e \u0420\u043e\u0441\u0441\u0438\u044f \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441 \u0418\u043d\u0434\u0438\u0435\u0439 \u043f\u043e \u0421\u0443 - 57",
+          "link": "https://news.mail.ru/politics/70635510/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US blocked $500 mln cash shipment to Iraq : WSJ",
+          "link": "https://www.hurriyetdailynews.com/us-blocked-500-mln-cash-shipment-to-iraq-wsj-221359",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "With ceasefire extended , US and Iran face standoff in the Strait of Hormuz",
+          "link": "https://www.stripes.com/theaters/middle_east/2026-04-22/iran-strait-of-hormuz-deadline-oil-21451088.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
       "items": [
         {
-          "title": "How the airline industry could be impacted if Spirit Airlines is liquidated",
-          "link": "https://radio.wpsu.org/2026-04-22/how-the-airline-industry-could-be-impacted-if-spirit-airlines-is-liquidated",
+          "title": "Le TSX ouvre en hausse , Trump prolongeant le cessez - le - feu en Iran - 22 / 04 / 2026 \u00e0 15 : 35",
+          "link": "https://www.boursorama.com/bourse/actualites/le-tsx-ouvre-en-hausse-trump-prolongeant-le-cessez-le-feu-en-iran-fed032e22c0cb75cbe22281470419f30",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Wall Street ticks higher in early trading amid tenuous Iran ceasefire",
-          "link": "https://www.standardspeaker.com/2026/04/22/wall-street-iran/",
+          "title": "\u039c\u03c0\u03ac\u03bd\u03bf\u03bd : \u039e\u03b5\u03c7\u03bd\u03ac\u03bc\u03b5 \u03c0\u03ce\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03b1\u03b3\u03b1\u03b8\u03ac , \u03b7 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c5\u03c0\u03b5\u03c1\u03b4\u03cd\u03bd\u03b1\u03bc\u03b7",
+          "link": "https://www.kathimerini.gr/world/564188017/mpanon-xechname-pos-metaferontai-ta-agatha-i-ellada-einai-yperdynami/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "NATO chief : T\u00fcrkiye has made a revolution in defense industry in recent years",
-          "link": "https://en.apa.az/asia/nato-chief-turkiye-has-made-a-revolution-in-defense-industry-in-recent-years-502674",
+          "title": "Ir\u00e1n secuestra tres cargueros en el Estrecho de Ormuz y tensa la tregua con EE . UU .",
+          "link": "https://www.cadena3.com/noticia/mundo/iran-secuestra-tres-cargueros-en-el-estrecho-de-ormuz-y-tensa-la-tregua-con-eeuu_544029",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-          "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11029864",
+          "title": "Ropa zdra\u017euje po \u00fatokoch v Hormuzskom prielive , Brent sa vr\u00e1til nad 100 sto dol\u00e1rov",
+          "link": "https://hnonline.sk/finweb/zahranicna-ekonomika/96277234-ropa-zdrazuje-po-utokoch-v-hormuzskom-prielive-brent-sa-vratil-nad-100-sto-dolarov",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "How the airline industry could be impacted if Spirit Airlines is liquidated",
-          "link": "https://www.kyuk.org/2026-04-22/how-the-airline-industry-could-be-impacted-if-spirit-airlines-is-liquidated",
+          "title": "\u0627\u0644\u0637\u0648\u0642 \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a \u064a\u062a\u0635\u062f\u0651\u0639  .. 34 \u0646\u0627\u0642\u0644\u0629 \u0646\u0641\u0637 \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0625\u064a\u0631\u0627\u0646 \u062a\u062e\u062a\u0631\u0642 \u0627\u0644\u062d\u0635\u0627\u0631 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0648\u062a\u062d\u0642\u0642 \u0639\u0648\u0627\u0626\u062f \u0628\u0642\u064a\u0645\u0629 910 \u0645\u0644\u0627\u064a\u064a\u0646 \u062f\u0648\u0644\u0627\u0631",
+          "link": "https://pnn.ps/news/722111",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iran Guards say two ships seized in Hormuz after ceasefire extension",
-          "link": "https://en.apa.az/asia/iran-guards-say-two-ships-seized-in-hormuz-after-ceasefire-extension-502688",
+          "title": "Why Is Iran Angry With Asim Munir : How Pakistan Field Marshal Tried To Bridge Tehran - US Tensions And Why The Plan Is Now Backfiring ?",
+          "link": "https://www.newsx.com/world/why-is-iran-angry-with-asim-munir-how-pakistans-field-marshal-tried-to-bridge-tehran-us-tensions-and-why-the-plan-is-now-backfiring-203200/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1 : \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7 \u03bc\u03cc\u03bb\u03b9\u03c2 0 , 5 % \u03b3\u03b9\u03b1 \u03c4\u03bf 2026 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 ...",
-          "link": "https://www.capital.gr/diethni/3986805/germania-anaptuxi-molis-05-gia-to-2026-blepei-pleon-i-kubernisi-enanti-problepsis-gia-1/",
+          "title": "Food prices in supermarkets rising again as inflation climbs",
+          "link": "https://www.lancashiretelegraph.co.uk/news/national/uk-today/26043221.food-prices-supermarkets-rising-inflation-climbs/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u76fe\u5e01\u56e0\u7f8e\u4f0a\u505c\u706b\u524d\u666f\u4e0d\u786e\u5b9a\u800c\u627f\u538b\u8d70\u5f31",
-          "link": "http://www.shangbaoindonesia.com/read/2026/04/22/financial-1776856314",
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.dumbartonreporter.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Economia e finanza dai giornali united states - Borsa Italiana",
-          "link": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/economia-e-finanza-dai-giornali-usa-nRC_22042026_1347_445974296.html",
+          "title": "Companhia a\u00e9rea anuncia corte de 20 mil voos para economizar combust\u00edvel por conta de guerra no Ir\u00e3",
+          "link": "https://www.estadao.com.br/economia/companhia-aerea-anuncia-corte-de-20-mil-voos-para-economizar-combustivel-por-conta-de-guerra-no-ira-npr/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-          "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11031076",
+          "title": "Iran fires on 3 ships in Strait of Hormuz hours after Trump extends ceasefire",
+          "link": "https://wgme.com/news/nation-world/iran-fires-on-3-ships-in-strait-of-hormuz-hours-after-us-president-donald-trump-extends-ceasefire-indefinitely-middle-east-conflict-israeli-airstrikes-lebanon-pakistan-mediators-peace-deal",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Allies scratch heads after Trump  naughty list  of bad friends leaks : report",
-          "link": "https://www.rawstory.com/nato-2676798204/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Ticker : Iran greift drei Frachtschiffe an",
-          "link": "https://www.watson.ch/international/liveticker/455779172-iran-ticker-iran-greift-drei-frachtschiffe-an",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Sytuacja na rynkach 22 kwietnia - czy to jest zamro\u017cenie wojny ?",
-          "link": "https://www.parkiet.com/waluty/art44207121-sytuacja-na-rynkach-22-kwietnia-czy-to-jest-zamrozenie-wojny",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Martin Navr\u00e1til , cestovate\u013e , neodpor\u00fa\u010da cestova\u0165 do Ir\u00e1nu",
-          "link": "https://www1.pluska.sk/spravy/cestovatel-navratil-o-irane-je-to-hrdy-narod-teraz-tam-nechodte-ktore-destinacie-odporuca",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "S\u00e1nchez , a Feij\u00f3o : El pacto extreme\u00f1o PP - Vox da una  patada a la Constituci\u00f3n  al  violar  el principio de igualdad",
-          "link": "https://www.diariodesevilla.es/espana/sanchez-feijoo-pacto-extremeno-pp_0_2006568114.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran ghost ships smuggle $1bn of oil through Strait of Hormuz as Trump blockade collapses | World | News",
-          "link": "https://www.express.co.uk/news/world/2197128/iran-ghost-ships-smuggle-1bn",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Aldad\u0131c\u0131 sakitlik : AB\u015e \u2013 \u0130ran m\u00fcnaqi\u015f\u0259sind\u0259 at\u0259\u015fk\u0259s diplomatiyas\u0131",
-          "link": "https://turan.az/az/ekspress-tehlil/aldadici-sakitlik-abs-iran-munaqisesinde-ateskes-diplomatiyasi-790954",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Taiwan president cancels trip to Eswatini after three African countries revoke flight permits",
-          "link": "https://www.premiumtimesng.com/news/top-news/873845-taiwans-president-cancels-trip-to-eswatini-after-three-african-countries-revoke-flight-permits.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Guest column : Trump administration should take  America Smart  approach to Iran war",
-          "link": "https://www.heraldbulletin.com/opinion/guest-column-trump-administration-should-take-america-smart-approach-to-iran-war/article_921b1bb8-1b6c-5614-a357-6681d8560159.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Donald Trump volvi\u00f3 a amenazar con atacar Ir\u00e1n",
-          "link": "https://www.elancasti.com.ar/donald-trump-volvio-amenazar-atacar-iran-n610908",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Velika Britanija mora da se pripremi za porast dr\u017eavno podr\u017eanih sajber napada",
-          "link": "https://www.tanjug.rs/svet/politika/246656/velika-britanija-mora-da-se-pripremi-za-porast-drzavno-podrzanih-sajber-napada/vest",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Critiques contre lAES , faux communiqu\u00e9 : que sait - on des en ... | Seneweb",
-          "link": "http://www.seneweb.com/fr/news/Afrique/critiques-contre-laes-faux-communique-que-sait-on-des-enregistrements-telephoniques-de-kemi-seba_n_490317.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "How the airline industry could be impacted if Spirit Airlines is liquidated",
-          "link": "https://knpr.org/npr/2026-04-22/how-the-airline-industry-could-be-impacted-if-spirit-airlines-is-liquidated",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Krieg im Liveticker : +++ 15 : 01 Studie : Iran - Krieg verursacht mehr Firmenpleiten - rund 209 . 000 Arbeitspl\u00e4tze in Deutschland gef\u00e4hrdet +++",
-          "link": "https://www.n-tv.de/politik/15-01-Studie-Iran-Krieg-verursacht-mehr-Firmenpleiten-rund-209-000-Arbeitsplaetze-in-Deutschland-gefaehrdet-id30415311.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd : \u03a3\u03c6\u03bf\u03b4\u03c1\u03ae \u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ae \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03b8\u03b5\u03c3\u03c4\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c3\u03c4\u03ac\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0395\u0395 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7 \u03bd\u03ad\u03b1 \u03b5\u03ba\u03c4\u03ad\u03bb\u03b5\u03c3\u03b7 \u2013 \u00ab \u0391\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c4\u03b7 \u03b7 \u03c3\u03b9\u03c9\u03c0\u03ae \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2 \u00bb",
-          "link": "https://www.in.gr/2026/04/22/world/iran-sfodri-kritiki-antikathestotikon-gia-ti-stasi-tis-ee-meta-ti-nea-ektelesi-adikaiologiti-i-siopi-tis-eyropis/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Military planners from 30 countries gather in London on Strait of Hormuz security",
-          "link": "https://en.apa.az/europe/military-planners-from-30-countries-gather-in-london-on-strait-of-hormuz-security-502696",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "GUERRA EN IR\u00c1N | Dos buques han sufrido ataques en el estrecho de Ormuz",
-          "link": "https://www.farodevigo.es/mundo/2026/04/22/han-la-guardia-revolucionaria-irani-apresa-dos-buques-en-el-estrecho-de-ormuz-129387031.html",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-          "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11030572",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "The week in politics ( April 22 , 2026 ) \u2013 Houston Public Media",
-          "link": "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2026/04/22/549535/the-week-in-politics-april-22-2026/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "H Lufthansa \u03b5\u03bd \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c0\u03b5\u03c1\u03b9\u03cc\u03b4\u03bf\u03c5 \u03ba\u03cc\u03b2\u03b5\u03b9 20 . 000 \u03c0\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03bb\u03cc\u03b3\u03c9 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03cc\u03c3\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c5\u03c3\u03af\u03bc\u03c9\u03bd",
-          "link": "https://www.topontiki.gr/2026/04/22/h-lufthansa-en-meso-touristikis-periodou-kovi-20-000-ptisis-logo-afxisis-tou-kostous-kafsimon/",
-          "summary": "",
-          "source": "GDELT: Iran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Welche Szenarien im Iran nun denkbar sind",
-          "link": "https://www.gmx.at/magazine/politik/nahostkonflikt/szenarien-iran-denkbar-42167388",
+          "title": "Bela ku\u0107a demantovala navode o Trampovom poku\u0161aju aktiviranja nuklearnih kodova",
+          "link": "https://informer.rs/planeta/vesti/1109277/bela-kuca-nuklearni-kodovi-donald-tramp",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
           "title": "Iran attacks ships in Hormuz Strait as the U . S . continues its blockade amid ceasefire",
-          "link": "https://www.kyuk.org/2026-04-22/iran-attacks-ships-in-hormuz-strait-as-the-u-s-continues-its-blockade-amid-ceasefire",
+          "link": "https://www.aspenpublicradio.org/2026-04-22/iran-attacks-ships-in-hormuz-strait-as-the-u-s-continues-its-blockade-amid-ceasefire",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "The Jewish innovation we need is happening in Great Neck",
-          "link": "https://religionnews.com/2026/04/22/an-iranian-yeshiva-bought-a-major-reform-temple-its-exactly-the-jewish-innovation-we-need/",
+          "title": "\u03a4\u03ad\u03bb\u03bf\u03c2 \u03b5\u03c0\u03bf\u03c7\u03ae\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03a3\u03c4\u03b5\u03bd\u03cc \u03c4\u03bf\u03c5 Hormuz \u2013 \u0397 \u00ab \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ae \u00bb \u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03c3\u03c4\u03bf\u03bd \u039c\u03b5\u03c3\u03b1\u03af\u03bf \u0394\u03b9\u03ac\u03b4\u03c1\u03bf\u03bc\u03bf \u03c4\u03bf\u03c5 \u039a\u03b1\u03b6\u03b1\u03ba\u03c3\u03c4\u03ac\u03bd \u03c4\u03b9\u03bd\u03ac\u03b6\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b9\u03bc\u03ad\u03c2 \u03c3\u03c4\u03bf\u03bd \u03b1\u03ad\u03c1\u03b1",
+          "link": "https://www.bankingnews.gr/diethni/articles/870258/telos-epoxis-gia-to-steno-tou-hormuz-i-ypoxreotiki-strofi-ston-mesaio-diadromo-tou-kazakstan-tinazei-tis-times-ston-aera%20title=",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump rekao da je SAD presreo brod s kineskim poklonom za Iran . Reagirao Peking",
-          "link": "https://www.dnevnik.ba/vijesti/trump-rekao-da-je-sad-presreo-brod-s-kineskim-poklonom-za-iran-reagirao-peking/",
+          "title": "India to purchase fertilizer at nearly double pre - war price",
+          "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/chem-/-fertilisers/india-to-purchase-fertilizer-at-nearly-double-pre-war-price/articleshow/130445376.cms",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-          "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11029827",
+          "title": "Guerre au Moyen - Orient : lAllemagne en queue de peloton des \u00e9conomies europ\u00e9ennes - 22 / 04 / 2026 \u00e0 16 : 07",
+          "link": "https://www.boursorama.com/actualite-economique/actualites/guerre-au-moyen-orient-l-allemagne-en-queue-de-peloton-des-economies-europeennes-136df0fa78ee9bc113e6917624fe1e9b",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Lurer . com | \u053b\u057f\u0561\u056c\u056b\u0561\u0575\u056b \u0587 \u053b\u0580\u0561\u0576\u056b \u0531\u0533 \u0576\u0561\u056d\u0561\u0580\u0561\u0580\u0576\u0565\u0580\u0568 \u0584\u0576\u0576\u0561\u0580\u056f\u0565\u056c \u0565\u0576 \u0540\u0578\u0580\u0574\u0578\u0582\u0566\u056b \u0576\u0565\u0572\u0578\u0582\u0581\u0578\u0582\u0574 \u0576\u0561\u057e\u0561\u0563\u0576\u0561\u0581\u0578\u0582\u0569\u0575\u0561\u0576 \u0570\u0565\u057f \u056f\u0561\u057a\u057e\u0561\u056e \u056b\u0580\u0561\u057e\u056b\u0573\u0561\u056f\u0568",
-          "link": "https://lurer.com/article/726740/am",
+          "title": "La guerra hunde la econom\u00eda de las familias iran\u00edes",
+          "link": "https://www.larazon.es/internacional/guerra-hunde-economia-familias-iranies_2026042269e8e71a16cd5c2d46683ef9.html",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "LUE envisage dimposer la constitution et la redistribution de stocks de k\u00e9ros\u00e8ne",
-          "link": "https://www.zonebourse.com/actualite-bourse/l-ue-envisage-d-imposer-la-constitution-et-la-redistribution-de-stocks-de-kerosene-ce7f59d8dc81f625",
+          "title": "\u03a4\u03bf \u03c0\u03bb\u03bf\u03af\u03bf \u03c4\u03bf\u03c5 \u03b5\u03c6\u03bf\u03c0\u03bb\u03b9\u03c3\u03c4\u03ae \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c5 \u0393\u03b9\u03bf\u03c5\u03c1\u03bf\u03cd\u03ba\u03bf\u03c5 \u03c7\u03c4\u03cd\u03c0\u03b7\u03c3\u03b1\u03bd \u03c3\u03c4\u03b1 \u03a3\u03c4\u03b5\u03bd\u03ac \u03c4\u03bf\u03c5 \u039f\u03c1\u03bc\u03bf\u03cd\u03b6 - \u03a0\u03bf\u03b9\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03b5\u03c6\u03bf\u03c0\u03bb\u03b9\u03c3\u03c4\u03ae\u03c2",
+          "link": "https://empisteutiko.gr/to-ploio-toy-efoplisti-giorgoy-gioyroykoy-chtypisan-sta-stena-toy-ormoyz-poios-einai-o-efoplistis/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Prodhuesi m\u00eb i madh i prezervativ\u00ebve n\u00eb bot\u00eb paralajm\u00ebron se \u00e7mimet mund t\u00eb rriten nd\u00ebrsa lufta e Iranit ndikon n\u00eb zinxhir\u00ebt e furnizimit",
-          "link": "https://telegrafi.com/prodhuesi-me-i-madh-i-prezervativeve-ne-bote-paralajmeron-se-cmimet-mund-te-rriten-ndersa-lufta-e-iranit-ndikon-ne-zinxhiret-e-furnizimit/",
+          "title": "EU unblocks 90 - bn - euro Ukraine loan after Hungary row",
+          "link": "https://www.hometownregister.com/news/national/eu-unblocks-90-bn-euro-ukraine-loan-after-hungary-row/article_474a1448-db6e-521c-a14e-31e1c4ea57ee.html",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "H\u00faszezer j\u00e1rat\u00e1t t\u00f6rli okt\u00f3berig a Lufthansa - csoport",
-          "link": "https://www.blikk.hu/eletmod/utazas/lufthansa-jarattorles-uzemanyaghiany/gcgertf",
+          "title": "Guerre au Moyen - Orient : Trump prolonge la tr\u00eave sans lever le blocus maritime",
+          "link": "https://www.mediacongo.net/article-actualite-162934_guerre_au_moyen_orient_trump_prolonge_la_treve_sans_lever_le_blocus_maritime.html",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "EU Commission urges better coordination to avoid jet fuel shortage",
-          "link": "https://www.yahoo.com/news/articles/eu-commission-urges-better-coordination-125220749.html",
+          "title": "Kamala Harris Dangerous Iran Revisionism - The Jewish Press - JewishPress . com | Editorial Board | Wednesday , April 22 , 2026",
+          "link": "https://jewishpress.com/kamala-harriss-dangerous-iran-revisionism/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "22 | April | 2026 | RUTHFULLY YOURS",
-          "link": "https://www.ruthfullyyours.com/2026/04/22/",
+          "title": "Israel sancionar\u00e1 a dos soldados por da\u00f1ar estatua de Jesucristo en L\u00edbano",
+          "link": "https://www.cadena3.com/noticia/cadena-3-mundo/israel-sancionara-a-dos-soldados-por-danar-estatua-de-jesucristo-en-libano_543978",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u067e\u0627\u06a9 \u0641\u0648\u062c \u06a9\u06cc\u062e\u0644\u0627\u0641 \u0645\u06c1\u0645 \u0686\u0644\u0627\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u0646\u0627\u06a9\u0627\u0645 \u06c1\u0648\u0646\u06af\u06d2 : \u0688\u0627\u06a9\u0679\u0631 \u0686\u0648\u06c1\u062f\u0631\u06cc \u067e\u0631\u0648\u06cc\u0632 \u0627\u0642\u0628\u0627\u0644 \u0644\u0648\u06c1\u0633\u0631",
-          "link": "https://jang.com.pk/news/1576584",
+          "title": "MAGA movement set to crumble after  exodu of key members : strategist",
+          "link": "https://www.rawstory.com/maga-trump-2676798734/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Markets snap 3 - day rally as West Asia tensions weigh on sentiment",
-          "link": "https://www.ibtimes.co.in/markets-snap-3-day-rally-west-asia-tensions-weigh-sentiment-901407",
+          "title": "Three ships targeted in Hormuz , Iran seizes two : monitors , Guards",
+          "link": "https://www.hurriyetdailynews.com/three-ships-targeted-in-hormuz-iran-seizes-two-monitors-guards-221360",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u30c8\u30e9\u30f3\u30d7\u6c0f \u3001 \u30a4\u30e9\u30f3\u3068\u306e\u505c\u6226\u5ef6\u9577 \u5c01\u9396\u306f\u7d99\u7d9a \uff1a \u6642\u4e8b\u30c9\u30c3\u30c8\u30b3\u30e0",
-          "link": "https://www.jiji.com/jc/article?k=20260422048769a&g=afp",
+          "title": "Alone , Or Set Apart ? Israel Dilemma - The Jewish Press - JewishPress . com | Rabbi Yehuda L Oppenheimer | Wednesday , April 22 , 2026",
+          "link": "https://jewishpress.com/alone-or-set-apart-israels-dilemma/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "EU - l\u00e4nderna inte eniga om att h\u00e4va associerings\u00adavtalet med Israel | Utrikes",
-          "link": "https://yle.fi/a/7-10097216",
+          "title": "\u062a\u0633\u0646\u064a\u0645 : \u0625\u064a\u0631\u0627\u0646 \u0644\u0645 \u062a\u0639\u0644\u0646 \u0639\u0646 \u0645\u0648\u0642\u0641 \u0631\u0633\u0645\u064a \u0628\u0634\u0623\u0646 \u062a\u0645\u062f\u064a\u062f \u0648\u0642\u0641 \u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0648\u0627\u0644\u062c\u0648\u0644\u0629 \u0627\u0644\u0645\u0642\u0628\u0644\u0629 \u062d\u062a\u0649 \u0627\u0644\u0644\u062d\u0638\u0629 \u2013 \u0642\u0646\u0627\u0629 \u0627\u0644\u0645\u0646\u0627\u0631",
+          "link": "https://www.almanar.com.lb/article/785517/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0646\u062c\u064a\u0628 \u0633\u0627\u0648\u064a\u0631\u0633 : \u0625\u064a\u0631\u0627\u0646 \u0627\u0633\u062a\u0641\u0632\u062a\u0646\u064a \u0641\u064a \u0627\u0644\u062d\u0631\u0628 .. \u0648\u0644\u0648 \u062a\u063a\u064a\u0631 \u0646\u0638\u0627\u0645\u0647\u0627 \u0647\u0642\u0648\u0644 \u0623\u0644\u0641 \u0645\u0628\u0631\u0648\u0643",
-          "link": "https://www.shorouknews.com/news/view.aspx?cdate=22042026&id=18d87bbe-40c9-44fc-a932-41690213b071",
+          "title": "\u0421\u041c\u0418 : \u0421\u0428\u0410 \u0445\u043e\u0442\u044f\u0442 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0442\u044c \u0432\u0440\u0435\u043c\u044f \u0434\u043b\u044f \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0418\u0440\u0430\u043d\u0430 \u043f\u043e \u0443\u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e",
+          "link": "https://news.mail.ru/politics/70635531/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iran murals project defiance in war with US",
-          "link": "https://www.fairfieldsuntimes.com/news/national/iran-murals-project-defiance-in-war-with-us/article_7537d85b-1c3f-5d71-9391-8fd5231ecea1.html",
+          "title": "T\u00fcrkiyenin ihracat\u0131ndaki kan kayb\u0131 durdurulabilir mi ?",
+          "link": "https://www.ogunhaber.com/ekonomi/turkiyenin-ihracatindaki-kan-kaybi-durdurulabilir-mi-2999224h.html",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Reuters : Ve\u0107ina Amerikanaca ne\u0107e glasati za kandidate koji podr\u017eavaju deportacije",
-          "link": "https://www.index.hr/vijesti/clanak/reuters-vecina-amerikanaca-nece-glasati-za-kandidate-koji-podrzavaju-deportacije/2784598.aspx?index_tid=997207&index_ref=naslovnica_vijesti_najnovije_d",
+          "title": "COMMENTARY : Democrats ignore context on Trump economic record | Jefferson City News Tribune",
+          "link": "http://www.newstribune.com/news/2026/apr/22/commentary-democrats-ignore-context-on-trump/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Sesame Street : Ramy Youssef Responds to Fox New Criticism of His Episode | Entertainment",
-          "link": "https://www.fairfieldsuntimes.com/arts_and_entertainment/entertainment/sesame-street-ramy-youssef-responds-to-fox-news-criticism-of-his-episode/article_e71a8764-af0f-5223-8a78-3041308b442e.html",
+          "title": "3 Vessels Hit By Iranian Fire In Hormuz Hours After Extended Ceasefire",
+          "link": "https://wwnc.iheart.com/content/2026-04-22-3-vessels-hit-by-iranian-fire-in-hormuz-hours-after-extended-ceaseifre/",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Can You See The Future ?",
-          "link": "https://www.benzinga.com/Opinion/26/04/51965045/can-you-see-the-future",
+          "title": "Wall Street ouvre en hausse sur fond doptimisme au Moyen - Orient - 22 / 04 / 2026 \u00e0 15 : 55",
+          "link": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-sur-fond-d-optimisme-au-moyen-orient-423eef53adefb5adf0fd8b5f75c25ca4",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "3 Vessels Hit By Iranian Fire In Hormuz Hours After Extended Ceasefire",
+          "link": "https://wsfcam.iheart.com/content/2026-04-22-3-vessels-hit-by-iranian-fire-in-hormuz-hours-after-extended-ceaseifre/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0420\u044e\u0442\u0442\u0435 \u043f\u0440\u0438\u0437\u044b\u0432\u0430\u0435\u0442 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u043e\u0432 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u043d\u0430\u0440\u0430\u0449\u0438\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043e\u0431\u043e\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438",
+          "link": "https://unn.ua/ru/news/ryutte-prizivaet-soyuznikov-sovmestno-narashchivat-proizvodstvo-oboronnoi-produktsii",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041d\u0438\u043a\u043e\u043b\u044f \u0411\u0430\u0432\u0435\u0440\u0435 :  \u041c\u0438\u0440\u043e\u0432\u0430\u044f \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u043e\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c \u043d\u0430 \u0433\u0440\u0430\u043d\u0438 \u0445\u0430\u043e\u0441\u0430  ( Le Figaro , \u0424\u0440\u0430\u043d\u0446\u0438\u044f )",
+          "link": "https://inosmi.ru/20260422/ekonomika-278084906.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Reuters : \u0421\u0428\u0410 \u043f\u043e\u0447\u0430\u043b\u0438 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u0442\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u0457 \u043f\u0440\u043e\u0442\u0438\u0434\u0456\u0457 \u0434\u0440\u043e\u043d\u0430\u043c",
+          "link": "https://lb.ua/world/2026/04/22/734139_reuters_viyskovi_ssha_pochali.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.eveshamjournal.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump ka\u017ee da je iznena\u0111en zaplijenjenim  kineskim poklonom Iranu",
+          "link": "https://www.dnevno.hr/geopolitika-news/trump-kaze-da-je-iznenaden-zaplijenjenim-kineskim-poklonom-iranu-0/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wall Street ouvre en hausse sur fond doptimisme au Moyen - Orient - 22 / 04 / 2026 \u00e0 15 : 53",
+          "link": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-sur-fond-d-optimisme-au-moyen-orient-73679e5f21b4915ea5517696ac8759fc",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Millones de trabajadores en Ir\u00e1n pierden el trabajo a causa de la guerra con EE . UU . e Israel",
+          "link": "https://www.teletica.com/bbc-news-mundo/millones-de-trabajadores-en-iran-pierden-el-trabajo-a-causa-de-la-guerra-con-ee-uu-e-israel_407349",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.lancashiretelegraph.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0647\u0631\u0645\u0632 .. \u0642\u0635\u0629 \u0645\u0636\u064a\u0642 \u0641\u062a\u062d\u0647 \u0623\u0635\u0639\u0628 \u0645\u0646 \u063a\u0644\u0642\u0647",
+          "link": "https://www.aljazeera.net/politics/2026/4/22/%D9%87%D8%B1%D9%85%D8%B2-%D9%82%D8%B5%D8%A9-%D9%85%D8%B6%D9%8A%D9%82-%D9%81%D8%AA%D8%AD%D9%87-%D8%A3%D8%B5%D8%B9%D8%A8-%D9%85%D9%86-%D8%BA%D9%84%D9%82%D9%87",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0421\u0430\u0430\u0434 \u0425\u0430\u043b\u0430\u0444 : \u041b\u0430\u0432\u0440\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0440\u0443\u043a\u043e\u0439 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0432\u0435\u0440\u044c \u043a \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u0430\u043c , \u0434\u0440\u0443\u0433\u043e\u0439 \u0433\u0440\u043e\u0437\u0438\u0442 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435\u043c \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0430 \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u044b \u0423\u043a\u0440\u0430\u0438\u043d\u044b ( Almasry Alyoum , \u0415\u0433\u0438\u043f\u0435\u0442 )",
+          "link": "https://inosmi.ru/20260422/lavrov-278090090.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a6\u03ac\u03bc\u03b5\u03bb\u03bb\u03bf\u03c2 \u03b3\u03b9\u03b1 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 : \u00ab \u0391\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b4\u03b5\u03bd \u03ad\u03b2\u03c1\u03b9\u03c3\u03ba\u03b5 \u03bb\u03b5\u03c6\u03c4\u03ac \u00bb",
+          "link": "https://www.typosthes.gr/politiki/426567_famellos-gia-mitsotaki-anakoinose-metra-gia-ta-opoia-den-ebriske-lefta",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Heating oil cost help from Blackburn with Darwen Council",
+          "link": "https://www.lancashiretelegraph.co.uk/news/26043395.heating-oil-cost-help-blackburn-darwen-council/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Stories \u2013 Things Come Undone \u2013 Daily Kos",
+          "link": "https://www.dailykos.com/user/things-come-undone/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The Latest : Iran attacks 3 ships in the Strait of Hormuz as Trump indefinitely extends ceasefire",
+          "link": "https://www.idahostatejournal.com/news/national/the-latest-iran-attacks-3-ships-in-the-strait-of-hormuz-as-trump-indefinitely-extends/article_db039f96-32f5-577d-84cc-0c63ba1f6863.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0646\u0627\u0626\u0628 \u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a : \u0644\u0627 \u064a\u0648\u062c\u062f \u0637\u0631\u064a\u0642 \u0645\u0633\u062f\u0648\u062f \u0623\u0645\u0627\u0645 \u0627\u0644\u062d\u0631\u0633 \u0627\u0644\u062b\u0648\u0631\u064a",
+          "link": "https://assabeel.net/70231",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Rentenstreit in der Bundesregierung : Glaubt der Kanzler noch an die Rente ?",
+          "link": "https://www.zeit.de/politik/2026-04/rentenstreit-bundesregierung-friedrich-merz-basisrente-nachrichtenpodcast",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041f\u043e\u0441\u043e\u043b \u0437\u0430\u044f\u0432\u0438\u043b , \u0447\u0442\u043e \u0420\u043e\u0441\u0441\u0438\u044f \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441 \u0418\u043d\u0434\u0438\u0435\u0439 \u043f\u043e \u0421\u0443 - 57",
+          "link": "https://news.mail.ru/politics/70635510/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US blocked $500 mln cash shipment to Iraq : WSJ",
+          "link": "https://www.hurriyetdailynews.com/us-blocked-500-mln-cash-shipment-to-iraq-wsj-221359",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "With ceasefire extended , US and Iran face standoff in the Strait of Hormuz",
+          "link": "https://www.stripes.com/theaters/middle_east/2026-04-22/iran-strait-of-hormuz-deadline-oil-21451088.html",
           "summary": "",
           "source": "GDELT: Iran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
@@ -657,363 +1008,363 @@
     {
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-          "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11029864",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-          "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11031076",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Sytuacja na rynkach 22 kwietnia - czy to jest zamro\u017cenie wojny ?",
-          "link": "https://www.parkiet.com/waluty/art44207121-sytuacja-na-rynkach-22-kwietnia-czy-to-jest-zamrozenie-wojny",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Krieg im Liveticker : +++ 15 : 01 Studie : Iran - Krieg verursacht mehr Firmenpleiten - rund 209 . 000 Arbeitspl\u00e4tze in Deutschland gef\u00e4hrdet +++",
-          "link": "https://www.n-tv.de/politik/15-01-Studie-Iran-Krieg-verursacht-mehr-Firmenpleiten-rund-209-000-Arbeitsplaetze-in-Deutschland-gefaehrdet-id30415311.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd : \u03a3\u03c6\u03bf\u03b4\u03c1\u03ae \u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ae \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03b8\u03b5\u03c3\u03c4\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c3\u03c4\u03ac\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0395\u0395 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7 \u03bd\u03ad\u03b1 \u03b5\u03ba\u03c4\u03ad\u03bb\u03b5\u03c3\u03b7 \u2013 \u00ab \u0391\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03bb\u03cc\u03b3\u03b7\u03c4\u03b7 \u03b7 \u03c3\u03b9\u03c9\u03c0\u03ae \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u03c2 \u00bb",
-          "link": "https://www.in.gr/2026/04/22/world/iran-sfodri-kritiki-antikathestotikon-gia-ti-stasi-tis-ee-meta-ti-nea-ektelesi-adikaiologiti-i-siopi-tis-eyropis/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "GUERRA EN IR\u00c1N | Dos buques han sufrido ataques en el estrecho de Ormuz",
-          "link": "https://www.farodevigo.es/mundo/2026/04/22/han-la-guardia-revolucionaria-irani-apresa-dos-buques-en-el-estrecho-de-ormuz-129387031.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-          "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11030572",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Welche Szenarien im Iran nun denkbar sind",
-          "link": "https://www.gmx.at/magazine/politik/nahostkonflikt/szenarien-iran-denkbar-42167388",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran attacks ships in Hormuz Strait as the U . S . continues its blockade amid ceasefire",
-          "link": "https://www.kyuk.org/2026-04-22/iran-attacks-ships-in-hormuz-strait-as-the-u-s-continues-its-blockade-amid-ceasefire",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "The Jewish innovation we need is happening in Great Neck",
-          "link": "https://religionnews.com/2026/04/22/an-iranian-yeshiva-bought-a-major-reform-temple-its-exactly-the-jewish-innovation-we-need/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump rekao da je SAD presreo brod s kineskim poklonom za Iran . Reagirao Peking",
-          "link": "https://www.dnevnik.ba/vijesti/trump-rekao-da-je-sad-presreo-brod-s-kineskim-poklonom-za-iran-reagirao-peking/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-          "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11029827",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Lurer . com | \u053b\u057f\u0561\u056c\u056b\u0561\u0575\u056b \u0587 \u053b\u0580\u0561\u0576\u056b \u0531\u0533 \u0576\u0561\u056d\u0561\u0580\u0561\u0580\u0576\u0565\u0580\u0568 \u0584\u0576\u0576\u0561\u0580\u056f\u0565\u056c \u0565\u0576 \u0540\u0578\u0580\u0574\u0578\u0582\u0566\u056b \u0576\u0565\u0572\u0578\u0582\u0581\u0578\u0582\u0574 \u0576\u0561\u057e\u0561\u0563\u0576\u0561\u0581\u0578\u0582\u0569\u0575\u0561\u0576 \u0570\u0565\u057f \u056f\u0561\u057a\u057e\u0561\u056e \u056b\u0580\u0561\u057e\u056b\u0573\u0561\u056f\u0568",
-          "link": "https://lurer.com/article/726740/am",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "22 | April | 2026 | RUTHFULLY YOURS",
-          "link": "https://www.ruthfullyyours.com/2026/04/22/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Markets snap 3 - day rally as West Asia tensions weigh on sentiment",
-          "link": "https://www.ibtimes.co.in/markets-snap-3-day-rally-west-asia-tensions-weigh-sentiment-901407",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u30c8\u30e9\u30f3\u30d7\u6c0f \u3001 \u30a4\u30e9\u30f3\u3068\u306e\u505c\u6226\u5ef6\u9577 \u5c01\u9396\u306f\u7d99\u7d9a \uff1a \u6642\u4e8b\u30c9\u30c3\u30c8\u30b3\u30e0",
-          "link": "https://www.jiji.com/jc/article?k=20260422048769a&g=afp",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran murals project defiance in war with US",
-          "link": "https://www.fairfieldsuntimes.com/news/national/iran-murals-project-defiance-in-war-with-us/article_7537d85b-1c3f-5d71-9391-8fd5231ecea1.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Divis\u00e3o interna , incertezas : por que Trump decidiu estender cessar - fogo com o Ir\u00e3 ?",
-          "link": "https://noticias.r7.com/internacional/divisao-interna-incertezas-por-que-trump-decidiu-estender-cessar-fogo-com-o-ira-22042026/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Kapal Pertamina Masih Tertahan di Selat Hormuz , Negosiasi Berjalan Alot",
-          "link": "https://www.jpnn.com/news/kapal-pertamina-masih-tertahan-di-selat-hormuz-negosiasi-berjalan-alot",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0394\u03cd\u03bf \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 8 \u0399\u03c1\u03b1\u03bd\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b6\u03ae\u03c4\u03b7\u03c3\u03b5 \u03bf \u03a4\u03c1\u03b1\u03bc\u03c0 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03ba\u03c4\u03b5\u03bb\u03b5\u03c3\u03c4\u03bf\u03cd\u03bd , \u03ad\u03c7\u03bf\u03c5\u03bd \u03ae\u03b4\u03b7 \u03b1\u03c6\u03b5\u03b8\u03b5\u03af \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03b5\u03c2 , \u03bb\u03ad\u03b5\u03b9 \u039c\u039a\u039f",
-          "link": "https://www.protothema.gr/world/article/1807092/duo-apo-tis-8-iranes-pou-zitise-o-trab-na-min-ektelestoun-ehoun-idi-afethei-eleutheres-leei-mko/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Politico : \u0397 \u03bb\u03af\u03c3\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u00ab \u03ac\u03c4\u03b1\u03ba\u03c4\u03bf\u03c5\u03c2 \u00bb \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u2026 \u03ba\u03b1\u03bb\u03bf\u03cd\u03c2 \u03c3\u03c5\u03bc\u03bc\u03ac\u03c7\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03c4\u03bf \u039d\u0391\u03a4\u039f",
-          "link": "https://www.topontiki.gr/2026/04/22/politico-i-lista-tou-trab-me-tous-ataktous-ke-tous-kalous-simmachous-tou-sto-nato/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "The Demands of War",
-          "link": "https://www.americanthinker.com/articles/2026/04/the_demands_of_war.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran fires on 3 ships in Strait of Hormuz hours after Trump extends ceasefire",
-          "link": "https://fox17.com/news/nation-world/iran-fires-on-3-ships-in-strait-of-hormuz-hours-after-us-president-donald-trump-extends-ceasefire-indefinitely-middle-east-conflict-israeli-airstrikes-lebanon-pakistan-mediators-peace-deal",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran calls US ship seizure  piracy : Is it ? | US - Israel war on Iran News",
-          "link": "https://www.aljazeera.com/news/2026/4/22/iran-calls-us-ship-seizure-piracy-is-it",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump estende la tregua . Poco dopo , Teheran attacca 3 navi",
-          "link": "https://www.corriere.it/il-punto/america-cina/26_aprile_22/trump-estende-tregua-poco-dopo-teheran-attacca-3-navi.shtml",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u7279\u6717\u666e\u610f\u8bc6\u5230 \uff0c \u8001\u54c8\u6885\u5185\u4f0a\u624d\u662f\u6700\u597d\u7684\u8c08\u5224\u5bf9\u8c61 - \u864e\u55c5\u7f51",
-          "link": "https://www.huxiu.com/article/4852890.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran says seized two ships seeking to cross Strait of Hormuz",
-          "link": "https://www.myleaderpaper.com/news/national/iran-says-seized-two-ships-seeking-to-cross-strait-of-hormuz/article_bb8aafaa-f96b-5fd8-b5b4-82029f455db4.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Alma Center head says Israel cannot settle for another ceasefire with Lebanon",
-          "link": "http://www.jpost.com/israel-news/defense-news/article-893840",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u039d\u03b1\u03c5\u03c4\u03b9\u03bb\u03af\u03b1\u03c2 : \u0394\u03b9\u03b1\u03c8\u03b5\u03cd\u03b4\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03bb\u03b7\u03c8\u03b7 \u03c4\u03bf\u03c5 \u00ab Epaminondas \u00bb \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03a6\u03c1\u03bf\u03c5\u03c1\u03bf\u03cd\u03c2 \u03c4\u03b7\u03c2 \u0395\u03c0\u03b1\u03bd\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2",
-          "link": "https://www.businessnews.gr/ellada/item/335270-diapseydei-to-ypourgeio-naftilias-tin-katalipsi-tou-epaminondas-apo-tous-frouroys-tis-epanastasis",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran fires on 3 ships in Strait of Hormuz , complicating US - Iran talks",
-          "link": "https://www.delcotimes.com/2026/04/22/us-iran-war-strait-of-hormuz/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ukraine wird EU - Kredit von 90 Mrd . Euro f\u00fcr Patriots und Storm Shadows ausgeben",
-          "link": "https://www.hna.de/politik/ukraine-wird-eu-kredit-von-90-mrd-fuer-patriots-und-storm-shadows-ausgeben-orban-zr-94272837.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\ud2b8\ub7fc\ud504 , \uc0ac\uc2e4\uc0c1  \ubb34\uae30\ud55c \ud734\uc804  \uc120\uc5b8 \u2026 \uc774\ub780  \uae30\uc2b5 \uacf5\uaca9 \uc704\ud55c \uc2dc\uac04 \ubc8c\uae30",
-          "link": "https://segye.com:443/newsView/20260422516341",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "UK Natural Gas Prices Extend Rebound | Hellenic Shipping News Worldwide",
-          "link": "https://www.hellenicshippingnews.com/uk-natural-gas-prices-extend-rebound/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran state TV says three ships attacked by Revolutionary Guard in Hormuz , taken into force custody",
-          "link": "https://www.indiatvnews.com/news/world/iran-state-tv-says-three-ships-attacked-by-revolutionary-guard-in-hormuz-taken-into-force-s-custody-2026-04-22-1038492",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran przej\u0105\u0142 dwa statki w Cie\u015bninie Ormuz .  Pr\u00f3bowa\u0142y potajemnie j\u0105 opu\u015bci\u0107",
-          "link": "https://wiadomosci.gazeta.pl/swiat/7,198075,32744291,iran-przejal-dwa-statki-w-ciesninie-ormuz-probowaly-potajemnie.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0422\u0410\u0421\u0421 : \u041e\u0440\u043c\u0443\u0437\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u043b\u0438\u0432 21 \u0430\u043f\u0440\u0435\u043b\u044f \u043f\u0435\u0440\u0435\u0441\u0435\u043a\u043b\u0438 \u0442\u0440\u0438 \u0441\u0443\u0434\u043d\u0430",
-          "link": "https://news.mail.ru/politics/70633170/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Atak Iranu w cie\u015bninie Ormuz : ostrza\u0142 i przej\u0119cia statk\u00f3w",
-          "link": "https://www.rp.pl/konflikty-zbrojne/art44204761-iran-eskaluje-konflikt-w-ciesninie-ormuz-ostrzal-i-przejecia-statkow",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Krieg : Trump verl\u00e4ngert Waffenruhe - Keine Entspannung in Sicht - Politik",
-          "link": "https://www.rnz.de/politik/nachrichten_artikel,-Iran-Krieg-Trump-verlaengert-Waffenruhe-Keine-Entspannung-in-Sicht-_arid,2252644.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran fires on 3 ships in Strait of Hormuz hours after Trump extends ceasefire",
-          "link": "https://wcyb.com/news/nation-world/iran-fires-on-3-ships-in-strait-of-hormuz-hours-after-us-president-donald-trump-extends-ceasefire-indefinitely-middle-east-conflict-israeli-airstrikes-lebanon-pakistan-mediators-peace-deal",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US Lawmakers , Experts Sound Alarm On Deadly Iran - Russia Axis",
-          "link": "http://www.bignewsnetwork.com/news/279004293/us-lawmakers-experts-sound-alarm-on-deadly-iran-russia-axis",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Usa , la tregua di Trump dura solo 5 giorni :  Accordo con Teheran \u00e8 possibile  - il Fatto Nisseno - Caltanissetta notizie , cronaca , attualit\u00e0",
-          "link": "https://www.ilfattonisseno.it/2026/04/iran-usa-la-tregua-di-trump-dura-solo-5-giorni-accordo-con-teheran-e-possibile/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a7\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf : \u039d\u03ad\u03b1 \u03c0\u03c4\u03ce\u03c3\u03b7 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b6\u03af\u03c1\u03bf \u03b3\u03b9\u03b1 \u03c4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b5\u03c2 - blue chips",
-          "link": "https://www.euro2day.gr/ase/market_comment/article-market/2347378/hrhmatisthrio-nea-ptosh-horis-tziro-gia-trapezesbl.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran Guards say  seized  two ships attempting to cross Strait of Hormuz",
-          "link": "https://www.spacewar.com/afp/260422105845.anwvp59t.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e3o : Guarda Revolucion\u00e1ria avisa para  golpes devastadores  ante qualquer agress\u00e3o",
-          "link": "https://jornaleconomico.sapo.pt/noticias/irao-guarda-revolucionaria-avisa-para-golpes-devastadores-ante-qualquer-agressao/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ships are attacked in Strait of Hormuz , as U . S . continues its blockade amid ceasefire",
-          "link": "https://www.kgou.org/politics-and-government/2026-04-22/ships-are-attacked-in-strait-of-hormuz-as-u-s-continues-its-blockade-amid-ceasefire",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041f\u0440\u043e\u0434\u043b\u0435\u043d\u0438\u0435 \u043f\u0435\u0440\u0435\u043c\u0438\u0440\u0438\u044f \u0421\u0428\u0410 \u0438 \u0418\u0440\u0430\u043d\u0430 : \u043f\u043e\u0447\u0435\u043c\u0443 \u0422\u0440\u0430\u043c\u043f \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0441\u044f \u043e\u0442 \u0431\u043e\u0435\u0432\u044b\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 , \u043c\u043d\u0435\u043d\u0438\u0435 \u043f\u043e\u043b\u0438\u0442\u043e\u043b\u043e\u0433\u0430",
-          "link": "https://news.mail.ru/politics/70633406/",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "B . T . s Mellem\u00f8stkorrespondent : Trumps forl\u00e6ngelse af v\u00e5benhvilen er en stor fejl",
-          "link": "https://www.bt.dk/udland/bts-mellemoestkorrespondent-trumps-forlaengelse-af-vaabenhvilen-er-en-stor-fejl",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041a\u0417 : \u0413\u043b\u0430\u0432\u043d\u044b\u043c \u0441\u044e\u0440\u043f\u0440\u0438\u0437\u043e\u043c \u0434\u043b\u044f \u0421\u0428\u0410 \u0441\u0442\u0430\u043b\u0430 \u043d\u043e\u0432\u0430\u044f \u0440\u0430\u043a\u0435\u0442\u0430 \u0418\u0440\u0430\u043d\u0430 \u00ab \u0421\u0430\u0434\u0436\u0438\u043b\u044c \u00bb",
-          "link": "https://life.ru/p/1866473",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u4f0a\u6717\u628a  \u5927\u6740\u5668  \u642c\u5230\u5e7f\u573a\u5c55\u793a \uff01 \u7f8e\u519b\u5426\u8ba4\u4ece\u97e9\u56fd\u8fd0\u8d70  \u8428\u5fb7 \uff1a \u53ea\u662f\u6362\u4e2a\u57fa\u5730 \uff0c \u8fd8\u5728\u534a\u5c9b \uff01 \u7f8e\u5a92\u6253\u8138\u7279\u6717\u666e \uff1a \u82e5\u518d\u5f00\u6218\u6050  \u5f39\u836f\u8017\u5c3d",
-          "link": "https://www.nbd.com.cn/articles/2026-04-22/4352478.html",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Oriente Occidente di Rampini | Perch\u00e9 il popolo iraniano \u00e8 deluso da questa tregua ?",
-          "link": "https://www.corriere.it/oriente-occidente-federico-rampini/26_aprile_22/perche-il-popolo-iraniano-e-deluso-da-questa-tregua-db246711-8968-403a-9f9a-5bd4453d8xlk.shtml",
-          "summary": "",
-          "source": "GDELT: tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "Ir\u00e1n secuestra tres cargueros en el Estrecho de Ormuz y tensa la tregua con EE . UU .",
+          "link": "https://www.cadena3.com/noticia/mundo/iran-secuestra-tres-cargueros-en-el-estrecho-de-ormuz-y-tensa-la-tregua-con-eeuu_544029",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u0637\u0648\u0642 \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a \u064a\u062a\u0635\u062f\u0651\u0639  .. 34 \u0646\u0627\u0642\u0644\u0629 \u0646\u0641\u0637 \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0625\u064a\u0631\u0627\u0646 \u062a\u062e\u062a\u0631\u0642 \u0627\u0644\u062d\u0635\u0627\u0631 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0648\u062a\u062d\u0642\u0642 \u0639\u0648\u0627\u0626\u062f \u0628\u0642\u064a\u0645\u0629 910 \u0645\u0644\u0627\u064a\u064a\u0646 \u062f\u0648\u0644\u0627\u0631",
+          "link": "https://pnn.ps/news/722111",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Why Is Iran Angry With Asim Munir : How Pakistan Field Marshal Tried To Bridge Tehran - US Tensions And Why The Plan Is Now Backfiring ?",
+          "link": "https://www.newsx.com/world/why-is-iran-angry-with-asim-munir-how-pakistans-field-marshal-tried-to-bridge-tehran-us-tensions-and-why-the-plan-is-now-backfiring-203200/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.dumbartonreporter.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on 3 ships in Strait of Hormuz hours after Trump extends ceasefire",
+          "link": "https://wgme.com/news/nation-world/iran-fires-on-3-ships-in-strait-of-hormuz-hours-after-us-president-donald-trump-extends-ceasefire-indefinitely-middle-east-conflict-israeli-airstrikes-lebanon-pakistan-mediators-peace-deal",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran attacks ships in Hormuz Strait as the U . S . continues its blockade amid ceasefire",
+          "link": "https://www.aspenpublicradio.org/2026-04-22/iran-attacks-ships-in-hormuz-strait-as-the-u-s-continues-its-blockade-amid-ceasefire",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "La guerra hunde la econom\u00eda de las familias iran\u00edes",
+          "link": "https://www.larazon.es/internacional/guerra-hunde-economia-familias-iranies_2026042269e8e71a16cd5c2d46683ef9.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Guerre au Moyen - Orient : Trump prolonge la tr\u00eave sans lever le blocus maritime",
+          "link": "https://www.mediacongo.net/article-actualite-162934_guerre_au_moyen_orient_trump_prolonge_la_treve_sans_lever_le_blocus_maritime.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Kamala Harris Dangerous Iran Revisionism - The Jewish Press - JewishPress . com | Editorial Board | Wednesday , April 22 , 2026",
+          "link": "https://jewishpress.com/kamala-harriss-dangerous-iran-revisionism/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Three ships targeted in Hormuz , Iran seizes two : monitors , Guards",
+          "link": "https://www.hurriyetdailynews.com/three-ships-targeted-in-hormuz-iran-seizes-two-monitors-guards-221360",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0421\u041c\u0418 : \u0421\u0428\u0410 \u0445\u043e\u0442\u044f\u0442 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0442\u044c \u0432\u0440\u0435\u043c\u044f \u0434\u043b\u044f \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0418\u0440\u0430\u043d\u0430 \u043f\u043e \u0443\u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e",
+          "link": "https://news.mail.ru/politics/70635531/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wall Street ouvre en hausse sur fond doptimisme au Moyen - Orient - 22 / 04 / 2026 \u00e0 15 : 55",
+          "link": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-sur-fond-d-optimisme-au-moyen-orient-423eef53adefb5adf0fd8b5f75c25ca4",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.eveshamjournal.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wall Street ouvre en hausse sur fond doptimisme au Moyen - Orient - 22 / 04 / 2026 \u00e0 15 : 53",
+          "link": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-sur-fond-d-optimisme-au-moyen-orient-73679e5f21b4915ea5517696ac8759fc",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Millones de trabajadores en Ir\u00e1n pierden el trabajo a causa de la guerra con EE . UU . e Israel",
+          "link": "https://www.teletica.com/bbc-news-mundo/millones-de-trabajadores-en-iran-pierden-el-trabajo-a-causa-de-la-guerra-con-ee-uu-e-israel_407349",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.lancashiretelegraph.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0647\u0631\u0645\u0632 .. \u0642\u0635\u0629 \u0645\u0636\u064a\u0642 \u0641\u062a\u062d\u0647 \u0623\u0635\u0639\u0628 \u0645\u0646 \u063a\u0644\u0642\u0647",
+          "link": "https://www.aljazeera.net/politics/2026/4/22/%D9%87%D8%B1%D9%85%D8%B2-%D9%82%D8%B5%D8%A9-%D9%85%D8%B6%D9%8A%D9%82-%D9%81%D8%AA%D8%AD%D9%87-%D8%A3%D8%B5%D8%B9%D8%A8-%D9%85%D9%86-%D8%BA%D9%84%D9%82%D9%87",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0421\u0430\u0430\u0434 \u0425\u0430\u043b\u0430\u0444 : \u041b\u0430\u0432\u0440\u043e\u0432 \u043e\u0434\u043d\u043e\u0439 \u0440\u0443\u043a\u043e\u0439 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0432\u0435\u0440\u044c \u043a \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u0430\u043c , \u0434\u0440\u0443\u0433\u043e\u0439 \u0433\u0440\u043e\u0437\u0438\u0442 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435\u043c \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0430 \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u044b \u0423\u043a\u0440\u0430\u0438\u043d\u044b ( Almasry Alyoum , \u0415\u0433\u0438\u043f\u0435\u0442 )",
+          "link": "https://inosmi.ru/20260422/lavrov-278090090.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The Latest : Iran attacks 3 ships in the Strait of Hormuz as Trump indefinitely extends ceasefire",
+          "link": "https://www.idahostatejournal.com/news/national/the-latest-iran-attacks-3-ships-in-the-strait-of-hormuz-as-trump-indefinitely-extends/article_db039f96-32f5-577d-84cc-0c63ba1f6863.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0646\u0627\u0626\u0628 \u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a : \u0644\u0627 \u064a\u0648\u062c\u062f \u0637\u0631\u064a\u0642 \u0645\u0633\u062f\u0648\u062f \u0623\u0645\u0627\u0645 \u0627\u0644\u062d\u0631\u0633 \u0627\u0644\u062b\u0648\u0631\u064a",
+          "link": "https://assabeel.net/70231",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041f\u043e\u0441\u043e\u043b \u0437\u0430\u044f\u0432\u0438\u043b , \u0447\u0442\u043e \u0420\u043e\u0441\u0441\u0438\u044f \u0440\u0430\u0441\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0441 \u0418\u043d\u0434\u0438\u0435\u0439 \u043f\u043e \u0421\u0443 - 57",
+          "link": "https://news.mail.ru/politics/70635510/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "With ceasefire extended , US and Iran face standoff in the Strait of Hormuz",
+          "link": "https://www.stripes.com/theaters/middle_east/2026-04-22/iran-strait-of-hormuz-deadline-oil-21451088.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "What is uranium enrichment and how quickly could Iran build a nuclear bomb ? - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
+          "link": "https://dominicanrepublicpost.com/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The Post : Podle Trumpa by nov\u00e9 kolo rozhovor\u016f s \u00cdr\u00e1nem mohlo b\u00fdt u\u017e v p\u00e1tek",
+          "link": "https://www.ceskenoviny.cz/zpravy/the-post-podle-trumpa-by-nove-kolo-rozhovoru-s-iranem-mohlo-byt-uz-v-patek/2816142",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "India denies cash , crypto payments to Iran for Hormuz passage",
+          "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/india-denies-cash-crypto-payments-to-iran-for-hormuz-passage/articleshow/130445104.cms",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "UN Warns World is Far Off Track on 2030 , Casts Central Asia on Climate Front Line",
+          "link": "https://astanatimes.com/2026/04/un-warns-world-is-far-off-track-on-2030-casts-central-asia-on-climate-front-line/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u0635\u064a\u0646 \u062a\u062d\u0630\u0631 \u0645\u0646 \u0645\u0631\u062d\u0644\u0629 \u062d\u0631\u062c\u0629 \u0628\u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0623\u0648\u0633\u0637 - \u0648\u0643\u0627\u0644\u0629 \u0633\u062a\u064a\u0628 \u0646\u064a\u0648\u0632",
+          "link": "https://stepagency-sy.net/2026/04/22/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AD%D8%B1%D8%AC%D8%A9-%D8%A8%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Le TSX est en hausse , les investisseurs \u00e9valuant les signaux mitig\u00e9s en provenance du Moyen - Orient - 22 / 04 / 2026 \u00e0 17 : 19",
+          "link": "https://www.boursorama.com/bourse/actualites/le-tsx-est-en-hausse-les-investisseurs-evaluant-les-signaux-mitiges-en-provenance-du-moyen-orient-5a0dd291deb31db29a8177682f10e5de",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u00ab Epaminondas \u00bb: \u03a4\u03bf \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03c4\u03b7\u03c2 \u03b5\u03c0\u03af\u03b8\u03b5\u03c3\u03b7\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c4\u03ce\u03c1\u03b1 \u03c4\u03bf \u03c0\u03bb\u03bf\u03af\u03bf",
+          "link": "https://www.kathimerini.gr/society/564187999/epaminondas-to-chroniko-tis-epithesis-poy-vrisketai-tora-to-ploio/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Dow Jones S & P 500 Nasdaq surging today : Why US stock market Dow Jones , S & P 500 , Nasdaq on the move today ? Dow jumps over 400 points , Nasdaq rallies 1 % + , S & P 500 climbs as AI stocks rebound and earnings buzz builds",
+          "link": "https://economictimes.indiatimes.com/news/international/us/why-us-stock-market-dow-jones-sp-500-nasdaq-on-the-move-today-dow-jumps-over-400-points-nasdaq-rallies-1-sp-500-climbs-as-ai-stocks-rebound-and-earnings-buzz-builds/articleshow/130445363.cms",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The US - Iran war is spilling into the Indo - Pacific . That could make it harder to end",
+          "link": "https://www.egyptindependent.com/the-us-iran-war-is-spilling-into-the-indo-pacific-that-could-make-it-harder-to-end/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran : Casa Bianca , cessate il fuoco prorogato per 3 - 5 giorni",
+          "link": "https://www.ilsole24ore.com/radiocor/nRC_22.04.2026_16.26_56910569",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ministras : gali v\u0117luoti JAV karin\u0117s \u012frangos tiekimas Lenkijai",
+          "link": "https://klaipeda.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/ministras-gali-veluoti-jav-karines-irangos-tiekimas-lenkijai-1752870",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Direkt \u2013 Krisen i Mellan\u00f6stern \u2013 Libanon hoppas p\u00e5 f\u00f6rl\u00e4ngd vapenvila",
+          "link": "https://www.dn.se/direkt/mellanostern/2026-04-22/libanon-hoppas-pa-forlangd-vapenvila/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.theargus.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+          "link": "https://www.oxfordmail.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump afirma que  es posible  que las conversaciones con Ir\u00e1n en Pakist\u00e1n se reanuden tan pronto como el viernes",
+          "link": "https://www.latercera.com/mundo/noticia/trump-afirma-que-es-posible-que-las-conversaciones-con-iran-en-pakistan-se-reanuden-tan-pronto-como-el-viernes/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Carlson , Trumpa destek verdi\u011fi i\u00e7in \u00f6z\u00fcr diledi : Vicdan azab\u0131 \u00e7ekiyorum !",
+          "link": "https://www.risalehaber.com/carlson-trumpa-destek-verdigi-icin-ozur-diledi-vicdan-azabi-cekiyorum-451893h.htm",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Escalation : Iran Fires on Three Ships As Trump Postpones Talks",
+          "link": "https://hotair.com/ed-morrissey/2026/04/22/escalation-iran-fires-on-three-ships-as-trump-postpones-talks-n3814173",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0421\u041c\u0418 : \u0421\u0428\u0410 \u0445\u043e\u0442\u044f\u0442 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0442\u044c \u0418\u0440\u0430\u043d\u0443 \u0432\u0440\u0435\u043c\u044f \u0434\u043b\u044f \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u0438\u0434\u0435\u0439 \u043f\u043e \u0443\u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e",
+          "link": "https://ria.ru/20260422/tramp-2088400490.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Mediator or misfire ? Iran upset with Asim Munir as Pakistan faces trust deficit and credibility crisis on multiple fronts",
+          "link": "https://www.moneycontrol.com/world/mediator-or-misfire-iran-upset-with-asim-munir-as-pakistan-faces-trust-deficit-and-credibility-crisis-on-multiple-fronts-article-13896698.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iranska disidentica i oporbena \u010delnica kritizira Europu zbog \u0161utnje nakon najnovijih pogubljenja",
+          "link": "https://www.glasistre.hr/svijet/2026/04/22/iranska-disidentica-kritizira-europu-zbog-sutnje-nakon-najnovijih-pogubljenja-1064496",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "IZVUKLI RAKETE NA ULICE : Svet u \u0161oku ovo je poruka koja ledi krv ( VIDEO )",
+          "link": "https://www.alo.rs/vesti/svet/16713036/rakete-na-ulicama-irana-dok-pregovori-pucaju.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Insider spills new details on Trump latest cave to Iran in curse - laden message : report",
+          "link": "https://www.rawstory.com/trump-iran-2676798871/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran fires on ships in Strait of Hormuz as US maintains blockade and diplomacy stalls",
+          "link": "https://norfolkdailynews.com/news/national/news_national/iran-fires-on-ships-in-strait-of-hormuz-as-us-maintains-blockade-and-diplomacy-stalls/article_c9823f3e-f041-41fe-8c9b-2aec723577a7.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Bolsa chilena repunta en primeros negocios tras anuncio de extensi\u00f3n del alto al fuego entre EEUU e Ir\u00e1n",
+          "link": "https://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-5axuu",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Situaci v r\u00e1nu maj\u00ed pod kontrolou revolu\u010dn\u00ed gardy . Nejmocn\u011bj\u0161\u00ed je jejich velitel Vah\u00edd",
+          "link": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-situaci-v-iranu-maji-pod-kontrolou-revolucni-gardy-nejmocnejsi-je-jejich-velitel-vahidi-40574302",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Uncertainty Mounts Over US - Iran Talks As Ceasefire Ends",
+          "link": "https://dailytrust.com/uncertainty-mounts-over-us-iran-talks-as-ceasefire-ends/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iranian official swats down Trump  desperate attempt to save face  with  false claims",
+          "link": "https://www.rawstory.com/trump-iran-2676798661/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Lyrid Meteor Shower 2026 : Best Times and Spots to Watch in Dubai , UAE , Oman , Qatar , Saudi Arabia and Across Middle East",
+          "link": "https://www.newsx.com/world/lyrid-meteor-shower-2026-best-times-and-spots-to-watch-in-dubai-uae-oman-qatar-saudi-arabia-and-across-middle-east-203002/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -1030,6 +1381,27 @@
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
     },
     {
+      "title": "Iran\u2019s leaders debate war and peace after Trump ceasefire extension",
+      "link": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension?traffic_source=rss",
+      "summary": "State television pushes line that Iranians want more war, but others urge reason and moderation.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "title": "Trump calls Iran\u2019s leadership \u2018fractured\u2019. Is it, and who\u2019s in charge?",
+      "link": "https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge?traffic_source=rss",
+      "summary": "Almost 53 days into war, there is little evidence suggesting that Iranian government is fragmented.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "title": "Iranians are leaving the country just to access the internet",
+      "link": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey",
+      "summary": "Iran has cut off its access to the global internet. To find an internet connection, some Iranians are traveling across the border with Turkey \u2014 even just to make video calls and then go back home.",
+      "source": "NPR Topics: News",
+      "source_url": "https://feeds.npr.org/1001/rss.xml"
+    },
+    {
       "title": "Greetings from an Islamabad park, a peaceful vantage point in an uncertain world",
       "link": "https://www.npr.org/2026/04/22/g-s1-117423/pakistan-islamabad-park",
       "summary": "The park, near the venue where inconclusive Iran-U.S. peace talks took place this month, provides respite to those who visit it.",
@@ -1037,214 +1409,207 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml"
     },
     {
-      "title": "Ships attacked in Strait of Hormuz. And, VA voters approve redistricting effort",
-      "link": "https://www.npr.org/2026/04/22/g-s1-118328/up-first-newsletter-iran-us-ceasefire-virginia-redistricting-aca",
-      "summary": "Two ships came under attack in the Strait of Hormuz, hours after Trump extended the ceasefire with Iran. And, Virginia voters approved a measure allowing Democrats to redraw the congressional map.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "title": "Iran attacks ships in Hormuz Strait as the U.S. continues its blockade amid ceasefire",
-      "link": "https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates",
-      "summary": "Three vessels came under fire in the Strait of Hormuz, after the U.S. and Iran failed to meet in Pakistan for talks to end the war and as President Trump extended the ceasefire but kept the blockade.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "title": "Wall Street ticks higher in early trading amid tenuous Iran ceasefire",
-      "link": "https://www.standardspeaker.com/2026/04/22/wall-street-iran/",
+      "title": "Le TSX ouvre en hausse , Trump prolongeant le cessez - le - feu en Iran - 22 / 04 / 2026 \u00e0 15 : 35",
+      "link": "https://www.boursorama.com/bourse/actualites/le-tsx-ouvre-en-hausse-trump-prolongeant-le-cessez-le-feu-en-iran-fed032e22c0cb75cbe22281470419f30",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-      "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11029864",
+      "title": "Why Is Iran Angry With Asim Munir : How Pakistan Field Marshal Tried To Bridge Tehran - US Tensions And Why The Plan Is Now Backfiring ?",
+      "link": "https://www.newsx.com/world/why-is-iran-angry-with-asim-munir-how-pakistans-field-marshal-tried-to-bridge-tehran-us-tensions-and-why-the-plan-is-now-backfiring-203200/",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran Guards say two ships seized in Hormuz after ceasefire extension",
-      "link": "https://en.apa.az/asia/iran-guards-say-two-ships-seized-in-hormuz-after-ceasefire-extension-502688",
+      "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+      "link": "https://www.dumbartonreporter.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-      "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11031076",
+      "title": "Iran fires on 3 ships in Strait of Hormuz hours after Trump extends ceasefire",
+      "link": "https://wgme.com/news/nation-world/iran-fires-on-3-ships-in-strait-of-hormuz-hours-after-us-president-donald-trump-extends-ceasefire-indefinitely-middle-east-conflict-israeli-airstrikes-lebanon-pakistan-mediators-peace-deal",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran - Ticker : Iran greift drei Frachtschiffe an",
-      "link": "https://www.watson.ch/international/liveticker/455779172-iran-ticker-iran-greift-drei-frachtschiffe-an",
+      "title": "Bela ku\u0107a demantovala navode o Trampovom poku\u0161aju aktiviranja nuklearnih kodova",
+      "link": "https://informer.rs/planeta/vesti/1109277/bela-kuca-nuklearni-kodovi-donald-tramp",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran ghost ships smuggle $1bn of oil through Strait of Hormuz as Trump blockade collapses | World | News",
-      "link": "https://www.express.co.uk/news/world/2197128/iran-ghost-ships-smuggle-1bn",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Guest column : Trump administration should take  America Smart  approach to Iran war",
-      "link": "https://www.heraldbulletin.com/opinion/guest-column-trump-administration-should-take-america-smart-approach-to-iran-war/article_921b1bb8-1b6c-5614-a357-6681d8560159.html",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran - Krieg im Liveticker : +++ 15 : 01 Studie : Iran - Krieg verursacht mehr Firmenpleiten - rund 209 . 000 Arbeitspl\u00e4tze in Deutschland gef\u00e4hrdet +++",
-      "link": "https://www.n-tv.de/politik/15-01-Studie-Iran-Krieg-verursacht-mehr-Firmenpleiten-rund-209-000-Arbeitsplaetze-in-Deutschland-gefaehrdet-id30415311.html",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-      "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11030572",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Welche Szenarien im Iran nun denkbar sind",
-      "link": "https://www.gmx.at/magazine/politik/nahostkonflikt/szenarien-iran-denkbar-42167388",
-      "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
       "title": "Iran attacks ships in Hormuz Strait as the U . S . continues its blockade amid ceasefire",
-      "link": "https://www.kyuk.org/2026-04-22/iran-attacks-ships-in-hormuz-strait-as-the-u-s-continues-its-blockade-amid-ceasefire",
+      "link": "https://www.aspenpublicradio.org/2026-04-22/iran-attacks-ships-in-hormuz-strait-as-the-u-s-continues-its-blockade-amid-ceasefire",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump rekao da je SAD presreo brod s kineskim poklonom za Iran . Reagirao Peking",
-      "link": "https://www.dnevnik.ba/vijesti/trump-rekao-da-je-sad-presreo-brod-s-kineskim-poklonom-za-iran-reagirao-peking/",
+      "title": "La guerra hunde la econom\u00eda de las familias iran\u00edes",
+      "link": "https://www.larazon.es/internacional/guerra-hunde-economia-familias-iranies_2026042269e8e71a16cd5c2d46683ef9.html",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Napadnuti brodovi u Hormu\u0161kom tjesnacu . Iran : Zaplijenili smo dva tankera",
-      "link": "https://www.index.hr/vijesti/clanak/napadnuti-brodovi-u-hormuskom-tjesnacu-iran-zaplijenili-smo-dva-tankera/2784371.aspx?index_ref=homepage_comment_box_d&commentId=11029827",
+      "title": "Kamala Harris Dangerous Iran Revisionism - The Jewish Press - JewishPress . com | Editorial Board | Wednesday , April 22 , 2026",
+      "link": "https://jewishpress.com/kamala-harriss-dangerous-iran-revisionism/",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Prodhuesi m\u00eb i madh i prezervativ\u00ebve n\u00eb bot\u00eb paralajm\u00ebron se \u00e7mimet mund t\u00eb rriten nd\u00ebrsa lufta e Iranit ndikon n\u00eb zinxhir\u00ebt e furnizimit",
-      "link": "https://telegrafi.com/prodhuesi-me-i-madh-i-prezervativeve-ne-bote-paralajmeron-se-cmimet-mund-te-rriten-ndersa-lufta-e-iranit-ndikon-ne-zinxhiret-e-furnizimit/",
+      "title": "Three ships targeted in Hormuz , Iran seizes two : monitors , Guards",
+      "link": "https://www.hurriyetdailynews.com/three-ships-targeted-in-hormuz-iran-seizes-two-monitors-guards-221360",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran murals project defiance in war with US",
-      "link": "https://www.fairfieldsuntimes.com/news/national/iran-murals-project-defiance-in-war-with-us/article_7537d85b-1c3f-5d71-9391-8fd5231ecea1.html",
+      "title": "3 Vessels Hit By Iranian Fire In Hormuz Hours After Extended Ceasefire",
+      "link": "https://wwnc.iheart.com/content/2026-04-22-3-vessels-hit-by-iranian-fire-in-hormuz-hours-after-extended-ceaseifre/",
       "summary": "",
-      "source": "GDELT: Iran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran fires on 3 ships in Strait of Hormuz hours after Trump extends ceasefire",
-      "link": "https://fox17.com/news/nation-world/iran-fires-on-3-ships-in-strait-of-hormuz-hours-after-us-president-donald-trump-extends-ceasefire-indefinitely-middle-east-conflict-israeli-airstrikes-lebanon-pakistan-mediators-peace-deal",
+      "title": "3 Vessels Hit By Iranian Fire In Hormuz Hours After Extended Ceasefire",
+      "link": "https://wsfcam.iheart.com/content/2026-04-22-3-vessels-hit-by-iranian-fire-in-hormuz-hours-after-extended-ceaseifre/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran calls US ship seizure  piracy : Is it ? | US - Israel war on Iran News",
-      "link": "https://www.aljazeera.com/news/2026/4/22/iran-calls-us-ship-seizure-piracy-is-it",
+      "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+      "link": "https://www.eveshamjournal.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran says seized two ships seeking to cross Strait of Hormuz",
-      "link": "https://www.myleaderpaper.com/news/national/iran-says-seized-two-ships-seeking-to-cross-strait-of-hormuz/article_bb8aafaa-f96b-5fd8-b5b4-82029f455db4.html",
+      "title": "Trump ka\u017ee da je iznena\u0111en zaplijenjenim  kineskim poklonom Iranu",
+      "link": "https://www.dnevno.hr/geopolitika-news/trump-kaze-da-je-iznenaden-zaplijenjenim-kineskim-poklonom-iranu-0/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran fires on 3 ships in Strait of Hormuz , complicating US - Iran talks",
-      "link": "https://www.delcotimes.com/2026/04/22/us-iran-war-strait-of-hormuz/",
+      "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+      "link": "https://www.lancashiretelegraph.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran state TV says three ships attacked by Revolutionary Guard in Hormuz , taken into force custody",
-      "link": "https://www.indiatvnews.com/news/world/iran-state-tv-says-three-ships-attacked-by-revolutionary-guard-in-hormuz-taken-into-force-s-custody-2026-04-22-1038492",
+      "title": "The Latest : Iran attacks 3 ships in the Strait of Hormuz as Trump indefinitely extends ceasefire",
+      "link": "https://www.idahostatejournal.com/news/national/the-latest-iran-attacks-3-ships-in-the-strait-of-hormuz-as-trump-indefinitely-extends/article_db039f96-32f5-577d-84cc-0c63ba1f6863.html",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran przej\u0105\u0142 dwa statki w Cie\u015bninie Ormuz .  Pr\u00f3bowa\u0142y potajemnie j\u0105 opu\u015bci\u0107",
-      "link": "https://wiadomosci.gazeta.pl/swiat/7,198075,32744291,iran-przejal-dwa-statki-w-ciesninie-ormuz-probowaly-potajemnie.html",
+      "title": "With ceasefire extended , US and Iran face standoff in the Strait of Hormuz",
+      "link": "https://www.stripes.com/theaters/middle_east/2026-04-22/iran-strait-of-hormuz-deadline-oil-21451088.html",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Atak Iranu w cie\u015bninie Ormuz : ostrza\u0142 i przej\u0119cia statk\u00f3w",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art44204761-iran-eskaluje-konflikt-w-ciesninie-ormuz-ostrzal-i-przejecia-statkow",
+      "title": "What is uranium enrichment and how quickly could Iran build a nuclear bomb ? - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
+      "link": "https://dominicanrepublicpost.com/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran - Krieg : Trump verl\u00e4ngert Waffenruhe - Keine Entspannung in Sicht - Politik",
-      "link": "https://www.rnz.de/politik/nachrichten_artikel,-Iran-Krieg-Trump-verlaengert-Waffenruhe-Keine-Entspannung-in-Sicht-_arid,2252644.html",
+      "title": "India denies cash , crypto payments to Iran for Hormuz passage",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/india-denies-cash-crypto-payments-to-iran-for-hormuz-passage/articleshow/130445104.cms",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran fires on 3 ships in Strait of Hormuz hours after Trump extends ceasefire",
-      "link": "https://wcyb.com/news/nation-world/iran-fires-on-3-ships-in-strait-of-hormuz-hours-after-us-president-donald-trump-extends-ceasefire-indefinitely-middle-east-conflict-israeli-airstrikes-lebanon-pakistan-mediators-peace-deal",
+      "title": "The US - Iran war is spilling into the Indo - Pacific . That could make it harder to end",
+      "link": "https://www.egyptindependent.com/the-us-iran-war-is-spilling-into-the-indo-pacific-that-could-make-it-harder-to-end/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "US Lawmakers , Experts Sound Alarm On Deadly Iran - Russia Axis",
-      "link": "http://www.bignewsnetwork.com/news/279004293/us-lawmakers-experts-sound-alarm-on-deadly-iran-russia-axis",
+      "title": "Iran : Casa Bianca , cessate il fuoco prorogato per 3 - 5 giorni",
+      "link": "https://www.ilsole24ore.com/radiocor/nRC_22.04.2026_16.26_56910569",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran - Usa , la tregua di Trump dura solo 5 giorni :  Accordo con Teheran \u00e8 possibile  - il Fatto Nisseno - Caltanissetta notizie , cronaca , attualit\u00e0",
-      "link": "https://www.ilfattonisseno.it/2026/04/iran-usa-la-tregua-di-trump-dura-solo-5-giorni-accordo-con-teheran-e-possibile/",
+      "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+      "link": "https://www.theargus.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran Guards say  seized  two ships attempting to cross Strait of Hormuz",
-      "link": "https://www.spacewar.com/afp/260422105845.anwvp59t.html",
+      "title": "Iran fires on three ships in Strait of Hormuz derailing US - Iran talks push",
+      "link": "https://www.oxfordmail.co.uk/news/national/26043098.iran-fires-three-ships-strait-hormuz-derailing-us-iran-talks-push/",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Oriente Occidente di Rampini | Perch\u00e9 il popolo iraniano \u00e8 deluso da questa tregua ?",
-      "link": "https://www.corriere.it/oriente-occidente-federico-rampini/26_aprile_22/perche-il-popolo-iraniano-e-deluso-da-questa-tregua-db246711-8968-403a-9f9a-5bd4453d8xlk.shtml",
+      "title": "Escalation : Iran Fires on Three Ships As Trump Postpones Talks",
+      "link": "https://hotair.com/ed-morrissey/2026/04/22/escalation-iran-fires-on-three-ships-as-trump-postpones-talks-n3814173",
       "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Mediator or misfire ? Iran upset with Asim Munir as Pakistan faces trust deficit and credibility crisis on multiple fronts",
+      "link": "https://www.moneycontrol.com/world/mediator-or-misfire-iran-upset-with-asim-munir-as-pakistan-faces-trust-deficit-and-credibility-crisis-on-multiple-fronts-article-13896698.html",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iranska disidentica i oporbena \u010delnica kritizira Europu zbog \u0161utnje nakon najnovijih pogubljenja",
+      "link": "https://www.glasistre.hr/svijet/2026/04/22/iranska-disidentica-kritizira-europu-zbog-sutnje-nakon-najnovijih-pogubljenja-1064496",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Insider spills new details on Trump latest cave to Iran in curse - laden message : report",
+      "link": "https://www.rawstory.com/trump-iran-2676798871/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran fires on ships in Strait of Hormuz as US maintains blockade and diplomacy stalls",
+      "link": "https://norfolkdailynews.com/news/national/news_national/iran-fires-on-ships-in-strait-of-hormuz-as-us-maintains-blockade-and-diplomacy-stalls/article_c9823f3e-f041-41fe-8c9b-2aec723577a7.html",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Uncertainty Mounts Over US - Iran Talks As Ceasefire Ends",
+      "link": "https://dailytrust.com/uncertainty-mounts-over-us-iran-talks-as-ceasefire-ends/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iranian official swats down Trump  desperate attempt to save face  with  false claims",
+      "link": "https://www.rawstory.com/trump-iran-2676798661/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
