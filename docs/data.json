@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-04-26T19:04:28Z",
+  "generated_at": "2026-04-26T21:45:05Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
+        {
+          "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+          "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+          "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
         {
           "title": "Watch: How gunfire sparked chaos at Trump press dinner",
           "link": "https://www.bbc.com/news/videos/cgqkq18qqeeo?at_medium=RSS&at_campaign=rss",
@@ -27,16 +34,9 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Mali defence minister killed in rebel attacks",
+          "title": "Mali defence minister killed as country hit by wave of rebel attacks",
           "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
           "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "Sabastian Sawe breaks two-hour barrier to make history at London Marathon",
-          "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo?at_medium=RSS&at_campaign=rss",
-          "summary": "Sabastian Sawe makes history at the London Marathon as the first person to run a sub-two-hour marathon in a competitive race.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -47,16 +47,16 @@
       "source_url": "https://feeds.bbci.co.uk/persian/rss.xml",
       "items": [
         {
-          "title": "\u0639\u0631\u0627\u0642\u0686\u06cc \u062f\u0631 \u0627\u062f\u0627\u0645\u0647 \u0631\u0627\u06cc\u0632\u0646\u06cc\u200c\u0647\u0627\u06cc \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0641\u0631\u062f\u0627 \u062f\u0631 \u0645\u0633\u06a9\u0648 \u0628\u0627 \u067e\u0648\u062a\u06cc\u0646 \u062f\u06cc\u062f\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f",
+          "title": "\u0639\u0631\u0627\u0642\u0686\u06cc \u062f\u0631 \u0627\u062f\u0627\u0645\u0647 \u0631\u0627\u06cc\u0632\u0646\u06cc\u200c\u0647\u0627\u06cc \u0645\u0646\u0637\u0642\u0647\u200c\u0627\u06cc \u0641\u0631\u062f\u0627 \u0628\u0627 \u067e\u0648\u062a\u06cc\u0646 \u062f\u06cc\u062f\u0627\u0631 \u0645\u06cc\u200c\u06a9\u0646\u062f",
           "link": "https://www.bbc.co.uk/persian/live/cwywy3gxdzkt?at_medium=RSS&at_campaign=rss",
           "summary": "\u0627\u06cc\u0631\u0627\u0646 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u06a9\u0647 \u062f\u0631 \u00ab\u0631\u0627\u0633\u062a\u0627\u06cc \u067e\u0627\u06cc\u0627\u0646 \u062f\u0627\u062f\u0646 \u0628\u0647 \u062c\u0646\u06af \u0648 \u06a9\u0627\u0647\u0634 \u062a\u0646\u0634\u200c\u00bb \u062f\u0631 \u062d\u0627\u0644 \u0631\u0627\u06cc\u0632\u0646\u06cc \u0628\u0627 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0645\u0646\u0637\u0642\u0647 \u0627\u0633\u062a. \u0639\u0628\u0627\u0633 \u0639\u0631\u0627\u0642\u0686\u06cc\u060c \u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u0647 \u0627\u06cc\u0631\u0627\u0646\u060c \u0628\u0639\u062f \u0627\u0632 \u0633\u0641\u0631 \u0628\u0647 \u0639\u0645\u0627\u0646 \u0648 \u0627\u0633\u0644\u0627\u0645\u200c\u0622\u0628\u0627\u062f \u0648 \u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc \u062a\u0644\u0641\u0646\u06cc \u0628\u0627 \u0648\u0632\u0631\u0627\u06cc \u062e\u0627\u0631\u062c\u0647 \u0642\u0637\u0631 \u0648 \u0639\u0631\u0628\u0633\u062a\u0627\u0646\u060c \u062f\u0631 \u0622\u062e\u0631\u06cc\u0646 \u0645\u0631\u062d\u0644\u0647\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
         {
-          "title": "\u062a\u06cc\u0631\u0627\u0646\u062f\u0627\u0632\u06cc \u062f\u0631 \u0636\u06cc\u0627\u0641\u062a \u062e\u0628\u0631\u0646\u06af\u0627\u0631\u0627\u0646 \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f\u061b \u0634\u0648\u0627\u0647\u062f \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \u00ab\u0647\u062f\u0641 \u0627\u062d\u062a\u0645\u0627\u0644\u0627 \u062a\u0631\u0627\u0645\u067e \u0648 \u0645\u0642\u0627\u0645\u200c\u0647\u0627\u06cc \u062f\u0648\u0644\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0648\u062f\u0646\u062f\u00bb",
-          "link": "https://www.bbc.co.uk/persian/live/cevkr3pe1l0t?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0645\u0642\u0627\u0645\u200c\u0647\u0627\u06cc \u0642\u0636\u0627\u0626\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0645\u06cc\u200c\u06af\u0648\u06cc\u0646\u062f \u0634\u0648\u0627\u0647\u062f \u0627\u0648\u0644\u06cc\u0647 \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \u06a9\u0647 \u0641\u0631\u062f\u06cc \u06a9\u0647 \u062f\u0631 \u0636\u06cc\u0627\u0641\u062a \u0634\u0627\u0645 \u062e\u0628\u0631\u0646\u06af\u0627\u0631\u0627\u0646 \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f \u062f\u0631 \u0647\u062a\u0644\u06cc \u062f\u0631 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u062a\u06cc\u0631\u0627\u0646\u062f\u0627\u0632\u06cc \u06a9\u0631\u062f \u062a\u0646\u0647\u0627 \u0639\u0645\u0644 \u0645\u06cc\u200c\u06a9\u0631\u062f\u0647 \u0648 \u0647\u062f\u0641\u0634 \u0645\u0642\u0627\u0645\u200c\u0647\u0627\u06cc \u062f\u0648\u0644\u062a \u0648 \u0634\u0627\u06cc\u062f \u062e\u0648\u062f \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u0628\u0648\u062f\u0647 \u0627\u0633\u062a. \u0631\u0633\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u2026",
+          "title": "\u062a\u06cc\u0631\u0627\u0646\u062f\u0627\u0632\u06cc \u062f\u0631 \u0636\u06cc\u0627\u0641\u062a \u062e\u0628\u0631\u0646\u06af\u0627\u0631\u0627\u0646 \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f\u061b \u0627\u0641\u200c\u0628\u06cc\u200c\u0622\u06cc \u062f\u0631 \u062d\u0627\u0644 \u062a\u062d\u0642\u06cc\u0642 \u06cc\u0627\u062f\u062f\u0627\u0634\u062a\u200c\u0647\u0627\u06cc \u0645\u0638\u0646\u0648\u0646 \u062f\u0631\u0628\u0627\u0631\u0647 \u0642\u0635\u062f \u062d\u0645\u0644\u0647 \u0627\u0633\u062a",
+          "link": "https://www.bbc.com/persian/articles/c86e64lw4jxo?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0645\u0642\u0627\u0645\u200c\u0647\u0627\u06cc \u0627\u0645\u0631\u064a\u06a9\u0627\u064a\u06cc \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f\u0646\u062f \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u0648 \u0645\u0642\u0627\u0645\u200c\u0647\u0627\u06cc \u062f\u0648\u0644\u062a \u0627\u0648 \u00ab\u0627\u062d\u062a\u0645\u0627\u0644\u0627\u00bb \u0627\u0647\u062f\u0627\u0641 \u0627\u0635\u0644\u06cc \u0641\u0631\u062f \u0645\u0633\u0644\u062d\u06cc \u0628\u0648\u062f\u0646\u062f \u06a9\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0631\u062f \u0648\u0627\u0631\u062f \u0645\u0631\u0627\u0633\u0645 \u0634\u0627\u0645 \u062e\u0628\u0631\u0646\u06af\u0627\u0631\u0627\u0646 \u06a9\u0627\u062e \u0633\u0641\u064a\u062f \u0634\u0648\u062f. \u062f\u0627\u062f\u0633\u062a\u0627\u0646 \u06a9\u0644 \u0645\u0648\u0642\u062a \u0627\u0645\u0631\u064a\u06a9\u0627\u060c \u062a\u0627\u062f \u0628\u0644\u0627\u0646\u0634\u060c \u06af\u0641\u062a \u0627\u064a\u0646 \u0645\u0638\u0646\u0648\u0646 \u06a9\u0647 \u0631\u0633\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0627\u0645\u0631\u064a\u06a9\u0627\u064a\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
@@ -134,36 +134,36 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
-          "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
-          "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+          "title": "Sawe smashes two-hour mark to 'move goalposts for marathon running'",
+          "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Asahi Linux Progress Linux 7.0",
-          "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
+          "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+          "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Dillo Browser Release 3.3.0",
-          "link": "https://dillo-browser.org/release/3.3.0/",
+          "title": "Fast16: Cyberweapon that predates Stuxnet by five years",
+          "link": "https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Clay PCB Tutorial",
-          "link": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+          "title": "1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon",
+          "link": "https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-          "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+          "title": "The 1944 Warsaw Uprising, in Color",
+          "link": "https://www.barwypowstania.pl/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Kenya\u2019s Sawe shatters two-hour marathon barrier",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/kenyas-sawe-shatters-two-hour-marathon-barrier?traffic_source=rss",
-          "summary": "Sabastian Sawe of Kenya shattered a world record at the London Marathon.",
+          "title": "Iran\u2019s foreign minister leaves Pakistan, heads to Russia for more talks",
+          "link": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
+          "summary": "Abbas Araghchi will speak with 'senior officials' in Moscow, Iran's Foreign Ministry says.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Accused shooter was targeting Trump and US officials, authorities say",
-          "link": "https://www.aljazeera.com/news/2026/4/26/trump-his-administration-likely-targets-at-media-dinner-us-official?traffic_source=rss",
-          "summary": "President Donald Trump says suspect wrote an anti-Christian declaration and is 'sick guy'.",
+          "title": "Israeli settler attacks Hebron activist\u2019s home as soldier looks on",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss",
+          "summary": "An Israeli settler was filmed throwing rocks and trying to break into the home of Palestinian activist Issa Amro.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "First trial of Assad-era Syrian official starts in Damascus",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/first-trial-of-assad-era-syrian-official-starts-in-damascus?traffic_source=rss",
-          "summary": "Syria begun its first public trial of former Assad-era officials, with ex-security chief Atef Najib appearing in court.",
+          "title": "What\u2019s driving attacks against gov\u2019t and Russian forces in Mali?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/26/whats-driving-attacks-against-govt-and-russian-forces-in-mali?traffic_source=rss",
+          "summary": "Opponents, including al-Qaeda-linked group, join forces.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Thai police arrest Indonesian wanted for $10m cyberfraud",
-          "link": "https://www.aljazeera.com/news/2026/4/26/thai-police-arrest-indonesian-wanted-for-10m-cyberfraud?traffic_source=rss",
-          "summary": "The 33-year-old Indonesian taken into custody at luxury resort on island of Phuket after FBI tip-off.",
+          "title": "Bomb attack on Colombia highway kills 19 ahead of election",
+          "link": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
+          "summary": "Highway bombing in Colombia\u2019s Cauca kills 19, injures dozens amid a surge in violence ahead of next month\u2019s election.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Iran shifts economic focus to essentials during war uncertainty",
-          "link": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
-          "summary": "The government is partly reversing a currency decision for basic items and tapping into the country's sovereign fund.",
+          "title": "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
+          "link": "https://www.aljazeera.com/news/2026/4/26/former-israeli-pms-bennett-lapid-unite-to-challenge-netanyahu-in-elections?traffic_source=rss",
+          "summary": "The two politicians' alliance is aimed at uniting a fragmented opposition against current PM Benjamin Netanyahu.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,27 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "A fast-growing Georgia wildfire tops 31 square miles, with evacuations possible",
+          "link": "https://www.npr.org/2026/04/26/nx-s1-5800174/georgia-wildfire-evacuations",
+          "summary": "One of two large wildfires in southeastern Georgia continues to grow and now exceeds 31 square miles.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "A chaotic White House Correspondents' Dinner, as told by NPR reporters in the room",
+          "link": "https://www.npr.org/2026/04/26/nx-s1-5800105/white-house-correspondents-dinner-shooting-scene-trump",
+          "summary": "Top government officials were rushed out of the Washington Hilton after gunshots were heard at the dinner. NPR journalists describe hiding under tables and scrambling for information as the night unfolded.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "What we know about Cole Allen, suspected White House Correspondents' dinner shooter",
+          "link": "https://www.npr.org/2026/04/26/g-s1-118826/cole-allen-suspected-white-house-correspondents-dinner-shooter-profile",
+          "summary": "The 31-year-old teacher and engineer from California sent an alleged message to family members saying that he wanted to target administration officials.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Photos: The aftermath of the White House Correspondents' Dinner shooting",
           "link": "https://www.npr.org/sections/the-picture-show/2026/04/26/g-s1-118806/photos-the-aftermath-of-the-white-house-correspondents-dinner-shooting",
           "summary": "A suspect has been arrested after firing shots at a security screening area at the Washington Hilton on Saturday night.",
@@ -267,27 +288,6 @@
           "title": "Details emerge of alleged shooter at White House correspondents' dinner",
           "link": "https://www.npr.org/2026/04/26/g-s1-118807/trump-white-house-correspondents-dinner",
           "summary": "The alleged gunman has been identified as Cole Allen, according to two sources familiar with the matter.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "How China is responding to the stalling of talks between the U.S. and Iran",
-          "link": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran",
-          "summary": "NPR's Ayesha Rascoe speaks to Zongyuan Zoe Liu, a senior fellow at the Council on Foreign Relations, about how China views the current crisis in the Middle East",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "World Press Photo Contest winners cast a lens on resilience, pain and bliss",
-          "link": "https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners",
-          "summary": "A selection of prize honorees from the 2026 World Press Photo Contest capture the pain of the past year \u2014 but also focus on moments of strength, determination and joy.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
-          "link": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
-          "summary": "A shooting incident at the White House Correspondent's Dinner took focus away from the war in Iran, as Iran's foreign minister planned to return to Islamabad, the site of previous peace talks.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
@@ -301,363 +301,1065 @@
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u00ab \u0623\u0643\u0633\u064a\u0648\u0633 \u00bb: \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u0623\u0631\u0633\u0644\u062a \u0627\u0644\u0642\u0628\u0629 \u0627\u0644\u062d\u062f\u064a\u062f\u064a\u0629 \u0644\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u062e\u0644\u0627\u0644 \u0627\u0644\u062d\u0631\u0628 \u0639\u0644\u0649 \u0625\u064a\u0631\u0627\u0646",
+          "link": "https://26sep.net/index.php/local/126755-2026-04-26-19-31-52",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u0644\u0642\u0627\u0621 \u0642\u0628\u0644\u064a \u0641\u064a \u0645\u062f\u064a\u0631\u064a\u0629 \u062e\u062f\u064a\u0631 \u0628\u062a\u0639\u0632 \u0625\u062d\u064a\u0627\u0621\u064b \u0644\u0644\u0630\u0643\u0631\u0649 \u0627\u0644\u0633\u0646\u0648\u064a\u0629 \u0644\u0644\u0635\u0631\u062e\u0629",
+          "link": "https://26sep.net/index.php/local/126743-2026-04-26-18-05-42",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Middle East War Empties Georgia Tourism Hotspots",
+          "link": "https://eturbonews.com/georgia-tourism-decline-middle-east-war-impact/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump : Sch\u00fcsse bei Dinner \u2013 Manifest des \u201e Bundeskillers  schockiert united states",
+          "link": "https://www.braunschweiger-zeitung.de/politik/article411823885/schuesse-bei-trump-dinner-manifest-des-bundeskillers-schockiert-die-usa.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone",
+          "link": "https://www.mykxlg.com/news/world/irans-top-diplomat-briefly-returns-to-pakistan-but-trump-says-the-sides-can-talk-by/article_a6eec2ee-835d-5519-96ce-c92a18154c77.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u00bf Por qu\u00e9 bajan las acciones de empresas armament\u00edsticas en EE . UU . pese a la guerra con Ir\u00e1n ?",
+          "link": "https://actualidad.rt.com/actualidad/601503-acciones-empresas-armas-baja-guerra-iran-eeuu",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Subsidio a gasolina , equiparable al costo de tres megaobras de AMLO",
+          "link": "https://www.elsiglodetorreon.com.mx/noticia/2026/subsidio-a-gasolina-equiparable-al-costo-de-tres-megaobras-de-amlo.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Suspect in White House press dinner shooting wrote anti - Christian manifesto , Trump says",
+          "link": "https://www.yahoo.com/news/articles/trump-likely-target-shooting-white-134545883.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\ud2b8\ub7fc\ud504 \ub178\ub9b0 \ucd1d\uaca9\ubc94 , \uc6cc\uc2f1\ud134\uc11c \uad6c\uae08 \u00b7 \uc870\uc0ac\uc911 \u2026 27\uc77c \ubc95\uc6d0 \ucd9c\uc11d [ 1\uc77c1\ud2b8 ]",
+          "link": "https://biz.heraldcorp.com/article/10725818",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump : Quedan unos tres d\u00edas para que explote el sistema de petr\u00f3leo de Ir\u00e1n",
+          "link": "https://www.eluniversal.com/internacional/231895/trump-quedan-unos-tres-dias-para-que-explote-el-sistema-de-petroleo-de-iran",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a3\u03c4\u03b7 \u03a1\u03c9\u03c3\u03af\u03b1 \u03bf \u0399\u03c1\u03b1\u03bd\u03cc\u03c2 \u03a5\u03a0\u0395\u039e \u0391\u03c1\u03b1\u03b3\u03c4\u03c3\u03af \u2013 \u03a3\u03c5\u03bd\u03ac\u03bd\u03c4\u03b7\u03c3\u03b7 \u03bc\u03b5 \u03a0\u03bf\u03cd\u03c4\u03b9\u03bd",
+          "link": "https://athina984.gr/2026/04/26/sti-rosia-ayrio-o-iranos-ypex-aragtsi-synantisi-me-poytin/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Sparatoria alla cena di Trump , il manifesto dellattentatore : \u00ab Sono un assassino federale gentile . Fermer\u00f2 questo stupratore \u00bb",
+          "link": "https://www.ilmattino.it/primopiano/esteri/attentato_trump_manifesto_attentatore_sono_assassino_federale_gentile_fermero_stupratore-9497086.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u062a\u0631\u0645\u0628 \u0648\u0627\u0644\u0644\u0639\u0628 \u0639\u0644\u0649 \u062d\u0627\u0641\u0629 \u0627\u0644\u0647\u0627\u0648\u064a\u0629",
+          "link": "https://26sep.net/index.php/newspaper/26reports/126766-2026-04-26-20-30-47",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0394\u03b5\u03bb\u03c4\u03af\u03bf \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 22 : 00",
+          "link": "https://athina984.gr/2026/04/26/deltio-eidiseon-stis-22-00-1961/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u0627 \u0628\u064a\u0646 \u0627\u0644\u0645\u0648\u0642\u0639 \u0648\u0627\u0644\u0645\u0648\u0642\u0641 !",
+          "link": "https://alghad.com/Section-114/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85/%D9%85%D8%A7-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D9%82%D9%81-2076882",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "2026 World Cup Travel Fears : Boycotts , Visa Rules and Safety Concerns Grow",
+          "link": "https://eturbonews.com/world-cup-2026-travel-fears-boycotts-visa-safety/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran War Disrupts Global Tourism : Flights Cut , Costs Rise , and Industry Faces Leadership Crisis",
+          "link": "https://eturbonews.com/iran-war-global-tourism-impact-flights-costs-leadership-crisis/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Mest om vart detta olyckliga krig \u00e4r p\u00e5 v\u00e4g , men ocks\u00e5 positivt om st\u00f6d till Ukraina och lite annat .",
+          "link": "https://carlbildt.wordpress.com/2026/04/26/mest-om-vart-detta-olyckliga-krig-ar-pa-vag-men-ocksa-positivt-om-stod-till-ukraina-och-lite-annat/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Rusija potvrdila posetu \u0161efa iranske diplomatije Moskvi",
+          "link": "https://naslovi.net/2026-04-26/radio-021/rusija-potvrdila-posetu-sefa-iranske-diplomatije-moskvi/41705260",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "No reason to meet with Iran without nuclear deal : Trump",
+          "link": "https://www.singletonargus.com.au/story/9233585/no-reason-to-meet-with-iran-without-nuclear-deal-trump/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "To superyacht Nord \u03c4\u03bf\u03c5 \u03a1\u03ce\u03c3\u03bf\u03c5 \u0391\u03bb\u03b5\u03be\u03ad\u03b9 \u039c\u03bf\u03c1\u03bd\u03c4\u03ac\u03c3\u03bf\u03c6 \u03c0\u03ad\u03c1\u03b1\u03c3\u03b5 \u03c4\u03b1 \u03a3\u03c4\u03b5\u03bd\u03ac \u03c4\u03bf\u03c5 \u039f\u03c1\u03bc\u03bf\u03cd\u03b6 \u2013 \u03a0\u03bf\u03b9\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03bf\u03bb\u03b9\u03b3\u03ac\u03c1\u03c7\u03b7\u03c2 \u03c6\u03af\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03bf\u03cd\u03c4\u03b9\u03bd",
+          "link": "https://www.newsbeast.gr/world/arthro/13057689/to-superyacht-nord-tou-rosou-alexei-morntasof-perase-ta-stena-tou-ormouz-poios-einai-o-oligarchis-filos-tou-poutin",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "DP : \u0421\u0443\u043f\u0435\u0440\u044a\u044f\u0445\u0442\u0430 \u041c\u043e\u0440\u0434\u0430\u0448\u043e\u0432\u0430 Nord \u043f\u0440\u043e\u0448\u043b\u0430 \u0447\u0435\u0440\u0435\u0437 \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u041e\u0440\u043c\u0443\u0437\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u043b\u0438\u0432",
+          "link": "https://life.ru/p/1868102",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trumpa sald\u0131r\u0131 giri\u015fiminde bulunan ki\u015finin manifestosu ortaya \u00e7\u0131kt\u0131",
+          "link": "https://www.tgrthaber.com/dunya/trumpa-saldiri-girisiminde-bulunan-kisinin-manifestosu-ortaya-cikti-3296744",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "King Charle visit to US to proceed after Washington shooting",
+          "link": "https://arynews.tv/king-charles-visit-to-us-to-proceed-after-washington-shooting",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "King state visit to  proceed as planned  after foiled Trump assassination bid",
+          "link": "https://www.bromsgroveadvertiser.co.uk/news/national/26054470.kings-state-visit-proceed-planned-foiled-trump-assassination-bid/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The Latest : Pakistan says US - Iran mediation moving ahead after Trump holds back envoys",
+          "link": "https://www.reflector.com/news/national/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_f917c8d1-199c-5ed6-8d1c-30d6a881eb81.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0531\u0562\u0562\u0561\u057d \u0531\u0580\u0561\u0572\u0579\u056b\u0576 \u056f\u0570\u0561\u0576\u0564\u056b\u057a\u056b \u054c\u0534 \u0576\u0561\u056d\u0561\u0563\u0561\u0570\u056b \u0570\u0565\u057f",
+          "link": "https://times.am/1016551/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran - Krieg News : Russische Oligarchen - Jacht passiert Stra\u00dfe von Hormus",
+          "link": "https://www.abendblatt.de/politik/article411709470/usa-iran-krieg-news-aktuell-israel-strasse-von-hormus-waffenruhe-angriffe.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0639\u0648\u062f\u0629 \u0627\u0644\u062f\u0641\u0627\u062a\u0631 \u0627\u0644\u0642\u062f\u064a\u0645\u0629",
+          "link": "https://alghad.com/Section-114/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85/%D8%B9%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%AA%D8%B1-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9-2076878",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Video : Jos\u00e9 Luis Gil afirma que gobiernos de izquierda tendr\u00edan v\u00ednculos con Ir\u00e1n por Exitosa Noticias",
+          "link": "https://www.deperu.com/tv/eGtlLyIuu1I.jose-luis-gil-afirma-que-gobiernos-de-izquierda-tendrian-vinculos-con-iran.UCxgO_rak_BKZP8VNVmYqbWg.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u0645\u0633\u064a\u0631 \u0648\u0648\u0642\u0641\u0629 \u0644\u0637\u0644\u0627\u0628 \u0627\u0644\u062f\u0648\u0631\u0627\u062a \u0627\u0644\u0635\u064a\u0641\u064a\u0629 \u0641\u064a \u0628\u0646\u064a \u0645\u0637\u0631 \u0628\u0630\u0643\u0631\u0649 \u0627\u0644\u0635\u0631\u062e\u0629",
+          "link": "https://26sep.net/index.php/more/reports/126749-2026-04-26-19-05-11",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "King Charles state visit to US to go on as planned after shooting",
+          "link": "https://www.mykxlg.com/news/national/king-charles-state-visit-to-us-to-go-on-as-planned-after-shooting/article_7aeee89f-6655-5955-a12c-210308767439.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "With goals of Iran war unfulfilled , Netanyahu government faces unhappy public as elections loom",
+          "link": "https://accesswdun.com/ap_article/with-goals-of-iran-war-unfulfilled-netanyahus-government-faces-unhappy-public-as-elections-loom",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u7f8e\ub9cc\ucc2c \ucd1d\uaca9\ubc94  \uc774\ub780\uc694\uc6d0\uc774 \ucd1d\uae30 \ub4e4\uace0\uc640\ub3c4 \uc544\ubb34\ub3c4 \ubab0\ub790\uc744 \uac83 \u2026 \uc815\ub9d0 \uc5b4\ucc98\uad6c\ub2c8 \uc5c6\ub2e4",
+          "link": "https://biz.heraldcorp.com/article/10725822",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u0641\u0643\u0631 \u0623\u0645\u0631\u064a\u0643\u064a : \u062a\u0631\u0645\u0628 \u0644\u0645 \u064a\u0646\u062a\u0635\u0631 \u0641\u064a \u0627\u0644\u062d\u0631\u0628 \u0639\u0644\u0649 \u0625\u064a\u0631\u0627\u0646 \u0648\u064a\u0639\u064a\u0634 \u0623\u0632\u0645\u0629 \u0639\u0645\u064a\u0642\u0629",
+          "link": "https://www.aljazeera.net/politics/2026/4/26/%D9%85%D9%81%D9%83%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AA%D8%B1%D9%85%D8%A8-%D9%84%D9%85-%D9%8A%D9%86%D8%AA%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B9%D9%84%D9%89",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u0635\u0641\u0627\u0629 \u0635\u064a\u0646\u064a\u0629 \u062a\u0646\u0641\u064a \u062e\u0631\u0642 \u0627\u0644\u0639\u0642\u0648\u0628\u0627\u062a \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a\u0629 \u0628\u0634\u0623\u0646 \u0646\u0641\u0637 \u0625\u064a\u0631\u0627\u0646",
+          "link": "https://www.argaam.com:443/ar/article/articledetail/id/1899638",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Orta Do\u011fuda ya\u011f\u0131\u015f art\u0131\u015f\u0131 ve baraj seviyeleri :  Sosyal Medyadaki \u0130ddialar Tart\u0131\u015fma Yaratt\u0131",
+          "link": "https://www.ogunhaber.com/dunya/orta-dogu-da-yagis-artisi-ve-baraj-seviyeleri-sosyal-medyadaki-iddialar-tartisma-yaratti-2999282h.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "To superyacht Nord \u03c4\u03bf\u03c5 \u03a1\u03ce\u03c3\u03bf\u03c5 \u0391\u03bb\u03b5\u03be\u03ad\u03b9 \u039c\u03bf\u03c1\u03bd\u03c4\u03ac\u03c3\u03bf\u03c6 \u03c0\u03ad\u03c1\u03b1\u03c3\u03b5 \u03c4\u03b1 \u03a3\u03c4\u03b5\u03bd\u03ac \u03c4\u03bf\u03c5 \u039f\u03c1\u03bc\u03bf\u03cd\u03b6 \u2013 \u03a0\u03bf\u03b9\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03bf\u03bb\u03b9\u03b3\u03ac\u03c1\u03c7\u03b7\u03c2 \u03c6\u03af\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03bf\u03cd\u03c4\u03b9\u03bd",
+          "link": "https://www.inewsgr.com/97/To-superyacht-Nord-tou-rosou-alexei-morntasof-perase-ta-stena-tou-ormouz--poios-einai-o-oligarchis-filos-tou-poutin.htm",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Skrev hatiskt manifest :  V\u00e4nlige federala m\u00f6rdaren",
+          "link": "https://nyheter24.se/nyheter/utrikes/1478397-skrev-hatiskt-manifest-vanlige-federala-mordaren",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "More Lebanon towns evacuated after Israeli soldier dies",
+          "link": "https://www.singletonargus.com.au/story/9233589/more-lebanon-towns-evacuated-after-israeli-soldier-dies/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Russland , Iran | Irans utenriksminister p\u00e5 vei til Moskva \u2013 skal m\u00f8te Putin",
+          "link": "https://www.nettavisen.no/nyheter/irans-utenriksminister-pa-vei-til-moskva-skal-mote-putin/s/5-95-3004246",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u062a\u062d\u0630\u0631 : \u0627\u0633\u062a\u0645\u0631\u0627\u0631 \u0627\u0644\u0639\u062f\u0648\u0627\u0646 \u0639\u0644\u0649 \u0641\u0644\u0633\u0637\u064a\u0646 \u0648\u0644\u0628\u0646\u0627\u0646 \u0642\u062f \u064a\u0648\u0633\u0639 \u0627\u0644\u062d\u0631\u0628",
+          "link": "https://26sep.net/index.php/local/126732-2026-04-26-17-08-28",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u062d\u0631\u064a\u0642 \u0641\u064a \u0642\u0627\u0639\u062f\u0629 \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629 \u0627\u0633\u062a\u062e\u062f\u0645\u062a \u0641\u064a \u0627\u0644\u0639\u062f\u0648\u0627\u0646 \u0639\u0644\u0649 \u0625\u064a\u0631\u0627\u0646",
+          "link": "https://26sep.net/index.php/local/126739-2026-04-26-17-25-49",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "King state visit to  proceed as planned  after foiled Trump assassination bid",
+          "link": "https://www.northwichguardian.co.uk/news/national/26054470.kings-state-visit-proceed-planned-foiled-trump-assassination-bid/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u0644\u0645\u0627\u0630\u0627 \u0644\u0627 \u062a\u0645\u064a\u0644 \u0623\u0645\u0631\u064a\u0643\u0627 \u0644\u0627\u0633\u062a\u0626\u0646\u0627\u0641 \u0627\u0644\u062d\u0631\u0628 \u0628\u0639\u062f \u0641\u0634\u0644 \u0645\u0641\u0627\u0648\u0636\u0627\u062a \u0625\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f \u061f",
+          "link": "https://26sep.net/index.php/newspaper/26opinion/126768-2026-04-26-20-41-47",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u062d\u0631\u0628 \u062a\u0636\u0631\u0628 \u0627\u0644\u0635\u0644\u0628 \u0648\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629 \u062a\u062f\u0641\u0639 \u0627\u0644\u062b\u0645\u0646",
+          "link": "https://www.aljazeera.net/ebusiness/2026/4/26/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D8%B5%D9%84%D8%A8-%D9%88%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "AP News Summary at 4 : 22 p . m . EDT",
+          "link": "https://www.mykxlg.com/news/national/ap-news-summary-at-4-22-p-m-edt/article_ba9f6d7a-e3b8-5326-8f90-3bb613d9340b.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u0633\u0624\u0648\u0644 \u0628\u063a\u0648\u0644\u062f\u0645\u0627\u0646 \u0633\u0627\u0643\u0633 : \u062f\u0648\u0644 \u0627\u0644\u062e\u0644\u064a\u062c \u062a\u0628\u062d\u062b \u0639\u0646 \u0628\u062f\u0627\u0626\u0644 \u0644\u0645\u0636\u064a\u0642 \u0647\u0631\u0645\u0632",
+          "link": "https://www.aljazeera.net/ebusiness/2026/4/26/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A8%D8%BA%D9%88%D9%84%D8%AF%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D9%83%D8%B3-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Krieg im Nahen Osten : Iranischer Au\u00dfenminister reist zu Treffen mit Putin nach Moskau",
+          "link": "https://www.welt.de/politik/ausland/article69edc7c5161d963ca5f21ddd/krieg-im-nahen-osten-iranischer-aussenminister-reist-zu-treffen-mit-putin-nach-moskau.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Donald Tramp rekao da Iranu  preostaje jo\u0161 tri dana",
+          "link": "https://informer.rs/planeta/vesti/1110322/donald-tramp-iran-unistenje",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "Iran top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone",
+          "link": "https://www.mykxlg.com/news/world/irans-top-diplomat-briefly-returns-to-pakistan-but-trump-says-the-sides-can-talk-by/article_a6eec2ee-835d-5519-96ce-c92a18154c77.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u062a\u0631\u0645\u0628 \u0648\u0627\u0644\u0644\u0639\u0628 \u0639\u0644\u0649 \u062d\u0627\u0641\u0629 \u0627\u0644\u0647\u0627\u0648\u064a\u0629",
+          "link": "https://26sep.net/index.php/newspaper/26reports/126766-2026-04-26-20-30-47",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0394\u03b5\u03bb\u03c4\u03af\u03bf \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 22 : 00",
+          "link": "https://athina984.gr/2026/04/26/deltio-eidiseon-stis-22-00-1961/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Mest om vart detta olyckliga krig \u00e4r p\u00e5 v\u00e4g , men ocks\u00e5 positivt om st\u00f6d till Ukraina och lite annat .",
+          "link": "https://carlbildt.wordpress.com/2026/04/26/mest-om-vart-detta-olyckliga-krig-ar-pa-vag-men-ocksa-positivt-om-stod-till-ukraina-och-lite-annat/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "No reason to meet with Iran without nuclear deal : Trump",
+          "link": "https://www.singletonargus.com.au/story/9233585/no-reason-to-meet-with-iran-without-nuclear-deal-trump/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "DP : \u0421\u0443\u043f\u0435\u0440\u044a\u044f\u0445\u0442\u0430 \u041c\u043e\u0440\u0434\u0430\u0448\u043e\u0432\u0430 Nord \u043f\u0440\u043e\u0448\u043b\u0430 \u0447\u0435\u0440\u0435\u0437 \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u041e\u0440\u043c\u0443\u0437\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u043b\u0438\u0432",
+          "link": "https://life.ru/p/1868102",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The Latest : Pakistan says US - Iran mediation moving ahead after Trump holds back envoys",
+          "link": "https://www.reflector.com/news/national/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_f917c8d1-199c-5ed6-8d1c-30d6a881eb81.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "AP News Summary at 4 : 22 p . m . EDT",
+          "link": "https://www.mykxlg.com/news/national/ap-news-summary-at-4-22-p-m-edt/article_ba9f6d7a-e3b8-5326-8f90-3bb613d9340b.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Krieg im Nahen Osten : Iranischer Au\u00dfenminister reist zu Treffen mit Putin nach Moskau",
+          "link": "https://www.welt.de/politik/ausland/article69edc7c5161d963ca5f21ddd/krieg-im-nahen-osten-iranischer-aussenminister-reist-zu-treffen-mit-putin-nach-moskau.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Donald Tramp rekao da Iranu  preostaje jo\u0161 tri dana",
+          "link": "https://informer.rs/planeta/vesti/1110322/donald-tramp-iran-unistenje",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0394\u03b5\u03bb\u03c4\u03af\u03bf \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 23 : 00",
+          "link": "https://athina984.gr/2026/04/26/deltio-eidiseon-stis-23-00-1906/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US and Iran hold pivotal nuclear talks in Geneva amid heightened tensions",
+          "link": "https://kxel.com/2026/02/26/us-and-iran-hold-pivotal-nuclear-talks-in-geneva-amid-heightened-tensions/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pakistan arac\u0131l\u0131\u011f\u0131yla iletildi ! \u0130randan ABDye k\u0131rm\u0131z\u0131 \u00e7izgi mesaj\u0131",
+          "link": "https://www.cnnturk.com/dunya/pakistan-araciligiyla-iletildi-irandan-abdye-kirmizi-cizgi-mesaji-2420921",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Izrael rasporedio bateriju  Gvozdene kupole  u Ujedinjenim Arapskim Emiratima",
+          "link": "https://informer.rs/planeta/vesti/1110307/izrael-gvozdena-kupola-ujedinjeni-arapski-emirati",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u0410\u0440\u0430\u043a\u0447\u0438 \u043f\u0440\u0438\u0431\u044b\u043b \u0432 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d \u043f\u0435\u0440\u0435\u0434 \u043f\u043e\u0435\u0437\u0434\u043a\u043e\u0439 \u0432 \u041c\u043e\u0441\u043a\u0432\u0443",
+          "link": "https://life.ru/p/1868097",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041f\u043e\u0441\u043e\u043b : \u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u0441\u044f \u0432 \u0420\u0424 \u0441 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u043c \u041f\u0443\u0442\u0438\u043d\u044b\u043c",
+          "link": "https://www.dw.com/ru/posol-glava-mid-irana-vstretitsa-v-moskve-s-vladimirom-putinym/a-76946352",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Axios : \u0418\u0437\u0440\u0430\u0438\u043b\u044c \u043d\u0430\u043f\u0440\u0430\u0432\u0438\u043b \u041e\u0410\u042d  \u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043a\u0443\u043f\u043e\u043b",
+          "link": "https://www.dw.com/ru/axios-izrail-napravil-oae-zeleznyj-kupol/a-76946086",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran Araghchi briefly returns to Pakistan , Trump says they can call",
+          "link": "https://www.cnbc.com/2026/04/26/irans-araghchi-briefly-returns-to-pakistan-trump-says-they-can-call.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Are Iran peace talks dead or is this the  Persian bazaar  strategy ?",
+          "link": "https://www.thetimes.com/world/middle-east/article/iran-peace-talks-us-news-trump-war-0kjg9ptj5",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Two front : Higher costs for fertilizers and fuel from Iran war challenge farmers | Local News",
+          "link": "https://www.idahopress.com/news/local/two-fronts-higher-costs-for-fertilizers-and-fuel-from-iran-war-challenge-farmers/article_6beafaf1-4693-5e43-8780-68b8ae1abe16.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Column : America is already diminished by the Iran war",
+          "link": "https://www.dailypress.com/2026/04/26/column-america-is-already-diminished-by-the-iran-war/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran latest : Ceasefire talks still alive despite mounting tensions , Pakistan says",
+          "link": "https://www.ktvu.com/news/iran-latest-ceasefire-talks-still-alive-despite-mounting-tensions-pakistan-says",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump poru\u010dio Iranu : Ne \u0161aljemo pregovara\u010de , vi mo\u017eete do\u0107i u Washington",
+          "link": "https://www.hayat.ba/news/article/trump-porucio-iranu-ne-saljemo-pregovarace-vi-mozete-doci-u-washington/69ee79c8b1362cc4c60207e9",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0422\u0440\u044a\u043c\u043f \u0441\u0435 \u044f\u0434\u043e\u0441\u0430 \u043d\u0430 \u0418\u0440\u0430\u043d : \u0418\u043c\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d , \u0434\u0430 \u0441\u0435 \u043e\u0431\u0430\u0434\u044f\u0442 ! - \u0421\u0432\u044f\u0442 \u041d\u043e\u0432\u0438\u043d\u0438 \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
+          "link": "https://www.standartnews.com/svyat/tramp-se-yadosa-na-iran-ima-telefon-da-se-obadyat-631582.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran FM conveys conditions for ending war to Pakistan -- Tasnim News Agency",
+          "link": "http://www.israelherald.com/news/279013384/iran-fm-conveys-conditions-for-ending-war-to-pakistan-tasnim-news-agency",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041c\u0438\u043d\u0438\u0441\u0442\u0440 \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0445 \u0434\u0435\u043b \u0418\u0440\u0430\u043d\u0430 \u043d\u0435\u043d\u0430\u0434\u043e\u043b\u0433\u043e \u0432\u0435\u0440\u043d\u0443\u043b\u0441\u044f \u0432 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d , \u0437\u0430\u0442\u0435\u043c \u043e\u043d \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u0432 \u041c\u043e\u0441\u043a\u0432\u0443",
+          "link": "https://ru.euronews.com/2026/04/26/iranian-foreign-minister-returns-to-pakistan-than-leaves-for-moscow",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u041e\u0410\u042d \u0438 \u0420\u0443\u0431\u0438\u043e \u043e\u0431\u0441\u0443\u0434\u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u043c\u0438\u0440\u0438\u0435 \u0422\u0440\u0430\u043c\u043f\u0430 \u0441 \u0418\u0440\u0430\u043d\u043e\u043c",
+          "link": "https://www.mk.ru/politics/2026/04/26/glava-mid-oae-i-rubio-obsudili-peremirie-trampa-s-iranom.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412\u043e\u0439\u043d\u0430 \u0421\u0428\u0410 \u043f\u0440\u043e\u0442\u0438\u0432 \u0418\u0440\u0430\u043d\u0430 \u0437\u0430\u0442\u0440\u043e\u043d\u0443\u043b\u0430 \u041a\u0438\u0442\u0430\u0439 / \u0412 \u043c\u0438\u0440\u0435 / \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430",
+          "link": "https://www.ng.ru/world/2026-04-26/6_9483_china.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0418\u0440\u0430\u043d \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u0441 \u0421\u0428\u0410 / \u0412 \u043c\u0438\u0440\u0435 / \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430",
+          "link": "https://www.ng.ru/world/2026-04-26/1_9483_iran.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "PMOI Resistance Units Conduct Coordinated Nationwide Campaigns in Iran ( April 19 \u2013 26 , 2026 )",
+          "link": "https://www.ncr-iran.org/en/news/iran-resistance/pmoi-resistance-units-conduct-coordinated-nationwide-campaigns-in-iran-april-19-26-2026/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "B . T . s mellem\u00f8stkorrespondent : Det b\u00f8r give dem en klam smag i munden",
+          "link": "https://www.bt.dk/udland/bts-mellemoestkorrespondent-det-boer-give-dem-en-klam-smag-i-munden",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0422\u0440\u0430\u043c\u043f \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u0435\u0442 , \u0447\u0442\u043e \u0438\u0440\u0430\u043d\u0441\u043a\u0438\u0435 \u043d\u0435\u0444\u0442\u0435\u043f\u0440\u043e\u0432\u043e\u0434\u044b \u0432\u0437\u043e\u0440\u0432\u0443\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u0442\u0440\u0438 \u0434\u043d\u044f",
+          "link": "https://ria.ru/20260426/tramp-2089061880.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US sanctions China  teapot  refinery for buying Iranian oil \u2013 Ya Libnan",
+          "link": "https://yalibnan.com/2026/04/26/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran foreign minister Araghchi meets Sultan Haitham bin Tariq of Oman ; discusses regional developments",
+          "link": "http://www.laosnews.net/news/279013156/iran-foreign-minister-araghchi-meets-sultan-haitham-bin-tariq-of-oman-discusses-regional-developments",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ceasefire Day 19 : Iranian Negotiators Expected to Return to Peace Talks",
+          "link": "https://www.theamericanconservative.com/ceasefire-day-19-iranian-negotiators-expected-to-return-to-peace-talks/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran Foreign Minister Araghchi returns to Islamabad after diplomatic engagements in Oman",
+          "link": "http://www.malaysiasun.com/news/279013359/iran-foreign-minister-araghchi-returns-to-islamabad-after-diplomatic-engagements-in-oman",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran FM Araghchi Heads to Russia After Pakistan Visit",
+          "link": "https://www.newkerala.com/news/a/irans-foreign-minister-araghchi-departs-russia-after-brief-815.htm",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Arak\u010di ide kod Putina : Iranski ministar napustio Pakistan",
+          "link": "https://www.novosti.rs/planeta/svet/1601207/arakci-ide-kod-putina-iranski-ministar-napustio-pakistan",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412\u043e\u0439\u043d\u0430 \u0432 \u0418\u0440\u0430\u043d\u0435 \u2013 \u0421\u0428\u0410 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u043b\u0438 \u0438\u0440\u0430\u043d\u0441\u043a\u0438\u0435 \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0435 \u043b\u043e\u0434\u043a\u0438 , \u043f\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0435 \u0420\u043e\u0441\u0441\u0438\u0435\u0439",
+          "link": "https://www.unian.net/curiosities/voyna-v-irane-ssha-unichtozhili-iranskie-podvodnye-lodki-postavlennye-rossiey-13362648.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pakist\u00e1n busca salvar la negociaci\u00f3n entre EE . UU . e Ir\u00e1n tras el desplante de Trump :: El Diario de La Pampa",
+          "link": "https://www.eldiariodelapampa.com.ar/mundo/73158/pakistan-busca-salvar-la-negociacion-entre-ee-uu-e-iran-tras-el-desplante-de-trump",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump , Starmer call for",
+          "link": "http://www.indiagazette.com/news/279013398/trump-starmer-call-for-urgent-need-to-restore-flow-of-vessels-through-strait-of-hormuz",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Israel , Hezbollah trade accusations over Lebanon truce violations",
+          "link": "https://www.spacewar.com/afp/260426172433.ah36k37j.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Negociaciones entre Teher\u00e1n y Washington est\u00e1n en vilo",
+          "link": "https://www.am.com.mx/mundo/2026/04/26/negociaciones-entre-teheran-y-washington-estan-en-vilo-1785318.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u0627 \u0627\u0644\u063a\u0628\u0627\u0631 \u0627\u0644\u0646\u0648\u0648\u064a \u0627\u0644\u0630\u064a \u064a\u0631\u064a\u062f\u0647 \u062a\u0631\u0627\u0645\u0628 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u061f",
+          "link": "https://www.albayan.ae/news/middle-east/iran/1225138",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone \u2013 KTBB News , Weather , Talk",
+          "link": "https://ktbb.com/post/?p=1501072",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Arak\u010di poslao poruku SAD preko Pakistana : Ovo su na\u0161e crvene linije",
+          "link": "https://www.novosti.rs/planeta/svet/1601176/arakci-poslao-poruku-sad-preko-pakistana-ovo-nase-crvene-linije",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0410\u0440\u0430\u0433\u0447\u0438 \u0432\u043d\u043e\u0432\u044c \u0432\u0435\u0440\u043d\u0443\u043b\u0441\u044f \u0432 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d ?",
+          "link": "https://news.day.az/world/1830523.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran FM departs for Moscow from Islamabad : ministry",
+          "link": "https://www.spacewar.com/afp/260426180742.09bbdmwe.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran minister returns to Pakistan despite US cancelling talks",
+          "link": "https://www.spacewar.com/afp/260426173957.4ak6csa9.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Guerra in Medio Oriente : diplomazia tra Iran , united states e Russia , crisi Israele - Hezbollah",
+          "link": "https://tg.la7.it/esteri/guerra-medio-oriente-diplomazia-iran-usa-russia-crisi-israele-hezbollah-26-04-2026-255967",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
       "items": [
         {
-          "title": "White House dinner shooting wont deter me from winning Iran war - Trump",
-          "link": "https://dailypost.ng/2026/04/26/white-house-dinner-shooting-wont-deter-me-from-winning-iran-war-trump/",
+          "title": "Iran top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone",
+          "link": "https://www.mykxlg.com/news/world/irans-top-diplomat-briefly-returns-to-pakistan-but-trump-says-the-sides-can-talk-by/article_a6eec2ee-835d-5519-96ce-c92a18154c77.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Rat na Bliskom istoku : Iranska mornarica zaplenila dva broda ; Gori vojna baza sa bombarderima SAD",
-          "link": "https://www.novosti.rs/planeta/svet/1600959/sukob-bliskom-istoku-arakci-poslali-smo-nase-crvene-linije-sad-iranska-mornarica-zaplenila-dva-broda",
+          "title": "\u0633\u0628\u062a\u0645\u0628\u0631 \u0646\u062a - \u062a\u0631\u0645\u0628 \u0648\u0627\u0644\u0644\u0639\u0628 \u0639\u0644\u0649 \u062d\u0627\u0641\u0629 \u0627\u0644\u0647\u0627\u0648\u064a\u0629",
+          "link": "https://26sep.net/index.php/newspaper/26reports/126766-2026-04-26-20-30-47",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Pakistan races to save US - Iran negotiations after President Trump keeps envoys home",
-          "link": "https://www.13newsnow.com/article/news/nation-world/attack-on-iran/pakistan-races-save-us-iran-negotiations-after-president-trump-keeps-envoys-home/507-26bd90d8-5004-440b-a4de-dc216cc0913d",
+          "title": "\u0394\u03b5\u03bb\u03c4\u03af\u03bf \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 22 : 00",
+          "link": "https://athina984.gr/2026/04/26/deltio-eidiseon-stis-22-00-1961/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0410\u0440\u0430\u043a\u0447\u0438 \u043f\u0440\u0438\u0431\u0443\u0434\u0435\u0442 \u0432 \u041c\u043e\u0441\u043a\u0432\u0443 \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u043e \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0435 \u043d\u0430 \u0411\u043b\u0438\u0436\u043d\u0435\u043c \u0412\u043e\u0441\u0442\u043e\u043a\u0435",
-          "link": "https://news.mail.ru/politics/70679486/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u0995\u09c7 \u0995\u09c2\u099f\u09a8\u09c8\u09a4\u09bf\u0995 \u0993 \u09b8\u09be\u09ae\u09b0\u09bf\u0995 \u09ac\u09be\u09b0\u09cd\u09a4\u09be \u0987\u09b0\u09be\u09a8\u09c7\u09b0",
-          "link": "https://dailyinqilab.com/international/article/888112",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Arak\u010di preko Pakistana poslao poruku SAD o crvenim linijama Irana",
-          "link": "https://www.tanjug.rs/bliski-istok/vesti/247577/arakci-preko-pakistana-poslao-poruku-sad-o-crvenim-linijama-irana/vest",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0410\u0440\u0430\u0433\u0447\u0438 \u0441\u0435 \u0432\u0440\u0430\u0442\u0438 \u0432\u043e \u0418\u0441\u043b\u0430\u043c\u0430\u0431\u0430\u0434 \u043f\u043e \u043f\u043e\u0441\u0435\u0442\u0430\u0442\u0430 \u043d\u0430 \u041e\u043c\u0430\u043d , \u0443\u0442\u0440\u0435 \u043e\u0434\u0438 \u0432\u043e \u041c\u043e\u0441\u043a\u0432\u0430 \u043d\u0430 \u0441\u0440\u0435\u0434\u0431\u0430 \u0441\u043e \u041f\u0443\u0442\u0438\u043d",
-          "link": "https://libertas.mk/aragchi-se-vrati-vo-islamabad-po-posetata-na-oman-utre-odi-vo-moskva-na-sredba-so-putin/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u043b\u0441\u044f \u0432 \u041c\u043e\u0441\u043a\u0432\u0443",
-          "link": "https://ria.ru/20260426/arakchi-2089055118.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "DIPLOMATSKA UZBUNA : Svaki dogovor SAD - a i Irana mora garantovati sigurnost arapskih zemalja !",
-          "link": "https://www.slobodna-bosna.ba/vijest/480555/diplomatska_uzbuna_svaki_dogovor_sad_a_i_irana_mora_garantovati_sigurnost_arapskih_zemalja.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Wadahadalo noocee ah ayay wadamada Khaliijka Carabta doonayaan inuu Maraykanka la galo Iran ?",
-          "link": "https://www.bbc.com/somali/articles/c20d0pjp7gdo",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "ENTRE AMENAZAS Y BLOQUEOS , EL CONFLICTO EN MEDIO ORIENTE SE ESTANCA SIN ACUERDOS",
-          "link": "https://www.calibre800.com/2026/04/26/entre-amenazas-y-bloqueos-el-conflicto-en-medio-oriente-se-estanca-sin-acuerdos/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran top diplomat returns to Pakistan but Trump says the sides can talk by phone",
-          "link": "https://www.wdrb.com/news/national/irans-top-diplomat-returns-to-pakistan-but-trump-says-the-sides-can-talk-by-phone/article_815bc005-b548-5e40-a760-c5a5ec507ff5.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump Hormuz Blockade Has Deepened A Historic Shipping Crisis",
-          "link": "https://gcaptain.com/trumps-hormuz-blockade-has-deepened-a-historic-shipping-crisis/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0160OKANTNO PRIZNANJE AMERI\u010cKOG OFICIRA :  Pentagon razmatra NUKLEARNI UDAR na Iran jer konvencionalno oru\u017eje ne poma\u017ee",
-          "link": "https://www.slobodna-bosna.ba/vijest/480558/sokantno_priznanje_americhkog_oficira_pentagon_razmatra_nuklearni_udar_na_iran_jer_konvencionalno_oruzje_ne_pomaze.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041a\u0440\u0435\u043c\u043b\u044c \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u043b \u0433\u043e\u0442\u043e\u0432\u044f\u0449\u0443\u044e\u0441\u044f \u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u041f\u0443\u0442\u0438\u043d\u0430 \u0441 \u0433\u043b\u0430\u0432\u043e\u0439 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435",
-          "link": "https://news.mail.ru/politics/70679433/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranski ministar ponovno u Islamabadu : Pregovori vise o koncu nakon Trumpove odluke",
-          "link": "https://www.tportal.hr/vijesti/clanak/iranski-ministar-ponovno-u-islamabadu-pregovori-vise-o-koncu-nakon-trumpove-odluke-20260426",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran shifts economic focus to essentials during war uncertainty - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-          "link": "https://dominicanrepublicpost.com/iran-shifts-economic-focus-to-essentials-during-war-uncertainty/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranska Revolucionarna garda najavljuje nastavak podr\u0161ke Hezbolahu",
-          "link": "https://www.tanjug.rs/bliski-istok/vesti/247648/iranska-revolucionarna-garda-najavljuje-nastavak-podrske-hezbolahu/vest",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran foreign minister Araghchi meets Sultan Haitham bin Tariq of Oman ; discusses regional developments",
-          "link": "http://www.pakistantelegraph.com/news/279013156/iran-foreign-minister-araghchi-meets-sultan-haitham-bin-tariq-of-oman-discusses-regional-developments",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "SUA schimb\u0103 strategia fa\u021b\u0103 de Iran . Donald Trump anun\u021b\u0103 c\u0103 nu mai trimite delega\u021bii la negocieri",
-          "link": "https://www.ziuaconstanta.ro/stiri/externe/sua-schimba-strategia-fata-de-iran-donald-trump-anunta-ca-nu-mai-trimite-delegatii-la-negocieri-936249.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Die kranken Staaten von Amerika",
-          "link": "https://www.diepresse.com/20798543/die-kranken-staaten-von-amerika",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Pakistan races to save US - Iran negotiations after President Trump keeps envoys home",
-          "link": "https://www.wnep.com/article/news/nation-world/attack-on-iran/pakistan-races-save-us-iran-negotiations-after-president-trump-keeps-envoys-home/507-26bd90d8-5004-440b-a4de-dc216cc0913d",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Dietro gli attacchi united states al pontefice c  \u00e8 il messianismo dei protestanti",
-          "link": "https://www.zazoom.it/2026-04-26/dietro-gli-attacchi-usa-al-pontefice-ce-il-messianismo-dei-protestanti/19075705/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Themes and Motifs in the Rhetoric of Naim Qassem , Hezbollah Secretary General - The Meir Amit Intelligence and Terrorism Information Center",
-          "link": "https://www.terrorism-info.org.il/en/themes-and-motifs-in-the-rhetoric-of-naim-qassem-hezbollah-secretary-general/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Donald Trump spune c\u0103 SUA nu vor mai trimite delega\u0163ii la negocieri cu Iranul",
-          "link": "https://adevarul.ro/stiri-externe/sua/donald-trump-spune-ca-sua-nu-vor-mai-trimite-2525368.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u00ab \u042d\u0442\u043e \u043f\u043e\u0436\u0435\u043b\u0430\u043d\u0438\u0435 \u0441\u0442\u0440\u0430\u043d\u0430\u043c \u041f\u0435\u0440\u0441\u0438\u0434\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u043b\u0438\u0432\u0430 \u043d\u0435 \u0434\u0430\u0432\u0430\u0442\u044c \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0421\u0428\u0410 \u043d\u0430 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u043e\u0435\u043d\u043d\u044b\u0445 \u0431\u0430\u0437 \u00bb \u044d\u043a\u0441\u043f\u0435\u0440\u0442 \u043e\u0431 \u0438\u043d\u0438\u0446\u0438\u0430\u0442\u0438\u0432\u0435 \u0418\u0440\u0430\u043d\u0430",
-          "link": "https://www.bfm.ru/news/604892",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u043f\u0440\u0438\u043b\u0435\u0442\u0438\u0442 \u0432 \u041c\u043e\u0441\u043a\u0432\u0443 \u043d\u0430 \u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0441 \u041f\u0443\u0442\u0438\u043d\u044b\u043c",
-          "link": "https://www.bfm.ru/news/604904",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "The Fed Diprediksi Tahan Suku Bunga di Tengah Gejolak Global",
-          "link": "https://koran-jakarta.com/2026-04-27/the-fed-diprediksi-tahan-suku-bunga-di-tengah-gejolak-global",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u062a\u0631\u0645\u0628 : \u0627\u0644\u062d\u0631\u0628 \u0645\u0639 \u0625\u064a\u0631\u0627\u0646 \u0633\u062a\u0646\u062a\u0647\u064a \u0642\u0631\u064a\u0628\u0627\u064b \u062c\u062f\u0627\u064b \u0648\u0648\u0627\u0634\u0646\u0637\u0646 \u0633\u062a\u0646\u062a\u0635\u0631",
-          "link": "https://almadapaper.net/433176/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0422\u0440\u0438 \u0434\u043d\u044f \u0434\u043e \u0432\u0437\u0440\u044b\u0432\u0430 : \u0422\u0440\u0430\u043c\u043f \u0432\u044b\u0434\u0432\u0438\u043d\u0443\u043b \u043d\u043e\u0432\u044b\u0439 \u0443\u043b\u044c\u0442\u0438\u043c\u0430\u0442\u0443\u043c \u0418\u0440\u0430\u043d\u0443",
-          "link": "https://www.mk.ru/politics/2026/04/26/tri-dnya-do-vzryva-tramp-vydvinul-novyy-ultimatum-iranu.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 : \u039f \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2 \u03c3\u03c4\u03bf \u0399\u03c1\u03ac\u03bd \u03b8\u03b1 \u03c4\u03b5\u03bb\u03b5\u03b9\u03ce\u03c3\u03b5\u03b9 \u03c0\u03bf\u03bb\u03cd \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03b1",
-          "link": "https://www.philenews.com/kosmos/diethni/article/1712362/tramp-o-polemos-sto-iran-tha-teliosi-poli-sintoma-boroume-ke-apo-to-tilefono/",
+          "title": "Mest om vart detta olyckliga krig \u00e4r p\u00e5 v\u00e4g , men ocks\u00e5 positivt om st\u00f6d till Ukraina och lite annat .",
+          "link": "https://carlbildt.wordpress.com/2026/04/26/mest-om-vart-detta-olyckliga-krig-ar-pa-vag-men-ocksa-positivt-om-stod-till-ukraina-och-lite-annat/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
           "title": "No reason to meet with Iran without nuclear deal : Trump",
-          "link": "https://www.perthnow.com.au/news/conflict/no-reason-to-meet-with-iran-without-nuclear-deal-trump-c-22196001",
+          "link": "https://www.singletonargus.com.au/story/9233585/no-reason-to-meet-with-iran-without-nuclear-deal-trump/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0130ran  \u0131n k\u0131rm\u0131z\u0131 \u00e7izgileri Pakistan \u00fczerinden ABDye iletildi",
-          "link": "https://www.haberler.com/politika/iran-dan-abd-ye-pakistan-uzerinden-kirmizi-cizgi-19783104-haberi/",
+          "title": "DP : \u0421\u0443\u043f\u0435\u0440\u044a\u044f\u0445\u0442\u0430 \u041c\u043e\u0440\u0434\u0430\u0448\u043e\u0432\u0430 Nord \u043f\u0440\u043e\u0448\u043b\u0430 \u0447\u0435\u0440\u0435\u0437 \u0437\u0430\u043a\u0440\u044b\u0442\u044b\u0439 \u041e\u0440\u043c\u0443\u0437\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u043b\u0438\u0432",
+          "link": "https://life.ru/p/1868102",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Hormuz . LIran alza il prezzo della tregua : pedaggi , divieti e nuove tensioni sullo stretto pi\u00f9 strategico del mondo ( A . Puccio e I . Smirnova )",
-          "link": "https://www.farodiroma.it/hormuz-liran-alza-il-prezzo-della-tregua-pedaggi-divieti-e-nuove-tensioni-sullo-stretto-piu-strategico-del-mondo-a-puccio-e-i-smirnova/",
+          "title": "The Latest : Pakistan says US - Iran mediation moving ahead after Trump holds back envoys",
+          "link": "https://www.reflector.com/news/national/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_f917c8d1-199c-5ed6-8d1c-30d6a881eb81.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Rivalen Netanyahu gaan samen volgende verkiezingen Isra\u00ebl in",
-          "link": "https://www.dagelijksestandaard.nl/nieuws/rivalen-netanyahu-gaan-samen-volgende-verkiezingen-israel-in",
+          "title": "AP News Summary at 4 : 22 p . m . EDT",
+          "link": "https://www.mykxlg.com/news/national/ap-news-summary-at-4-22-p-m-edt/article_ba9f6d7a-e3b8-5326-8f90-3bb613d9340b.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u00bf Qu\u00e9 opinan los iran\u00edes sobre la Campa\u00f1a  Sacrificamos el alma por Ir\u00e1n ?",
-          "link": "https://www.hispantv.com/noticias/noticias-de-iran/642813/campana-sacrifica-alma-iran-millones-voluntarios",
+          "title": "Krieg im Nahen Osten : Iranischer Au\u00dfenminister reist zu Treffen mit Putin nach Moskau",
+          "link": "https://www.welt.de/politik/ausland/article69edc7c5161d963ca5f21ddd/krieg-im-nahen-osten-iranischer-aussenminister-reist-zu-treffen-mit-putin-nach-moskau.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Separah Apa Kerusakan Berbagai Pangkalan Militer AS di Timur Tengah Gegara Serangan Iran ?",
-          "link": "https://www.tribunnews.com/internasional/7821758/separah-apa-kerusakan-berbagai-pangkalan-militer-as-di-timur-tengah-gegara-serangan-iran",
+          "title": "Donald Tramp rekao da Iranu  preostaje jo\u0161 tri dana",
+          "link": "https://informer.rs/planeta/vesti/1110322/donald-tramp-iran-unistenje",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0394\u03b5\u03bb\u03c4\u03af\u03bf \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 23 : 00",
+          "link": "https://athina984.gr/2026/04/26/deltio-eidiseon-stis-23-00-1906/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US and Iran hold pivotal nuclear talks in Geneva amid heightened tensions",
+          "link": "https://kxel.com/2026/02/26/us-and-iran-hold-pivotal-nuclear-talks-in-geneva-amid-heightened-tensions/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pakistan arac\u0131l\u0131\u011f\u0131yla iletildi ! \u0130randan ABDye k\u0131rm\u0131z\u0131 \u00e7izgi mesaj\u0131",
+          "link": "https://www.cnnturk.com/dunya/pakistan-araciligiyla-iletildi-irandan-abdye-kirmizi-cizgi-mesaji-2420921",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Izrael rasporedio bateriju  Gvozdene kupole  u Ujedinjenim Arapskim Emiratima",
+          "link": "https://informer.rs/planeta/vesti/1110307/izrael-gvozdena-kupola-ujedinjeni-arapski-emirati",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u0410\u0440\u0430\u043a\u0447\u0438 \u043f\u0440\u0438\u0431\u044b\u043b \u0432 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d \u043f\u0435\u0440\u0435\u0434 \u043f\u043e\u0435\u0437\u0434\u043a\u043e\u0439 \u0432 \u041c\u043e\u0441\u043a\u0432\u0443",
+          "link": "https://life.ru/p/1868097",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041f\u043e\u0441\u043e\u043b : \u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u0441\u044f \u0432 \u0420\u0424 \u0441 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u043c \u041f\u0443\u0442\u0438\u043d\u044b\u043c",
+          "link": "https://www.dw.com/ru/posol-glava-mid-irana-vstretitsa-v-moskve-s-vladimirom-putinym/a-76946352",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Axios : \u0418\u0437\u0440\u0430\u0438\u043b\u044c \u043d\u0430\u043f\u0440\u0430\u0432\u0438\u043b \u041e\u0410\u042d  \u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043a\u0443\u043f\u043e\u043b",
+          "link": "https://www.dw.com/ru/axios-izrail-napravil-oae-zeleznyj-kupol/a-76946086",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran Araghchi briefly returns to Pakistan , Trump says they can call",
+          "link": "https://www.cnbc.com/2026/04/26/irans-araghchi-briefly-returns-to-pakistan-trump-says-they-can-call.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Are Iran peace talks dead or is this the  Persian bazaar  strategy ?",
+          "link": "https://www.thetimes.com/world/middle-east/article/iran-peace-talks-us-news-trump-war-0kjg9ptj5",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Two front : Higher costs for fertilizers and fuel from Iran war challenge farmers | Local News",
+          "link": "https://www.idahopress.com/news/local/two-fronts-higher-costs-for-fertilizers-and-fuel-from-iran-war-challenge-farmers/article_6beafaf1-4693-5e43-8780-68b8ae1abe16.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Column : America is already diminished by the Iran war",
+          "link": "https://www.dailypress.com/2026/04/26/column-america-is-already-diminished-by-the-iran-war/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran latest : Ceasefire talks still alive despite mounting tensions , Pakistan says",
+          "link": "https://www.ktvu.com/news/iran-latest-ceasefire-talks-still-alive-despite-mounting-tensions-pakistan-says",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump poru\u010dio Iranu : Ne \u0161aljemo pregovara\u010de , vi mo\u017eete do\u0107i u Washington",
+          "link": "https://www.hayat.ba/news/article/trump-porucio-iranu-ne-saljemo-pregovarace-vi-mozete-doci-u-washington/69ee79c8b1362cc4c60207e9",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0422\u0440\u044a\u043c\u043f \u0441\u0435 \u044f\u0434\u043e\u0441\u0430 \u043d\u0430 \u0418\u0440\u0430\u043d : \u0418\u043c\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d , \u0434\u0430 \u0441\u0435 \u043e\u0431\u0430\u0434\u044f\u0442 ! - \u0421\u0432\u044f\u0442 \u041d\u043e\u0432\u0438\u043d\u0438 \u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
+          "link": "https://www.standartnews.com/svyat/tramp-se-yadosa-na-iran-ima-telefon-da-se-obadyat-631582.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran FM conveys conditions for ending war to Pakistan -- Tasnim News Agency",
+          "link": "http://www.israelherald.com/news/279013384/iran-fm-conveys-conditions-for-ending-war-to-pakistan-tasnim-news-agency",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041c\u0438\u043d\u0438\u0441\u0442\u0440 \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0445 \u0434\u0435\u043b \u0418\u0440\u0430\u043d\u0430 \u043d\u0435\u043d\u0430\u0434\u043e\u043b\u0433\u043e \u0432\u0435\u0440\u043d\u0443\u043b\u0441\u044f \u0432 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d , \u0437\u0430\u0442\u0435\u043c \u043e\u043d \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u0432 \u041c\u043e\u0441\u043a\u0432\u0443",
+          "link": "https://ru.euronews.com/2026/04/26/iranian-foreign-minister-returns-to-pakistan-than-leaves-for-moscow",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u041e\u0410\u042d \u0438 \u0420\u0443\u0431\u0438\u043e \u043e\u0431\u0441\u0443\u0434\u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u043c\u0438\u0440\u0438\u0435 \u0422\u0440\u0430\u043c\u043f\u0430 \u0441 \u0418\u0440\u0430\u043d\u043e\u043c",
+          "link": "https://www.mk.ru/politics/2026/04/26/glava-mid-oae-i-rubio-obsudili-peremirie-trampa-s-iranom.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412\u043e\u0439\u043d\u0430 \u0421\u0428\u0410 \u043f\u0440\u043e\u0442\u0438\u0432 \u0418\u0440\u0430\u043d\u0430 \u0437\u0430\u0442\u0440\u043e\u043d\u0443\u043b\u0430 \u041a\u0438\u0442\u0430\u0439 / \u0412 \u043c\u0438\u0440\u0435 / \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430",
+          "link": "https://www.ng.ru/world/2026-04-26/6_9483_china.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0418\u0440\u0430\u043d \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u043e\u0432 \u0441 \u0421\u0428\u0410 / \u0412 \u043c\u0438\u0440\u0435 / \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430",
+          "link": "https://www.ng.ru/world/2026-04-26/1_9483_iran.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "PMOI Resistance Units Conduct Coordinated Nationwide Campaigns in Iran ( April 19 \u2013 26 , 2026 )",
+          "link": "https://www.ncr-iran.org/en/news/iran-resistance/pmoi-resistance-units-conduct-coordinated-nationwide-campaigns-in-iran-april-19-26-2026/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "B . T . s mellem\u00f8stkorrespondent : Det b\u00f8r give dem en klam smag i munden",
+          "link": "https://www.bt.dk/udland/bts-mellemoestkorrespondent-det-boer-give-dem-en-klam-smag-i-munden",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0422\u0440\u0430\u043c\u043f \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u0435\u0442 , \u0447\u0442\u043e \u0438\u0440\u0430\u043d\u0441\u043a\u0438\u0435 \u043d\u0435\u0444\u0442\u0435\u043f\u0440\u043e\u0432\u043e\u0434\u044b \u0432\u0437\u043e\u0440\u0432\u0443\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u0442\u0440\u0438 \u0434\u043d\u044f",
+          "link": "https://ria.ru/20260426/tramp-2089061880.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US sanctions China  teapot  refinery for buying Iranian oil \u2013 Ya Libnan",
+          "link": "https://yalibnan.com/2026/04/26/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
           "title": "Iran foreign minister Araghchi meets Sultan Haitham bin Tariq of Oman ; discusses regional developments",
-          "link": "http://www.russiaherald.com/news/279013156/iran-foreign-minister-araghchi-meets-sultan-haitham-bin-tariq-of-oman-discusses-regional-developments",
+          "link": "http://www.laosnews.net/news/279013156/iran-foreign-minister-araghchi-meets-sultan-haitham-bin-tariq-of-oman-discusses-regional-developments",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Pakistan races to save US - Iran negotiations after President Trump keeps envoys home",
-          "link": "https://www.kiiitv.com/article/news/nation-world/attack-on-iran/pakistan-races-save-us-iran-negotiations-after-president-trump-keeps-envoys-home/507-26bd90d8-5004-440b-a4de-dc216cc0913d",
+          "title": "Ceasefire Day 19 : Iranian Negotiators Expected to Return to Peace Talks",
+          "link": "https://www.theamericanconservative.com/ceasefire-day-19-iranian-negotiators-expected-to-return-to-peace-talks/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0130randan ABDye Pakistan \u00fczerinden  k\u0131rm\u0131z\u0131 \u00e7izgi  mesaj\u0131 - TAHRAN | Mersin Haber",
-          "link": "https://www.mersinhaber.com/haber-randan-abdye-pakistan-uzerinden-kirmizi-cizgi-mesaji-tahran/611940",
+          "title": "Iran Foreign Minister Araghchi returns to Islamabad after diplomatic engagements in Oman",
+          "link": "http://www.malaysiasun.com/news/279013359/iran-foreign-minister-araghchi-returns-to-islamabad-after-diplomatic-engagements-in-oman",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump :  Entro tre giorni il sistema petrolifero iraniano pu esplodere : la pressione nei pozzi si accumula . Io ? Non ho fretta",
-          "link": "https://www.quotidiano.net/esteri/trump-entro-tre-giorni-sistema-petrolifero-iraniano-esplodere-yliacjht",
+          "title": "Iran FM Araghchi Heads to Russia After Pakistan Visit",
+          "link": "https://www.newkerala.com/news/a/irans-foreign-minister-araghchi-departs-russia-after-brief-815.htm",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iran Trump | Il sistema petrolifero rischia l  esplosione entro 3 giorni",
-          "link": "https://www.zazoom.it/2026-04-26/iran-trump-il-sistema-petrolifero-rischia-lesplosione-entro-3-giorni/19075646/",
+          "title": "Arak\u010di ide kod Putina : Iranski ministar napustio Pakistan",
+          "link": "https://www.novosti.rs/planeta/svet/1601207/arakci-ide-kod-putina-iranski-ministar-napustio-pakistan",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0413\u043b\u0430\u0432\u0430 \u041c\u0418\u0414 \u0418\u0440\u0430\u043d\u0430 \u043b\u0435\u0442\u0438\u0442 \u0432 \u041c\u043e\u0441\u043a\u0432\u0443",
-          "link": "https://www.mk.ru/politics/2026/04/26/glava-mid-irana-letit-v-moskvu.html",
+          "title": "\u0412\u043e\u0439\u043d\u0430 \u0432 \u0418\u0440\u0430\u043d\u0435 \u2013 \u0421\u0428\u0410 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u043b\u0438 \u0438\u0440\u0430\u043d\u0441\u043a\u0438\u0435 \u043f\u043e\u0434\u0432\u043e\u0434\u043d\u044b\u0435 \u043b\u043e\u0434\u043a\u0438 , \u043f\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0435 \u0420\u043e\u0441\u0441\u0438\u0435\u0439",
+          "link": "https://www.unian.net/curiosities/voyna-v-irane-ssha-unichtozhili-iranskie-podvodnye-lodki-postavlennye-rossiey-13362648.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 : \u0391\u03bd \u03b8\u03ad\u03bb\u03bf\u03c5\u03bd \u03bd\u03b1 \u03c4\u03b5\u03bb\u03b5\u03b9\u03ce\u03c3\u03b5\u03b9 \u03bf \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2 , \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bb\u03ad\u03c6\u03c9\u03bd\u03bf",
-          "link": "https://www.news247.gr/kosmos/trab-gia-iran-an-theloun-na-teleiosei-o-polemos-iparxei-kai-to-tilefono/",
+          "title": "Pakist\u00e1n busca salvar la negociaci\u00f3n entre EE . UU . e Ir\u00e1n tras el desplante de Trump :: El Diario de La Pampa",
+          "link": "https://www.eldiariodelapampa.com.ar/mundo/73158/pakistan-busca-salvar-la-negociacion-entre-ee-uu-e-iran-tras-el-desplante-de-trump",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u039f\u03bb\u03b5\u03c2 \u03bf\u03b9 \u03b5\u03c0\u03b9\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd \u03c4\u03bf\u03c5 \u039d\u03c4\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4 \u03a4\u03c1\u03b1\u03bc\u03c0",
-          "link": "https://pelop.gr/oles-oi-epitheseis-enantion-tou-ntonalnt-trab/",
+          "title": "Trump , Starmer call for",
+          "link": "http://www.indiagazette.com/news/279013398/trump-starmer-call-for-urgent-need-to-restore-flow-of-vessels-through-strait-of-hormuz",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Karas su Iranu jaukia JAV planus d\u0117l \u201e Trumpo tarptautin\u0117s taikos ir klest\u0117jimo kelio",
-          "link": "https://www.lrt.lt/naujienos/pasaulyje/6/2907366/karas-su-iranu-jaukia-jav-planus-del-trumpo-tarptautines-taikos-ir-klestejimo-kelio",
+          "title": "Israel , Hezbollah trade accusations over Lebanon truce violations",
+          "link": "https://www.spacewar.com/afp/260426172433.ah36k37j.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Udalos\u0165 d\u0148a : Podozriv\u00fd z \u00fatoku vo Washingtone nap\u00edsal protikres\u0165ansk\u00fd manifest , vyhl\u00e1sil Trump | Svet | . t\u00fd\u017ede\u0148",
-          "link": "https://www.tyzden.sk/svet/134573/udalost-dna-podozrivy-z-utoku-vo-washingtone-napisal-protikrestansky-manifest-vyhlasil-trump/",
+          "title": "Negociaciones entre Teher\u00e1n y Washington est\u00e1n en vilo",
+          "link": "https://www.am.com.mx/mundo/2026/04/26/negociaciones-entre-teheran-y-washington-estan-en-vilo-1785318.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iran can call if it wants to talk , Trump says , as Araghchi returns to Pakistan",
-          "link": "https://www.dailysabah.com/world/mid-east/iran-can-call-if-it-wants-to-talk-trump-says-as-araghchi-returns-to-pakistan",
+          "title": "\u0645\u0627 \u0627\u0644\u063a\u0628\u0627\u0631 \u0627\u0644\u0646\u0648\u0648\u064a \u0627\u0644\u0630\u064a \u064a\u0631\u064a\u062f\u0647 \u062a\u0631\u0627\u0645\u0628 \u0645\u0646 \u0625\u064a\u0631\u0627\u0646 \u061f",
+          "link": "https://www.albayan.ae/news/middle-east/iran/1225138",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iran top diplomat returns to Pakistan but Trump says the sides can talk by phone",
-          "link": "https://www.dailyadvance.com/news/world/irans-top-diplomat-returns-to-pakistan-but-trump-says-the-sides-can-talk-by-phone/article_50e47a5a-9944-5750-b556-d6ad964360dd.html",
+          "title": "Iran top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone \u2013 KTBB News , Weather , Talk",
+          "link": "https://ktbb.com/post/?p=1501072",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u062d\u0631\u0628 \u0644\u0627 \u062a\u064f\u062d\u0633\u0645 .. \u0623\u0645\u0631\u064a\u0643\u0627 \u062a\u0645\u0644\u0643 \u0627\u0644\u0642\u0648\u0629 \u0648\u0625\u064a\u0631\u0627\u0646 \u062a\u0645\u0633\u0643 \u0628\u0627\u0644\u0643\u0644\u0641\u0629",
-          "link": "https://www.aljazeera.net/politics/2026/4/26/%D8%AD%D8%B1%D8%A8-%D9%84%D8%A7-%D8%AA%D8%AD%D8%B3%D9%85-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D9%85%D9%84%D9%83-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+          "title": "Arak\u010di poslao poruku SAD preko Pakistana : Ovo su na\u0161e crvene linije",
+          "link": "https://www.novosti.rs/planeta/svet/1601176/arakci-poslao-poruku-sad-preko-pakistana-ovo-nase-crvene-linije",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0410\u0440\u0430\u0433\u0447\u0438 \u0432\u043d\u043e\u0432\u044c \u0432\u0435\u0440\u043d\u0443\u043b\u0441\u044f \u0432 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d ?",
+          "link": "https://news.day.az/world/1830523.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran FM departs for Moscow from Islamabad : ministry",
+          "link": "https://www.spacewar.com/afp/260426180742.09bbdmwe.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran minister returns to Pakistan despite US cancelling talks",
+          "link": "https://www.spacewar.com/afp/260426173957.4ak6csa9.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Guerra in Medio Oriente : diplomazia tra Iran , united states e Russia , crisi Israele - Hezbollah",
+          "link": "https://tg.la7.it/esteri/guerra-medio-oriente-diplomazia-iran-usa-russia-crisi-israele-hezbollah-26-04-2026-255967",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
@@ -672,207 +1374,214 @@
   ],
   "iran": [
     {
-      "title": "Iran shifts economic focus to essentials during war uncertainty",
-      "link": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
-      "summary": "The government is partly reversing a currency decision for basic items and tapping into the country's sovereign fund.",
+      "title": "Iran\u2019s foreign minister leaves Pakistan, heads to Russia for more talks",
+      "link": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
+      "summary": "Abbas Araghchi will speak with 'senior officials' in Moscow, Iran's Foreign Ministry says.",
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     },
     {
-      "title": "How China is responding to the stalling of talks between the U.S. and Iran",
-      "link": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran",
-      "summary": "NPR's Ayesha Rascoe speaks to Zongyuan Zoe Liu, a senior fellow at the Council on Foreign Relations, about how China views the current crisis in the Middle East",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
-      "link": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
-      "summary": "A shooting incident at the White House Correspondent's Dinner took focus away from the war in Iran, as Iran's foreign minister planned to return to Islamabad, the site of previous peace talks.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "title": "White House dinner shooting wont deter me from winning Iran war - Trump",
-      "link": "https://dailypost.ng/2026/04/26/white-house-dinner-shooting-wont-deter-me-from-winning-iran-war-trump/",
+      "title": "Iran top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone",
+      "link": "https://www.mykxlg.com/news/world/irans-top-diplomat-briefly-returns-to-pakistan-but-trump-says-the-sides-can-talk-by/article_a6eec2ee-835d-5519-96ce-c92a18154c77.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Rat na Bliskom istoku : Iranska mornarica zaplenila dva broda ; Gori vojna baza sa bombarderima SAD",
-      "link": "https://www.novosti.rs/planeta/svet/1600959/sukob-bliskom-istoku-arakci-poslali-smo-nase-crvene-linije-sad-iranska-mornarica-zaplenila-dva-broda",
+      "title": "Iran War Disrupts Global Tourism : Flights Cut , Costs Rise , and Industry Faces Leadership Crisis",
+      "link": "https://eturbonews.com/iran-war-global-tourism-impact-flights-costs-leadership-crisis/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Pakistan races to save US - Iran negotiations after President Trump keeps envoys home",
-      "link": "https://www.13newsnow.com/article/news/nation-world/attack-on-iran/pakistan-races-save-us-iran-negotiations-after-president-trump-keeps-envoys-home/507-26bd90d8-5004-440b-a4de-dc216cc0913d",
+      "title": "Rusija potvrdila posetu \u0161efa iranske diplomatije Moskvi",
+      "link": "https://naslovi.net/2026-04-26/radio-021/rusija-potvrdila-posetu-sefa-iranske-diplomatije-moskvi/41705260",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Arak\u010di preko Pakistana poslao poruku SAD o crvenim linijama Irana",
-      "link": "https://www.tanjug.rs/bliski-istok/vesti/247577/arakci-preko-pakistana-poslao-poruku-sad-o-crvenim-linijama-irana/vest",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "DIPLOMATSKA UZBUNA : Svaki dogovor SAD - a i Irana mora garantovati sigurnost arapskih zemalja !",
-      "link": "https://www.slobodna-bosna.ba/vijest/480555/diplomatska_uzbuna_svaki_dogovor_sad_a_i_irana_mora_garantovati_sigurnost_arapskih_zemalja.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Wadahadalo noocee ah ayay wadamada Khaliijka Carabta doonayaan inuu Maraykanka la galo Iran ?",
-      "link": "https://www.bbc.com/somali/articles/c20d0pjp7gdo",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran top diplomat returns to Pakistan but Trump says the sides can talk by phone",
-      "link": "https://www.wdrb.com/news/national/irans-top-diplomat-returns-to-pakistan-but-trump-says-the-sides-can-talk-by-phone/article_815bc005-b548-5e40-a760-c5a5ec507ff5.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "\u0160OKANTNO PRIZNANJE AMERI\u010cKOG OFICIRA :  Pentagon razmatra NUKLEARNI UDAR na Iran jer konvencionalno oru\u017eje ne poma\u017ee",
-      "link": "https://www.slobodna-bosna.ba/vijest/480558/sokantno_priznanje_americhkog_oficira_pentagon_razmatra_nuklearni_udar_na_iran_jer_konvencionalno_oruzje_ne_pomaze.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranski ministar ponovno u Islamabadu : Pregovori vise o koncu nakon Trumpove odluke",
-      "link": "https://www.tportal.hr/vijesti/clanak/iranski-ministar-ponovno-u-islamabadu-pregovori-vise-o-koncu-nakon-trumpove-odluke-20260426",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran shifts economic focus to essentials during war uncertainty - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-      "link": "https://dominicanrepublicpost.com/iran-shifts-economic-focus-to-essentials-during-war-uncertainty/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranska Revolucionarna garda najavljuje nastavak podr\u0161ke Hezbolahu",
-      "link": "https://www.tanjug.rs/bliski-istok/vesti/247648/iranska-revolucionarna-garda-najavljuje-nastavak-podrske-hezbolahu/vest",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran foreign minister Araghchi meets Sultan Haitham bin Tariq of Oman ; discusses regional developments",
-      "link": "http://www.pakistantelegraph.com/news/279013156/iran-foreign-minister-araghchi-meets-sultan-haitham-bin-tariq-of-oman-discusses-regional-developments",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "SUA schimb\u0103 strategia fa\u021b\u0103 de Iran . Donald Trump anun\u021b\u0103 c\u0103 nu mai trimite delega\u021bii la negocieri",
-      "link": "https://www.ziuaconstanta.ro/stiri/externe/sua-schimba-strategia-fata-de-iran-donald-trump-anunta-ca-nu-mai-trimite-delegatii-la-negocieri-936249.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Pakistan races to save US - Iran negotiations after President Trump keeps envoys home",
-      "link": "https://www.wnep.com/article/news/nation-world/attack-on-iran/pakistan-races-save-us-iran-negotiations-after-president-trump-keeps-envoys-home/507-26bd90d8-5004-440b-a4de-dc216cc0913d",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Donald Trump spune c\u0103 SUA nu vor mai trimite delega\u0163ii la negocieri cu Iranul",
-      "link": "https://adevarul.ro/stiri-externe/sua/donald-trump-spune-ca-sua-nu-vor-mai-trimite-2525368.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
       "title": "No reason to meet with Iran without nuclear deal : Trump",
-      "link": "https://www.perthnow.com.au/news/conflict/no-reason-to-meet-with-iran-without-nuclear-deal-trump-c-22196001",
+      "link": "https://www.singletonargus.com.au/story/9233585/no-reason-to-meet-with-iran-without-nuclear-deal-trump/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Hormuz . LIran alza il prezzo della tregua : pedaggi , divieti e nuove tensioni sullo stretto pi\u00f9 strategico del mondo ( A . Puccio e I . Smirnova )",
-      "link": "https://www.farodiroma.it/hormuz-liran-alza-il-prezzo-della-tregua-pedaggi-divieti-e-nuove-tensioni-sullo-stretto-piu-strategico-del-mondo-a-puccio-e-i-smirnova/",
+      "title": "The Latest : Pakistan says US - Iran mediation moving ahead after Trump holds back envoys",
+      "link": "https://www.reflector.com/news/national/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_f917c8d1-199c-5ed6-8d1c-30d6a881eb81.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "\u00bf Qu\u00e9 opinan los iran\u00edes sobre la Campa\u00f1a  Sacrificamos el alma por Ir\u00e1n ?",
-      "link": "https://www.hispantv.com/noticias/noticias-de-iran/642813/campana-sacrifica-alma-iran-millones-voluntarios",
+      "title": "Iran - Krieg News : Russische Oligarchen - Jacht passiert Stra\u00dfe von Hormus",
+      "link": "https://www.abendblatt.de/politik/article411709470/usa-iran-krieg-news-aktuell-israel-strasse-von-hormus-waffenruhe-angriffe.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Separah Apa Kerusakan Berbagai Pangkalan Militer AS di Timur Tengah Gegara Serangan Iran ?",
-      "link": "https://www.tribunnews.com/internasional/7821758/separah-apa-kerusakan-berbagai-pangkalan-militer-as-di-timur-tengah-gegara-serangan-iran",
+      "title": "With goals of Iran war unfulfilled , Netanyahu government faces unhappy public as elections loom",
+      "link": "https://accesswdun.com/ap_article/with-goals-of-iran-war-unfulfilled-netanyahus-government-faces-unhappy-public-as-elections-loom",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Russland , Iran | Irans utenriksminister p\u00e5 vei til Moskva \u2013 skal m\u00f8te Putin",
+      "link": "https://www.nettavisen.no/nyheter/irans-utenriksminister-pa-vei-til-moskva-skal-mote-putin/s/5-95-3004246",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Krieg im Nahen Osten : Iranischer Au\u00dfenminister reist zu Treffen mit Putin nach Moskau",
+      "link": "https://www.welt.de/politik/ausland/article69edc7c5161d963ca5f21ddd/krieg-im-nahen-osten-iranischer-aussenminister-reist-zu-treffen-mit-putin-nach-moskau.html",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Donald Tramp rekao da Iranu  preostaje jo\u0161 tri dana",
+      "link": "https://informer.rs/planeta/vesti/1110322/donald-tramp-iran-unistenje",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "US and Iran hold pivotal nuclear talks in Geneva amid heightened tensions",
+      "link": "https://kxel.com/2026/02/26/us-and-iran-hold-pivotal-nuclear-talks-in-geneva-amid-heightened-tensions/",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran Araghchi briefly returns to Pakistan , Trump says they can call",
+      "link": "https://www.cnbc.com/2026/04/26/irans-araghchi-briefly-returns-to-pakistan-trump-says-they-can-call.html",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Are Iran peace talks dead or is this the  Persian bazaar  strategy ?",
+      "link": "https://www.thetimes.com/world/middle-east/article/iran-peace-talks-us-news-trump-war-0kjg9ptj5",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Two front : Higher costs for fertilizers and fuel from Iran war challenge farmers | Local News",
+      "link": "https://www.idahopress.com/news/local/two-fronts-higher-costs-for-fertilizers-and-fuel-from-iran-war-challenge-farmers/article_6beafaf1-4693-5e43-8780-68b8ae1abe16.html",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Column : America is already diminished by the Iran war",
+      "link": "https://www.dailypress.com/2026/04/26/column-america-is-already-diminished-by-the-iran-war/",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran latest : Ceasefire talks still alive despite mounting tensions , Pakistan says",
+      "link": "https://www.ktvu.com/news/iran-latest-ceasefire-talks-still-alive-despite-mounting-tensions-pakistan-says",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump poru\u010dio Iranu : Ne \u0161aljemo pregovara\u010de , vi mo\u017eete do\u0107i u Washington",
+      "link": "https://www.hayat.ba/news/article/trump-porucio-iranu-ne-saljemo-pregovarace-vi-mozete-doci-u-washington/69ee79c8b1362cc4c60207e9",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran FM conveys conditions for ending war to Pakistan -- Tasnim News Agency",
+      "link": "http://www.israelherald.com/news/279013384/iran-fm-conveys-conditions-for-ending-war-to-pakistan-tasnim-news-agency",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "PMOI Resistance Units Conduct Coordinated Nationwide Campaigns in Iran ( April 19 \u2013 26 , 2026 )",
+      "link": "https://www.ncr-iran.org/en/news/iran-resistance/pmoi-resistance-units-conduct-coordinated-nationwide-campaigns-in-iran-april-19-26-2026/",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "US sanctions China  teapot  refinery for buying Iranian oil \u2013 Ya Libnan",
+      "link": "https://yalibnan.com/2026/04/26/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil/",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
       "title": "Iran foreign minister Araghchi meets Sultan Haitham bin Tariq of Oman ; discusses regional developments",
-      "link": "http://www.russiaherald.com/news/279013156/iran-foreign-minister-araghchi-meets-sultan-haitham-bin-tariq-of-oman-discusses-regional-developments",
+      "link": "http://www.laosnews.net/news/279013156/iran-foreign-minister-araghchi-meets-sultan-haitham-bin-tariq-of-oman-discusses-regional-developments",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Pakistan races to save US - Iran negotiations after President Trump keeps envoys home",
-      "link": "https://www.kiiitv.com/article/news/nation-world/attack-on-iran/pakistan-races-save-us-iran-negotiations-after-president-trump-keeps-envoys-home/507-26bd90d8-5004-440b-a4de-dc216cc0913d",
+      "title": "Ceasefire Day 19 : Iranian Negotiators Expected to Return to Peace Talks",
+      "link": "https://www.theamericanconservative.com/ceasefire-day-19-iranian-negotiators-expected-to-return-to-peace-talks/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump :  Entro tre giorni il sistema petrolifero iraniano pu esplodere : la pressione nei pozzi si accumula . Io ? Non ho fretta",
-      "link": "https://www.quotidiano.net/esteri/trump-entro-tre-giorni-sistema-petrolifero-iraniano-esplodere-yliacjht",
+      "title": "Iran Foreign Minister Araghchi returns to Islamabad after diplomatic engagements in Oman",
+      "link": "http://www.malaysiasun.com/news/279013359/iran-foreign-minister-araghchi-returns-to-islamabad-after-diplomatic-engagements-in-oman",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran Trump | Il sistema petrolifero rischia l  esplosione entro 3 giorni",
-      "link": "https://www.zazoom.it/2026-04-26/iran-trump-il-sistema-petrolifero-rischia-lesplosione-entro-3-giorni/19075646/",
+      "title": "Iran FM Araghchi Heads to Russia After Pakistan Visit",
+      "link": "https://www.newkerala.com/news/a/irans-foreign-minister-araghchi-departs-russia-after-brief-815.htm",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Karas su Iranu jaukia JAV planus d\u0117l \u201e Trumpo tarptautin\u0117s taikos ir klest\u0117jimo kelio",
-      "link": "https://www.lrt.lt/naujienos/pasaulyje/6/2907366/karas-su-iranu-jaukia-jav-planus-del-trumpo-tarptautines-taikos-ir-klestejimo-kelio",
+      "title": "Arak\u010di ide kod Putina : Iranski ministar napustio Pakistan",
+      "link": "https://www.novosti.rs/planeta/svet/1601207/arakci-ide-kod-putina-iranski-ministar-napustio-pakistan",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran can call if it wants to talk , Trump says , as Araghchi returns to Pakistan",
-      "link": "https://www.dailysabah.com/world/mid-east/iran-can-call-if-it-wants-to-talk-trump-says-as-araghchi-returns-to-pakistan",
+      "title": "Iran top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone \u2013 KTBB News , Weather , Talk",
+      "link": "https://ktbb.com/post/?p=1501072",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran top diplomat returns to Pakistan but Trump says the sides can talk by phone",
-      "link": "https://www.dailyadvance.com/news/world/irans-top-diplomat-returns-to-pakistan-but-trump-says-the-sides-can-talk-by-phone/article_50e47a5a-9944-5750-b556-d6ad964360dd.html",
+      "title": "Iran FM departs for Moscow from Islamabad : ministry",
+      "link": "https://www.spacewar.com/afp/260426180742.09bbdmwe.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran minister returns to Pakistan despite US cancelling talks",
+      "link": "https://www.spacewar.com/afp/260426173957.4ak6csa9.html",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Guerra in Medio Oriente : diplomazia tra Iran , united states e Russia , crisi Israele - Hezbollah",
+      "link": "https://tg.la7.it/esteri/guerra-medio-oriente-diplomazia-iran-usa-russia-crisi-israele-hezbollah-26-04-2026-255967",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
