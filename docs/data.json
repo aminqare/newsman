@@ -1,17 +1,10 @@
 {
-  "generated_at": "2026-05-11T19:54:59Z",
+  "generated_at": "2026-05-11T22:11:35Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
-        {
-          "title": "Analysis: Has Starmer done enough to save his premiership?",
-          "link": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&at_campaign=rss",
-          "summary": "Was the prime minister's speech enough to avert a challenge to his leadership less than two years after he won a landslide general election victory?",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
         {
           "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
           "link": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss",
@@ -39,6 +32,13 @@
           "summary": "More than 11,000 people have signed a petition calling for a review of the exam saying it was \"totally unrecognisable\" from what they had prepared for.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "title": "Campbell's Bluebird back on Coniston Water almost 60 years after fatal record attempt",
+          "link": "https://www.bbc.com/news/articles/c4g5r0yydl2o?at_medium=RSS&at_campaign=rss",
+          "summary": "The restored hydroplane returns to the lake where its record-breaking pilot was killed in 1967.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
       ]
     },
@@ -47,9 +47,16 @@
       "source_url": "https://feeds.bbci.co.uk/persian/rss.xml",
       "items": [
         {
-          "title": "\u062a\u0631\u0627\u0645\u067e: \u0622\u062a\u0634\u200c\u0628\u0633 \u0628\u0627 \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647\u200c \u062f\u0633\u062a\u06af\u0627\u0647 \u062a\u0646\u0641\u0633 \u0645\u0635\u0646\u0648\u0639\u06cc \u0648\u0635\u0644 \u0627\u0633\u062a",
+          "title": "\u0648\u0627\u0644 \u0627\u0633\u062a\u0631\u06cc\u062a \u0698\u0648\u0631\u0646\u0627\u0644: \u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062e\u0641\u06cc\u0627\u0646\u0647 \u00ab\u062f\u0631 \u062d\u0645\u0644\u0627\u062a \u0628\u0647 \u0627\u06cc\u0631\u0627\u0646\u00bb \u0634\u0631\u06a9\u062a \u062f\u0627\u0634\u062a\u0647 \u0627\u0633\u062a",
           "link": "https://www.bbc.co.uk/persian/live/cd6p2lznplpt?at_medium=RSS&at_campaign=rss",
-          "summary": "\u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u06cc\u06a9 \u0628\u0627\u0631 \u062f\u06cc\u06af\u0631 \u0627\u0632 \u067e\u0627\u0633\u062e \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647\u200c\u0634\u062f\u062a \u0627\u0646\u062a\u0642\u0627\u062f \u06a9\u0631\u062f \u0648 \u0647\u0634\u062f\u0627\u0631 \u062f\u0627\u062f \u06a9\u0647 \u0622\u062a\u0634\u200c\u0628\u0633 \u062f\u0631 \u0648\u0636\u0639\u06cc\u062a \u0628\u0633\u06cc\u0627\u0631 \u0634\u06a9\u0646\u0646\u062f\u0647\u200c\u0627\u06cc \u0642\u0631\u0627\u0631 \u062f\u0627\u062f. \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u06af\u0641\u062a \u06a9\u0647 \u062f\u0631 \u0645\u062a\u0646 \u0627\u06cc\u0631\u0627\u0646 \u0627\u0634\u0627\u0631\u0647\u200c\u0627\u06cc \u0628\u0647 \u0686\u0634\u0645\u200c\u067e\u0648\u0634\u06cc \u0627\u0632 \u0633\u0644\u0627\u062d \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u0646\u0634\u062f\u0647 \u0627\u0633\u062a. \u0627\u0648\u2026",
+          "summary": "\u0628\u0647 \u06af\u0632\u0627\u0631\u0634 \u0646\u0634\u0631\u06cc\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0648\u0627\u0644 \u0627\u0633\u062a\u0631\u064a\u062a \u0698\u0648\u0631\u0646\u0627\u0644\u060c \u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc \u0628\u0647\u200c\u0637\u0648\u0631 \u0645\u062e\u0641\u064a\u0627\u0646\u0647 \u062d\u0645\u0644\u0627\u062a \u0646\u0638\u0627\u0645\u06cc \u0639\u0644\u064a\u0647 \u0627\u064a\u0631\u0627\u0646 \u0627\u0646\u062c\u0627\u0645 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a. \u0645\u0646\u0627\u0628\u0639 \u0622\u06af\u0627\u0647 \u0628\u0647 \u0648\u0627\u0644 \u0627\u0633\u062a\u0631\u06cc\u062a \u0698\u0648\u0631\u0646\u0627\u0644 \u06af\u0641\u062a\u0647\u200c\u0627\u0646\u062f \u062d\u0645\u0644\u0627\u062a\u06cc \u06a9\u0647 \u0627\u0645\u0627\u0631\u0627\u062a \u062a\u0627\u06a9\u0646\u0648\u0646 \u0628\u0647\u200c\u0635\u0648\u0631\u062a \u0639\u0644\u0646\u06cc \u062a\u0627\u064a\u064a\u062f \u0646\u06a9\u0631\u062f\u0647\u060c \u0634\u0627\u0645\u0644 \u062d\u0645\u0644\u0647 \u0628\u0647\u2026",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u067e\u0634\u062a \u067e\u0631\u062f\u0647 \u0645\u0631\u0628\u06cc\u0627\u0646 \u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06cc \u062f\u0631 \u062f\u0646\u06cc\u0627\u06cc \u0628\u062f\u0646\u0633\u0627\u0632\u06cc: \u0645\u0639\u062c\u0632\u0647 \u06f2\u06f8\u0631\u0648\u0632\u0647 \u06cc\u0627 \u0641\u0631\u06cc\u0628 \u062f\u06cc\u062c\u06cc\u062a\u0627\u0644\u061f",
+          "link": "https://www.bbc.com/persian/articles/c5y8e1ldzvro?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0627\u06af\u0631 \u0627\u0632 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0634\u0628\u06a9\u0647\u200c\u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc \u0628\u0627\u0634\u06cc\u062f\u060c \u0627\u062d\u062a\u0645\u0627\u0644\u0627 \u0622\u0646\u200c\u0647\u0627 \u0631\u0627 \u062f\u06cc\u062f\u0647\u200c\u0627\u06cc\u062f\u061b \u0648\u06cc\u062f\u0626\u0648\u0647\u0627\u06cc \u067e\u0631 \u0632\u0631\u0642\u200c\u0648\u0628\u0631\u0642 \u0628\u062f\u0646\u0633\u0627\u0632\u06cc \u06a9\u0647 \u0648\u0639\u062f\u0647 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \u0647\u06cc\u06a9\u0644 \u0634\u0645\u0627 \u0631\u0627 \u062f\u0631 \u0639\u0631\u0636 \u0686\u0646\u062f \u0647\u0641\u062a\u0647 \u0628\u0647\u200c\u06a9\u0644\u06cc \u062f\u06af\u0631\u06af\u0648\u0646 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f. \u0646\u062a\u0627\u06cc\u062c \u0627\u063a\u0644\u0628 \u0622\u0646\u200c\u0642\u062f\u0631 \u062e\u0648\u0628 \u0628\u0647 \u0646\u0638\u0631 \u0645\u06cc\u200c\u0631\u0633\u0646\u062f \u06a9\u0647 \u0628\u0627\u0648\u0631\u06a9\u0631\u062f\u0646\u06cc \u0646\u06cc\u0633\u062a\u0646\u062f\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
@@ -71,13 +78,6 @@
           "title": "\u0642\u0647\u0631\u0645\u0627\u0646\u06cc \u0628\u0627 \u067e\u06cc\u0631\u0648\u0632\u06cc \u0628\u0631 \u0631\u0626\u0627\u0644\u061b \u0641\u0644\u06cc\u06a9\u060c \u0686\u06af\u0648\u0646\u0647 \u0628\u0627\u0631\u0633\u0644\u0648\u0646\u0627 \u0631\u0627 \u062d\u0627\u06a9\u0645 \u0645\u0637\u0644\u0642 \u0644\u0627\u0644\u06cc\u06af\u0627 \u06a9\u0631\u062f\u061f",
           "link": "https://www.bbc.com/persian/articles/cz029435499o?at_medium=RSS&at_campaign=rss",
           "summary": "\u062f\u0631 \u062a\u0627\u0631\u06cc\u062e \u0631\u0642\u0627\u0628\u062a\u200c\u0647\u0627\u06cc \u0642\u0647\u0631\u0645\u0627\u0646\u06cc \u0627\u0633\u067e\u0627\u0646\u06cc\u0627\u060c \u0641\u0635\u0644\u200c\u0647\u0627\u06cc\u06cc \u0628\u0648\u062f\u0647 \u06a9\u0647 \u0628\u0627 \u062f\u0631\u0627\u0645\u060c \u0686\u0631\u062e\u0634\u200c\u0647\u0627\u06cc \u0646\u0627\u06af\u0647\u0627\u0646\u06cc \u0648 \u0641\u0631\u0648\u067e\u0627\u0634\u06cc \u062f\u0631 \u0644\u062d\u0638\u0627\u062a \u067e\u0627\u06cc\u0627\u0646\u06cc \u0647\u0645\u0631\u0627\u0647 \u0628\u0648\u062f\u0647\u200c\u0627\u0646\u062f\u061b \u0642\u0647\u0631\u0645\u0627\u0646\u06cc \u0627\u06cc\u0646 \u062f\u0648\u0631\u0647 \u0627\u0645\u0627 \u062f\u0627\u0633\u062a\u0627\u0646 \u062f\u06cc\u06af\u0631\u06cc \u062f\u0627\u0634\u062a.",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u0633\u0641\u0631 \u062a\u0631\u0627\u0645\u067e \u0628\u0647 \u0686\u06cc\u0646\u061b \u062c\u0646\u06af \u0627\u06cc\u0631\u0627\u0646 \u0634\u0627\u06cc\u062f \u062d\u062a\u06cc \u0645\u0647\u0645\u062a\u0631 \u0627\u0632 \u062c\u0646\u06af \u062a\u062c\u0627\u0631\u06cc",
-          "link": "https://www.bbc.com/persian/articles/cn9pj002ldpo?at_medium=RSS&at_campaign=rss",
-          "summary": "\u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u062f\u0648 \u0631\u0648\u0632 \u062f\u06cc\u06af\u0631 \u0639\u0627\u0632\u0645 \u0686\u06cc\u0646 \u0645\u06cc\u200c\u0634\u0648\u062f. \u0627\u06cc\u0646 \u0646\u062e\u0633\u062a\u06cc\u0646 \u0633\u0641\u0631 \u06cc\u06a9 \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0686\u06cc\u0646 \u0627\u0632 \u0632\u0645\u0627\u0646 \u0633\u0641\u0631 \u0642\u0628\u0644\u06cc \u0622\u0642\u0627\u06cc \u062a\u0631\u0627\u0645\u067e \u062f\u0631 \u0633\u0627\u0644 \u06f2\u06f0\u06f1\u06f7 \u0627\u0633\u062a\u061b \u0627\u06cc\u0646 \u0633\u0641\u0631 \u0627\u0632 \u0631\u0648\u0632 \u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647 \u062a\u0627 \u062c\u0645\u0639\u0647 (\u06f1\u06f3 \u062a\u0627 \u06f1\u06f5 \u0645\u0647) \u0627\u0646\u062c\u0627\u0645 \u062e\u0648\u0627\u0647\u062f \u0634\u062f. \u0645\u0630\u0627\u06a9\u0631\u0647\u200c\u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u0627\u0631\u0634\u062f \u062a\u062c\u0627\u0631\u06cc \u062f\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         }
@@ -134,36 +134,36 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
-          "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-          "link": "https://nvlabs.github.io/cuda-oxide/index.html",
+          "title": "TanStack NPM Packages Compromised",
+          "link": "https://github.com/TanStack/router/issues/7383",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Nullsoft, 1997-2004 (2004)",
-          "link": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+          "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+          "link": "https://about.gitlab.com/blog/gitlab-act-2/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
-          "link": "https://ratty-term.org/",
+          "title": "Library for fast mapping of Java records to native memory",
+          "link": "https://github.com/mamba-studio/TypedMemory",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Gmail registration now requires scanning a QR code and sending a text message",
-          "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+          "title": "Google says criminal hackers used AI to find a major software flaw",
+          "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-          "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+          "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+          "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Could the latest violence in DR Congo undermine truce efforts?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss",
-          "summary": "Lesser-known armed groups have carried out a spate of attacks in the country's northeast.",
+          "title": "Hundreds displaced, medical services suspended amid gang violence in Haiti",
+          "link": "https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss",
+          "summary": "Aid group Doctors Without Borders suspends hospital operations because of safety concerns following gunfire.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "South Africa plans presidential impeachment probe over \u2018Farmgate\u2019 scandal",
-          "link": "https://www.aljazeera.com/news/2026/5/11/south-africa-plans-presidential-impeachment-probe-over-farmgate-scandal?traffic_source=rss",
-          "summary": "The country's parliament says its speaker will begin the process of setting up the impeachment committee.",
+          "title": "Trump says he will suspend petrol tax amid soaring US fuel prices",
+          "link": "https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss",
+          "summary": "Suspending a federal tax requires an act of Congress, and there may be procedural delays before it can be achieved.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Trump says he will discuss arms sales to Taiwan in meeting with China\u2019s Xi",
-          "link": "https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-discuss-arms-sales-to-taiwan-in-meeting-with-chinas-xi?traffic_source=rss",
-          "summary": "US weapons sales to Taiwan have been longstanding source of tension with Beijing, which claims island as its territory.",
+          "title": "EU, UK sanction Russians over deportations of Ukrainian children",
+          "link": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
+          "summary": "Russian institutions and officials accused of systemic deportation and indoctrination of children during war on Ukraine.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
-          "link": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
-          "summary": "The long-awaited agreement comes after Hungary's new government dropped the country's veto.",
+          "title": "Lamine Yamal waves Palestine flag as Barcelona celebrate La Liga win",
+          "link": "https://www.aljazeera.com/news/2026/5/11/lamine-yamal-waves-palestine-flag-as-barcelona-celebrate-la-liga-win?traffic_source=rss",
+          "summary": "Tens of thousands of Barca fans pack streets of Spanish city during open-top bus parade after football league victory.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "UK sanctions network accused of planning attacks for Iran",
-          "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
-          "summary": "Britain freezes assets and travel for those accused of laundering billions and plotting Iranian-backed hostile activity.",
+          "title": "EU sanctions violent Israeli settlers after months of deadlock",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
+          "summary": "The assets of violent Israeli settlers and settler organisations are being targeted in a new EU sanctions package.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,20 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "New poll finds a majority of Americans unsure if attempts on Trump's life were real",
+          "link": "https://www.npr.org/2026/05/11/nx-s1-5818557/poll-trump-assassination-attempts-conspiracy-theories",
+          "summary": "When given the options of \"true,\" \"false\" or \"not sure,\" and asked whether each of the incidents \"was staged,\" a majority of respondents said they thought each event was either staged or were unsure.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Abortion pill by mail allowed for at least 3 more days, the Supreme Court says",
+          "link": "https://www.npr.org/2026/05/11/nx-s1-5818316/supreme-court-mifepristone-telemedicine-alito-delay",
+          "summary": "Full access to the abortion pill mifepristone, including through telemedicine and the mail, will continue for at least three more days, the high court said on Monday.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Can Chinese AI solve inequality? + How dementia comes for your bank account",
           "link": "https://www.npr.org/2026/05/11/g-s1-121351/can-chinese-ai-solve-inequality-how-dementia-comes-for-your-bank-account",
           "summary": "",
@@ -276,20 +290,6 @@
           "summary": "The owners of the Atlanta Journal-Constitution invested $150 million to reinvent the paper. The changes have been significant. Three years in, the payoff has been modest.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
-          "link": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
-          "summary": "Trump rejected Iran's response to a U.S. peace proposal, calling it \"totally unacceptable.\" And, Congressional Republicans are trying to push for three years of funding for immigration enforcement.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Oregon's most unexpected gubernatorial candidate? A pencil with a point",
-          "link": "https://www.npr.org/2026/05/11/nx-s1-5781255/oregon-reading-education-governor-pencil",
-          "summary": "Oregon's public schools rank last in fourth-grade reading, according to an analysis of national testing. As a wake-up call for elected leaders, Pencil is running for governor as a write-in candidate.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
       ]
     },
@@ -301,7 +301,358 @@
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "Asia braces for a second wave of energy shocks from the Iran war",
+          "link": "https://www.dailynews.com/2026/05/11/asia-energy-buffer/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Aramco shifts exports as Hormuz turmoil boosts earnings",
+          "link": "http://www.singaporestar.com/news/279044680/aramco-shifts-exports-as-hormuz-turmoil-boosts-earnings",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "International Business Times Korea",
+          "link": "https://kr.ibtimes.com/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran warns European countries against sending warships to Strait of Hormuz",
+          "link": "https://www.africanews.com/2026/05/11/iran-warns-european-countries-against-sending-warships-to-strait-of-hormuz/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "WSJ : \u03a4\u03b1 \u0397\u0391\u0395 \u03b4\u03b9\u03b5\u03be\u03ae\u03b3\u03b1\u03b3\u03b1\u03bd \u03c3\u03c4\u03b1 \u03ba\u03c1\u03c5\u03c6\u03ac \u03b5\u03c0\u03b9\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd \u03c4\u03bf\u03c5 \u0399\u03c1\u03ac\u03bd",
+          "link": "https://www.news247.gr/kosmos/wsj-ta-iae-diexigagan-sta-krifa-epitheseis-enantion-tou-iran/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Says Iran Cease - Fire On  Life Support",
+          "link": "http://www.zimbabwestar.com/news/279044665/trump-says-iran-cease-fire-on-life-support",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Considers Federal Gas Tax Suspension Amid Soaring Prices",
+          "link": "https://wflaorlando.iheart.com/content/2026-05-11-trump-considers-federal-gas-tax-suspension-amid-soaring-prices/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Saudi Aramco posts stronger profit amid global energy shock",
+          "link": "http://www.thailandnews.net/news/279044680/saudi-aramco-posts-stronger-profit-amid-global-energy-shock",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump floats temporary gas tax halt as pump prices soar",
+          "link": "https://www.dailynews.com/2026/05/11/trump-floats-temporary-gas-tax-halt-as-pump-prices-soar/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump says hell move to suspend federal gasoline tax . He cant do it on his own",
+          "link": "https://www.union-bulletin.com/news/national/trump-says-hell-move-to-suspend-federal-gasoline-tax-he-cant-do-it-on-his/article_83c25495-a82e-5037-90f8-20da04ad423b.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\ud2b8\ub7fc\ud504  \ud734\uc804 , \uc5f0\uba85\uc7a5\uce58 \uc758\uc874 \u2026 \ud574\ubc29 \ud504\ub85c\uc81d\ud2b8 \uc7ac\uac1c \uac80\ud1a0",
+          "link": "https://www.fnnews.com/news/202605120155545938",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Prime Minister receives phone call from Kuwaiti Foreign Minister",
+          "link": "http://thepeninsulaqatar.com/article/11/05/2026/prime-minister-receives-phone-call-from-kuwaiti-foreign-minister",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Oil prices rise as the Iran war drags on , but US stocks inch to more records",
+          "link": "https://www.union-bulletin.com/news/world/oil-prices-rise-as-the-iran-war-drags-on-but-us-stocks-inch-to-more/article_46ec2787-7df6-5799-91f7-c0173383ca68.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u062c\u062a\u0645\u0627\u0639 \u0627\u0644\u0634\u06cc\u0627\u0637\u06cc\u0646 - \u0627\u06cc\u06a9\u0633\u067e\u0631\u06cc\u0633 \u0627\u0631\u062f\u0648",
+          "link": "https://www.express.pk/story/2812593/ijtima-ul-shayateen-2812593",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "D\u00f3lar fecha praticamente est\u00e1vel , a R$ 4 , 89 , em dia de cautela com Oriente M\u00e9dio",
+          "link": "https://jornaldebrasilia.com.br/noticias/economia/dolar-fecha-praticamente-estavel-a-r-489-em-dia-de-cautela-com-oriente-medio/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0397\u03a0\u0391 : \u0394\u03cd\u03bf \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c4\u03c1\u03b5\u03b9\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03bf\u03cd\u03c2 \u03bb\u03ad\u03bd\u03b5 \u03cc\u03c4\u03b9 \u03bf \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03b4\u03b5\u03bd \u03ad\u03c7\u03b5\u03b9 \u03b5\u03be\u03b7\u03b3\u03ae\u03c3\u03b5\u03b9 \u03c3\u03c4\u03bf\u03bd \u03bb\u03b1\u03cc \u03b3\u03b9\u03b1\u03c4\u03af \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf\u03c2 \u03c3\u03c4\u03bf \u0399\u03c1\u03ac\u03bd",
+          "link": "https://www.news247.gr/kosmos/dio-stous-treis-amerikanous-lene-oti-o-trab-den-exei-exigisei-ston-lao-giati-ginetai-polemos-sto-iran/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "UAE carried out covert strikes on Iran as Gulf war escalated , WSJ report says",
+          "link": "https://investinglive.com:443/commodities/uae-carried-out-covert-strikes-on-iran-as-gulf-war-escalated-wsj-report-says-20260511/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "BFM : \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u043d\u0435\u0444\u0442\u044c Urals \u0432\u043d\u043e\u0432\u044c \u0438\u0434\u0435\u0442 \u043d\u0430 \u044d\u043a\u0441\u043f\u043e\u0440\u0442 \u0441\u043e \u0441\u043a\u0438\u0434\u043a\u043e\u0439",
+          "link": "https://u-f.ru/news/economics/u9/2026/05/11/417132",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u0628 \u064a\u0628\u062d\u062b \u062e\u064a\u0627\u0631\u0627\u062a \u0639\u0633\u0643\u0631\u064a\u0629 \u0636\u062f \u0625\u064a\u0631\u0627\u0646 \u0648\u0633\u0637 \u062a\u0639\u062b\u0631 \u0627\u0644\u062a\u0648\u0635\u0644 \u0644\u0627\u062a\u0641\u0627\u0642",
+          "link": "https://assabeel.net/72033",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Iran Meeting : New Strikes Considered",
+          "link": "https://athens-times.com/trump-holds-critical-white-house-meeting-on-iran-amid-consideration-of-new-strikes/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\uace8\ub4dc\ub9cc\uc0ad\uc2a4  \uc138\uacc4 \uacbd\uc81c , \ubd80\ub7ec\uc9c0\ub294 \ub300\uc2e0 \ud718\uc5b4\uc84c\ub2e4 ... 3\ub300 \ud638\uc7ac\uc5d0 \uc99d\uc2dc \ud638\uc870",
+          "link": "https://www.fnnews.com/news/202605120312322442",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.wiltshiretimes.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0417\u0435\u043b\u0435\u043d\u0441\u043a\u0438 : \u0421\u0410\u0429 \u043e\u0441\u0442\u0430\u0432\u0430\u0442 \u0430\u043d\u0433\u0430\u0436\u0438\u0440\u0430\u043d\u0438 \u0441 \u0423\u043a\u0440\u0430\u0439\u043d\u0430 , \u041f\u0443\u0442\u0438\u043d \u043d\u0435 \u0438\u0441\u043a\u0430 \u043c\u0438\u0440 \u1409 \u041d\u043e\u0432\u0438\u043d\u0438 \u043e\u0442 Fakti . bg - \u0421\u0432\u044f\u0442",
+          "link": "https://fakti.bg/world/1053836-volodimir-zelenski-sasht-ostavat-angajirani-s-ukraina-putin-ne-iska-mir",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "USA erh\u00f6hen Druck auf Iran mit weiteren Sanktionen",
+          "link": "https://www.finanzen.net/nachricht/aktien/usa-erhoehen-druck-auf-iran-mit-weiteren-sanktionen-15677141",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Considers Federal Gas Tax Suspension Amid Soaring Prices | NewsTalk WMEQ",
+          "link": "https://wmeq.iheart.com/content/2026-05-11-trump-considers-federal-gas-tax-suspension-amid-soaring-prices/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Little movement in munis , but UST volatility continues",
+          "link": "https://www.bondbuyer.com/news/little-movement-in-munis-but-ust-volatility-continues",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Israel abre su pabell\u00f3n en la Bienal de Venecia pese a protestas y tensi\u00f3n pol\u00edtica Aurora Israel Noticias en Espa\u00f1ol",
+          "link": "https://www.aurora-israel.co.il/israel-abre-su-pabellon-en-la-bienal-de-venecia-pese-a-protestas-y-tension-politica/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Zelenskyi : Tulitauko Ven\u00e4j\u00e4n kanssa ei pit\u00e4nyt maanantainakaan",
+          "link": "https://www.lansi-savo.fi/uutissuomalainen/9444204",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0631\u062a\u0641\u0627\u0639 \u0645\u0624\u0634\u0631 \u0627\u0644\u062f\u0648\u0644\u0627\u0631 \u0639\u0627\u0644\u0645\u064a\u0627\u064b \u0628\u0639\u062f \u0631\u0641\u0636 \u062a\u0631\u0627\u0645\u0628 \u0631\u062f \u0625\u064a\u0631\u0627\u0646 \u0639\u0644\u0649 \u0645\u0642\u062a\u0631\u062d \u0648\u0642\u0641 \u0627\u0644\u062d\u0631\u0628",
+          "link": "https://sana.sy/international/2473423/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Zelenskyy : Russia Not Seeking Peace , Ukraine Braces for Atta",
+          "link": "https://athens-times.com/zelenskyy-russia-doesnt-want-war-to-end-ukraine-prepares-for-new-attacks/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Shocks Critics After Calling Strait of Hormuz Shutdown the  Smartest Move in History",
+          "link": "https://www.ibtimes.com/trump-shocks-critics-after-calling-strait-hormuz-shutdown-smartest-move-history-3802660",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ontario Gas Prices Rising : What youll pay Wednesday",
+          "link": "https://www.guelphmercury.com/news/ontario-gas-price-prediction-for-may-13/article_33f256e8-8bd1-51b9-9f09-1d2036c6f002.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Dems push back on $1 billion proposal for White House ballroom security",
+          "link": "https://www.fox26houston.com/news/dems-push-back-1-billion-proposal-white-house-ballroom-security",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump in favor of suspending federal gas tax as Iran ceasefire remains in limbo",
+          "link": "https://kfoxtv.com/news/nation-world/trump-in-favor-of-suspending-federal-gas-tax-as-iran-ceasefire-remains-in-limbo-chris-wright-energy-secretary-18-cents-aaa-memorial-day-travel",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump in favor of suspending federal gas tax as Iran ceasefire remains in limbo",
+          "link": "https://bakersfieldnow.com/news/nation-world/trump-in-favor-of-suspending-federal-gas-tax-as-iran-ceasefire-remains-in-limbo-chris-wright-energy-secretary-18-cents-aaa-memorial-day-travel",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u0628\u064a\u062a \u0627\u0644\u0623\u0628\u064a\u0636 : \u0646\u0639\u0645\u0644 \u0639\u0644\u0649 \u0627\u062a\u0641\u0627\u0642 \u064a\u0636\u0645\u0646 \u0627\u0644\u0623\u0645\u0646 \u0648\u064a\u0642\u0636\u064a \u0639\u0644\u0649 \u0627\u0644\u062a\u0647\u062f\u064a\u062f \u0627\u0644\u0646\u0648\u0648\u064a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a",
+          "link": "https://gate.ahram.org.eg/News/5643434.aspx",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trade and Iran war are on the agenda for Trump state visit to China",
+          "link": "https://www.delawarepublic.org/2026-05-11/trade-and-iran-war-are-on-the-agenda-for-trumps-state-visit-to-china",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\uc774\ub780 \uac08\ub9ac\ubc14\ud504  \uc6b0\ub9ac \uc885\uc804\uc548\uc774 \uc720\uc77c \ud574\ubc95 \u2026 \uc81c\uc548 \uac70\ubd80  \ud2b8\ub7fc\ud504\uc640 \ud3c9\ud589\uc120",
+          "link": "https://www.fnnews.com/news/202605120602420301",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "BMT ba\u015f katibind\u0259n h\u0259y\u0259canl\u0131 \u00e7a\u011f\u0131r\u0131\u015f",
+          "link": "https://musavat.com/news/bmt-bas-katibinden-heyecanli-cagiris_1260103.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran New  Gig Economy  Terrorist Threat Hits Europe \u2013 RedState",
+          "link": "https://redstate.com/wardclark/2026/05/11/irans-new-gig-economy-terrorist-threat-hits-europe-n2202218",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ceasefire on a Knife Edge : Trump , Iran at Odds",
+          "link": "https://athens-times.com/ceasefire-on-a-knife-edge-trump-dismisses-irans-response-as-garbage-tehran-vows-readiness-for-any-scenario/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u7c73\u5927\u7d71\u9818 \u3001 \u30a4\u30e9\u30f3\u505c\u6226\u7d42\u4e86\u3092\u8b66\u544a \u300c \u6975\u3081\u3066\u8106\u5f31 \u300d\u3001 \u6838\u554f\u984c\u3067\u6e9d\uff5c\u79cb\u7530\u9b41\u65b0\u5831\u96fb\u5b50\u7248",
+          "link": "https://www.sakigake.jp/news/article/20260512CO0011/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412\u0440\u0430\u0433\u0438 \u0431\u0443\u0434\u0443\u0442 \u0448\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u044b : \u0432 \u0418\u0440\u0430\u043d\u0435 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b\u0438 \u043e \u0441\u0432\u043e\u0438\u0445 \u0442\u0430\u0439\u043d\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044f\u0445",
+          "link": "https://news.mail.ru/society/70851778/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump in favor of suspending federal gas tax as Iran ceasefire remains in limbo",
+          "link": "https://wgme.com/news/nation-world/trump-in-favor-of-suspending-federal-gas-tax-as-iran-ceasefire-remains-in-limbo-chris-wright-energy-secretary-18-cents-aaa-memorial-day-travel",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Businesses are facing rising costs during the Iran war , and economists expect more strains ahead",
+          "link": "https://www.clickondetroit.com/business/2026/05/11/businesses-are-facing-rising-costs-during-the-iran-war-and-economists-expect-more-strains-ahead/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Mumbai Congress Chief Varsha Gaikwad Slams PM Modi Fuel & Gold Appeal , Questions Centre Economic Crisis Preparedness",
+          "link": "https://www.freepressjournal.in/mumbai/mumbai-congress-chief-varsha-gaikwad-slams-pm-modis-fuel-gold-appeal-questions-centres-economic-crisis-preparedness",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US Justice Department probes alleged $2 . 2 billion oil futures pattern | The Armidale Express",
+          "link": "https://www.armidaleexpress.com.au/story/9243875/us-justice-department-probes-alleged-22-billion-oil-futures-pattern/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Considers Federal Gas Tax Suspension Amid Soaring Prices",
+          "link": "https://kfbk.iheart.com/content/2026-05-11-trump-considers-federal-gas-tax-suspension-amid-soaring-prices/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "USA erh\u00f6hen Druck auf Iran mit weiteren Sanktionen",
+          "link": "https://orf.at/stories/3429630/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.irvinetimes.com/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: tehran",
@@ -311,7 +662,358 @@
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "Iran warns European countries against sending warships to Strait of Hormuz",
+          "link": "https://www.africanews.com/2026/05/11/iran-warns-european-countries-against-sending-warships-to-strait-of-hormuz/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "WSJ : \u03a4\u03b1 \u0397\u0391\u0395 \u03b4\u03b9\u03b5\u03be\u03ae\u03b3\u03b1\u03b3\u03b1\u03bd \u03c3\u03c4\u03b1 \u03ba\u03c1\u03c5\u03c6\u03ac \u03b5\u03c0\u03b9\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd \u03c4\u03bf\u03c5 \u0399\u03c1\u03ac\u03bd",
+          "link": "https://www.news247.gr/kosmos/wsj-ta-iae-diexigagan-sta-krifa-epitheseis-enantion-tou-iran/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Says Iran Cease - Fire On  Life Support",
+          "link": "http://www.zimbabwestar.com/news/279044665/trump-says-iran-cease-fire-on-life-support",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "D\u00f3lar fecha praticamente est\u00e1vel , a R$ 4 , 89 , em dia de cautela com Oriente M\u00e9dio",
+          "link": "https://jornaldebrasilia.com.br/noticias/economia/dolar-fecha-praticamente-estavel-a-r-489-em-dia-de-cautela-com-oriente-medio/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "UAE carried out covert strikes on Iran as Gulf war escalated , WSJ report says",
+          "link": "https://investinglive.com:443/commodities/uae-carried-out-covert-strikes-on-iran-as-gulf-war-escalated-wsj-report-says-20260511/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Iran Meeting : New Strikes Considered",
+          "link": "https://athens-times.com/trump-holds-critical-white-house-meeting-on-iran-amid-consideration-of-new-strikes/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.wiltshiretimes.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Shocks Critics After Calling Strait of Hormuz Shutdown the  Smartest Move in History",
+          "link": "https://www.ibtimes.com/trump-shocks-critics-after-calling-strait-hormuz-shutdown-smartest-move-history-3802660",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Ngaku Ingin Rebut  Debu Nuklir  Iran yang Terkubur , Tapi AS Bingung Cara Masuknya",
+          "link": "https://aceh.tribunnews.com/news/1025046/trump-ngaku-ingin-rebut-debu-nuklir-iran-yang-terkubur-tapi-as-bingung-cara-masuknya",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u0628\u064a\u062a \u0627\u0644\u0623\u0628\u064a\u0636 : \u0646\u0639\u0645\u0644 \u0639\u0644\u0649 \u0627\u062a\u0641\u0627\u0642 \u064a\u0636\u0645\u0646 \u0627\u0644\u0623\u0645\u0646 \u0648\u064a\u0642\u0636\u064a \u0639\u0644\u0649 \u0627\u0644\u062a\u0647\u062f\u064a\u062f \u0627\u0644\u0646\u0648\u0648\u064a \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a",
+          "link": "https://gate.ahram.org.eg/News/5643434.aspx",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran New  Gig Economy  Terrorist Threat Hits Europe \u2013 RedState",
+          "link": "https://redstate.com/wardclark/2026/05/11/irans-new-gig-economy-terrorist-threat-hits-europe-n2202218",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ceasefire on a Knife Edge : Trump , Iran at Odds",
+          "link": "https://athens-times.com/ceasefire-on-a-knife-edge-trump-dismisses-irans-response-as-garbage-tehran-vows-readiness-for-any-scenario/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412\u0440\u0430\u0433\u0438 \u0431\u0443\u0434\u0443\u0442 \u0448\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u044b : \u0432 \u0418\u0440\u0430\u043d\u0435 \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0434\u0438\u043b\u0438 \u043e \u0441\u0432\u043e\u0438\u0445 \u0442\u0430\u0439\u043d\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044f\u0445",
+          "link": "https://news.mail.ru/society/70851778/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Businesses are facing rising costs during the Iran war , and economists expect more strains ahead",
+          "link": "https://www.clickondetroit.com/business/2026/05/11/businesses-are-facing-rising-costs-during-the-iran-war-and-economists-expect-more-strains-ahead/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.irvinetimes.com/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u0628 : \u0648\u0642\u0641 \u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0628\u064a\u0646 \u0648\u0627\u0634\u0646\u0637\u0646 \u0648\u0637\u0647\u0631\u0627\u0646 \u0641\u064a \u062d\u0627\u0644\u0629 \u062d\u0631\u062c\u0629",
+          "link": "https://sana.sy/international/2473269/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump says ceasefire is on  life support  as Iran standoff deepens and strait remains closed",
+          "link": "https://www.komu.com/news/nationworld/trump-says-ceasefire-is-on-life-support-as-iran-standoff-deepens-and-strait-remains-closed/article_e50a5f6b-2846-58b0-8aaf-bcfbde9335ad.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran FM spokesperson Baghaei says",
+          "link": "http://www.calcuttanews.net/news/279044994/iran-fm-spokesperson-baghaei-says-us-left-negotiating-table-destroyed-it-twice-in-9-months-urges-focus-on-hormuz-and-ending-regional-conflict",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0422\u0440\u0430\u043c\u043f : \u043f\u0435\u0440\u0435\u043c\u0438\u0440\u0438\u0435 \u0441 \u0418\u0440\u0430\u043d\u043e\u043c  \u043d\u0430 \u0433\u0440\u0430\u043d\u0438 \u0432\u044b\u0436\u0438\u0432\u0430\u043d\u0438\u044f",
+          "link": "https://www.svoboda.org/a/tramp-peremirie-s-iranom-na-grani-vyzhivaniya/33754647.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Treasury Dept . tells US banks to flag suspected Iranian money laundering",
+          "link": "https://www.dailynews.com/2026/05/11/iran-us-bank-alert/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Treasury Department tells US banks to flag suspected Iranian money - laundering networks",
+          "link": "https://www.koco.com/article/treasury-warns-banks-iran-oil-money-networks/71273638",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Donald Trump a refuzat ultima propunere a Iranului \u0219i spune c\u0103 armisti\u021biul e \u201e pe aparate : \u201e O mizerie . Nici n - am terminat de citit",
+          "link": "https://www.libertatea.ro/stiri/donald-trump-refuza-ultima-propunere-iran-armistitiul-e-pe-aparate-5735231",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u201e Jie bus nustebinti : Iranas po Trumpo grasinim\u0173 \u012fsp\u0117ja JAV",
+          "link": "https://www.lrt.lt/naujienos/pasaulyje/6/2925003/jie-bus-nustebinti-iranas-po-trumpo-grasinimu-ispeja-jav",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "[ Editorial ] Fired upon in Hormuz",
+          "link": "https://www.koreaherald.com/article/10735520",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump says ceasefire on  life support  as Iran standoff deepens , strait remains shut",
+          "link": "https://www.koreatimes.co.kr/world/20260512/trump-says-ceasefire-on-life-support-as-iran-standoff-deepens-strait-remains-shut",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0631\u0645\u0628 \u064a\u0639\u062a\u0628\u0631 \u0627\u0644\u0647\u062f\u0646\u0629 \u0645\u0639 \u0625\u064a\u0631\u0627\u0646 \u0641\u064a  \u063a\u0631\u0641\u0629 \u0627\u0644\u0625\u0646\u0639\u0627\u0634  \u0648\u0642\u0627\u0644\u064a\u0628\u0627\u0641 \u064a\u062a\u0648\u0639\u062f \u0628\u0645\u0641\u0627\u062c\u0623\u0629",
+          "link": "https://www.aljazeera.net/news/2026/5/11/%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B9%D8%AA%D8%A8%D8%B1-%D8%A7%D9%84%D9%87%D8%AF%D9%86%D8%A9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%81%D9%8A-%D8%BA%D8%B1%D9%81%D8%A9",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Clash of perception : Why talks between Iran and the US are deadlocked",
+          "link": "https://us.cnn.com/2026/05/11/middleeast/us-iran-war-perceptions-deadlock-intl-latam",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Donald Trump nazna\u010dil , \u017ee pr\u00edmerie s Ir\u00e1nom je tesne pred zr\u00faten\u00edm",
+          "link": "https://dennikn.sk/minuta/5327665/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.ludlowadvertiser.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wie sehr Netanjahu den Dauerkrieg braucht \u2013 und Trump mittendrin",
+          "link": "https://web.de/magazine/politik/nahostkonflikt/netanjahu-dauerkrieg-trump-mittendrin-42247230",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump ties himself in knots to avoid resuming a full - scale war in Iran",
+          "link": "https://us.cnn.com/2026/05/11/politics/iran-war-trump-ceasefire",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "President Trump Says He Will Suspend the Federal Gas Tax",
+          "link": "https://townhall.com/tipsheet/dmitri-bolt/2026/05/11/president-trump-says-he-will-suspend-the-federal-gas-tax-n2675889",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump rejects Iran latest response to ceasefire proposal ahead of his trip to China",
+          "link": "https://www.wdbo.com/news/latest-trump-rejects/BH5FICWIWQZ3PLTBHXTJSOMJEI/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.falmouthpacket.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.yourlocalguardian.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "tregua entre EE . UU . y Teher\u00e1n entra en fase cr\u00edtica tras rechazo de Trump a la oferta iran\u00ed",
+          "link": "https://rpp.pe/mundo/actualidad/tregua-entre-ee-uu-y-teheran-entra-en-fase-critica-tras-rechazo-de-trump-a-la-oferta-irani-noticia-1687910",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u00bf Para qu\u00e9 visitar\u00e1 Trump a Xi Jinping en China ? Estos son los puntos centrales",
+          "link": "https://periodicocorreo.com.mx/internacional/2026/may/11/para-que-visitara-trump-a-xi-jinping-en-china-estos-son-los-puntos-centrales-156580.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump says ceasefire with Iran on  life support",
+          "link": "https://www.washingtonexaminer.com/news/white-house/4563025/trump-says-ceasefire-iran-on-life-support/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.bicesteradvertiser.net/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0413\u0440\u0430\u043d\u0438 \u0441\u0440\u044b\u0432\u0430 : \u0421\u0428\u0410 \u0438 \u0418\u0440\u0430\u043d \u043f\u0440\u043e\u0432\u043e\u0446\u0438\u0440\u0443\u044e\u0442 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430 \u043d\u0430 \u044d\u0441\u043a\u0430\u043b\u0430\u0446\u0438\u044e",
+          "link": "https://iz.ru/2095257/anastasiia-kostina/ssha-i-iran-provotciruiut-drug-druga-na-eskalatciiu",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u00bf Qu\u00e9 medidas adoptar ante una sospecha de ludopat\u00eda en casa ?",
+          "link": "https://rpp.pe/lima/actualidad/que-medidas-adoptar-ante-una-sospecha-de-ludopatia-en-casa-noticia-1687903",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Benjamin Netanyahu on  60 Minute - what he said , didnt say",
+          "link": "http://www.jpost.com/israel-news/politics-and-diplomacy/article-895831",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u963f\u8054\u914b\u53c2\u6218 \uff1f \u62a5\u9053\u79f0\u5df2\u79d8\u5bc6\u88ad\u51fb\u4f0a\u6717 \u3001 4\u6708\u66fe\u51fb\u4e2d\u6ce2\u65af\u6e7e\u5185\u5c9b\u4e0a\u4e00\u70bc\u6cb9\u5382",
+          "link": "https://wallstreetcn.com/articles/3772020",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "L\u00edbano pede a EUA press\u00e3o sobre Israel para travar ataques",
+          "link": "https://sapo.pt/artigo/libano-pede-a-eua-pressao-sobre-israel-para-travar-ataques-6a0244ddf00315c82795c2d9",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Treasury sanctions network accused of helping IRGC sell Iranian oil to China",
+          "link": "https://www.washingtonexaminer.com/policy/economy/4563627/treasury-sanctions-islamic-guard-iran-oil-china/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.wirralglobe.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Bruce MacKinnon : Iran trump card ? Pain at the pumps",
+          "link": "https://www.saltwire.com/nova-scotia/halifax/opinion-halifax/bruce-mackinnon-irans-trump-card-pain-at-the-pumps",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+          "link": "https://www.eadt.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump says Iran ceasefire  on life support  after rejecting Tehran proposal",
+          "link": "https://wcyb.com/news/nation-world/president-donald-trump-says-iran-ceasefire-on-life-support-after-rejecting-tehrans-proposal-strait-of-hormuz-blockade-oil-gas-prices-nuclear-weapon-uranium-pakistani-mediators",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412 \u0421\u0428\u0410 \u0437\u0430\u044f\u0432\u0438\u043b\u0438 \u043e \u0437\u0430\u0433\u043d\u0430\u0432\u0448\u0435\u043c \u0441\u0435\u0431\u044f \u0432 \u043b\u043e\u0432\u0443\u0448\u043a\u0443 \u0422\u0440\u0430\u043c\u043f\u0435",
+          "link": "https://lenta.ru/news/2026/05/11/v-ssha-zayavili-o-zagnavshem-sebya-v-lovushku-trampe/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -328,13 +1030,6 @@
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
     },
     {
-      "title": "UK sanctions network accused of planning attacks for Iran",
-      "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
-      "summary": "Britain freezes assets and travel for those accused of laundering billions and plotting Iranian-backed hostile activity.",
-      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-    },
-    {
       "title": "Trump wants to suspend the federal gas tax as prices soar amid war with Iran",
       "link": "https://www.npr.org/2026/05/11/nx-s1-5818446/trump-gas-tax",
       "summary": "Suspending the federal gas tax would require an act of Congress.",
@@ -342,11 +1037,277 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml"
     },
     {
-      "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
-      "link": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
-      "summary": "Trump rejected Iran's response to a U.S. peace proposal, calling it \"totally unacceptable.\" And, Congressional Republicans are trying to push for three years of funding for immigration enforcement.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
+      "title": "Asia braces for a second wave of energy shocks from the Iran war",
+      "link": "https://www.dailynews.com/2026/05/11/asia-energy-buffer/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran warns European countries against sending warships to Strait of Hormuz",
+      "link": "https://www.africanews.com/2026/05/11/iran-warns-european-countries-against-sending-warships-to-strait-of-hormuz/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump Says Iran Cease - Fire On  Life Support",
+      "link": "http://www.zimbabwestar.com/news/279044665/trump-says-iran-cease-fire-on-life-support",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Oil prices rise as the Iran war drags on , but US stocks inch to more records",
+      "link": "https://www.union-bulletin.com/news/world/oil-prices-rise-as-the-iran-war-drags-on-but-us-stocks-inch-to-more/article_46ec2787-7df6-5799-91f7-c0173383ca68.html",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "UAE carried out covert strikes on Iran as Gulf war escalated , WSJ report says",
+      "link": "https://investinglive.com:443/commodities/uae-carried-out-covert-strikes-on-iran-as-gulf-war-escalated-wsj-report-says-20260511/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump Iran Meeting : New Strikes Considered",
+      "link": "https://athens-times.com/trump-holds-critical-white-house-meeting-on-iran-amid-consideration-of-new-strikes/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+      "link": "https://www.wiltshiretimes.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "USA erh\u00f6hen Druck auf Iran mit weiteren Sanktionen",
+      "link": "https://www.finanzen.net/nachricht/aktien/usa-erhoehen-druck-auf-iran-mit-weiteren-sanktionen-15677141",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump in favor of suspending federal gas tax as Iran ceasefire remains in limbo",
+      "link": "https://kfoxtv.com/news/nation-world/trump-in-favor-of-suspending-federal-gas-tax-as-iran-ceasefire-remains-in-limbo-chris-wright-energy-secretary-18-cents-aaa-memorial-day-travel",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump in favor of suspending federal gas tax as Iran ceasefire remains in limbo",
+      "link": "https://bakersfieldnow.com/news/nation-world/trump-in-favor-of-suspending-federal-gas-tax-as-iran-ceasefire-remains-in-limbo-chris-wright-energy-secretary-18-cents-aaa-memorial-day-travel",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trade and Iran war are on the agenda for Trump state visit to China",
+      "link": "https://www.delawarepublic.org/2026-05-11/trade-and-iran-war-are-on-the-agenda-for-trumps-state-visit-to-china",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran New  Gig Economy  Terrorist Threat Hits Europe \u2013 RedState",
+      "link": "https://redstate.com/wardclark/2026/05/11/irans-new-gig-economy-terrorist-threat-hits-europe-n2202218",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Ceasefire on a Knife Edge : Trump , Iran at Odds",
+      "link": "https://athens-times.com/ceasefire-on-a-knife-edge-trump-dismisses-irans-response-as-garbage-tehran-vows-readiness-for-any-scenario/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump in favor of suspending federal gas tax as Iran ceasefire remains in limbo",
+      "link": "https://wgme.com/news/nation-world/trump-in-favor-of-suspending-federal-gas-tax-as-iran-ceasefire-remains-in-limbo-chris-wright-energy-secretary-18-cents-aaa-memorial-day-travel",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Businesses are facing rising costs during the Iran war , and economists expect more strains ahead",
+      "link": "https://www.clickondetroit.com/business/2026/05/11/businesses-are-facing-rising-costs-during-the-iran-war-and-economists-expect-more-strains-ahead/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "USA erh\u00f6hen Druck auf Iran mit weiteren Sanktionen",
+      "link": "https://orf.at/stories/3429630/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+      "link": "https://www.irvinetimes.com/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump Ngaku Ingin Rebut  Debu Nuklir  Iran yang Terkubur , Tapi AS Bingung Cara Masuknya",
+      "link": "https://aceh.tribunnews.com/news/1025046/trump-ngaku-ingin-rebut-debu-nuklir-iran-yang-terkubur-tapi-as-bingung-cara-masuknya",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump says ceasefire is on  life support  as Iran standoff deepens and strait remains closed",
+      "link": "https://www.komu.com/news/nationworld/trump-says-ceasefire-is-on-life-support-as-iran-standoff-deepens-and-strait-remains-closed/article_e50a5f6b-2846-58b0-8aaf-bcfbde9335ad.html",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran FM spokesperson Baghaei says",
+      "link": "http://www.calcuttanews.net/news/279044994/iran-fm-spokesperson-baghaei-says-us-left-negotiating-table-destroyed-it-twice-in-9-months-urges-focus-on-hormuz-and-ending-regional-conflict",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Treasury Dept . tells US banks to flag suspected Iranian money laundering",
+      "link": "https://www.dailynews.com/2026/05/11/iran-us-bank-alert/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Treasury Department tells US banks to flag suspected Iranian money - laundering networks",
+      "link": "https://www.koco.com/article/treasury-warns-banks-iran-oil-money-networks/71273638",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Donald Trump a refuzat ultima propunere a Iranului \u0219i spune c\u0103 armisti\u021biul e \u201e pe aparate : \u201e O mizerie . Nici n - am terminat de citit",
+      "link": "https://www.libertatea.ro/stiri/donald-trump-refuza-ultima-propunere-iran-armistitiul-e-pe-aparate-5735231",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "\u201e Jie bus nustebinti : Iranas po Trumpo grasinim\u0173 \u012fsp\u0117ja JAV",
+      "link": "https://www.lrt.lt/naujienos/pasaulyje/6/2925003/jie-bus-nustebinti-iranas-po-trumpo-grasinimu-ispeja-jav",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump says ceasefire on  life support  as Iran standoff deepens , strait remains shut",
+      "link": "https://www.koreatimes.co.kr/world/20260512/trump-says-ceasefire-on-life-support-as-iran-standoff-deepens-strait-remains-shut",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Clash of perception : Why talks between Iran and the US are deadlocked",
+      "link": "https://us.cnn.com/2026/05/11/middleeast/us-iran-war-perceptions-deadlock-intl-latam",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+      "link": "https://www.ludlowadvertiser.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump ties himself in knots to avoid resuming a full - scale war in Iran",
+      "link": "https://us.cnn.com/2026/05/11/politics/iran-war-trump-ceasefire",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump rejects Iran latest response to ceasefire proposal ahead of his trip to China",
+      "link": "https://www.wdbo.com/news/latest-trump-rejects/BH5FICWIWQZ3PLTBHXTJSOMJEI/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+      "link": "https://www.falmouthpacket.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+      "link": "https://www.yourlocalguardian.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "tregua entre EE . UU . y Teher\u00e1n entra en fase cr\u00edtica tras rechazo de Trump a la oferta iran\u00ed",
+      "link": "https://rpp.pe/mundo/actualidad/tregua-entre-ee-uu-y-teheran-entra-en-fase-critica-tras-rechazo-de-trump-a-la-oferta-irani-noticia-1687910",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump says ceasefire with Iran on  life support",
+      "link": "https://www.washingtonexaminer.com/news/white-house/4563025/trump-says-ceasefire-iran-on-life-support/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+      "link": "https://www.bicesteradvertiser.net/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Treasury sanctions network accused of helping IRGC sell Iranian oil to China",
+      "link": "https://www.washingtonexaminer.com/policy/economy/4563627/treasury-sanctions-islamic-guard-iran-oil-china/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+      "link": "https://www.wirralglobe.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Bruce MacKinnon : Iran trump card ? Pain at the pumps",
+      "link": "https://www.saltwire.com/nova-scotia/halifax/opinion-halifax/bruce-mackinnon-irans-trump-card-pain-at-the-pumps",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to cut federal fuel tax as motorists count cost of Iran war at the pump",
+      "link": "https://www.eadt.co.uk/news/national/26097419.trump-cut-federal-fuel-tax-motorists-count-cost-iran-war-pump/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump says Iran ceasefire  on life support  after rejecting Tehran proposal",
+      "link": "https://wcyb.com/news/nation-world/president-donald-trump-says-iran-ceasefire-on-life-support-after-rejecting-tehrans-proposal-strait-of-hormuz-blockade-oil-gas-prices-nuclear-weapon-uranium-pakistani-mediators",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
