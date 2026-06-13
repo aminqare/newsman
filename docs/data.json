@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T14:11:13Z",
+  "generated_at": "2026-06-13T16:18:42Z",
   "sources": [
     {
       "source": "BBC News",
@@ -34,9 +34,9 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
-          "link": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss",
-          "summary": "Noughts & Crosses author Malorie Blackman and Gruffalo creator Julia Donaldson are made dames, as the rugby league star is knighted.",
+          "title": "Boston becomes 'mini-Scotland' before World Cup opener",
+          "link": "https://www.bbc.com/news/articles/cx2jqknpkklo?at_medium=RSS&at_campaign=rss",
+          "summary": "Scotland will play Haiti in their first World Cup match in 28 years at the Boston Stadium.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -134,6 +134,20 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "US bans differential privacy in Census data",
+          "link": "https://desfontain.es/blog/banning-noise.html",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+          "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
           "link": "https://github.com/tensorzero/tensorzero",
           "summary": "Comments",
@@ -141,29 +155,15 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "A low-carbon computing platform from your retired phones",
-          "link": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+          "title": "Orthodox C++",
+          "link": "https://bkaradzic.github.io/posts/orthodoxc++/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-          "link": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "The state of building user interfaces in Rust",
-          "link": "https://areweguiyet.com/#ecosystem",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Leaving Mozilla",
-          "link": "https://blog.unitedheroes.net/5751",
+          "title": "Every Frame Perfect",
+          "link": "https://tonsky.me/blog/every-frame-perfect/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Fans reveal how much they paid for World Cup tickets",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/fans-reveal-how-much-they-paid-for-world-cup-tickets?traffic_source=rss",
-          "summary": "World Cup fans reveal how much they paid for a seat at the US\u2019s opening game against Paraguay.",
+          "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+          "link": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+          "summary": "Iranian authorities say assassinations and strikes over the past year have failed to deter them.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "\u2018Lots of things can still go wrong\u2019 with US-Iran deal to end the war",
-          "link": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
-          "summary": "Henry Ensher says the US\u2013Iran agreement is not a final settlement but only the start of a process that can go wrong.",
+          "title": "Thousands attend anti-racism rallies following unrest in Belfast",
+          "link": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss",
+          "summary": "The rallies in Northern Ireland follow two nights of anti-immigrant violence provoked by a stabbing attack.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-          "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
-          "summary": "Funeral ceremonies will take place in Tehran and Qom before a burial in his home town of Mashhad.",
+          "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
+          "summary": "Iranians gave mixed reactions as Iran and the US said they were close to an interim agreement to end the war.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Deadly military plane crash in India\u2019s Assam",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
-          "summary": "A military transport aircraft has crashed in India\u2019s northeastern Assam during a routine fligh.",
+          "title": "Workers remove Trump\u2019s name from Kennedy Center after court ruling",
+          "link": "https://www.aljazeera.com/news/2026/6/13/workers-remove-trumps-name-from-kennedy-center-after-court-ruling?traffic_source=rss",
+          "summary": "Judge says Trump-backed board's move to add president's name unlawful, requires Congressional approval.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Football: Why is India struggling to play the world\u2019s most popular sport?",
-          "link": "https://www.aljazeera.com/video/101-east/2026/6/13/football-why-is-india-struggling-to-play-the-worlds-most-popular-sport?traffic_source=rss",
-          "summary": "As the 2026 FIFA World Cup kicks off, 101 East explores why India struggles to compete in the world's most popular sport",
+          "title": "From colony to cell: Sexual violence in Israeli prisons",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/from-colony-to-cell-sexual-violence-in-israeli-prisons?traffic_source=rss",
+          "summary": "This testimony is part of a wider pattern documented in reports describing sexual abuse inside Israeli prisons.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -296,7 +296,358 @@
     {
       "source": "GDELT: iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "Trump to discuss Strait of Hormuz demining efforts at G7 as confidence grows for Iran war deal",
+          "link": "https://www.news4jax.com/news/2026/06/13/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end-the-war-nears/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0641\u0648\u064a\u0636 \u0633\u064a\u0627\u0633\u064a \u0644\u0644\u0632\u064a\u062f\u064a \u0644\u062d\u0633\u0645 \u0645\u0631\u0634\u062d\u064a \u0627\u0644\u0648\u0632\u0627\u0631\u0627\u062a \u0627\u0644\u0645\u062a\u0628\u0642\u064a\u0629",
+          "link": "https://almadapaper.net/438948/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran exclude semnarea acordului de pace cu SUA \u00een urm\u0103toarele 24 de ore . \u201e Trebuie s\u0103 a\u0219tept\u0103m",
+          "link": "https://ziare.com/iran/acord-pace-24-ore-s-u-a-2018381",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Colin Firth ex - wife Livia Giuggioli cancels Gwyneth Paltrow visit to her Italian farm over  disgusting  ad for Israeli apartments",
+          "link": "https://www.dailymail.com/snapchat/article-15897471/Colin-Firths-ex-wife-Livia-Giuggioli-cancels-Gwyneth-Paltrows-visit-Italian-farm-disgusting-ad-Israeli-apartments.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0399\u03c1\u03ac\u03bd : \u0397 \u03c5\u03c0\u03bf\u03b3\u03c1\u03b1\u03c6\u03ae \u03c4\u03bf\u03c5 \u03bc\u03bd\u03b7\u03bc\u03bf\u03bd\u03af\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae",
+          "link": "https://www.cretalive.gr/kosmos/iran-i-ypografi-toy-mnimonioy-den-tha-ginei-tin-kyriaki",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Lebanese army withdraws from southern village after Israeli troops advance nearby",
+          "link": "http://www.dailyadvance.com/news/world/lebanese-army-withdraws-from-southern-village-after-israeli-troops-advance-nearby/article_30732fdd-a119-52b3-b9a1-18b60c9946f7.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Hallan un cad\u00e1ver frente al centro de entrenamiento de la selecci\u00f3n de Ir\u00e1n en M\u00e9xico",
+          "link": "https://www.esdiario.com/deportes/260613/190452/hallan-cadaver-frente-centro-entrenamiento-seleccion-iran-mexico.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0399\u03c1\u03b1\u03bd\u03b9\u03ba\u03cc \u03a5\u03a0\u0395\u039e : \u0394\u03b5\u03bd \u03b8\u03b1 \u03c5\u03c0\u03bf\u03b3\u03c1\u03b1\u03c6\u03b5\u03af \u03c4\u03b7\u03bd \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae \u03b7 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
+          "link": "https://www.kathimerini.com.cy/gr/kosmos/iraniko-ypex-den-tha-ypografei-tin-kyriaki-i-symfonia-me-tis-ipa",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "CIDH pide prevenir el reclutamiento de ni\u00f1as , ni\u00f1os y adolescentes por el crimen organizado",
+          "link": "https://oem.com.mx:443/elsoldemexico/mexico/cidh-pide-prevenir-el-reclutamiento-de-ninas-ninos-y-adolescentes-por-el-crimen-organizado-30516362",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Israel not Iran is major nuclear threat in Middle East",
+          "link": "http://www.greekherald.com/news/279120963/israel-not-iran-is-major-nuclear-threat-in-middle-east-professor",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Coupe du monde 2026 : Un cadavre retrouv\u00e9 devant le stade o\u00f9 sentra\u00eene l  \u00e9quipe dIran",
+          "link": "https://www.lessentiel.lu/fr/story/coupe-du-monde-2026-un-cadavre-retrouve-devant-le-stade-ou-s-entraine-l-equipe-d-iran-103581796",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Kiszel T\u00fcnde extra v\u00e9konyra retus\u00e1lta mag\u00e1t : felh\u00e1borodtak rajta a kommentel\u0151k",
+          "link": "https://femina.hu/hazai_sztar/kiszel-tunde-extra-vekonyra-retusalta-magat/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Guerre en Iran : le Qatar \u00e0 la man\u0153uvre pour conclure un accord Washington - T\u00e9h\u00e9ran",
+          "link": "https://www.lejdd.fr/International/guerre-en-iran-le-qatar-a-la-manoeuvre-pour-conclure-un-accord-washington-teheran-176331",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ugledni profesor ka\u017ee da je nuklearna pretnja Izrael , ne Iran",
+          "link": "https://www.novosti.rs/planeta/svet/1617839/izrael-nuklearna-opasnost-iran-ugledni-profesor-savetnik-pentagonu-otkrio-ratom-iranu-skrece-mnogo-opasnije-teme",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tavuk\u00e7ulu\u011fa kayyum ve ekonomi dersleri \u2026",
+          "link": "https://www.haberhurriyeti.com/makale/28164602/mustafa-kazim-aydin/tavukculuga-kayyum-ve-ekonomi-dersleri",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Funeral Services For Iran Late Ayatollah Announced | WJBO Newsradio 1150 AM & 98 . 7 FM",
+          "link": "https://wjbo.iheart.com/content/2026-06-13-funeral-services-for-irans-late-ayatollah-announced/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062c\u0648 24 : \u0637\u0647\u0631\u0627\u0646 : \u062a\u0648\u0642\u064a\u0639 \u0645\u0630\u0643\u0631\u0629 \u0627\u0644\u062a\u0641\u0627\u0647\u0645 \u0645\u0639 \u0648\u0627\u0634\u0646\u0637\u0646 \u0644\u0645 \u064a\u062d\u0633\u0645 \u0628\u0639\u062f",
+          "link": "https://jo24.net/article/569525",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pakistanas tikisi , kad JAV ir Irano susitarimas bus galutinai parengtas per artimiausias 24 valandas",
+          "link": "https://m.kauno.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/pakistanas-tikisi-kad-jav-ir-irano-susitarimas-bus-galutinai-parengtas-artimiausias-24-valandas-1761081",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u0648\u0642\u0639 \u0628\u0643\u0631\u0627 - \u0628\u0639\u062f 4 \u0623\u0634\u0647\u0631 \u0645\u0646 \u0627\u063a\u062a\u064a\u0627\u0644\u0647 .. \u0625\u064a\u0631\u0627\u0646 \u062a\u0639\u0644\u0646 \u0645\u0631\u0627\u0633\u0645 \u062a\u0634\u064a\u064a\u0639 \u0648\u062f\u0641\u0646 \u0645\u0631\u0634\u062f\u0647\u0627 \u0627\u0644\u0631\u0627\u062d\u0644 \u0639\u0644\u064a \u062e\u0627\u0645\u0646\u0626\u064a",
+          "link": "https://bokra.net/Article-1596731",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "What we know about a possible deal to end the Iran war",
+          "link": "https://www.mercurynews.com/2026/06/13/what-we-know-about-a-possible-deal-to-end-the-iran-war/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran and the US are nearing a preliminary peace memorandum",
+          "link": "https://www.mathrubhumi.com/news/world/us-iran-peace-agreement-updates-qjbwamqy",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u3010 2026\u6253\u5361\u4e2d\u56fd \u3011 \u4ece\u7b2c10\u5c4a\u5357\u535a\u4f1a\u770b\u4e91\u5357\u7ecf\u8d38\u817e\u98de",
+          "link": "https://www.yangtse.com/news/yw/202606/t20260613_362219.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "La agencia de Beret defiende su inocencia y amenaza con acciones legales",
+          "link": "https://www.esdiario.com/chismografo/260613/190455/agencia-beret-defiende-inocencia-amenaza-acciones-legales.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Not tomorrow : Iran rejects Pakistan 24 - hour timeline for signing deal with US , urges caution",
+          "link": "https://www.hindustantimes.com/world-news/iran-rejects-pakistans-24-hour-timeline-for-signing-deal-with-us-urges-caution-trump-sharif-101781361189876.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pakistan , Swiss foreign ministers hold 2nd call in 24 hours on US - Iran peace push",
+          "link": "https://aa.com.tr/en/us-israel-iran-war/pakistan-swiss-foreign-ministers-hold-2nd-call-in-24-hours-on-us-iran-peace-push/3966037",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a0\u03b5\u03c1\u03af\u03b5\u03c1\u03b3\u03b7 \u2026 \u03c3\u03b9\u03b3\u03ae \u03b1\u03c3\u03c5\u03c1\u03bc\u03ac\u03c4\u03bf\u03c5 \u0397\u03a0\u0391 \u03b3\u03b9\u03b1 \u03c4\u03bf deal \u03bc\u03b5 \u03c4\u03bf \u0399\u03c1\u03ac\u03bd \u2013 \u0391\u03b3\u03ba\u03ac\u03b8\u03b9\u03b1 \u03c0\u03b1\u03bd\u03c4\u03bf\u03cd \u03ba\u03b1\u03b9 \u03c3\u03ba\u03b7\u03bd\u03b9\u03ba\u03cc \u03b1\u03b2\u03b5\u03b2\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2",
+          "link": "https://www.bankingnews.gr/diethni/articles/881638/periergi-sigi-asyrmatou-ipa-gia-to-deal-me-to-iran-agkathia-pantoy-kai-skiniko-avevaiotitas%20title=",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran : nog geen dealondertekening met VS zondag",
+          "link": "https://nieuws.nl/buitenland/iran-stelt-dat-er-zondag-nog-geen-ondertekening-deal-met-vs-is",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
+          "link": "https://tribune.com.pk/story/2612981/lebanon-reports-strikes-on-south-as-israel-issues-broad-evacuation-warnings",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Putin says Russian troops maintain  strategic advantage",
+          "link": "https://aa.com.tr/en/russia-ukraine-war/putin-says-russian-troops-maintain-strategic-advantage-/3965989",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ende des Iran - Krieges in Sicht : Das steht im Geheimdeal der united states",
+          "link": "https://www.merkur.de/politik/die-usa-bemuehen-sich-hastig-ein-iran-abkommen-abzuschliessen-bevor-trump-zum-g7-reist-zr-94349852.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pogreb biv\u0161eg iranskog vo\u0111e Alija Hameneija trajat \u0107e od 4 . do 9 . srpnja",
+          "link": "https://vijesti.hrt.hr/svijet/pogreb-bivseg-iranskog-vode-alija-hameneija-trajat-ce-od-4-do-9-srpnja-12765187",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041d\u0430 \u043a\u0440\u0430\u0447\u043a\u0430 \u043e\u0442 \u043c\u0438\u0440\u0430 ! \u0421\u0410\u0429 \u0438 \u0418\u0440\u0430\u043d \u043f\u043e\u0434\u043f\u0438\u0441\u0432\u0430\u0442 \u0441\u043f\u043e\u0440\u0430\u0437\u0443\u043c\u0435\u043d\u0438\u0435\u0442\u043e \u0434\u043e \u0447\u0430\u0441\u043e\u0432\u0435",
+          "link": "https://www.standartnews.com/svyat/na-krachka-ot-mira-sasht-i-iran-podpisvat-sporazumenieto-do-chasove-637087.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pakistani Prime Minister Says Peace Deal Expected Within 24 Hours",
+          "link": "http://www.europesun.com/news/279120773/pakistani-prime-minister-says-peace-deal-expected-within-24-hours",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u039f\u0397\u0395 : \u0395\u03c0\u03c4\u03ac \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03ad\u03ba\u03b1 \u03c0\u03c1\u03cc\u03c3\u03c6\u03c5\u03b3\u03b5\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03bf\u03c5\u03bd \u03c3\u03b5 \u03bc\u03b1\u03ba\u03c1\u03bf\u03c7\u03c1\u03cc\u03bd\u03b9\u03bf \u03b5\u03ba\u03c4\u03bf\u03c0\u03b9\u03c3\u03bc\u03cc \u2013 \u0388\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03bc\u03cc\u03bd\u03b9\u03bc\u03b5\u03c2 \u03bb\u03cd\u03c3\u03b5\u03b9\u03c2",
+          "link": "https://newpost.gr/eidiseis/oie-epta-stoys-deka-prosfyges-paramenoyn-se-makrochronio-ektopismo-ekklisi-gia-monimes-lyseis/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Kijev napo grad ba\u0161 tokom posete ameri\u010dkog obave\u0161tajca Skota Ritera",
+          "link": "https://www.novosti.rs/planeta/svet/1617834/ukrajina-napad-starobelsk-skot-riter",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to discuss demining efforts at G7 as confidence grows for Iran war deal",
+          "link": "https://www.northwalespioneer.co.uk/news/national/26192165.trump-discuss-demining-efforts-g7-confidence-grows-iran-war-deal/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Time . ai",
+          "link": "https://time.mk/ai/6e1ef20f42/mk/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Cubadebate",
+          "link": "http://www.cubadebate.cu/noticias/2026/06/13/iran-y-estados-unidos-podrian-firmar-un-memorando-de-entendimiento-en-los-proximos-dias/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran war : Pakistan PM says peace deal expected in 24 hours",
+          "link": "https://article.wn.com/view/2026/06/13/Iran_war_Pakistan_PM_says_peace_deal_expected_in_24_hours_2/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Jim Beam column : Tomato prices unbelievable",
+          "link": "https://americanpress.com/2026/06/13/jim-beam-columntomato-prices-unbelievable/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump halts US military plan to forcibly seize Iran uranium : Report",
+          "link": "https://article.wn.com/view/2026/06/13/Trump_halts_US_military_s_plan_to_forcibly_seize_Iran_s_uran/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0423\u0440\u0433\u0435\u043d\u0442\u043d\u0430\u044f \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f : \u043a\u0430\u043a \u0415\u0432\u0440\u043e\u043f\u0430 \u043f\u0435\u0440\u0435\u043e\u0441\u043c\u044b\u0441\u043b\u0438\u0432\u0430\u0435\u0442 \u0441\u0432\u043e\u044e \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0438 \u0440\u043e\u043b\u044c \u0432 \u044d\u0442\u043e\u043c \u0423\u043a\u0440\u0430\u0438\u043d\u044b",
+          "link": "https://unn.ua/ru/news/urgentnaya-situatsiya-kak-yevropa-pereosmislivaet-svoyu-bezopasnost-i-rol-v-etom-ukraini",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Qui\u00e9n era \u00ab Ni\u00f1o Guerrero \u00bb, el l\u00edder del Tren de Aragua eliminado por las Fuerzas de Estados Unidos",
+          "link": "https://www.rionegro.com.ar/mundo/quien-era-nino-guerrero-el-lider-del-tren-de-aragua-eliminado-por-las-fuerzas-de-estados-unidos-4610007/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0418\u0440\u0430\u043d \u043c\u043e\u0433 \u043f\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u044c \u0430\u0440\u0441\u0435\u043d\u0430\u043b \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u043c\u0438 \u0440\u0430\u043a\u0435\u0442\u0430\u043c\u0438 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0437\u0430\u043f\u0430\u0441\u043e\u0432 - Bloomberg",
+          "link": "https://unn.ua/ru/news/iran-mog-popolnit-arsenal-rossiiskimi-raketami-vo-vremya-vosstanovleniya-zapasov-bloomberg",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "La pi\u00f9 grande scommessa di sempre di Elon Musk",
+          "link": "https://www.ilpost.it/2026/06/09/spacex-quotazione-borsa/?homepagePosition=16.1&referrerPost=3603716",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to discuss demining efforts at G7 as confidence grows for Iran war deal",
+          "link": "https://www.breakingnews.ie/world/trump-to-discuss-demining-efforts-at-g7-as-confidence-grows-for-iran-war-deal-1913230.html",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran Peace Deal Text Agreed : 440kg Enriched Uranium Stays in Tehran During 60 - Day Talks",
+          "link": "https://www.techtimes.com/articles/318319/20260613/iran-peace-deal-text-agreed-440kg-enriched-uranium-stays-tehran-during-60-day-talks.htm",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "LIVE Pakistan ziet ondertekening akkoord tussen VS en Iran binnen 24 uur , maar Iran is voorzichtiger",
+          "link": "https://www.vrt.be/vrtnws/nl/liveblog/pakistan-ziet-ondertekening-akkoord-tussen-vs-en-iran-binnen-24-~1780888076260/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0996\u09be\u09ae\u09c7\u09a8\u09bf\u09b0 \u099c\u09be\u09a8\u09be\u099c\u09be \u09ea \u099c\u09c1\u09b2\u09be\u0987",
+          "link": "https://www.risingbd.com/international/news/652834",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Lebanese army withdraws from southern village after Israeli troops advance nearby",
+          "link": "https://www.news4jax.com/news/world/2026/06/13/lebanese-army-withdraws-from-southern-village-after-israeli-troops-advance-nearby/",
+          "summary": "",
+          "source": "GDELT: iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: Iran",
@@ -311,358 +662,7 @@
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "M\u00e1s cerca que nunca : Ir\u00e1n y EE . UU . avanzan hacia la firma del acuerdo para destrabar crisis en Medio Oriente",
-          "link": "https://www.elpais.com.uy/mundo/mas-cerca-que-nunca-iran-y-ee-uu-avanzan-hacia-la-firma-del-acuerdo-para-destrabar-crisis-en-medio-oriente",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US - Milit\u00e4r plante Bodenmission im Iran zur Erbeutung des Urans , doch Donald Trump stoppte sie",
-          "link": "https://www.focus.de/politik/ausland/us-militaer-plante-bodenmission-im-iran-zur-erbeutung-des-urans-doch-donald-trump-stoppte-sie_d249762f-2fde-4c0d-bb11-3131a8ba316a.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Funeral Services For Iran Late Ayatollah Announced",
-          "link": "https://klvi.iheart.com/content/2026-06-13-funeral-services-for-irans-late-ayatollah-announced/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July , as a deal to end the war nears",
-          "link": "https://www.yoursourceone.com/news/national_news/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end/article_734fd9b9-6f16-5ceb-8040-1122ff5a0924.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Pakist\u00e1n apunta que el acuerdo entre EEUU e Ir\u00e1n se finalizar\u00e1  probablemente  en 24 horas",
-          "link": "https://www.ondacero.es/noticias/mundo/iran-afirma-que-acuerdo-estados-unidos-podria-firmar-proximos-dias_202606136a2d42d80f0ef63eb66e1475.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran , cosa c  \u00e8 dietro lintesa con gli united states : dai 20 miliardi degli Emirati a Teheran allo stop alle armi nucleari",
-          "link": "https://www.ilmessaggero.it/mondo/iran_usa_cosa_c_e_dietro_intesa-9590387.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.borehamwoodtimes.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.yorkpress.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran cosa c  \u00e8 dietro l  intesa con gli united states | dai 20 miliardi degli Emirati a Teheran allo stop alle armi nucleari",
-          "link": "https://www.zazoom.it/2026-06-13/iran-cosa-ce-dietro-lintesa-con-gli-usa-dai-20-miliardi-degli-emirati-a-teheran-allo-stop-alle-armi-nucleari/19339684/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.sthelensstar.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0398\u03ad\u03bc\u03b1 \u03c7\u03c1\u03cc\u03bd\u03bf\u03c5 \u03b7 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u03b5\u03b9\u03c1\u03ae\u03bd\u03b7\u03c2 \u0397\u03a0\u0391 - \u0399\u03c1\u03ac\u03bd - \u038a\u03c3\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03b9\u03c2 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 24 \u03ce\u03c1\u03b5\u03c2",
-          "link": "https://www.dnews.gr/eidhseis/kosmos/593936/ipa-kai-iran-pio-konta-apo-pote-se-symfonia",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "What we know about a possible deal to end the Iran war",
-          "link": "http://www.thegazette.com/news/world/what-we-know-about-a-possible-deal-to-end-the-iran-war/article_3d9fb49e-7733-5d2e-bd83-ad62308ab592.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "La ceremonia f\u00fanebre del ayatol\u00e1 Al\u00ed Jamenei comenzar\u00e1 el 4 de julio en Teher\u00e1n",
-          "link": "https://www.diariosigloxxi.com/texto-ep/mostrar/20260613131130/ceremonia-funebre-ayatola-ali-jamenei-comenzara-4-julio-teheran",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "What we know about a possible deal to end the Iran war",
-          "link": "https://www.2news.com/news/national/what-we-know-about-a-possible-deal-to-end-the-iran-war/article_a46f06c9-55f3-5280-b4f0-364d47893f39.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran i Amerika blizu sporazuma , tvrdi Pakistan . Objavljeni dijelovi nacrta",
-          "link": "https://www.index.hr/vijesti/clanak/iran-i-amerika-trebali-bi-potpisati-pocetni-sporazum-u-24-sata-tvrdi-pakistan/2802435.aspx",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran late Supreme Leader Ali Khamenei to be buried on July 9 : state TV",
-          "link": "https://www.geo.tv/latest/668580-irans-late-supreme-leader-ali-khamenei-to-be-buried-on-july-9-state-tv",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.leaderlive.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "AS - Iran Sepakat Hentikan Perang , Tinggal Teken Draf Perjanjian",
-          "link": "https://www.cnnindonesia.com/internasional/20260613182123-120-1368818/as-iran-sepakat-hentikan-perang-tinggal-teken-draf-perjanjian",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0406\u0440\u0430\u043d \u0437\u0440\u0443\u0439\u043d\u0443\u0432\u0430\u0432 \u0442\u0443\u043d\u0435\u043b\u0456 \u0434\u043e \u0437\u0430\u043f\u0430\u0441\u0456\u0432 \u0443\u0440\u0430\u043d\u0443 \u0442\u0430 \u0437\u0430\u043c\u0456\u043d\u0443\u0432\u0430\u0432 \u0432\u0445\u043e\u0434\u0438 \u2013 CNN",
-          "link": "https://www.radiosvoboda.org/a/news-iran-zrujnuvav-tuneli-do-zapasiv-uranu/33779730.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian drones downed in Hormuz US",
-          "link": "http://www.bignewsnetwork.com/news/279120809/iranian-drones-downed-in-hormuz-us",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0418\u0440\u0430\u043d \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u043f\u043e\u0434\u043f\u0438\u0441\u044b\u0432\u0430\u0442\u044c \u0441 \u0421\u0428\u0410 \u0434\u043e\u0433\u043e\u0432\u043e\u0440 \u043e \u043c\u0438\u0440\u0435 14 \u0438\u044e\u043d\u044f",
-          "link": "https://www.mk.ru/politics/2026/06/13/iran-ne-budet-podpisyvat-s-ssha-dogovor-o-mire-14-iyunya.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.surreycomet.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Podpis dohody mezi \u00cdr\u00e1nem a united states se \u010dek\u00e1 do 24 hodin , hl\u00e1s\u00ed p\u00e1kist\u00e1nsk\u00fd premi\u00e9r",
-          "link": "https://www.novinky.cz/clanek/zahranicni-blizky-a-stredni-vychod-podpis-dohody-mezi-iranem-a-usa-se-ceka-do-24-hodin-hlasi-pakistansky-premier-40583080",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0406\u0440\u0430\u043d \u0441\u0442\u0432\u043e\u0440\u0438\u0432 \u043d\u043e\u0432\u0456 \u043f\u0435\u0440\u0435\u0448\u043a\u043e\u0434\u0438 \u0434\u043b\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e \u043d\u0430\u0434 \u044f\u0434\u0435\u0440\u043d\u0438\u043c\u0438 \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0430\u043c\u0438",
-          "link": "https://glavcom.ua/world/observe/iran-stvoriv-novi-pereshkodi-dlja-kontrolju-nad-jadernimi-materialami-1125424.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Isi Draf Kesepakatan Damai AS - Iran",
-          "link": "https://www.cnnindonesia.com/internasional/20260613191635-120-1368836/isi-draf-kesepakatan-damai-as-iran",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - Krieg im Liveticker : +++ 15 : 01 Reporterin trifft Hisbollah - K\u00e4mpfer +++",
-          "link": "https://www.n-tv.de/politik/15-01-Reporterin-trifft-Hisbollah-Kaempfer-id30415311.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Funeral Services For Iran Late Ayatollah Announced | News Radio 920 AM & 104 . 7 FM",
-          "link": "https://newsradiori.iheart.com/content/2026-06-13-funeral-services-for-irans-late-ayatollah-announced/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US - Iran deal could be sealed within 24 hours , mediator Pakistan says",
-          "link": "https://www.theborneopost.com/2026/06/13/us-iran-deal-could-be-sealed-within-24-hours-mediator-pakistan-says/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Pakistani Prime Minister Says Peace Deal Expected Within 24 Hours",
-          "link": "http://www.southeastasiapost.com/news/279120773/pakistani-prime-minister-says-peace-deal-expected-within-24-hours",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Nahost : Iran - Deal laut Pakistan voraussichtlich innerhalb von 24 Stunden",
-          "link": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101287176/nahost-iran-deal-laut-pakistan-voraussichtlich-innerhalb-von-24-stunden.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July , as a deal to end the war nears",
-          "link": "https://www.clickorlando.com/news/2026/06/13/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end-the-war-nears/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Pakistan objavio :  Iran i SAD su se dogovorili , uskoro potpisuju sporazum . Iza\u0161li prvi detalji ...",
-          "link": "https://www.24sata.hr/news/pakistan-objavio-iran-i-sad-su-se-dogovorili-uskoro-potpisuju-sporazum-izasli-prvi-detalji-1134206",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July , as a deal to end the war nears",
-          "link": "http://www.bozemandailychronicle.com/ap_news/international/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end/article_4fd35511-2246-51a3-9191-890557d24ce3.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.westerntelegraph.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.stroudnewsandjournal.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran - US peace deal expected within 24 hours : PM Shehbaz",
-          "link": "https://thefrontierpost.com/iran-us-peace-deal-expected-within-24-hours-pm-shehbaz/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n anuncia que el funeral del l\u00edder supremo Ali Jamenei comenzar\u00e1 el 4 de julio y el entierro ser\u00e1 el 9 de julio",
-          "link": "https://www.elmundo.es/internacional/2026/06/13/6a2d367ffc6c83f5398b4599.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "UN cautious amid reports of possible US \u2013 Iran ceasefire \u2013 Channel Africa",
-          "link": "https://www.channelafrica.co.za/channelafrica/news/un-cautious-amid-reports-of-possible-us-iran-ceasefire/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "KBS \ub274\uc2a4",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8585569",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran i Amerika blizu sporazuma , tvrdi Pakistan . Objavljeni dijelovi nacrta",
-          "link": "https://www.index.hr/vijesti/clanak/iran-i-amerika-trebali-bi-potpisati-pocetni-sporazum-u-24-sata-tvrdi-pakistan/2802435.aspx?index_ref=homepage_comment_box_d&commentId=11340836",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "El acuerdo de paz entre EE . UU . e Ir\u00e1n est\u00e1  m\u00e1s cerca que nunca : Pakist\u00e1n prev\u00e9 que se firme en las pr\u00f3ximas 24 horas",
-          "link": "https://www.canal26.com/internacionales/2026/06/13/el-acuerdo-de-paz-entre-eeuu-e-iran-esta-mas-cerca-que-nunca-pakistan-preve-que-se-firme-en-las-proximas-24-horas/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.glasgowtimes.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "CNN - in Az\u0259rbaycanla ba\u011fl\u0131  ekskl\u00fcziv  yaz\u0131s\u0131n\u0131n uydurma oldu\u011fu m\u00fc\u0259yy\u0259n edildi",
-          "link": "https://musavat.com/news/cnn-in-azerbaycanla-bagli-ekskluziv-yazisinin-uydurma-oldugu-mueyyen-edildi_1268239.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0399\u03c1\u03ac\u03bd : \u039f\u03b9 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ba\u03b7\u03b4\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0391\u03bb\u03af \u03a7\u03b1\u03bc\u03b5\u03bd\u03b5\u0390 - \u03a0\u03cc\u03c4\u03b5 \u03b8\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9",
-          "link": "https://www.dnews.gr/eidhseis/kosmos/593928/iran-oi-leptomereies-gia-tin-kideia-tou-ali-xamenei-pote-tha-ginei",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Kapan Pemakaman Ayatollah Ali Khamenei ?",
-          "link": "https://www.cnnindonesia.com/internasional/20260613184952-120-1368832/iran-umumkan-tanggal-pemakaman-ali-khamenei",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July , as a deal to end the war nears",
-          "link": "https://www.smdailyjournal.com/news/world/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end/article_c2169ebb-eac4-57ba-9637-e793c94bdad3.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.dudleynews.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Funeral Services For Iran Late Ayatollah Announced",
-          "link": "https://wbhpam.iheart.com/content/2026-06-13-funeral-services-for-irans-late-ayatollah-announced/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.yourlocalguardian.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-          "link": "https://www.peeblesshirenews.com/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -679,263 +679,165 @@
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
     },
     {
-      "title": "\u2018Lots of things can still go wrong\u2019 with US-Iran deal to end the war",
-      "link": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
-      "summary": "Henry Ensher says the US\u2013Iran agreement is not a final settlement but only the start of a process that can go wrong.",
+      "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+      "link": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+      "summary": "Iranian authorities say assassinations and strikes over the past year have failed to deter them.",
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     },
     {
-      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-      "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
-      "summary": "Funeral ceremonies will take place in Tehran and Qom before a burial in his home town of Mashhad.",
+      "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
+      "summary": "Iranians gave mixed reactions as Iran and the US said they were close to an interim agreement to end the war.",
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     },
     {
-      "title": "US - Milit\u00e4r plante Bodenmission im Iran zur Erbeutung des Urans , doch Donald Trump stoppte sie",
-      "link": "https://www.focus.de/politik/ausland/us-militaer-plante-bodenmission-im-iran-zur-erbeutung-des-urans-doch-donald-trump-stoppte-sie_d249762f-2fde-4c0d-bb11-3131a8ba316a.html",
+      "title": "Trump to discuss Strait of Hormuz demining efforts at G7 as confidence grows for Iran war deal",
+      "link": "https://www.news4jax.com/news/2026/06/13/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end-the-war-nears/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Funeral Services For Iran Late Ayatollah Announced",
-      "link": "https://klvi.iheart.com/content/2026-06-13-funeral-services-for-irans-late-ayatollah-announced/",
+      "title": "Iran exclude semnarea acordului de pace cu SUA \u00een urm\u0103toarele 24 de ore . \u201e Trebuie s\u0103 a\u0219tept\u0103m",
+      "link": "https://ziare.com/iran/acord-pace-24-ore-s-u-a-2018381",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July , as a deal to end the war nears",
-      "link": "https://www.yoursourceone.com/news/national_news/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end/article_734fd9b9-6f16-5ceb-8040-1122ff5a0924.html",
+      "title": "Israel not Iran is major nuclear threat in Middle East",
+      "link": "http://www.greekherald.com/news/279120963/israel-not-iran-is-major-nuclear-threat-in-middle-east-professor",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran , cosa c  \u00e8 dietro lintesa con gli united states : dai 20 miliardi degli Emirati a Teheran allo stop alle armi nucleari",
-      "link": "https://www.ilmessaggero.it/mondo/iran_usa_cosa_c_e_dietro_intesa-9590387.html",
+      "title": "Coupe du monde 2026 : Un cadavre retrouv\u00e9 devant le stade o\u00f9 sentra\u00eene l  \u00e9quipe dIran",
+      "link": "https://www.lessentiel.lu/fr/story/coupe-du-monde-2026-un-cadavre-retrouve-devant-le-stade-ou-s-entraine-l-equipe-d-iran-103581796",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.borehamwoodtimes.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
+      "title": "Guerre en Iran : le Qatar \u00e0 la man\u0153uvre pour conclure un accord Washington - T\u00e9h\u00e9ran",
+      "link": "https://www.lejdd.fr/International/guerre-en-iran-le-qatar-a-la-manoeuvre-pour-conclure-un-accord-washington-teheran-176331",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.yorkpress.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
+      "title": "Ugledni profesor ka\u017ee da je nuklearna pretnja Izrael , ne Iran",
+      "link": "https://www.novosti.rs/planeta/svet/1617839/izrael-nuklearna-opasnost-iran-ugledni-profesor-savetnik-pentagonu-otkrio-ratom-iranu-skrece-mnogo-opasnije-teme",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran cosa c  \u00e8 dietro l  intesa con gli united states | dai 20 miliardi degli Emirati a Teheran allo stop alle armi nucleari",
-      "link": "https://www.zazoom.it/2026-06-13/iran-cosa-ce-dietro-lintesa-con-gli-usa-dai-20-miliardi-degli-emirati-a-teheran-allo-stop-alle-armi-nucleari/19339684/",
+      "title": "Funeral Services For Iran Late Ayatollah Announced | WJBO Newsradio 1150 AM & 98 . 7 FM",
+      "link": "https://wjbo.iheart.com/content/2026-06-13-funeral-services-for-irans-late-ayatollah-announced/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.sthelensstar.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
+      "title": "Pakistanas tikisi , kad JAV ir Irano susitarimas bus galutinai parengtas per artimiausias 24 valandas",
+      "link": "https://m.kauno.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/pakistanas-tikisi-kad-jav-ir-irano-susitarimas-bus-galutinai-parengtas-artimiausias-24-valandas-1761081",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "What we know about a possible deal to end the Iran war",
-      "link": "http://www.thegazette.com/news/world/what-we-know-about-a-possible-deal-to-end-the-iran-war/article_3d9fb49e-7733-5d2e-bd83-ad62308ab592.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
       "title": "What we know about a possible deal to end the Iran war",
-      "link": "https://www.2news.com/news/national/what-we-know-about-a-possible-deal-to-end-the-iran-war/article_a46f06c9-55f3-5280-b4f0-364d47893f39.html",
+      "link": "https://www.mercurynews.com/2026/06/13/what-we-know-about-a-possible-deal-to-end-the-iran-war/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran i Amerika blizu sporazuma , tvrdi Pakistan . Objavljeni dijelovi nacrta",
-      "link": "https://www.index.hr/vijesti/clanak/iran-i-amerika-trebali-bi-potpisati-pocetni-sporazum-u-24-sata-tvrdi-pakistan/2802435.aspx",
+      "title": "Iran and the US are nearing a preliminary peace memorandum",
+      "link": "https://www.mathrubhumi.com/news/world/us-iran-peace-agreement-updates-qjbwamqy",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran late Supreme Leader Ali Khamenei to be buried on July 9 : state TV",
-      "link": "https://www.geo.tv/latest/668580-irans-late-supreme-leader-ali-khamenei-to-be-buried-on-july-9-state-tv",
+      "title": "Not tomorrow : Iran rejects Pakistan 24 - hour timeline for signing deal with US , urges caution",
+      "link": "https://www.hindustantimes.com/world-news/iran-rejects-pakistans-24-hour-timeline-for-signing-deal-with-us-urges-caution-trump-sharif-101781361189876.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.leaderlive.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
+      "title": "Pakistan , Swiss foreign ministers hold 2nd call in 24 hours on US - Iran peace push",
+      "link": "https://aa.com.tr/en/us-israel-iran-war/pakistan-swiss-foreign-ministers-hold-2nd-call-in-24-hours-on-us-iran-peace-push/3966037",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "AS - Iran Sepakat Hentikan Perang , Tinggal Teken Draf Perjanjian",
-      "link": "https://www.cnnindonesia.com/internasional/20260613182123-120-1368818/as-iran-sepakat-hentikan-perang-tinggal-teken-draf-perjanjian",
+      "title": "Iran : nog geen dealondertekening met VS zondag",
+      "link": "https://nieuws.nl/buitenland/iran-stelt-dat-er-zondag-nog-geen-ondertekening-deal-met-vs-is",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranian drones downed in Hormuz US",
-      "link": "http://www.bignewsnetwork.com/news/279120809/iranian-drones-downed-in-hormuz-us",
+      "title": "Ende des Iran - Krieges in Sicht : Das steht im Geheimdeal der united states",
+      "link": "https://www.merkur.de/politik/die-usa-bemuehen-sich-hastig-ein-iran-abkommen-abzuschliessen-bevor-trump-zum-g7-reist-zr-94349852.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.surreycomet.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
+      "title": "Pogreb biv\u0161eg iranskog vo\u0111e Alija Hameneija trajat \u0107e od 4 . do 9 . srpnja",
+      "link": "https://vijesti.hrt.hr/svijet/pogreb-bivseg-iranskog-vode-alija-hameneija-trajat-ce-od-4-do-9-srpnja-12765187",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Isi Draf Kesepakatan Damai AS - Iran",
-      "link": "https://www.cnnindonesia.com/internasional/20260613191635-120-1368836/isi-draf-kesepakatan-damai-as-iran",
+      "title": "Trump to discuss demining efforts at G7 as confidence grows for Iran war deal",
+      "link": "https://www.northwalespioneer.co.uk/news/national/26192165.trump-discuss-demining-efforts-g7-confidence-grows-iran-war-deal/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iran - Krieg im Liveticker : +++ 15 : 01 Reporterin trifft Hisbollah - K\u00e4mpfer +++",
-      "link": "https://www.n-tv.de/politik/15-01-Reporterin-trifft-Hisbollah-Kaempfer-id30415311.html",
+      "title": "Iran war : Pakistan PM says peace deal expected in 24 hours",
+      "link": "https://article.wn.com/view/2026/06/13/Iran_war_Pakistan_PM_says_peace_deal_expected_in_24_hours_2/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Funeral Services For Iran Late Ayatollah Announced | News Radio 920 AM & 104 . 7 FM",
-      "link": "https://newsradiori.iheart.com/content/2026-06-13-funeral-services-for-irans-late-ayatollah-announced/",
+      "title": "Trump halts US military plan to forcibly seize Iran uranium : Report",
+      "link": "https://article.wn.com/view/2026/06/13/Trump_halts_US_military_s_plan_to_forcibly_seize_Iran_s_uran/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "US - Iran deal could be sealed within 24 hours , mediator Pakistan says",
-      "link": "https://www.theborneopost.com/2026/06/13/us-iran-deal-could-be-sealed-within-24-hours-mediator-pakistan-says/",
+      "title": "Trump to discuss demining efforts at G7 as confidence grows for Iran war deal",
+      "link": "https://www.breakingnews.ie/world/trump-to-discuss-demining-efforts-at-g7-as-confidence-grows-for-iran-war-deal-1913230.html",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Nahost : Iran - Deal laut Pakistan voraussichtlich innerhalb von 24 Stunden",
-      "link": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101287176/nahost-iran-deal-laut-pakistan-voraussichtlich-innerhalb-von-24-stunden.html",
+      "title": "Iran Peace Deal Text Agreed : 440kg Enriched Uranium Stays in Tehran During 60 - Day Talks",
+      "link": "https://www.techtimes.com/articles/318319/20260613/iran-peace-deal-text-agreed-440kg-enriched-uranium-stays-tehran-during-60-day-talks.htm",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July , as a deal to end the war nears",
-      "link": "https://www.clickorlando.com/news/2026/06/13/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end-the-war-nears/",
+      "title": "LIVE Pakistan ziet ondertekening akkoord tussen VS en Iran binnen 24 uur , maar Iran is voorzichtiger",
+      "link": "https://www.vrt.be/vrtnws/nl/liveblog/pakistan-ziet-ondertekening-akkoord-tussen-vs-en-iran-binnen-24-~1780888076260/",
       "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Pakistan objavio :  Iran i SAD su se dogovorili , uskoro potpisuju sporazum . Iza\u0161li prvi detalji ...",
-      "link": "https://www.24sata.hr/news/pakistan-objavio-iran-i-sad-su-se-dogovorili-uskoro-potpisuju-sporazum-izasli-prvi-detalji-1134206",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July , as a deal to end the war nears",
-      "link": "http://www.bozemandailychronicle.com/ap_news/international/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end/article_4fd35511-2246-51a3-9191-890557d24ce3.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.westerntelegraph.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.stroudnewsandjournal.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran - US peace deal expected within 24 hours : PM Shehbaz",
-      "link": "https://thefrontierpost.com/iran-us-peace-deal-expected-within-24-hours-pm-shehbaz/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "UN cautious amid reports of possible US \u2013 Iran ceasefire \u2013 Channel Africa",
-      "link": "https://www.channelafrica.co.za/channelafrica/news/un-cautious-amid-reports-of-possible-us-iran-ceasefire/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran i Amerika blizu sporazuma , tvrdi Pakistan . Objavljeni dijelovi nacrta",
-      "link": "https://www.index.hr/vijesti/clanak/iran-i-amerika-trebali-bi-potpisati-pocetni-sporazum-u-24-sata-tvrdi-pakistan/2802435.aspx?index_ref=homepage_comment_box_d&commentId=11340836",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.glasgowtimes.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Funeral for slain Iranian Supreme Leader Khamenei set for July , as a deal to end the war nears",
-      "link": "https://www.smdailyjournal.com/news/world/funeral-for-slain-iranian-supreme-leader-khamenei-set-for-july-as-a-deal-to-end/article_c2169ebb-eac4-57ba-9637-e793c94bdad3.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.dudleynews.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Funeral Services For Iran Late Ayatollah Announced",
-      "link": "https://wbhpam.iheart.com/content/2026-06-13-funeral-services-for-irans-late-ayatollah-announced/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.yourlocalguardian.co.uk/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian supreme leader funeral set for July as deal to end war approaches",
-      "link": "https://www.peeblesshirenews.com/news/national/26191966.iranian-supreme-leaders-funeral-set-july-deal-end-war-approaches/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+      "source": "GDELT: iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
