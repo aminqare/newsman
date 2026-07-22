@@ -1,19 +1,26 @@
 {
-  "generated_at": "2026-07-22T14:07:32Z",
+  "generated_at": "2026-07-22T16:23:11Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
         {
-          "title": "Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper's killers",
+          "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
           "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
-          "summary": "The prime minister says he cannot commit to changing the policy but wants to look at it in detail \"before we go further forward\".",
+          "summary": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+          "title": "Most bus fares in England to be capped at \u00a32 from January",
+          "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
+          "summary": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
           "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
           "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
           "source": "BBC News",
@@ -32,13 +39,6 @@
           "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-          "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
       ]
     },
@@ -54,9 +54,23 @@
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
         {
-          "title": "\u0631\u0648\u0628\u06cc\u0648: \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u062d\u0644 \u062f\u06cc\u067e\u0644\u0645\u0627\u062a\u06cc\u06a9 \u062a\u0645\u0627\u06cc\u0644 \u062f\u0627\u0631\u062f \u0627\u0645\u0627 \u062a\u0647\u0631\u0627\u0646 \u062c\u062f\u06cc \u0646\u06cc\u0633\u062a",
-          "link": "https://www.bbc.com/persian/articles/cwye8yvn378o?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0645\u0627\u0631\u06a9\u0648 \u0631\u0648\u0628\u06cc\u0648\u060c \u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u06af\u0641\u062a\u0647 \u0627\u0633\u062a \u06a9\u0647 \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f \u0647\u0645\u0686\u0646\u0627\u0646 \u0622\u0645\u0627\u062f\u0647 \u0645\u0630\u0627\u06a9\u0631\u0647 \u0628\u0631\u0627\u06cc \u067e\u0627\u06cc\u0627\u0646 \u062f\u0627\u062f\u0646 \u0628\u0647 \u0628\u062d\u0631\u0627\u0646 \u0628\u0627 \u0627\u06cc\u0631\u0627\u0646 \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u062a\u0647\u0631\u0627\u0646 \u062f\u0631 \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u062c\u062f\u06cc \u0646\u06cc\u0633\u062a.",
+          "title": "\u0648\u062e\u0627\u0645\u062a \u0648\u0636\u0639\u06cc\u062a \u062c\u0633\u0645\u06cc \u062f\u0648 \u0634\u0647\u0631\u0648\u0646\u062f \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627\u06cc\u06cc \u0632\u0646\u062f\u0627\u0646\u06cc \u062f\u0631 \u0627\u06cc\u0631\u0627\u0646 \u067e\u0633 \u0627\u0632 \u062f\u0648 \u0645\u0627\u0647 \u0627\u0639\u062a\u0635\u0627\u0628 \u063a\u0630\u0627",
+          "link": "https://www.bbc.com/persian/articles/c98vy5j09g5o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0628\u0631 \u0627\u0633\u0627\u0633 \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u060c \u0644\u06cc\u0646\u062f\u0632\u06cc \u0648 \u06a9\u0631\u06cc\u06af \u0641\u0648\u0631\u0645\u0646\u060c \u062f\u0648 \u0634\u0647\u0631\u0648\u0646\u062f \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627\u06cc\u06cc \u0632\u0646\u062f\u0627\u0646\u06cc \u062f\u0631 \u0627\u06cc\u0631\u0627\u0646\u060c \u067e\u0633 \u0627\u0632 \u0628\u06cc\u0634 \u0627\u0632 \u062f\u0648 \u0645\u0627\u0647 \u0627\u0639\u062a\u0635\u0627\u0628 \u063a\u0630\u0627 \u062f\u0631 \u0632\u0646\u062f\u0627\u0646 \u0627\u0648\u06cc\u0646 \u062f\u0631 \u062a\u0647\u0631\u0627\u0646\u060c \u0641\u0642\u0637 \u0628\u0627 \u0646\u0648\u0634\u06cc\u062f\u0646 \u0622\u0628 \u0628\u0647 \u0632\u0646\u062f\u06af\u06cc \u062e\u0648\u062f \u0627\u062f\u0627\u0645\u0647 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f.",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u0632\u0646\u062f\u0627\u06cc\u0627\u060c\u200c \u0632\u06cc\u0648\u06cc\u0647 \u0648 \u062c\u0646\u062c\u0627\u0644 \u0628\u0631 \u0633\u0631 \u06af\u0648\u0634\u0648\u0627\u0631\u0647\u200c\u0647\u0627\u06cc \u00ab\u0633\u0647\u200c\u0647\u0632\u0627\u0631 \u0633\u0627\u0644\u0647\u00bb\u200c \u0627\u06cc\u0631\u0627\u0646\u06cc",
+          "link": "https://www.bbc.com/persian/articles/cd9wqdzx481o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u062d\u0636\u0648\u0631 \u0632\u0646\u062f\u0627\u06cc\u0627 \u0628\u0627 \u06af\u0648\u0634\u0648\u0627\u0631\u0647\u200c\u0647\u0627\u06cc\u06cc \u0645\u0646\u062a\u0633\u0628 \u0628\u0647 \u06af\u0646\u062c\u06cc\u0646\u0647 \u0632\u06cc\u0648\u06cc\u0647 \u062f\u0631 \u0645\u0631\u0627\u0633\u0645 \u062a\u0628\u0644\u06cc\u063a\u0627\u062a\u06cc \u0641\u06cc\u0644\u0645 \u0627\u062f\u06cc\u0633\u0647 \u062f\u0631 \u0644\u0646\u062f\u0646\u060c \u0628\u062d\u062b\u06cc \u062a\u0627\u0632\u0647 \u062f\u0631\u0628\u0627\u0631\u0647 \u0633\u0631\u0646\u0648\u0634\u062a \u0622\u062b\u0627\u0631 \u0628\u0627\u0633\u062a\u0627\u0646\u06cc \u0627\u06cc\u0631\u0627\u0646\u060c \u0628\u0627\u0632\u0627\u0631 \u0639\u062a\u06cc\u0642\u0647 \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u06cc\u0631\u0627\u062b \u0641\u0631\u0647\u0646\u06af\u06cc \u062f\u0631 \u0635\u0646\u0639\u062a \u0645\u062f \u0628\u0631\u0627\u0646\u06af\u06cc\u062e\u062a\u0647 \u0627\u0633\u062a.",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627: \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0647 \u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0627\u062c\u0627\u0632\u0647 \u063a\u0646\u06cc\u200c\u0633\u0627\u0632\u06cc \u0627\u0648\u0631\u0627\u0646\u06cc\u0648\u0645 \u0645\u06cc\u200c\u062f\u0647\u062f",
+          "link": "https://www.bbc.com/persian/articles/cjrv835p4n8o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0631\u0633\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u06af\u0632\u0627\u0631\u0634 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0648\u0627\u0634\u0646\u06af\u062a\u0646 \u0648 \u0631\u06cc\u0627\u0636 \u0642\u0631\u0627\u0631 \u0627\u0633\u062a \u062a\u0648\u0627\u0641\u0642\u06cc \u0631\u0627 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0646\u0646\u062f \u06a9\u0647 \u0628\u0647 \u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0633\u0639\u0648\u062f\u06cc \u0627\u062c\u0627\u0632\u0647 \u0645\u06cc\u200c\u062f\u0647\u062f \u06cc\u06a9 \u0628\u0631\u0646\u0627\u0645\u0647 \u0647\u0633\u062a\u0647\u200c\u0627\u06cc \u063a\u06cc\u0631\u0646\u0638\u0627\u0645\u06cc \u062a\u0648\u0633\u0639\u0647 \u062f\u0647\u062f \u0648 \u0627\u062d\u062a\u0645\u0627\u0644\u0627 \u0628\u062e\u0634\u06cc \u0627\u0632 \u0633\u0648\u062e\u062a \u0645\u0648\u0631\u062f \u0646\u06cc\u0627\u0632 \u0622\u0646 \u0631\u0627 \u062f\u0631 \u062f\u0627\u062e\u0644 \u06a9\u0634\u0648\u0631 \u062a\u0648\u0644\u06cc\u062f \u06a9\u0646\u062f.",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
@@ -64,20 +78,6 @@
           "title": "\u062a\u0631\u0627\u0645\u067e: \u0627\u06af\u0631 \u0644\u0628\u0646\u0627\u0646 \u0628\u062e\u0648\u0627\u0647\u062f\u060c \u0628\u0627 \u062d\u0632\u0628\u200c\u0627\u0644\u0644\u0647 \u06af\u0641\u062a\u200c\u0648\u06af\u0648 \u0645\u06cc\u200c\u06a9\u0646\u0645",
           "link": "https://www.bbc.com/persian/articles/cr59673v2ndo?at_medium=RSS&at_campaign=rss",
           "summary": "\u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u062f\u0631 \u062f\u06cc\u062f\u0627\u0631 \u0628\u0627 \u062c\u0648\u0632\u0641 \u0639\u0648\u0646 \u062f\u0631 \u06a9\u0627\u062e \u0633\u0641\u06cc\u062f \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u06a9\u0647 \u062f\u0631 \u0635\u0648\u0631\u062a \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0644\u0628\u0646\u0627\u0646\u060c \u0622\u0645\u0627\u062f\u0647 \u06af\u0641\u062a\u200c\u0648\u06af\u0648 \u0628\u0627 \u062d\u0632\u0628\u200c\u0627\u0644\u0644\u0647 \u0627\u0633\u062a. \u062f\u0631 \u0645\u0642\u0627\u0628\u0644\u060c \u0639\u0648\u0646 \u062e\u0648\u0627\u0633\u062a\u0627\u0631 \u0627\u062f\u0627\u0645\u0647 \u062d\u0645\u0627\u06cc\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0632 \u0627\u0631\u062a\u0634 \u0644\u0628\u0646\u0627\u0646 \u0648 \u0627\u0639\u0645\u0627\u0644 \u0641\u0634\u0627\u0631 \u0628\u0631 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0628\u0631\u0627\u06cc \u062a\u06a9\u0645\u06cc\u0644 \u0631\u0648\u0646\u062f\u2026",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u0645\u0647\u062f\u06cc \u062e\u0627\u0646\u06a9\u06cc \u0627\u0632 \u0645\u062a\u0647\u0645\u0627\u0646 \u0627\u0639\u062a\u0631\u0627\u0636\u0627\u062a \u062f\u06cc \u06f1\u06f4\u06f0\u06f4\u060c \u0627\u0639\u062f\u0627\u0645 \u0634\u062f",
-          "link": "https://www.bbc.com/persian/articles/c8rnjze3kdmo?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0642\u0648\u0647 \u0642\u0636\u0627\u0626\u06cc\u0647 \u0627\u06cc\u0631\u0627\u0646 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u0645\u0647\u062f\u06cc \u062e\u0627\u0646\u06a9\u06cc\u060c \u0627\u0632 \u0645\u0639\u062a\u0631\u0636\u0627\u0646 \u062f\u06cc \u0631\u0627 \u0628\u0647 \u0627\u062a\u0647\u0627\u0645 \u00ab\u0627\u0642\u062f\u0627\u0645 \u0639\u0645\u0644\u06cc\u0627\u062a\u06cc\u00bb \u0628\u0647 \u0646\u0641\u0639 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0648 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u06af\u0631\u0648\u0647\u200c\u0647\u0627\u06cc \u0645\u062a\u062e\u0627\u0635\u0645\u00bb \u0648 \u00ab\u0633\u0627\u062e\u062a\u060c \u062a\u0647\u06cc\u0647 \u0648 \u0646\u06af\u0647\u062f\u0627\u0631\u06cc \u0627\u0633\u0644\u062d\u0647 \u0648 \u0645\u0647\u0645\u0627\u062a \u062c\u0646\u06af\u06cc \u0648 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0622\u0646\u0647\u0627\u00bb\u060c \u0627\u0639\u062f\u0627\u0645 \u06a9\u0631\u062f.",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u067e\u0634\u062a \u067e\u0631\u062f\u0647 \u00ab\u0641\u0631\u0642\u0647\u00bb \u062c\u0641\u0631\u06cc \u0627\u067e\u0633\u062a\u06cc\u0646\u061b \u0631\u0648\u0627\u06cc\u062a \u0632\u0646\u06cc \u06a9\u0647 \u0633\u0627\u0644\u200c\u0647\u0627 \u062a\u062d\u062a \u06a9\u0646\u062a\u0631\u0644 \u0627\u0648 \u0628\u0648\u062f",
-          "link": "https://www.bbc.com/persian/articles/cgq5y9110d5o?at_medium=RSS&at_campaign=rss",
-          "summary": "\u00ab\u0622\u0646\u06cc\u0627\u00bb \u062f\u0631 \u06af\u0641\u062a\u200c\u0648\u06af\u0648\u06cc\u06cc \u06a9\u0645\u200c\u0633\u0627\u0628\u0642\u0647 \u0628\u0627 \u0628\u06cc\u200c\u0628\u06cc\u200c\u0633\u06cc \u0631\u0648\u0627\u06cc\u062a \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u062c\u0641\u0631\u06cc \u0627\u067e\u0633\u062a\u06cc\u0646\u060c \u0633\u0631\u0645\u0627\u06cc\u0647\u200c\u062f\u0627\u0631 \u0645\u062d\u06a9\u0648\u0645 \u0628\u0647 \u062c\u0631\u0627\u06cc\u0645 \u062c\u0646\u0633\u06cc\u060c \u0686\u06af\u0648\u0646\u0647 \u0632\u0646\u0627\u0646\u06cc \u0631\u0627 \u06a9\u0647 \u0627\u0632 \u0622\u0646\u200c\u0647\u0627 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u00ab\u062f\u0633\u062a\u06cc\u0627\u0631\u0627\u0646\u00bb \u062e\u0648\u062f \u06cc\u0627\u062f \u0645\u06cc\u200c\u06a9\u0631\u062f\u060c \u0641\u0631\u06cc\u0628 \u0645\u06cc\u200c\u062f\u0627\u062f \u0648 \u0645\u0648\u0631\u062f \u0633\u0648\u0621\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0642\u0631\u0627\u0631 \u0645\u06cc\u200c\u062f\u0627\u062f.",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         }
@@ -134,36 +134,36 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
-          "title": "OverpAId \u2013 Fire your CEO. Hire the future",
-          "link": "https://overpaid.lol",
+          "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+          "link": "https://bento.page/slides/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Back to Kagi",
-          "link": "https://blog.melashri.net/micro/back-to-kagi/",
+          "title": "Does creatine make you smarter?",
+          "link": "https://dynomight.net/creatine/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Businesses with ugly AI menu redesigns",
-          "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+          "title": "The startup's Postgres survival guide",
+          "link": "https://hatchet.run/blog/postgres-survival-guide",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "OpenAI and Hugging Face address security incident during model evaluation",
-          "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "title": "Show HN: HN Hall of Fame \u2013 browse 3,100 legendary Hacker News links",
+          "link": "https://www.orangecrumbs.com/hall/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Introduction to Formal Verification with Lean Part 1",
-          "link": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+          "title": "Airbus Full Scale Foldable Wing Extensions",
+          "link": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Open AI says its AI model \u201cwent rogue\u201d: What do we know?",
-          "link": "https://www.aljazeera.com/news/2026/7/22/open-ai-says-its-ai-model-went-rogue-what-do-we-know?traffic_source=rss",
-          "summary": "The system hacked into another company without being prompted by a human.",
+          "title": "War on Iran: Hegseth wants $70B more to keep fighting",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
+          "summary": "Iran activated air defence systems across Tehran on the 11th night of US strikes.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "UK\u2019s Miliband, Streeting: What are their foreign policy, defence records?",
-          "link": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records?traffic_source=rss",
-          "summary": "Miliband, Trump critic who once opposed strikes on Syria, joins Streeting, defence novice with shifting Israel views.",
+          "title": "Proposed US-Saudi nuclear energy deal: What we know so far",
+          "link": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss",
+          "summary": "Reports suggest \u200cthe Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Israeli strike leaves two Palestinians burnt beyond recognition",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss",
-          "summary": "An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.",
+          "title": "Why are billionaires growing richer than ever?",
+          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/22/why-are-billionaires-growing-richer-than-ever?traffic_source=rss",
+          "summary": "Billionaires are on the rise as the rest struggle with inequality, poverty and cost of living crisis.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "The Indian football tournament where goats replace trophies",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/the-indian-football-tournament-where-goats-replace-trophies?traffic_source=rss",
-          "summary": "GOATs are not players, but prizes at this football tournament in eastern India.",
+          "title": "From towns to zones: Why Israel gives military names to civilian areas",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/from-towns-to-zones-why-israel-gives-military-names-to-civilian-areas?traffic_source=rss",
+          "summary": "Israeli authorities are increasingly applying security terminology for residential areas where people live.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "English FA charges Southampton coach Tonda Eckert over \u2018spygate\u2019 scandal",
-          "link": "https://www.aljazeera.com/sports/2026/7/22/english-fa-charges-southampton-coach-tonda-eckert-over-spygate-scandal?traffic_source=rss",
-          "summary": "Allegations of spying on rivals led to Southampton's expulsion from the Championship playoff final.",
+          "title": "Elon and the Other Gaza",
+          "link": "https://www.aljazeera.com/video/people-power/2026/7/22/elon-and-the-other-gaza?traffic_source=rss",
+          "summary": "How the world's richest man helped trigger an HIV crisis in one of the world's poorest countries.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,20 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
+          "link": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers",
+          "summary": "It's not just watching paint dry. The twists and turns of the Reflecting Pool repairs, originally a two-week project, have kept bloggers and viewers busy all summer.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Independent autopsy \"inconclusive\" on cause of death for 18-year-old Nolan Wells in Mississippi",
+          "link": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
+          "summary": "An independent autopsy of the body of Nolan Wells shows that the cause of death is undetermined pending an investigation, according to attorney Ben Crump.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Greetings from Jerusalem, whose holy sites host some of the oldest colonies of nesting swifts",
           "link": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
           "summary": "The scythe-winged birds have nested in the cracks of the Western Wall and other holy sites in Jerusalem for thousands of years.",
@@ -276,20 +290,6 @@
           "summary": "Ruben Ray Martinez, 23, was fatally shot by an ICE agent two months into President Trump's second term. His mother says her family has yet to receive justice.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
-          "link": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-          "summary": "The attacks overshadowed diplomatic efforts in Pakistan, one of the conflict's mediators, where a senior Iranian official held talks potentially aimed at reviving a collapsed ceasefire between the United States and Iran.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Tropical Storm Bertha moves along the Gulf Coast but damage is expected to be limited",
-          "link": "https://www.npr.org/2026/07/22/nx-s1-5902142/tropical-storm-bertha-makes-landfall-but-damage-appears-limited",
-          "summary": "The El Ni\u00f1o weather pattern could limit how many Atlantic storms form this year. But unusually warm waters temperatures mean the risk of destructive storms is still high.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
       ]
     },
@@ -306,7 +306,358 @@
     {
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "US still willing to negotiate over Iran crisis : Rubio",
+          "link": "https://www.goulburnpost.com.au/story/9315160/us-still-willing-to-negotiate-over-iran-crisis-rubio/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "FinancialContent - Why GE Vernova ( GEV ) Shares Are Plunging Today",
+          "link": "https://markets.financialcontent.com/stocks/article/stockstory-2026-7-22-why-ge-vernova-gev-shares-are-plunging-today",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump threatens to bomb Iranian bridges , power plants over Strait of Hormuz attacks",
+          "link": "https://fox56.com/news/nation-world/president-donald-trump-threatens-to-bomb-iranian-bridges-power-plants-over-strait-of-hormuz-attacks-oil-global-trade-shipping-vessels-strategic-waterway-secretary-marco-rubio-middle-east-war-interim-agreement-peace-deal",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump : Neuer Atom - Deal versch\u00e4rft das nukleare Risiko im Nahen Osten",
+          "link": "https://www.otz.de/politik/article412647209/trumps-atom-deal-mit-saudi-arabien-verschaerft-das-nukleare-risiko-im-nahen-osten.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u09b8\u09cd\u09ac\u09b0\u09cd\u09a3\u09c7\u09b0 \u09a6\u09be\u09ae \u09a6\u09c1\u0987 \u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09b8\u09b0\u09cd\u09ac\u09cb\u099a\u09cd\u099a",
+          "link": "https://www.ntvbd.com/world/news-1776041",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0418\u0440\u0430\u043d \u0440\u0435\u0448\u0438\u043b \u0443\u0434\u0430\u0440\u0438\u0442\u044c \u043f\u043e \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u043c \u0431\u0430\u0437\u0430\u043c \u0432 \u0441\u043b\u0443\u0447\u0430\u0435 \u0430\u0442\u0430\u043a \u0421\u0428\u0410 \u043d\u0430 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u0442\u0430\u043d\u0446\u0438\u0438 :: \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0434\u043d\u044f / \u0412\u0417\u0413\u041b\u042f\u0414",
+          "link": "https://vz.ru/news/2026/7/22/1436924.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Respons Iran terhadap serangan ke fasilitas nuklir tidak akan terbatas",
+          "link": "https://www.antaranews.com/berita/5661480/respons-iran-terhadap-serangan-ke-fasilitas-nuklir-tidak-akan-terbatas",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "What to know about Iran Pickaxe Mountain , home to an underground nuclear site threatened by Trump",
+          "link": "http://www.theitem.com/stories/what-to-know-about-irans-pickaxe-mountain-home-to-an-underground-nuclear-site-threatened-by-trump,445318",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump : SUA vor lovi un pod sau o central\u0103 electric\u0103 iranian\u0103 dup\u0103 fiecare atac naval al Teheranului \u00een Str\u00e2mtoarea Ormuz",
+          "link": "https://www.digi24.ro/stiri/externe/mapamond/trump-sua-vor-lovi-un-pod-sau-o-centrala-electrica-iraniana-dupa-fiecare-atac-naval-al-teheranului-in-stramtoarea-ormuz-3873965",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump menace de frapper ponts et centrales iraniennes en r\u00e9ponse \u00e0 Ormuz",
+          "link": "https://latele.ch/articles/trump-menace-de-bombarder-centrales-et-ponts-iraniens",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pickaxe Mountain im Visier : Trump droht Iran mit Atombunker - Angriff",
+          "link": "http://www.wa.de/politik/pickaxe-mountain-im-visier-trump-droht-iran-mit-atombunker-angriff-zr-94410399.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump advirti\u00f3 que EEUU bombardear\u00e1 puentes y centrales el\u00e9ctricas de Ir\u00e1n por cada disparo contra buques en el estrecho de Ormuz",
+          "link": "https://www.infobae.com/america/mundo/2026/07/22/trump-advirtio-que-eeuu-bombardeara-puentes-y-centrales-electricas-de-iran-por-cada-disparo-contra-buques-en-el-estrecho-de-ormuz/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u09b9\u09b0\u09ae\u09c1\u099c\u09c7 \u099c\u09be\u09b9\u09be\u099c\u09c7 \u09b9\u09be\u09ae\u09b2\u09be \u09b9\u09b2\u09c7 \u0987\u09b0\u09be\u09a8\u09c7\u09b0 \u09b8\u09c7\u09a4\u09c1 \u0993 \u09ac\u09bf\u09a6\u09cd\u09af\u09c1\u09ce\u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0\u09c7 \u09ac\u09cb\u09ae\u09be \u09a8\u09bf\u0995\u09cd\u09b7\u09c7\u09aa\u09c7\u09b0 \u09b9\u09c1\u09ae\u0995\u09bf \u099f\u09cd\u09b0\u09be\u09ae\u09cd\u09aa\u09c7\u09b0",
+          "link": "https://www.dailynayadiganta.com/international/asia/middle-east/kJd0hbZoUQE8",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump threatens to bomb Iranian bridges , power plants over ship attacks",
+          "link": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Donald Trumptan \u0130rana  H\u00fcrm\u00fcz Bo\u011faz\u0131  tehdidi",
+          "link": "https://www.internethaber.com/donald-trumptan-irana-hurmuz-bogazi-tehdidi-2452013h.htm",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u0646 \u063a\u0632\u0629 \u0625\u0644\u0649 \u0625\u064a\u0631\u0627\u0646 : \u062b\u0645\u0646 \u0639\u062c\u0632 \u0623\u0645\u0631\u064a\u0643\u0627 \u0639\u0646 \u0642\u0648\u0644  \u0644\u0627  \u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+          "link": "https://www.alquds.com/ar/posts/250916",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Va Trump contra centrales el\u00e9ctricas si Ir\u00e1n ataca en Ormuz",
+          "link": "https://www.eldiariodechihuahua.mx/estados-unidos/2026/jul/22/va-trump-contra-centrales-electricas-si-iran-ataca-en-ormuz-820074.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump approves nuclear agreement that could allow Saudi Arabia to enrich uranium",
+          "link": "https://www.newson6.com/national-politics-oklahoma/trump-approves-nuclear-agreement-saudi-arabia-enrich-uranium",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0646\u064a\u0648\u0632\u064a\u0645\u0646 - \u062a\u0647\u062f\u064a\u062f\u0627\u062a \u0627\u0644\u062d\u0648\u062b\u064a\u064a\u0646 \u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0634\u062d\u0646 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 .. \u062a\u0635\u0639\u064a\u062f \u064a\u062e\u062f\u0645 \u0625\u064a\u0631\u0627\u0646",
+          "link": "https://www.newsyemen.net/new/105367",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump : Angriff auf Br\u00fccke oder Kraftwerk f\u00fcr Schiffsbeschuss",
+          "link": "https://www.die-glocke.de/blick-in-die-welt/politik/artikel/trump-angriff-auf-bruecke-oder-kraftwerk-fuer-schiffsbeschuss-1784726405",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0397\u03a0\u0391 \u03ba\u03b1\u03b9 \u03a3\u03b1\u03bf\u03c5\u03b4\u03b9\u03ba\u03ae \u0391\u03c1\u03b1\u03b2\u03af\u03b1 \u03ba\u03bb\u03b5\u03af\u03bd\u03bf\u03c5\u03bd \u03c0\u03c5\u03c1\u03b7\u03bd\u03b9\u03ba\u03ae \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u2013 \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 \u03c3\u03c4\u03b7 \u039c\u03ad\u03c3\u03b7 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03ae \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u039f\u03c5\u03ac\u03c3\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03bd",
+          "link": "https://www.inewsgr.com/351/ipa-kai-saoudiki-aravia-kleinoun-pyriniki-symfonia--anisychia-sti-mesi-anatoli-alla-kai-stin-ouasingkton.htm",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0625\u064a\u0631\u0627\u0646 \u062a\u0646\u0641\u064a \u0646\u0634\u0627\u0637 \u062c\u0628\u0644 \u0627\u0644\u0641\u0623\u0633 \u0627\u0644\u0646\u0648\u0648\u064a \u0648\u062a\u0631\u0645\u0628 \u064a\u0647\u062f\u062f \u0628\u0627\u0644\u0642\u0635\u0641",
+          "link": "https://www.alquds.com/ar/posts/250908",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Sorunlar ve g\u00fcndemimiz \u2026",
+          "link": "https://www.mavikocaeli.com.tr/yazarlar/orhan-balci/sorunlar-ve-gundemimiz/4287/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Rubio Says Iran - Backed Houthi Red Sea Blockade  Problematic",
+          "link": "http://www.sandiegosun.com/news/279203170/rubio-says-iran-backed-houthis-red-sea-blockade-problematic",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Dubai zum Sparpreis : Emirat lockt mit Rabatten bis 700 \u20ac",
+          "link": "https://de.euronews.com/reise/2026/07/22/dubai-zum-sparpreis-emirat-lockt-mit-rabatten-bis-700",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Bulgaria aprob\u0103 folosirea bazei Bezmer pentru opera\u021biunile SUA din Orientul Mijlociu , \u00een pofida avertismentelor Iranului . Localnicii anun\u021b\u0103 proteste",
+          "link": "https://www.stiripesurse.ro/bulgaria-aproba-folosirea-bazei-bezmer-pentru-operatiunile-sua-din-orientul-mijlociu-in-pofida-avertismentelor-iranului-localnicii-anunta-proteste_3905721",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump approves U . S .- Saudi agreement for civilian nuclear enrichment",
+          "link": "https://www.republicanherald.com/2026/07/22/trump-approves-saudi-arabia-uranium-enrichment-agreement/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump threatens Iranian infrastructure as Strait of Hormuz war grows",
+          "link": "https://www.republicanherald.com/2026/07/22/trump-threatens-iranian-infrastructure-strait-hormuz/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0646\u064a\u0648\u0632\u064a\u0645\u0646 - \u0627\u0644\u062d\u0638\u0631 \u0627\u0644\u0628\u062d\u0631\u064a \u0627\u0644\u062d\u0648\u062b\u064a .. \u062a\u0647\u062f\u064a\u062f \u0644\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0623\u0645 \u0631\u0633\u0627\u0644\u0629 \u0625\u064a\u0631\u0627\u0646\u064a\u0629 \u0625\u0644\u0649 \u0648\u0627\u0634\u0646\u0637\u0646 \u0648\u0627\u0644\u0639\u0627\u0644\u0645 \u061f",
+          "link": "https://www.newsyemen.net/new/105370",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump to attend dignified transfer of fallen soldiers . And , Hegseth testifies on Iran",
+          "link": "https://www.kvnf.org/npr-news/2026-07-22/trump-to-attend-dignified-transfer-of-fallen-soldiers-and-hegseth-testifies-on-iran",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump : Neuer Atom - Deal versch\u00e4rft das nukleare Risiko im Nahen Osten",
+          "link": "https://www.abendblatt.de/politik/article412647209/trumps-atom-deal-mit-saudi-arabien-verschaerft-das-nukleare-risiko-im-nahen-osten.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Hegseth e Trump : per ogni sparo dellIran colpiremo infrastrutture",
+          "link": "https://opinione.it/esteri/2026/07/22/eugenio-vittorio-hegseth-trump-iran-usa-raid-bombe/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Rubio Says Iran - Backed Houthi Red Sea Blockade  Problematic",
+          "link": "http://www.srilankasource.com/news/279203170/rubio-says-iran-backed-houthis-red-sea-blockade-problematic",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran - Krieg : 37 , 5 Milliarden Dollar \u2013 Hegseth fordert mehr Geld",
+          "link": "http://www.schwaebische-post.de/welt/politik/iran-krieg-37-milliarden-dollar-hegseth-fordert-mehr-geld-zr-94409448.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Rubio Says Iran - Backed Houthi Red Sea Blockade  Problematic",
+          "link": "http://www.europesun.com/news/279203170/rubio-says-iran-backed-houthis-red-sea-blockade-problematic",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0648\u0631\u0642\u0629 \u0645\u0636\u064a\u0642 \u0647\u0631\u0645\u0632 \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0646\u0642\u0644\u0628 \u0636\u0639\u0641\u0627 | \u0645\u062d\u0645\u062f \u0623\u0628\u0648 \u0627\u0644\u0641\u0636\u0644",
+          "link": "https://middle-east-online.com/%D9%88%D8%B1%D9%82%D8%A9-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D8%AA%D9%86%D9%82%D9%84%D8%A8-%D8%B6%D8%B9%D9%81%D8%A7",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "ABD D\u0131\u015fi\u015fleri Bakan\u0131 Rubio : \u0130ran i\u015fbirli\u011fi yapmamakta \u0131srar etmeye devam ederse , ba\u015fkan\u0131n elinde pek \u00e7ok se\u00e7enek var",
+          "link": "https://www.etikhaber.com/abd-disisleri-bakani-rubio-iran-isbirligi-yapmamakta-israr-etmeye-devam-ederse-baskanin-elinde-pek-cok-secenek-var",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0418\u0440\u0430\u043d \u043f\u0440\u0438\u0433\u043e\u0437\u0438\u043b \u0421\u0428\u0410 \u0441\u0438\u043c\u043c\u0435\u0442\u0440\u0438\u0447\u043d\u044b\u043c\u0438 \u0443\u0434\u0430\u0440\u0430\u043c\u0438 \u043f\u043e \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0435",
+          "link": "https://vestikavkaza.ru/news/iran-prigozil-ssa-simmetricnymi-udarami-po-infrastrukture.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Novinky . cz - nej\u010dten\u011bj\u0161\u00ed zpr\u00e1vy na \u010desk\u00e9m internetu",
+          "link": "https://www.novinky.cz/?timeline--pageItem=40589315",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "U . S . and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+          "link": "https://www.kyuk.org/2026-07-22/u-s-and-iranian-attacks-continue-as-tensions-mount-on-a-key-waterway-in-the-red-sea",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "El Ibex 35 avanza apoyado en los resultados empresariales",
+          "link": "https://www.larazon.es/economia/ibex-35-avanza-apoyado-resultados-empresariales_202607226a60e41bda3add27d4dc34f8.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Rubio Says Iran - Backed Houthi Red Sea Blockade  Problematic",
+          "link": "http://www.philippinetimes.com/news/279203170/rubio-says-iran-backed-houthis-red-sea-blockade-problematic",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "ASEAN external partnerships key to regional resilience : Vivian Balakrishnan",
+          "link": "https://www.straitstimes.com/asia/se-asia/aseans-external-partnerships-key-to-regional-resilience-vivian-balakrishnan",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a4\u03bf \u0399\u03c1\u03ac\u03bd \u03b4\u03b9\u03b1\u03c8\u03b5\u03cd\u03b4\u03b5\u03b9 \u03c4\u03b7\u03bd \u03cd\u03c0\u03b1\u03c1\u03be\u03b7 \u03c0\u03c5\u03c1\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03c3\u03c4\u03bf \u00ab Pickaxe Mountain \u00bb, \u03bc\u03b5\u03c4\u03ac \u03c4\u03b9\u03c2 \u03b1\u03c0\u03b5\u03b9\u03bb\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03a4\u03c1\u03b1\u03bc\u03c0",
+          "link": "https://www.skaikritis.gr/to-iran-diapsevdei-tin-yparxi-pyrinikis-egkatastasis-sto-pickaxe-mountain-meta-tis-apeiles-tou-trab/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump threatens to bomb Iranian bridges , power plants over Strait of Hormuz attacks",
+          "link": "https://wsbt.com/news/nation-world/president-donald-trump-threatens-to-bomb-iranian-bridges-power-plants-over-strait-of-hormuz-attacks-oil-global-trade-shipping-vessels-strategic-waterway-secretary-marco-rubio-middle-east-war-interim-agreement-peace-deal",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "UE le recomand\u0103 companiilor aeriene s\u0103 evite s\u0103 survoleze Iordania . Planurile de zbor , date peste cap",
+          "link": "https://www.digi24.ro/stiri/externe/mapamond/ue-le-recomanda-companiilor-aeriene-sa-evite-sa-survoleze-iordania-planurile-de-zbor-date-peste-cap-3874073",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "What to know about Iran Pickaxe Mountain , home to nuclear site",
+          "link": "https://www.baltimoresun.com/2026/07/22/iran-pickaxe-mountain-trump/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Petr\u00f3leo hoje decola , sobe mais de 2 % e supera os US$ 93 com escalada da guerra entre EUA e Ir\u00e3",
+          "link": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/petroleo-hoje-decola-sobe-mais-de-2-e-supera-os-us-93-com-escalada-da-guerra-entre-eua-e-ira/",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412 \u0418\u0440\u0430\u043d\u0435 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e\u0431 \u043e\u0442\u0432\u0435\u0442\u0435 \u043d\u0430 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0435 \u0443\u0434\u0430\u0440\u044b \u0421\u0428\u0410 \u043f\u043e \u044f\u0434\u0435\u0440\u043d\u044b\u043c \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c :: \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0434\u043d\u044f / \u0412\u0417\u0413\u041b\u042f\u0414",
+          "link": "https://vz.ru/news/2026/7/22/1436921.html",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0417\u0430\u043b\u0438\u0432 \u0440\u0430\u0437\u0434\u043e\u0440\u0430 : \u0435\u0441\u0442\u044c \u043b\u0438 \u0437\u043e\u043b\u043e\u0442\u0430\u044f \u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0430 ?!",
+          "link": "https://vesti.az/novosti-avtorov/zaliv-razdora-est-li-zolotaya-seredina-vzglyad-605995",
+          "summary": "",
+          "source": "GDELT: tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: Tehran",
@@ -321,6 +672,13 @@
   ],
   "iran": [
     {
+      "title": "War on Iran: Hegseth wants $70B more to keep fighting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
+      "summary": "Iran activated air defence systems across Tehran on the 11th night of US strikes.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
       "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
       "link": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
       "summary": "Trump will attend the dignified transfer of U.S. service members killed in the Middle East. And, Pete Hegseth is requesting billions from Congress to help with the rising cost of the war in Iran.",
@@ -328,11 +686,144 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml"
     },
     {
-      "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
-      "link": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-      "summary": "The attacks overshadowed diplomatic efforts in Pakistan, one of the conflict's mediators, where a senior Iranian official held talks potentially aimed at reviving a collapsed ceasefire between the United States and Iran.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
+      "title": "US still willing to negotiate over Iran crisis : Rubio",
+      "link": "https://www.goulburnpost.com.au/story/9315160/us-still-willing-to-negotiate-over-iran-crisis-rubio/",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump threatens to bomb Iranian bridges , power plants over Strait of Hormuz attacks",
+      "link": "https://fox56.com/news/nation-world/president-donald-trump-threatens-to-bomb-iranian-bridges-power-plants-over-strait-of-hormuz-attacks-oil-global-trade-shipping-vessels-strategic-waterway-secretary-marco-rubio-middle-east-war-interim-agreement-peace-deal",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Respons Iran terhadap serangan ke fasilitas nuklir tidak akan terbatas",
+      "link": "https://www.antaranews.com/berita/5661480/respons-iran-terhadap-serangan-ke-fasilitas-nuklir-tidak-akan-terbatas",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "What to know about Iran Pickaxe Mountain , home to an underground nuclear site threatened by Trump",
+      "link": "http://www.theitem.com/stories/what-to-know-about-irans-pickaxe-mountain-home-to-an-underground-nuclear-site-threatened-by-trump,445318",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump : SUA vor lovi un pod sau o central\u0103 electric\u0103 iranian\u0103 dup\u0103 fiecare atac naval al Teheranului \u00een Str\u00e2mtoarea Ormuz",
+      "link": "https://www.digi24.ro/stiri/externe/mapamond/trump-sua-vor-lovi-un-pod-sau-o-centrala-electrica-iraniana-dupa-fiecare-atac-naval-al-teheranului-in-stramtoarea-ormuz-3873965",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump menace de frapper ponts et centrales iraniennes en r\u00e9ponse \u00e0 Ormuz",
+      "link": "https://latele.ch/articles/trump-menace-de-bombarder-centrales-et-ponts-iraniens",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Pickaxe Mountain im Visier : Trump droht Iran mit Atombunker - Angriff",
+      "link": "http://www.wa.de/politik/pickaxe-mountain-im-visier-trump-droht-iran-mit-atombunker-angriff-zr-94410399.html",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump threatens to bomb Iranian bridges , power plants over ship attacks",
+      "link": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Rubio Says Iran - Backed Houthi Red Sea Blockade  Problematic",
+      "link": "http://www.sandiegosun.com/news/279203170/rubio-says-iran-backed-houthis-red-sea-blockade-problematic",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Bulgaria aprob\u0103 folosirea bazei Bezmer pentru opera\u021biunile SUA din Orientul Mijlociu , \u00een pofida avertismentelor Iranului . Localnicii anun\u021b\u0103 proteste",
+      "link": "https://www.stiripesurse.ro/bulgaria-aproba-folosirea-bazei-bezmer-pentru-operatiunile-sua-din-orientul-mijlociu-in-pofida-avertismentelor-iranului-localnicii-anunta-proteste_3905721",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump threatens Iranian infrastructure as Strait of Hormuz war grows",
+      "link": "https://www.republicanherald.com/2026/07/22/trump-threatens-iranian-infrastructure-strait-hormuz/",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump to attend dignified transfer of fallen soldiers . And , Hegseth testifies on Iran",
+      "link": "https://www.kvnf.org/npr-news/2026-07-22/trump-to-attend-dignified-transfer-of-fallen-soldiers-and-hegseth-testifies-on-iran",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Hegseth e Trump : per ogni sparo dellIran colpiremo infrastrutture",
+      "link": "https://opinione.it/esteri/2026/07/22/eugenio-vittorio-hegseth-trump-iran-usa-raid-bombe/",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Rubio Says Iran - Backed Houthi Red Sea Blockade  Problematic",
+      "link": "http://www.srilankasource.com/news/279203170/rubio-says-iran-backed-houthis-red-sea-blockade-problematic",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran - Krieg : 37 , 5 Milliarden Dollar \u2013 Hegseth fordert mehr Geld",
+      "link": "http://www.schwaebische-post.de/welt/politik/iran-krieg-37-milliarden-dollar-hegseth-fordert-mehr-geld-zr-94409448.html",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Rubio Says Iran - Backed Houthi Red Sea Blockade  Problematic",
+      "link": "http://www.europesun.com/news/279203170/rubio-says-iran-backed-houthis-red-sea-blockade-problematic",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "U . S . and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+      "link": "https://www.kyuk.org/2026-07-22/u-s-and-iranian-attacks-continue-as-tensions-mount-on-a-key-waterway-in-the-red-sea",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Rubio Says Iran - Backed Houthi Red Sea Blockade  Problematic",
+      "link": "http://www.philippinetimes.com/news/279203170/rubio-says-iran-backed-houthis-red-sea-blockade-problematic",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump threatens to bomb Iranian bridges , power plants over Strait of Hormuz attacks",
+      "link": "https://wsbt.com/news/nation-world/president-donald-trump-threatens-to-bomb-iranian-bridges-power-plants-over-strait-of-hormuz-attacks-oil-global-trade-shipping-vessels-strategic-waterway-secretary-marco-rubio-middle-east-war-interim-agreement-peace-deal",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "What to know about Iran Pickaxe Mountain , home to nuclear site",
+      "link": "https://www.baltimoresun.com/2026/07/22/iran-pickaxe-mountain-trump/",
+      "summary": "",
+      "source": "GDELT: tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
