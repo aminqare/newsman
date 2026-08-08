@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T01:56:53Z",
+  "generated_at": "2026-08-08T04:14:01Z",
   "sources": [
     {
       "source": "BBC News",
@@ -134,6 +134,20 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "The Nixpkgs core team has disbanded",
+          "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+          "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "DeepSeek V4 Flash 0731",
           "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
           "summary": "Comments",
@@ -148,22 +162,8 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "The Nixpkgs core team has disbanded",
-          "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
           "title": "Assembly Hall of Shame",
           "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
-          "link": "https://ancientlibrary.net/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
+          "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+          "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+          "summary": "Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
+          "title": "US Senate passes Russia sanctions that could hurt India and China",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+          "summary": "The US Senate approved its strongest move against Russia under Trump.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
+          "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+          "summary": "Drone footage shows the remains of a submerged village re-emerging from Indonesia\u2019s Karian Reservoir after a drought.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
+          "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+          "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+          "summary": "Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
           "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
           "link": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
           "summary": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "Trump shifts blame to Republicans for waning support from public",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-          "summary": "Republican senators are using the summer recess to avoid politically difficult votes.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "Colombia\u2019s new president takes office vowing to \u2018crush\u2019 narco-terrorism",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
-          "summary": "Right-wing politician Abelardo De La Espriella takes office after narrowly winning June\u2019s presidential runoff.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "De la Espriella sworn in as Colombia\u2019s leader, vows armed group crackdown",
-          "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
-          "summary": "The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "Sudan\u2019s war threatens an \u2018entire generation\u2019s\u2019 future, UN warns",
-          "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
-          "summary": "War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,13 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "Women in Maine may choose the victor in this year's Senate race",
+          "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+          "summary": "The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Trump renews push to fire Fed Governor Lisa Cook",
           "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
           "summary": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.",
@@ -283,13 +290,6 @@
           "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Colombia's new president vows to remake the country \u2014 and challenge rebel groups",
-          "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-          "summary": "A new political era for Colombia: a hard-right president promises order, growth and confrontation.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
       ]
     },
@@ -301,7 +301,358 @@
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "\u0930\u0942\u0938 \u0938\u0947 \u0926\u094b\u0938\u094d\u0924\u0940 \u0915\u0940 \u092d\u093e\u0930\u0924 \u0915\u094b \u092e\u093f\u0932\u0947\u0917\u0940 \u0938\u091c\u093e ? \u0906\u0916\u093f\u0930\u0915\u093e\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u0940 \u0938\u0902\u0938\u0926 \u092e\u0947\u0902 \u092a\u093e\u0938 \u0939\u094b \u0917\u092f\u093e \u091f\u0948\u0930\u093f\u092b \u0935\u093e\u0932\u093e \u092c\u093f\u0932",
+          "link": "https://www.livehindustan.com/international/100-percent-tariff-for-top-5-russian-oil-buyer-including-india-china-us-senate-approved-bill-201786153598366.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Am\u00e9rico Villarreal impulsa agenda con CANACAR y CONCAMIN para fortalecer la competitividad de Tamaulipas",
+          "link": "https://www.notigape.com/americo-villarreal-impulsa-agenda-con-canacar-y-concamin-para-fortalecer-la-competitividad-de-tamaulipas/296506",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Hour 2 : China and Russian Involvement | 960 WELI | The Jesse Kelly Show",
+          "link": "https://960weli.iheart.com/featured/the-jesse-kelly-show/content/2026-08-07-390-the-jesse-kelly-show-hour-2-china-and-russian-involvement/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0622\u0628\u0646\u0627\u0626\u06d2 \u06c1\u0631\u0645\u0632 \u06a9\u06cc \u0635\u0648\u0631\u062a\u062d\u0627\u0644 : \u0627\u06cc\u0631\u0627\u0646 \u0627\u0648\u0631 \u0639\u0645\u0627\u0646 \u06a9\u06d2 \u062f\u0631\u0645\u06cc\u0627\u0646 \u067e\u06cc\u0634 \u0631\u0641\u062a \u060c \u062c\u0644\u062f \u0645\u0639\u0627\u06c1\u062f\u06d2 \u06a9\u0627 \u0627\u0645\u06a9\u0627\u0646",
+          "link": "https://dailyaaj.com.pk/news/158065",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u0633\u0644\u0645 \u062f\u0646\u06cc\u0627 \u06a9\u0627 \u0627\u062a\u062d\u0627\u062f \u062a\u0645\u0627\u0645 \u062f\u0631\u067e\u06cc\u0634 \u0686\u06cc\u0644\u0646\u062c\u0632 \u06a9\u06d2 \u062e\u0644\u0627\u0641 \u0628\u06c1\u062a\u0631\u06cc\u0646 \u062f\u0641\u0627\u0639 \u06c1\u06d2 : \u0627\u06cc\u0631\u0627\u0646\u06cc \u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u06c1 \u0639\u0628\u0627\u0633 \u0639\u0631\u0627\u0642\u0686\u06cc",
+          "link": "https://dailyaaj.com.pk/news/158067",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump top general seeks path out of Iran war as military options narrow : Report",
+          "link": "https://aa.com.tr/en/us-israel-iran-war/trumps-top-general-seeks-path-out-of-iran-war-as-military-options-narrow-report/4021584",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Uashingtoni : S\u00eb shpejti presim nj\u00eb marr\u00ebveshje p\u00ebr rihapjen e Ngushtic\u00ebs s\u00eb Hormuzit",
+          "link": "https://zyrtare.net/2026/08/uashingtoni-se-shpejti-presim-nje-marreveshje-per-rihapjen-e-ngushtices-se-hormuzit/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.brazilsun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump  \u0131n En \u00dcst D\u00fczey Generali \u0130ran Sava\u015f\u0131 \u0130\u00e7in \u00c7\u0131k\u0131\u015f Ar\u0131yor",
+          "link": "https://www.haberaktuel.com/trumpin-en-ust-duzey-generali-iran-savasi-icin-cikis-ariyor-3472891",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Obama in Larry David Show Revisits Tan Suit Controversy",
+          "link": "https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.haitisun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+          "link": "https://www.illawarramercury.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.nepalnational.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran war live : Trilateral Mecca defence pact signed , as Hormuz deal looms | US - Israel war on Iran News",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?update=4837207",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "2035 If the Lions Do Not Set the Savanna on Fire",
+          "link": "https://www.pressenza.com/2026/08/2035-if-the-lions-do-not-set-the-savanna-on-fire/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Am\u00e9rico Villarreal se re\u00fane con CANACAR y CONCAMIN para fortalecer la econom\u00eda de Tamaulipas",
+          "link": "https://elmanana.com.mx/estado/2026/8/8/americo-villarreal-se-reune-con-canacar-y-concamin-para-fortalecer-la-economia-de-tamaulipas-178161.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u4ee5\u8272\u5217\u9a7b\u6210\u90fd\u603b\u9886\u4e8b\u9986\u95ed\u9986 \u603b\u9886\u4e8b\u79bb\u4efb",
+          "link": "https://www.zaobao.com.sg/news/china/story20260808-9490097",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump debuts $800 million war chest as details emerge on GOP midterm convention",
+          "link": "https://wcyb.com/news/nation-world/trump-debuts-800-million-war-chest-as-details-emerge-on-gop-midterm-convention-republicans",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Lo que debes saber al terminar la semana I Agenda de Seguridad , Imacec y cobre en r\u00e9cord",
+          "link": "https://www.df.cl/senal-df/doble-shot/agenda-de-seguridad-imacec-y-cobre-en-record-se-tomaron-la-agenda",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.dallassun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Suudi Arabistan , Pakistan ve T\u00fcrkiyeyle Savunma Pakt\u0131 \u0130mzalad\u0131",
+          "link": "https://www.haberaktuel.com/suudi-arabistan-pakistan-ve-turkiyeyle-savunma-pakti-imzaladi-3472895",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0686\u06cc\u0626\u0631\u0645\u06cc\u0646 \u062c\u0648\u0627\u0626\u0646\u0679 \u0686\u06cc\u0641\u0633 \u0622\u0641 \u0633\u0679\u0627\u0641 \u06a9\u0627 \u0635\u062f\u0631 \u0679\u0631\u0645\u067e \u06a9\u0648 \u0627\u06cc\u0631\u0627\u0646 \u062c\u0646\u06af \u062e\u062a\u0645 \u06a9\u0631\u0646\u06d2 \u06a9\u0627 \u0645\u0634\u0648\u0631\u06c1 : \u0627\u0645\u0631\u06cc\u06a9\u06cc \u0679\u06cc \u0648\u06cc",
+          "link": "https://dailyaaj.com.pk/news/158069",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US Senate passes Russia Sanctions Bill ; could impose upto 100 % tariff on China , India for purchase of Russian crude",
+          "link": "http://www.afghanistansun.com/news/279227015/us-senate-passes-russia-sanctions-bill-could-impose-upto-100-tariff-on-china-india-for-purchase-of-russian-crude",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "CNN : \u039f \u03b1\u03c1\u03c7\u03b7\u03b3\u03cc\u03c2 \u03c4\u03bf\u03c5 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03bf\u03cd \u03c3\u03c4\u03c1\u03b1\u03c4\u03bf\u03cd \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ac \u03c3\u03c7\u03ad\u03b4\u03b9\u03b1 \u00ab \u03b5\u03be\u03cc\u03b4\u03bf\u03c5 \u00bb \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf \u03bc\u03b5 \u03c4\u03bf \u0399\u03c1\u03ac\u03bd",
+          "link": "https://www.newsbomb.gr/kosmos/story/1755105/cnn-o-arxigos-tou-amerikanikoy-stratoy-anazita-sxedia-eksodou-apo-ton-polemo-me-to-iran",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.afghanistansun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.iraqsun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force secretary access to classified information",
+          "link": "https://www.ksbw.com/article/pentagon-revoke-air-force-frank-kendall-classified-information/73380795",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump debuts $800 million war chest as details emerge on GOP midterm convention",
+          "link": "https://abc6onyourside.com/news/nation-world/trump-debuts-800-million-war-chest-as-details-emerge-on-gop-midterm-convention-republicans",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Cnn ,  il capo degli Stati maggiori united states cerca una via duscita da guerra in Iran",
+          "link": "https://www.larena.it/news/mondo/cnn-il-capo-degli-stati-maggiori-usa-cerca-una-via-d-uscita-da-guerra-in-iran-1.13092639",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "West Asia war LIVE : U . S . expects deal soon on Strait of Hormuz",
+          "link": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Cierra el petr\u00f3leo la semana al alza ante tensiones en el Estrecho de Ormuz \u2013 Peri\u00f3dico Z\u00f3calo | Noticias de Saltillo , Torre\u00f3n , Piedras Negras , Monclova , Acu\u00f1a",
+          "link": "https://www.zocalo.com.mx/cierra-el-petroleo-la-semana-al-alza-ante-tensiones-en-el-estrecho-de-ormuz/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u092d\u093e\u0930\u0924 , \u091a\u0940\u0928\u0935\u0930 \u0967\u0966\u0966 \u091f\u0915\u094d\u0915\u0947 \u091f\u0945\u0930\u093f\u092b , \u0930\u0936\u093f\u092f\u093e\u0935\u0930 \u092e\u094b\u0920\u0947 \u0928\u093f\u0930\u094d\u092c\u0902\u0927 ; \u091f\u094d\u0930\u092e\u094d\u092a \u092f\u093e\u0902\u0928\u0940 \u092c\u0939\u0941\u092e\u0924\u093e\u0928\u0947 \u092c\u093f\u0932 \u092e\u0902\u091c\u0942\u0930 \u0915\u0930\u0942\u0928 \u0918\u0947\u0924\u0932\u0947",
+          "link": "https://www.lokmat.com/international/100-percent-tariffs-on-india-china-and-major-sanctions-on-russia-donald-trump-gets-bill-passed-by-majority-in-america-senate-a-a719/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.bostonstar.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Dar\u00edo Herrera dirigir\u00e1 el duelo ante Vasco da Gama por la Sudamericana - Copa Sudamericana",
+          "link": "https://www.abc.com.py/deportes/futbol/sudamericana/2026/08/07/dario-herrera-dirigira-el-duelo-ante-vasco-da-gama-por-la-sudamericana/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon accuses ex - Air Force chief of leaking state secrets",
+          "link": "http://www.brazilsun.com/news/279227023/pentagon-accuses-ex-air-force-chief-of-leaking-state-secrets",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "New Zealand announces further sanctions against Russia \u2013 LiveNews . co . nz",
+          "link": "https://livenews.co.nz/2026/08/08/new-zealand-announces-further-sanctions-against-russia/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Explainer - \u03a3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1\u03c2 , \u03a3\u03b1\u03bf\u03c5\u03b4\u03b9\u03ba\u03ae\u03c2 \u0391\u03c1\u03b1\u03b2\u03af\u03b1\u03c2 , \u03a0\u03b1\u03ba\u03b9\u03c3\u03c4\u03ac\u03bd : \u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af ;",
+          "link": "https://www.newsbomb.gr/kosmos/story/1755054/explainer-symfonia-tourkias-saoudikis-aravias-pakistan-borei-na-efarmostei",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Gobierno dominicano reajusta los precios de 4 combustibles",
+          "link": "https://almomento.net/gobierno-dominicano-reajusta-los-precios-de-4-combustibles/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062e\u0637\u06d2 \u0645\u06cc\u06ba \u0627\u0645\u0646 \u0648 \u0627\u0633\u062a\u062d\u06a9\u0627\u0645 \u06a9\u06d2 \u0628\u0639\u062f \u0639\u0644\u0627\u0642\u0627\u0626\u06cc \u0645\u0645\u0627\u0644\u06a9 \u0633\u06d2 \u0645\u0644\u0627\u0642\u0627\u062a\u06cc\u06ba \u0628\u062d\u0627\u0644 \u06c1\u0648\u06ba \u06af\u06cc : \u0627\u06cc\u0631\u0627\u0646\u06cc \u0646\u0627\u0626\u0628 \u0648\u0632\u06cc\u0631 \u062e\u0627\u0631\u062c\u06c1 \u06a9\u0627\u0638\u0645 \u063a\u0631\u06cc\u0628 \u0622\u0628\u0627\u062f\u06cc",
+          "link": "https://dailyaaj.com.pk/news/158066",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran war live : Trilateral Mecca defence pact signed , as Hormuz deal looms | US - Israel war on Iran News",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?update=4837212",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u590f\u4f11\u307f\u4e88\u7b97 \u300c \u3084\u3080\u306a\u304f \u300d \u524d\u5e74\u8d85\u3048 \u731b\u6691\u3084\u30af\u30de \u3001 \u884c\u304d\u5148\u9078\u3073\u306b\u3082\u5f71",
+          "link": "https://www.nikkei.com/article/DGXZQOUC095CX0Z00C26A7000000/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.bignewsnetwork.com/news/279225268/breakthrough-possible-on-strait-of-hormuz-as-iran-finalizes-deal",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon accuses ex - Air Force chief of leaking state secrets",
+          "link": "http://www.afghanistansun.com/news/279227023/pentagon-accuses-ex-air-force-chief-of-leaking-state-secrets",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Senate passes Russia sanctions championed by Graham ; House next",
+          "link": "https://www.unionleader.com/news/politics/national/senate-passes-russia-sanctions-championed-by-graham-house-next/article_c2cf0475-d951-5a1a-9324-0d5b101cbc2c.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump debuts $800 million war chest as details emerge on GOP midterm convention",
+          "link": "https://kpic.com/news/nation-world/trump-debuts-800-million-war-chest-as-details-emerge-on-gop-midterm-convention-republicans",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran war live : Trilateral Mecca defence pact signed , as Hormuz deal looms | US - Israel war on Iran News",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?update=4837573",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u5357\u822a\u4e00\u822a\u73ed\u7591\u5411\u4e58\u5ba2\u53d1\u653e\u897f\u6885\u6c41 \uff0c \u81f4\u591a\u540d\u4e58\u5ba2\u5728\u98de\u884c\u9014\u4e2d\u6392\u961f\u4e0a\u5395\u6240 \uff01 \u4e58\u5ba2 \uff1a \u673a\u4e0a100\u591a\u4eba\u53ea\u67092\u4e2a\u5395\u6240 \uff1b \u5ba2\u670d\u56de\u5e94 \uff1a \u5e76\u975e\u6bcf\u67b6\u98de\u673a\u90fd\u4f1a\u53d1\u653e\u897f\u6885\u6c41",
+          "link": "https://www.nbd.com.cn/articles/2026-08-08/4536049.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force Secretary Frank Kendall access to classified information",
+          "link": "https://www.stcatharinesstandard.ca/news/world/united-states/pentagon-revokes-former-air-force-secretary-frank-kendalls-access-to-classified-information/article_286f129c-392a-5fbf-ab98-521dbdd28383.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon accuses ex - Air Force chief of leaking state secrets",
+          "link": "http://www.bignewsnetwork.com/news/279227023/pentagon-accuses-ex-air-force-chief-of-leaking-state-secrets",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US Senate passes Russia Sanctions Bill ; could impose upto 100 % tariff on China , India for purchase of Russian crude",
+          "link": "http://www.bignewsnetwork.com/news/279227015/us-senate-passes-russia-sanctions-bill-could-impose-upto-100-tariff-on-china-india-for-purchase-of-russian-crude",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: tehran",
@@ -311,7 +662,358 @@
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "Trump top general seeks path out of Iran war as military options narrow : Report",
+          "link": "https://aa.com.tr/en/us-israel-iran-war/trumps-top-general-seeks-path-out-of-iran-war-as-military-options-narrow-report/4021584",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.brazilsun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump  \u0131n En \u00dcst D\u00fczey Generali \u0130ran Sava\u015f\u0131 \u0130\u00e7in \u00c7\u0131k\u0131\u015f Ar\u0131yor",
+          "link": "https://www.haberaktuel.com/trumpin-en-ust-duzey-generali-iran-savasi-icin-cikis-ariyor-3472891",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.haitisun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+          "link": "https://www.illawarramercury.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.nepalnational.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.dallassun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Suudi Arabistan , Pakistan ve T\u00fcrkiyeyle Savunma Pakt\u0131 \u0130mzalad\u0131",
+          "link": "https://www.haberaktuel.com/suudi-arabistan-pakistan-ve-turkiyeyle-savunma-pakti-imzaladi-3472895",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "CNN : \u039f \u03b1\u03c1\u03c7\u03b7\u03b3\u03cc\u03c2 \u03c4\u03bf\u03c5 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03bf\u03cd \u03c3\u03c4\u03c1\u03b1\u03c4\u03bf\u03cd \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03ac \u03c3\u03c7\u03ad\u03b4\u03b9\u03b1 \u00ab \u03b5\u03be\u03cc\u03b4\u03bf\u03c5 \u00bb \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf \u03bc\u03b5 \u03c4\u03bf \u0399\u03c1\u03ac\u03bd",
+          "link": "https://www.newsbomb.gr/kosmos/story/1755105/cnn-o-arxigos-tou-amerikanikoy-stratoy-anazita-sxedia-eksodou-apo-ton-polemo-me-to-iran",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.afghanistansun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.iraqsun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force secretary access to classified information",
+          "link": "https://www.ksbw.com/article/pentagon-revoke-air-force-frank-kendall-classified-information/73380795",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "West Asia war LIVE : U . S . expects deal soon on Strait of Hormuz",
+          "link": "https://www.thehindu.com/news/international/west-asia-war-us-iran-deal-strait-of-hormuz-yemen-houthis-saudi-arabia-live-updates-august-8-2026/article71320445.ece",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Cierra el petr\u00f3leo la semana al alza ante tensiones en el Estrecho de Ormuz \u2013 Peri\u00f3dico Z\u00f3calo | Noticias de Saltillo , Torre\u00f3n , Piedras Negras , Monclova , Acu\u00f1a",
+          "link": "https://www.zocalo.com.mx/cierra-el-petroleo-la-semana-al-alza-ante-tensiones-en-el-estrecho-de-ormuz/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.bostonstar.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Saudi Arabia , T\u00fcrkiye and Pakistan sign a common defense agreement :  If they attack one , they attack all",
+          "link": "https://www.thevermilion.com/saudi-arabia-turkiye-and-pakistan-sign-a-common-defense-agreement-if-they-attack-one-they-attack-all/article_19267/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.bignewsnetwork.com/news/279225268/breakthrough-possible-on-strait-of-hormuz-as-iran-finalizes-deal",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force Secretary Frank Kendall access to classified information",
+          "link": "https://www.stcatharinesstandard.ca/news/world/united-states/pentagon-revokes-former-air-force-secretary-frank-kendalls-access-to-classified-information/article_286f129c-392a-5fbf-ab98-521dbdd28383.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.memphissun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force Secretary Frank Kendall access to classified information",
+          "link": "https://www.niagarafallsreview.ca/news/world/united-states/pentagon-revokes-former-air-force-secretary-frank-kendalls-access-to-classified-information/article_6e667f50-90f7-5217-962d-764f03383e6d.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u05d4\u05d5\u05d0 \u05d0\u05d9\u05e9 \u05e9\u05dc \u05d4\u05e6\u05d2\u05d5\u05ea , \u05d8\u05e2\u05d9\u05e0\u05d5 \u05dc\u05d7\u05dc\u05d5\u05d8\u05d9\u05df : \u05d0\u05d6\u05e8\u05d7\u05d9\u05dd \u05d1\u05d0\u05d9\u05e8\u05d0\u05df \u05de\u05d1\u05d9\u05e0\u05d9\u05dd \u05e9\u05d4\u05d1\u05d8\u05d7\u05d5\u05ea\u05d9\u05d5 \u05e9\u05dc \u05d8\u05e8\u05d0\u05de\u05e4 \u05d4\u05ea\u05e4\u05d5\u05d2\u05d2\u05d5 - \u05d4\u05de\u05d6\u05e8\u05d7 \u05d4\u05ea\u05d9\u05db\u05d5\u05df",
+          "link": "https://www.haaretz.co.il/news/world/middle-east/2026-08-08/ty-article/0000019f-ddc6-d7e2-a39f-ffe6b6040000",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force secretary access to classified information",
+          "link": "https://www.wpbf.com/article/pentagon-revoke-air-force-frank-kendall-classified-information/73380795",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "EEUU sanciona a seis entidades y una persona por facilitar a Teher\u00e1n el blanqueo de fondos mediante criptomonedas",
+          "link": "https://www.diariosigloxxi.com/texto-ep/mostrar/20260808014541/eeuu-sanciona-seis-entidades-persona-facilitar-teheran-blanqueo-fondos-mediante-criptomonedas",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon pulls former Air Force Secretary Kendall classified access",
+          "link": "https://www.wdbo.com/news/politics/pentagon-revokes/BF7LA2Z3LQ76VJSPCVZTY7M3OQ/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force secretary access to classified information",
+          "link": "https://www.wyff4.com/article/pentagon-revoke-air-force-frank-kendall-classified-information/73380795",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.russiaherald.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon strips ex - Air Force secretary Kendall of security clearance over Air Force One claim",
+          "link": "https://timesofindia.indiatimes.com/world/us/pentagon-strips-ex-air-force-secretary-kendall-of-security-clearance-over-air-force-one-claim/articleshow/133045660.cms",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US expects deal soon on Strait of Hormuz ; Sunni powers unite in defense pact",
+          "link": "https://www.asiaone.com/world/us-expects-deal-soon-hormuz-sunni-powers-unite-defense-pact",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Gli Stati Uniti hanno le armi migliori del mondo ma non ne hanno abbastanza",
+          "link": "https://www.zazoom.it/2026-08-08/gli-stati-uniti-hanno-le-armi-migliori-del-mondo-ma-non-ne-hanno-abbastanza/19547698/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Turki - Saudi - Pakistan Bentuk Pakta Pertahanan , Bagaimana Reaksi Iran dan Apa Artinya bagi Israel ?",
+          "link": "https://www.tribunnews.com/internasional/7865606/turki-saudi-pakistan-bentuk-pakta-pertahanan-bagaimana-reaksi-iran-dan-apa-artinya-bagi-israel",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+          "link": "https://www.singletonargus.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+          "link": "https://www.theadvocate.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force Secretary Frank Kendall access to classified information",
+          "link": "https://www.clickondetroit.com/news/politics/2026/08/08/pentagon-revokes-former-air-force-secretary-frank-kendalls-access-to-classified-information/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.tucsonpost.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force secretary access to classified information",
+          "link": "https://www.wtae.com/article/pentagon-revoke-air-force-frank-kendall-classified-information/73380795",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Neue Hormus - Route mit Maut : F\u00fcr Trump w\u00e4re das ein Fiasko",
+          "link": "https://www.hna.de/wirtschaft/das-ein-fiasko-neue-hormus-route-mit-maut-fuer-trump-waere-zr-94432559.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.japanherald.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ir\u00e1n y Om\u00e1n avanzan en un nuevo plan para controlar el tr\u00e1fico del estrat\u00e9gico estrecho de Ormuz",
+          "link": "https://www.diariodelsur.com.co/iran-oman-propuesta-supervision-trafico-estrecho-de-ormuz/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force Secretary Frank Kendall access to classified information",
+          "link": "https://www.clickorlando.com/news/politics/2026/08/08/pentagon-revokes-former-air-force-secretary-frank-kendalls-access-to-classified-information/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+          "link": "http://www.malaysiasun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+          "link": "https://www.naroomanewsonline.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Pentagon revokes former Air Force Secretary Frank Kendall access to classified information | Associated Press",
+          "link": "https://www.wfmz.com/news/ap/pentagon-revokes-former-air-force-secretary-frank-kendall-s-access-to-classified-information/article_08c7cb18-d136-5165-a0ee-a654bc32c534.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Report : Iranian Leaders Fear Mojtaba Khamenei Decline Officials  Would Not Be Surprised  by His Martyrdom",
+          "link": "https://www.breitbart.com/politics/2026/08/07/report-iranian-leaders-fear-mojtaba-khamenei-decline-martyrdom/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Presiden Iran Ungkap Sulit Berkomunikasi dengan Pemimpin Tertinggi Mojtaba Khamenei , Ini Penyebabnya",
+          "link": "https://www.jawapos.com/internasional/2608080033/presiden-iran-ungkap-sulit-berkomunikasi-dengan-pemimpin-tertinggi-mojtaba-khamenei-ini-penyebabnya",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0421\u0430\u043d\u043a\u0446\u0438\u0438 \u0421\u0428\u0410 \u043f\u0440\u043e\u0442\u0438\u0432 \u0442\u0435\u043d\u0435\u0432\u043e\u0439 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0418\u0440\u0430\u043d\u0430 \u0432 2026 \u0433\u043e\u0434\u0443",
+          "link": "https://novosti.ua/economic/ssha-vveli-vosmyy-paket-sanktsiy-protiv-tenevoy-bankovskoy-sistemy-irana",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+          "link": "https://www.thecourier.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+          "link": "https://www.yasstribune.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The Odd Defense Agreement Between Saudi Arabia , Pakistan And Turkey \u2013 Moon of Alabama",
+          "link": "https://www.moonofalabama.org/2026/08/the-odd-defense-agreement-between-saudi-arabia-pakistan-and-turkey.html/comment-page-2",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran Sindir Pakta Pertahanan Arab Saudi , Turki , dan Pakistan",
+          "link": "https://www.jawapos.com/internasional/2608080034/iran-sindir-pakta-pertahanan-arab-saudi-turki-dan-pakistan",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ir\u00e3 pede unidade mu\u00e7ulmana diante de press\u00f5es externas",
+          "link": "https://www.brasil247.com/mundo/ira-pede-unidade-muculmana-diante-de-pressoes-externas/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -319,6 +1021,203 @@
       "items": []
     }
   ],
-  "iran": [],
+  "iran": [
+    {
+      "title": "Trump top general seeks path out of Iran war as military options narrow : Report",
+      "link": "https://aa.com.tr/en/us-israel-iran-war/trumps-top-general-seeks-path-out-of-iran-war-as-military-options-narrow-report/4021584",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.brazilsun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.haitisun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+      "link": "https://www.illawarramercury.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.nepalnational.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran war live : Trilateral Mecca defence pact signed , as Hormuz deal looms | US - Israel war on Iran News",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?update=4837207",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.dallassun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.afghanistansun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.iraqsun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Cnn ,  il capo degli Stati maggiori united states cerca una via duscita da guerra in Iran",
+      "link": "https://www.larena.it/news/mondo/cnn-il-capo-degli-stati-maggiori-usa-cerca-una-via-d-uscita-da-guerra-in-iran-1.13092639",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.bostonstar.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran war live : Trilateral Mecca defence pact signed , as Hormuz deal looms | US - Israel war on Iran News",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?update=4837212",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.bignewsnetwork.com/news/279225268/breakthrough-possible-on-strait-of-hormuz-as-iran-finalizes-deal",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran war live : Trilateral Mecca defence pact signed , as Hormuz deal looms | US - Israel war on Iran News",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?update=4837573",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.memphissun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.russiaherald.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Turki - Saudi - Pakistan Bentuk Pakta Pertahanan , Bagaimana Reaksi Iran dan Apa Artinya bagi Israel ?",
+      "link": "https://www.tribunnews.com/internasional/7865606/turki-saudi-pakistan-bentuk-pakta-pertahanan-bagaimana-reaksi-iran-dan-apa-artinya-bagi-israel",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+      "link": "https://www.singletonargus.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+      "link": "https://www.theadvocate.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.tucsonpost.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.japanherald.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Breakthrough possible on Strait of Hormuz as Iran finalizes deal",
+      "link": "http://www.malaysiasun.com/news/279225268/iran-nears-strait-of-hormuz-deal-as-trump-signals-announcement",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+      "link": "https://www.naroomanewsonline.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Report : Iranian Leaders Fear Mojtaba Khamenei Decline Officials  Would Not Be Surprised  by His Martyrdom",
+      "link": "https://www.breitbart.com/politics/2026/08/07/report-iranian-leaders-fear-mojtaba-khamenei-decline-martyrdom/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Presiden Iran Ungkap Sulit Berkomunikasi dengan Pemimpin Tertinggi Mojtaba Khamenei , Ini Penyebabnya",
+      "link": "https://www.jawapos.com/internasional/2608080033/presiden-iran-ungkap-sulit-berkomunikasi-dengan-pemimpin-tertinggi-mojtaba-khamenei-ini-penyebabnya",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+      "link": "https://www.thecourier.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "US anticipates Iran - Oman deal so oil traffic can resume",
+      "link": "https://www.yasstribune.com.au/story/9326299/us-anticipates-iran-oman-deal-so-oil-traffic-can-resume/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran Sindir Pakta Pertahanan Arab Saudi , Turki , dan Pakistan",
+      "link": "https://www.jawapos.com/internasional/2608080034/iran-sindir-pakta-pertahanan-arab-saudi-turki-dan-pakistan",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    }
+  ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
 }
