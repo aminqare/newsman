@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-08-16T09:32:07Z",
+  "generated_at": "2026-08-16T12:48:36Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
+        {
+          "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+          "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+          "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
         {
           "title": "People who fled Stourbridge fires start to return home",
           "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
@@ -20,9 +27,9 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+          "title": "Murder inquiry after man bitten by dog dies",
+          "link": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+          "summary": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
@@ -30,13 +37,6 @@
           "title": "Ariana Grande leaves problems at home as her tour hits the UK",
           "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
           "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -47,9 +47,16 @@
       "source_url": "https://feeds.bbci.co.uk/persian/rss.xml",
       "items": [
         {
-          "title": "\u0627\u06cc\u0631\u0627\u0646 \u062f\u0631 \u0648\u0627\u06a9\u0646\u0634 \u0628\u0647 \u062a\u06a9\u0630\u06cc\u0628 \u0642\u0637\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u00ab\u0627\u0633\u0627\u0631\u062a\u00bb \u062e\u0644\u0628\u0627\u0646\u0627\u0646 \u062e\u0648\u0627\u0633\u062a\u0627\u0631 \u0627\u0639\u0632\u0627\u0645 \u062a\u06cc\u0645 \u06a9\u0627\u0631\u0634\u0646\u0627\u0633\u06cc \u0634\u062f",
+          "title": "\u0627\u06cc\u0631\u0627\u0646 \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u062f\u0631 \u062c\u0646\u06af \u06f4\u06f0 \u0631\u0648\u0632\u0647 \u0628\u0647 \u06f4\u06f4 \u06a9\u0627\u0631\u062e\u0627\u0646\u0647 \u062f\u0627\u0631\u0648\u06cc\u06cc \u0648 \u06f7 \u062f\u0627\u0631\u0648\u062e\u0627\u0646\u0647 \u062d\u0645\u0644\u0647 \u0634\u062f",
           "link": "https://www.bbc.co.uk/persian/live/c5wymm0339j8t?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0645\u062d\u0645\u062f \u0628\u0627\u0642\u0631\u0632\u0627\u062f\u0647\u060c \u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u06a9\u0645\u06cc\u062a\u0647 \u062c\u0633\u062a\u200c\u0648\u062c\u0648\u06cc \u0645\u0641\u0642\u0648\u062f\u06cc\u0646 \u0633\u062a\u0627\u062f \u06a9\u0644 \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0645\u0633\u0644\u062d\u060c \u062f\u0631 \u0648\u0627\u06a9\u0646\u0634 \u0628\u0647 \u062a\u06a9\u0630\u06cc\u0628 \u0642\u0637\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u00ab\u0627\u0633\u0627\u0631\u062a\u00bb \u062e\u0644\u0628\u0627\u0646\u0627\u0646 \u0627\u06cc\u0631\u0627\u0646\u06cc\u060c \u0627\u0632 \u062f\u0648\u062d\u0647 \u062e\u0648\u0627\u0633\u062a \u0632\u0645\u06cc\u0646\u0647 \u0627\u0639\u0632\u0627\u0645 \u06cc\u06a9 \u062a\u06cc\u0645 \u06a9\u0627\u0631\u0634\u0646\u0627\u0633\u06cc \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0627\u06cc\u0631\u0627\u0646 \u0628\u0647 \u0622\u0646 \u06a9\u0634\u0648\u0631 \u0631\u0627 \u0641\u0631\u0627\u0647\u0645 \u06a9\u0646\u062f. \u0627\u0648 \u06af\u0641\u062a \u06a9\u0627\u0631\u0634\u0646\u0627\u2026",
+          "summary": "\u0645\u0647\u062f\u06cc \u067e\u06cc\u0631\u0635\u0627\u0644\u062d\u06cc\u060c\u200c \u0631\u0626\u064a\u0633 \u0633\u0627\u0632\u0645\u0627\u0646 \u063a\u0630\u0627 \u0648 \u062f\u0627\u0631\u0648 \u0627\u06cc\u0631\u0627\u0646 \u06af\u0641\u062a\u0647 \u0627\u0633\u062a \u06a9\u0647 \u062f\u0631 \u062c\u0646\u06af \u06f4\u06f0 \u0631\u0648\u0632\u0647 \u0628\u0647 \u00ab\u06f4\u06f4 \u06a9\u0627\u0631\u062e\u0627\u0646\u0647 \u062f\u0627\u0631\u0648\u06cc\u06cc \u0648 \u0647\u0641\u062a \u062f\u0627\u0631\u0648\u062e\u0627\u0646\u0647\u00bb \u062d\u0645\u0644\u0647 \u0648 \u0622\u0633\u06cc\u0628 \u0648\u0627\u0631\u062f \u0634\u062f\u0647 \u0648 \u00ab\u06f5\u06f0 \u0646\u0641\u0631\u00bb \u0627\u0632 \u062c\u0627\u0645\u0639\u0647 \u062f\u0627\u0631\u0648\u0633\u0627\u0632\u06cc \u06a9\u0634\u062a\u0647 \u0634\u062f\u0647\u200c\u0627\u0646\u062f. \u0627\u0648 \u06af\u0641\u062a \u06a9\u0647 \u0627\u0631\u0632 \u062f\u0627\u0631\u0648 \u0641\u0642\u0637 \u0628\u0647 \u062f\u0627\u0631\u0648 \u062a\u062e\u0635\u06cc\u0635 \u0645\u06cc\u200c\u06cc\u0627\u0628\u062f\u2026",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u0627\u062f\u0639\u0627\u06cc \u00ab\u0627\u0633\u0627\u0631\u062a\u00bb \u062e\u0644\u0628\u0627\u0646\u0627\u0646 \u0627\u06cc\u0631\u0627\u0646\u06cc\u061b \u0642\u0637\u0631 \u062a\u06a9\u0630\u06cc\u0628 \u06a9\u0631\u062f\u060c \u0627\u06cc\u0631\u0627\u0646 \u062e\u0648\u0627\u0633\u062a\u0627\u0631 \u0648\u0631\u0648\u062f \u062a\u06cc\u0645 \u06a9\u0627\u0631\u0634\u0646\u0627\u0633\u06cc \u0634\u062f",
+          "link": "https://www.bbc.com/persian/articles/cp3005ngey9o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0627\u06cc\u0631\u0627\u0646 \u062f\u0631 \u0648\u0627\u06a9\u0646\u0634 \u0628\u0647 \u062a\u06a9\u0630\u06cc\u0628 \u0642\u0637\u0631 \u062f\u0631\u0628\u0627\u0631\u0647 \u00ab\u0627\u0633\u0627\u0631\u062a\u00bb \u062e\u0644\u0628\u0627\u0646\u0627\u0646\u0634 \u062e\u0648\u0627\u0633\u062a\u0627\u0631 \u0627\u0639\u0632\u0627\u0645 \u062a\u06cc\u0645 \u06a9\u0627\u0631\u0634\u0646\u0627\u0633\u06cc \u0634\u062f. \u067e\u06cc\u0634\u200c\u062a\u0631 \u0645\u062d\u0645\u062f \u0628\u0627\u0642\u0631\u0632\u0627\u062f\u0647\u060c \u0641\u0631\u0645\u0627\u0646\u062f\u0647 \u06a9\u0645\u06cc\u062a\u0647 \u062c\u0633\u062a\u200c\u0648\u062c\u0648\u06cc \u0645\u0641\u0642\u0648\u062f\u06cc\u0646 \u0633\u062a\u0627\u062f \u06a9\u0644 \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0645\u0633\u0644\u062d \u0627\u06cc\u0631\u0627\u0646\u060c \u06af\u0641\u062a\u0647 \u0628\u0648\u062f \u06a9\u0647 \u0633\u0647 \u062e\u0644\u0628\u0627\u0646 \u0627\u06cc\u0631\u0627\u0646\u06cc \u062f\u0631 \u0642\u0637\u0631 \u062f\u0631 \u0627\u0633\u0627\u0631\u062a \u0647\u0633\u062a\u0646\u062f \u0648 \u0627\u0632\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
@@ -71,13 +78,6 @@
           "title": "\u0622\u06cc\u0627 \u0639\u0631\u0627\u0642 \u062f\u0631 \u062d\u0627\u0644 \u0641\u0627\u0635\u0644\u0647 \u06af\u0631\u0641\u062a\u0646 \u0627\u0632 \u0627\u06cc\u0631\u0627\u0646 \u0627\u0633\u062a\u061f",
           "link": "https://www.bbc.com/persian/articles/cly55wgynnjo?at_medium=RSS&at_campaign=rss",
           "summary": "\u0639\u0644\u06cc \u0632\u06cc\u062f\u06cc\u060c \u0646\u062e\u0633\u062a\u200c\u0648\u0632\u06cc\u0631 \u0639\u0631\u0627\u0642\u060c \u0627\u0632 \u0632\u0645\u0627\u0646 \u0631\u0648\u06cc \u06a9\u0627\u0631 \u0622\u0645\u062f\u0646 \u062f\u0631 \u0645\u0627\u0647 \u0645\u0647\u060c \u062f\u06cc\u067e\u0644\u0645\u0627\u0633\u06cc \u0641\u0639\u0627\u0644\u06cc \u0631\u0627 \u062f\u0631 \u067e\u06cc\u0634 \u06af\u0631\u0641\u062a\u0647 \u0648 \u062f\u0631 \u0641\u0627\u0635\u0644\u0647 \u0686\u0646\u062f \u0647\u0641\u062a\u0647 \u0628\u0647 \u0648\u0627\u0634\u0646\u06af\u062a\u0646\u060c \u062a\u0647\u0631\u0627\u0646 \u0648 \u0622\u0646\u06a9\u0627\u0631\u0627 \u0633\u0641\u0631 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0627\u0648 \u0647\u0645\u0686\u0646\u06cc\u0646 \u067e\u0633 \u0627\u0632 \u0628\u0647 \u062a\u0639\u0648\u06cc\u0642 \u0627\u0641\u062a\u0627\u062f\u0646 \u0633\u0641\u0631 \u0628\u0631\u0646\u0627\u0645\u0647\u200c\u0631\u06cc\u0632\u06cc\u200c\u0634\u062f\u0647 \u0642\u0628\u0644\u06cc\u060c \u062e\u0648\u062f \u0631\u0627 \u0628\u0631\u0627\u06cc\u2026",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u00ab\u0627\u06af\u0631 \u0645\u062d\u0627\u0641\u0638\u0647\u200c\u06a9\u0627\u0631 \u0646\u06cc\u0633\u062a\u06cc\u062f\u060c \u0628\u0647 \u0627\u06cc\u0646\u062c\u0627 \u0646\u06cc\u0627\u06cc\u06cc\u062f\u00bb\u061b \u0634\u0647\u0631\u06cc \u06a9\u0647 \u0628\u0631\u0627\u06cc \u062a\u0631\u0627\u0645\u067e \u0645\u0648\u0634\u06a9 \u0645\u06cc\u200c\u0633\u0627\u0632\u062f",
-          "link": "https://www.bbc.com/persian/articles/clyjp7n4k4do?at_medium=RSS&at_campaign=rss",
-          "summary": "\u062a\u062c\u0647\u06cc\u0632\u0627\u062a \u0648 \u0645\u0647\u0645\u0627\u062a \u0645\u0648\u0631\u062f \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u062f\u0631 \u062c\u0646\u06af \u062f\u0631 \u06a9\u06cc\u0646\u06af\u0632\u067e\u0648\u0631\u062a\u0650 \u062a\u0646\u0633\u06cc \u062a\u0648\u0644\u06cc\u062f \u0645\u06cc\u200c\u0634\u0648\u062f\u061b \u0634\u0647\u0631\u06cc \u06a9\u0647 \u0628\u0631\u062e\u06cc \u0627\u0632 \u0648\u0641\u0627\u062f\u0627\u0631\u062a\u0631\u06cc\u0646 \u062d\u0627\u0645\u06cc\u0627\u0646 \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631\u060c \u0647\u0645\u0632\u0645\u0627\u0646 \u0628\u0627 \u0627\u0641\u0632\u0627\u06cc\u0634 \u0647\u0632\u06cc\u0646\u0647\u200c\u0647\u0627\u06cc \u0632\u0646\u062f\u06af\u06cc\u060c \u0628\u0627 \u0641\u0634\u0627\u0631 \u06af\u0631\u0627\u0646\u06cc \u062f\u0633\u062a\u200c\u0648\u067e\u0646\u062c\u0647 \u0646\u0631\u0645 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f.",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         }
@@ -134,6 +134,13 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "A SAT Attack on Tarski's High School Algebra Problem",
+          "link": "https://arxiv.org/abs/2608.08421",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "Asus Bike Booster",
           "link": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
           "summary": "Comments",
@@ -141,8 +148,15 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "What happens when an LLM never sees material beyond fifth grade?",
-          "link": "https://littlelearner-ll.github.io/",
+          "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+          "link": "https://www.nature.com/articles/s41586-026-10857-1",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "Chestnut \u2013 eGPU dock with open-source firmware",
+          "link": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -150,20 +164,6 @@
         {
           "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
           "link": "https://duckdb.org/2026/07/31/asynchronous-io",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Patterns and problems in emerging multi-agent systems",
-          "link": "https://www.anthropic.com/research/multiagent-systems",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Semaglutide linked to lower predicted dementia risk",
-          "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
-          "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
+          "title": "\u2018Spearhead of annexation\u2019: Israel hands West Bank rule to civilian police",
+          "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
+          "summary": "Israel's transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "3-year-old girl rescued 100 hours after Colombia earthquake",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss",
-          "summary": "A three-year-old girl and a 75-year-old man have been pulled alive from the rubble days after Colombia\u2019s earthquake.",
+          "title": "\u2018Limited options\u2019 for many Iranians as war with US chokes economy",
+          "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+          "summary": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "At least 12 people killed in Hungary bus crash",
-          "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
-          "summary": "Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.",
+          "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+          "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+          "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-          "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-          "summary": "Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.",
+          "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
+          "summary": "Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
-          "summary": "US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.",
+          "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+          "link": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+          "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,23 +257,23 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+          "summary": "A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+          "summary": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "NPR Senior Podcast Challenge: Official Rules",
           "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
           "summary": "",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
-          "summary": "This fall, we're asking seniors to send us their stories in audio form. Our judges will pick the best ones and air them on NPR.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
-          "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
-          "summary": "Sunflower sea stars are critically endangered in the Pacific Ocean. University of Washington researchers are working with the Samish Indian Nation to bring this 24-armed creature back from the brink of extinction.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         },
@@ -285,9 +285,9 @@
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         },
         {
-          "title": "Are robotaxis finally here?",
-          "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
-          "summary": "Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities.",
+          "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+          "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+          "summary": "Sunflower sea stars are critically endangered in the Pacific Ocean. University of Washington researchers are working with the Samish Indian Nation to bring this 24-armed creature back from the brink of extinction.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
@@ -321,9 +321,16 @@
   ],
   "iran": [
     {
-      "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
-      "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
+      "title": "\u2018Limited options\u2019 for many Iranians as war with US chokes economy",
+      "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+      "summary": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+      "summary": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
       "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     }
