@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:46:31Z",
+  "generated_at": "2026-08-20T21:33:07Z",
   "sources": [
     {
       "source": "BBC News",
@@ -27,9 +27,9 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Man charged over Manchester synagogue attack",
-          "link": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
-          "summary": "Police say the man is accused of failing to disclose information regarding terrorist activity.",
+          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+          "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+          "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
@@ -134,6 +134,20 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
+          "link": "https://www.danielvaughn.dev/posts/huzzah/",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "The August 17 outage, and the work ahead",
+          "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "I like 'em thick: an apology to my English teachers",
           "link": "https://www.experimental-history.com/p/i-like-em-thick",
           "summary": "Comments",
@@ -141,29 +155,15 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-          "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+          "title": "Consumer Rights Wiki",
+          "link": "https://consumerrights.wiki/w/Main_Page",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "I should have loved biology",
+          "title": "I should have loved biology (2020)",
           "link": "https://jsomers.net/i-should-have-loved-biology/",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "HTML Can Do That",
-          "link": "https://chrisburnell.com/html-can-do-that/",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Linux 7.2",
-          "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
-          "link": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss",
-          "summary": "Liberia is part of a growing list of partners under US President Donald Trump to accept third-country deportations.",
+          "title": "Pakistan\u2019s ex-PM Imran Khan reportedly moved to hospital from jail",
+          "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+          "summary": "Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "The road to el-Obeid, Sudan\u2019s besieged city sheltering thousands",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss",
-          "summary": "Al Jazeera\u2019s AlMigdad Alruhaid travelled along one of the main supply roads to Sudan\u2019s besieged city of el-Obeid.",
+          "title": "US pummels Cuban economy with new sanctions on mining, construction",
+          "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+          "summary": "US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
-          "link": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
-          "summary": "Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers.",
+          "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+          "summary": "At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
-          "link": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
-          "summary": "Spanish tennis star had missed the French Open, \u200cWimbledon and the hard-court events in Toronto and \u200bCincinnati.",
+          "title": "Hundreds of Tibetans protest China\u2019s ethnic unity law by shaving heads",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+          "summary": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Bangladesh elects ruling party veteran Alamgir as president",
-          "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
-          "summary": "Bangladesh elects Mirza Fakhrul Islam Alamgir by parliamentary vote, filling vacancy after Shahabuddin's resignation.",
+          "title": "Heartbreak, loss on Lebanon\u2019s front lines, the story of a first responder",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
+          "summary": "Heartbreak, loss on Lebanon\u2019s front lines, the story of a first responder",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -218,7 +218,7 @@
         {
           "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
           "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-          "summary": "Agreement is among largest third-country deportations driven by Trump administration\u2019s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the Afr\u2026",
+          "summary": "Agreement is among largest third-country deportations driven by Trump administration\u2019s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will s\u2026",
           "source": "World news | The Guardian",
           "source_url": "https://www.theguardian.com/world/rss"
         },
@@ -257,6 +257,20 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+          "summary": "From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration's cuts last year.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+          "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+          "summary": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Three things to know about the $40 trillion federal debt",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
           "summary": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
@@ -276,20 +290,6 @@
           "summary": "Sunday's course takes high-speed cars right past the National Gallery of Art and three Smithsonian museums. Art experts worry about the works inside, but organizers say they don't expect damage.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-          "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-          "summary": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "North Korea fires a suspected missile toward the sea, Japan says",
-          "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-          "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
       ]
     },
@@ -301,7 +301,358 @@
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "US aircraft carrier arrives in Middle East , relieving long - deployed USS Lincoln",
+          "link": "https://krmg.com/2026/08/20/us-aircraft-carrier-arrives-in-middle-east-relieving-long-deployed-uss-lincoln/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Japonsk\u00fd export byl v \u010dervenci rekordn\u00ed , podpo\u0159ila jej popt\u00e1vka po \u010dipech",
+          "link": "https://www.tyden.cz/japonsky-export-byl-v-cervenci-rekordni-podporila-jej-poptavka-po-cipech",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f \u0432\u043f\u0435\u0440\u0432\u044b\u0435 \u0432\u044b\u0448\u043b\u0430 \u043d\u0430 \u043f\u0435\u0440\u0432\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0441\u0440\u0435\u0434\u0438 \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u043e\u0432 \u0433\u0430\u0437\u0430 \u0432 \u0415\u0421 , \u043e\u0431\u043e\u0433\u043d\u0430\u0432 \u0421\u0428\u0410",
+          "link": "https://iz.ru/2152408/2026-08-20/v-ek-nazvali-norvegiiu-glavnym-postavshchikom-gaza-v-es",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u039c\u03ae\u03bd\u03c5\u03bc\u03b1 \u0399\u03c1\u03ac\u03bd \u03c3\u03b5 \u039a\u03cd\u03c0\u03c1\u03bf : \u0394\u03b5\u03bd \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03b5\u03c4\u03b5 , \u03b5\u03c6\u03cc\u03c3\u03bf\u03bd \u03b4\u03b5\u03bd \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b2\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd \u03bc\u03b1\u03c2",
+          "link": "https://www.protothema.gr/world/article/1867466/i-kupros-den-kinduneuei-apo-iranika-htupimata-efoson-den-hrisimopoiithoun-oi-vretanikes-vaseis-kata-tis-teheranis/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Brasil no Mundo estreia novo hor\u00e1rio na TV Brasil com debate sobre IA | Brasil no Mundo | TV Brasil",
+          "link": "https://tvbrasil.ebc.com.br/brasil-no-mundo/2026/08/brasil-no-mundo-estreia-novo-horario-na-tv-brasil-com-debate-sobre-ia",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "EPA will loosen summertime fuel emissions rules to increase the US gas supply",
+          "link": "https://www.lex18.com/science-and-tech/energy/epa-will-loosen-summertime-fuel-emissions-rules-to-increase-the-us-gas-supply",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Snafu on the Potomac",
+          "link": "https://www.clevelandjewishnews.com/columnists/douglas_bloomfield/snafu-on-the-potomac/article_a4001804-ab49-4d3b-872f-125d91e99d1e.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "EE . UU . endurece su ofensiva contra Ir\u00e1n y exige apoyo a aliados y China",
+          "link": "https://www.lanacion.com.ar/el-mundo/eeuu-endurece-su-ofensiva-contra-iran-y-exige-apoyo-a-aliados-y-china-nid20082026/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tehran always prepared for talks ; US engages only when it serves its interests : Iran Consul General dismisses back - channel negotiations reports",
+          "link": "http://www.asiabulletin.com/news/279254440/tehran-always-prepared-for-talks-us-engages-only-when-it-serves-its-interests-iran-consul-general-dismisses-back-channel-negotiations-reports",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Why Treasury Secretary Bessent moves to calm the bond market havent worked so far",
+          "link": "http://www.reflector.com/news/national/why-treasury-secretary-bessents-moves-to-calm-the-bond-market-havent-worked-so-far/article_c204c8ee-e4b9-524d-8ea5-0c1354d5dbfd.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Dia D econ\u00f4mico : Ir\u00e3 rebate amea\u00e7as dos EUA e petr\u00f3leo encarece | Rep\u00f3rter Brasil Tarde | TV Brasil",
+          "link": "https://tvbrasil.ebc.com.br/reporter-brasil-tarde/2026/08/dia-d-economico-ira-rebate-ameacas-dos-eua-e-petroleo-encarece",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Ir\u00e3o : press\u00e3o dos EUA \u00e9 ato de  terrorismo econ\u00f3mico",
+          "link": "https://sapo.pt/artigo/irao-pressao-dos-eua-e-ato-de-terrorismo-economico-6a875d3c71773bd5d15be6cd",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wall Street recule , p\u00e9nalis\u00e9e par le rebond des co\u00fbts demprunt - 20 / 08 / 2026 \u00e0 22 : 41",
+          "link": "https://www.boursorama.com/bourse/actualites/wall-street-recule-penalisee-par-le-rebond-des-couts-d-emprunt-2d24db3c84a7d6d245adef02d6b2201f",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Sydkorea tester skibsrute gennem Arktis",
+          "link": "https://www.sermitsiaq.ag/samfund/sydkorea-tester-skibsrute-gennem-arktis/2417195",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Avrupa borsalar\u0131 kar\u0131\u015f\u0131k seyirle g\u00fcn\u00fc kapatt\u0131",
+          "link": "https://mansethaber.com/ekonomi/avrupa-borsalari-karisik-seyirle-gunu-kapatti",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "EE . UU . amenaza con el  olvido econ\u00f3mico  a quienes mantengan lazos con Ir\u00e1n",
+          "link": "https://actualidad.rt.com/actualidad/623376-eeuu-amenazar-olvido-economico-mantener-lazos",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump administration faces questions over top aide Natalie Harp security clearance | Trump administration",
+          "link": "https://www.theguardian.com/us-news/2026/aug/20/natalie-harp-security-clearance",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Borissov : If There Is No Threat to Bulgaria , Why Is PM Radev Talking to NATO ?",
+          "link": "http://www.bgnes.com/politics/borissov-if-there-is-no-threat-to-bulgaria-why-is-pm-radev-talking-to-nato",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Controversial California oil pipeline can continue to operate , judge rules",
+          "link": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Inadimpl\u00eancia recorde acende alerta para empresas",
+          "link": "https://www.contabeis.com.br/noticias/78905/inadimplencia-recorde-acende-alerta-para-empresas/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "U . S . stocks fall sharply as bond prices contin eu to flounder",
+          "link": "http://www.newyorktelegraph.com/news/279254808/u-s-stocks-fall-sharply-as-bond-prices-contin-eu-to-flounder",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Arranca la Ligue 1 : d\u00edas , horarios y qui\u00e9nes son los argentinos que competir\u00e1n en Francia esta temporada",
+          "link": "https://www.ole.com.ar/futbol-internacional/francia/arranca-ligue-1-torneo-francia-dias-horarios-partidos-argentinos-tagliafico-balerdi-panichelli_0_G3V3qG5idr.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "U . S . aircraft carrier arrives in Middle East , relieving long - deployed USS Lincoln",
+          "link": "https://timesofsandiego.com/military/2026/08/20/aircraft-carrier-relieving-uss-lincoln/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "DHS Exempted Itself from Normal Law for Undercover Investigation Into Protesters",
+          "link": "https://talkingpointsmemo.com/news/dhs-exempted-itself-from-normal-law-for-undercover-investigation-into-protesters",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Makkah agreement and the rise of a new regional self - reliance",
+          "link": "https://weeklyblitz.net/2026/08/21/makkah-agreement-and-the-rise-of-a-new-regional-self-reliance/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Petr\u00f3leo fecha em alta ap\u00f3s novas press\u00f5es econ\u00f4micas dos EUA contra o Ir\u00e3",
+          "link": "https://jornaldebrasilia.com.br/noticias/mundo/petroleo-fecha-em-alta-apos-novas-pressoes-economicas-dos-eua-contra-o-ira/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0411\u043e\u0440\u0438\u0441\u043e\u0432 : \u0418\u043c\u0430 \u043b\u0438 \u0437\u0430\u043f\u043b\u0430\u0445\u0430 ? \u0410\u043a\u043e \u043d\u044f\u043c\u0430 \u043f\u0440\u043e\u0431\u043b\u0435\u043c , \u0437\u0430\u0449\u043e \u043d\u0435 \u0441\u0432\u0438\u043a\u0432\u0430\u0442 \u041a\u0421\u041d\u0421 ?",
+          "link": "https://www.vesti.bg/bulgaria/borisov-ima-li-zaplaha-ako-niama-problem-zashto-ne-svikvat-ksns-6268095",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Netanyahudan se\u00e7im \u015fovu - YEN\u0130 ASYA",
+          "link": "https://www.yeniasya.com.tr/dunya/netanyahu-dan-secim-sovu_625423",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Petr\u00f3leo fecha em alta ap\u00f3s novas press\u00f5es econ\u00f4micas dos EUA contra o Ir\u00e3 - 20 / 08 / 2026",
+          "link": "https://www.dgabc.com.br/Noticia/4342341/petroleo-fecha-em-alta-apos-novas-pressoes-economicas-dos-eua-contra-o-ira",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "President Trump threats economic warfare in latest shift in strategy with Iran",
+          "link": "https://wsbt.com/news/nation-world/president-trump-threats-economic-warfare-in-latest-shift-in-strategy-with-iran-strait-hormuz-europe-us-debt-economic",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Guerre au Moyen - Orient : pourquoi les Emirats arabes unis ont - ils suspendu leurs \u00e9changes avec lIran ?",
+          "link": "https://libe.ma/guerre-au-moyen-orient-pourquoi-les-emirats-arabes-unis-ont-ils-suspendu-leurs-echanges-avec-liran/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u039a\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03b1\u03c3\u03c4\u03ae\u03c2 drones \u03bc\u03b5 \u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03c6\u03b5\u03b9 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03af\u03b1 \u03bc\u03b5 \u03b5\u03bd\u03b5\u03c1\u03b3\u03b5\u03b9\u03b1\u03ba\u03ae ...",
+          "link": "https://www.capital.gr/diethni/4011628/kataskeuastis-drones-me-stirixi-tramp-upografei-sumfonia-me-energeiaki-etaireia-ston-persiko-kolpo/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "How major US stock indexes fared Thursday 8 / 20 / 2026",
+          "link": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-thursday-8-20-2026/article_910fc266-6122-52af-9eae-4fd4da674c49.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Mortgage rates ease again , but remain higher than this time last year",
+          "link": "https://www.timesherald.com/2026/08/20/mortgage-rates-aug-20/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fauci Pardon Challenge and COVID Revelations",
+          "link": "https://afr.net:443/podcasts/at-the-core-with-walker-wildmon-and-rick-green/2026/august/fauci-pardon-challenge-and-covid-revelations/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "The bond market swings back to worries and knocks US stocks lower",
+          "link": "http://www.idahopress.com/ap_news/us/the-bond-market-swings-back-to-worries-and-knocks-us-stocks-lower/article_bfa05dbe-a13e-5e32-b372-ab6f60663b80.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0411\u0435\u0441\u0441\u0435\u043d\u0442 \u043a\u0430\u0436\u0435 , \u0449\u043e \u00ab \u043d\u0430\u0439\u0436\u043e\u0440\u0441\u0442\u043a\u0456\u0448\u0456 \u0441\u0430\u043d\u043a\u0446\u0456\u0457 \u0432 \u0456\u0441\u0442\u043e\u0440\u0456\u0457 \u00bb \u00ab \u043f\u043e\u0432\u0430\u043b\u044f\u0442\u044c \u00bb \u0456\u0440\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0435\u0436\u0438\u043c",
+          "link": "https://www.radiosvoboda.org/a/news-sanktsiyi-ssha-iran-bessent/33835146.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "EEUU sanciona a diez personas de una red que permite a Hezbol\u00e1 y la Guardia Revolucionaria eludir sanciones",
+          "link": "https://www.diariosigloxxi.com/texto-ep/mostrar/20260820215131/eeuu-sanciona-diez-personas-red-permite-hezbola-guardia-revolucionaria-eludir-sanciones",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0397\u03a0\u0391 : \u0395\u03c0\u03af\u03c3\u03c0\u03b5\u03c5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03ac\u03b8\u03b5\u03c3\u03b7\u03c2 \u03c7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae\u03c2 \u03b2\u03b5\u03bd\u03b6\u03af\u03bd\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c3\u03c5\u03b3\u03ba\u03c1\u03ac\u03c4\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03c4\u03b9\u03bc\u03ce\u03bd",
+          "link": "https://www.capital.gr/diethni/4011635/ipa-epispeusi-tis-diathesis-xeimerinis-benzinis-gia-sugkratisi-ton-timon/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Strait of Hormuz Tensions Keep Oil Prices and Inflation Risks High , by Bogdan Maioreanu",
+          "link": "https://nineoclock.ro/strait-of-hormuz-tensions-keep-oil-prices-and-inflation-risks-high-by-bogdan-maioreanu/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "U . S . stocks fall sharply as bond prices contin eu to flounder",
+          "link": "http://www.jamaicantimes.com/news/279254808/u-s-stocks-fall-sharply-as-bond-prices-contin-eu-to-flounder",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Long - deployed USS Lincoln relieved in Middle East after record - setting deployment",
+          "link": "https://www.kmvt.com/2026/08/20/long-deployed-uss-lincoln-relieved-middle-east-after-record-setting-deployment/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Launches Economic Pressure Campaign Against Iran",
+          "link": "https://afr.net:443/podcasts/todays-issues-with-tim-wildmon-and-company/2026/august/trump-launches-economic-pressure-campaign-against-iran/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "EPA will loosen summertime fuel emissions rules to increase the US gas supply",
+          "link": "https://www.krtv.com/science-and-tech/energy/epa-will-loosen-summertime-fuel-emissions-rules-to-increase-the-us-gas-supply",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "European Stocks Close Lower On Geopolitical Tensions",
+          "link": "https://www.rttnews.com/story.aspx?Id=3682786",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tramps piedraud\u0113jis Ir\u0101nai ar piln\u012bgu ekonomisko izol\u0101ciju",
+          "link": "https://www.lsm.lv/raksts/zinas/ekonomika/20.08.2026-tramps-piedraudejis-iranai-ar-pilnigu-ekonomisko-izolaciju.a659679/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Guerre au Moyen - Orient : les \u00c9tats - Unis durcissent le ton contre le Hezbollah",
+          "link": "https://www.lalibre.be/international/moyen-orient/iran/2026/08/20/guerre-au-moyen-orient-les-etats-unis-durcissent-le-ton-contre-le-hezbollah-CPV35NZXPZCIRPZYYNWNV2UFH4/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Bessent ( Tr\u00e9sor am\u00e9ricain ) estime que laugmentation des rachats dobligations pourrait se poursuivre - 20 / 08 / 2026 \u00e0 22 : 38",
+          "link": "https://www.boursorama.com/bourse/actualites/bessent-tresor-americain-estime-que-l-augmentation-des-rachats-d-obligations-pourrait-se-poursuivre-08cdc8e75fdb605c0fc1695cb0ec342c",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "U . S . stocks fall sharply as bond prices contin eu to flounder",
+          "link": "http://www.zimbabwestar.com/news/279254808/u-s-stocks-fall-sharply-as-bond-prices-contin-eu-to-flounder",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "VOTE : Are you concerned about the United State $40 trillion national debt ?",
+          "link": "https://katv.com/question-of-the-day/vote-are-you-concerned-about-the-united-states-40-trillion-national-debt-question-of-the-day-inflation-iran-war-investors-borrowing-costs-interest-mortgages-loans",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: tehran",
@@ -319,6 +670,49 @@
       "items": []
     }
   ],
-  "iran": [],
+  "iran": [
+    {
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+      "source": "BBC News",
+      "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+    },
+    {
+      "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+      "summary": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference.",
+      "source": "NPR Topics: News",
+      "source_url": "https://feeds.npr.org/1001/rss.xml"
+    },
+    {
+      "title": "Tehran always prepared for talks ; US engages only when it serves its interests : Iran Consul General dismisses back - channel negotiations reports",
+      "link": "http://www.asiabulletin.com/news/279254440/tehran-always-prepared-for-talks-us-engages-only-when-it-serves-its-interests-iran-consul-general-dismisses-back-channel-negotiations-reports",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "President Trump threats economic warfare in latest shift in strategy with Iran",
+      "link": "https://wsbt.com/news/nation-world/president-trump-threats-economic-warfare-in-latest-shift-in-strategy-with-iran-strait-hormuz-europe-us-debt-economic",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Guerre au Moyen - Orient : pourquoi les Emirats arabes unis ont - ils suspendu leurs \u00e9changes avec lIran ?",
+      "link": "https://libe.ma/guerre-au-moyen-orient-pourquoi-les-emirats-arabes-unis-ont-ils-suspendu-leurs-echanges-avec-liran/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump Launches Economic Pressure Campaign Against Iran",
+      "link": "https://afr.net:443/podcasts/todays-issues-with-tim-wildmon-and-company/2026/august/trump-launches-economic-pressure-campaign-against-iran/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    }
+  ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
 }
