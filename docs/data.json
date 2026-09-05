@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-09-05T17:14:30Z",
+  "generated_at": "2026-09-05T20:09:26Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
+        {
+          "title": "US envoys meet Putin in Moscow for Ukraine talks",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+          "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
         {
           "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
           "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
@@ -29,14 +36,7 @@
         {
           "title": "US hits three Iranian oil tankers after saying its warships were targeted",
           "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-          "summary": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "Jaguar Land Rover confirms planned job cuts",
-          "link": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-          "summary": "The firm says it needs to save about \u00a31.7bn over the next two years.",
+          "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -47,9 +47,23 @@
       "source_url": "https://feeds.bbci.co.uk/persian/rss.xml",
       "items": [
         {
-          "title": "\u0633\u0646\u062a\u06a9\u0627\u0645: \u0628\u0647 \u062a\u0644\u0627\u0641\u06cc \u062d\u0645\u0644\u0627\u062a \u0633\u067e\u0627\u0647\u060c \u0633\u0647 \u0646\u0641\u062a\u06a9\u0634 \u0627\u06cc\u0631\u0627\u0646 \u0631\u0627 \u0627\u0632 \u06a9\u0627\u0631 \u0627\u0646\u062f\u0627\u062e\u062a\u06cc\u0645",
+          "title": "\u0633\u0646\u062a\u06a9\u0627\u0645: \u0628\u0647 \u062a\u0644\u0627\u0641\u06cc \u062d\u0645\u0644\u0627\u062a \u0633\u067e\u0627\u0647\u060c \u0633\u0647 \u0646\u0641\u062a\u06a9\u0634 \u0627\u06cc\u0631\u0627\u0646 \u0631\u0627 \u0627\u0632 \u06a9\u0627\u0631 \u0627\u0646\u062f\u0627\u062e\u062a\u06cc\u0645\u061b \u0627\u06cc\u0631\u0627\u0646: \u067e\u06cc\u0627\u0645\u062f \u0627\u06cc\u0646 \u062d\u0645\u0644\u0627\u062a \u0628\u0631\u0639\u0647\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627\u0633\u062a",
           "link": "https://www.bbc.co.uk/persian/live/cm8xk8005g50t?at_medium=RSS&at_campaign=rss",
           "summary": "\u0641\u0631\u0645\u0627\u0646\u062f\u0647\u06cc \u0645\u0631\u06a9\u0632\u06cc \u0627\u0631\u062a\u0634 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 (\u0633\u0646\u062a\u06a9\u0627\u0645) \u06af\u0641\u062a \u0628\u0647 \u0633\u0647 \u0646\u0641\u062a\u06a9\u0634 \u0627\u06cc\u0631\u0627\u0646 \u062d\u0645\u0644\u0647 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0628\u0646\u0627\u0628\u0631 \u0628\u06cc\u0627\u0646\u06cc\u0647\u200c \u0633\u0646\u062a\u06a9\u0627\u0645 \u0627\u06cc\u0646 \u062d\u0645\u0644\u0647 \u067e\u0633 \u0627\u0632 \u0622\u0646 \u0627\u0646\u062c\u0627\u0645 \u0634\u062f \u06a9\u0647 \u0633\u067e\u0627\u0647 \u067e\u0627\u0633\u062f\u0627\u0631\u0627\u0646 \u0628\u0647 \u062f\u0648 \u0646\u0627\u0648 \u0646\u06cc\u0631\u0648\u06cc \u062f\u0631\u06cc\u0627\u06cc\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u06a9\u0647 \u062f\u0631 \u0622\u0628\u200c\u0647\u0627\u06cc \u0645\u0646\u0637\u0642\u0647 \u062f\u0631 \u062d\u0627\u0644 \u06af\u0634\u062a\u200c\u0632\u0646\u06cc \u0628\u0648\u062f\u0646\u062f\u060c \u0645\u0648\u0634\u06a9\u2026",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u0645\u062a\u0647\u0645 \u067e\u0631\u0648\u0646\u062f\u0647 \u0645\u0631\u06af \u0646\u06cc\u0644\u0648\u0641\u0631 \u0645\u062c\u0627\u0648\u0631 \u062d\u06cc\u0646 \u062e\u0631\u0648\u062c \u0627\u0632 \u0645\u0631\u0632 \u062f\u0633\u062a\u06af\u06cc\u0631 \u0634\u062f",
+          "link": "https://www.bbc.com/persian/articles/cm27k0p4zx7o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u062f\u0627\u062f\u0633\u062a\u0627\u0646 \u0639\u0645\u0648\u0645\u06cc \u0648 \u0627\u0646\u0642\u0644\u0627\u0628 \u0627\u0634\u0646\u0648\u06cc\u0647 \u06af\u0641\u062a\u0647 \u0627\u0633\u062a \u06cc\u06a9 \u0646\u0641\u0631 \u0645\u062a\u0647\u0645 \u062f\u0631 \u0627\u0631\u062a\u0628\u0627\u0637 \u0628\u0627 \u00ab\u0645\u0631\u06af\u00bb \u0646\u06cc\u0644\u0648\u0641\u0631 \u0645\u062c\u0627\u0648\u0631 \u00ab\u0647\u0646\u06af\u0627\u0645 \u062e\u0631\u0648\u062c \u0627\u0632 \u0645\u0631\u0632\u0647\u0627\u06cc \u063a\u06cc\u0631\u0645\u062c\u0627\u0632 \u062f\u0631 \u0627\u0633\u062a\u0627\u0646 \u06a9\u0631\u062f\u0633\u062a\u0627\u0646 \u062f\u0633\u062a\u06af\u06cc\u0631 \u0634\u062f\u0647 \u0627\u0633\u062a.\u00bb",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0628\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0646\u0642\u0634\u0647 \u062c\u062f\u06cc\u062f\u06cc \u0627\u0632 \u062c\u0647\u0627\u0646 \u0631\u0627\u06cc \u062f\u0627\u062f \u062a\u0627 \u0627\u0646\u062f\u0627\u0632\u0647 \u0648\u0627\u0642\u0639\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627 \u0631\u0627 \u0645\u0646\u0639\u06a9\u0633 \u06a9\u0646\u062f",
+          "link": "https://www.bbc.com/persian/articles/cx2zerjn3rpo?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0645\u062c\u0645\u0639 \u0639\u0645\u0648\u0645\u06cc \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0645\u062a\u062d\u062f \u0628\u0647 \u062c\u0627\u06cc\u06af\u0632\u06cc\u0646 \u0634\u062f\u0646 \u0646\u0642\u0634\u0647 \u0633\u0646\u062a\u06cc \u062c\u0647\u0627\u0646 \u0628\u0627 \u0646\u0642\u0634\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0627\u0646\u062f\u0627\u0632\u0647 \u0622\u0641\u0631\u06cc\u0642\u0627 \u0631\u0627 \u0628\u0627 \u062f\u0642\u062a \u0628\u06cc\u0634\u062a\u0631\u06cc \u0645\u0646\u0639\u06a9\u0633 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0631\u0627\u06cc \u062f\u0627\u062f.",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
@@ -66,20 +80,6 @@
           "summary": "\u0627\u0633\u062a\u06cc\u0648 \u0648\u06cc\u062a\u06a9\u0627\u0641 \u0648 \u062c\u0631\u062f \u06a9\u0648\u0634\u0646\u0631\u060c \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0646\u0645\u0627\u06cc\u0646\u062f\u06af\u0627\u0646 \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e\u060c \u0631\u0626\u06cc\u0633\u200c\u062c\u0645\u0647\u0648\u0631 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0631\u0627\u06cc \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u00ab\u067e\u0627\u06cc\u0627\u0646 \u062f\u0627\u062f\u0646 \u0628\u0647 \u062c\u0646\u06af\u00bb \u0648\u0627\u0631\u062f \u0645\u0633\u06a9\u0648 \u0634\u062f\u0647\u200c\u0627\u0646\u062f. \u0642\u0631\u0627\u0631 \u0627\u0633\u062a \u0627\u06cc\u0646 \u062f\u0648 \u0646\u0645\u0627\u06cc\u0646\u062f\u0647 \u0641\u0631\u062f\u0627 \u0628\u0647 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0628\u0631\u0648\u0646\u062f\u061b \u0645\u0644\u0627\u0642\u0627\u062a\u200c\u0647\u0627\u06cc\u06cc \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062a\u0644\u0627\u0634\u200c\u0647\u0627 \u0628\u0631\u0627\u06cc \u067e\u0627\u06cc\u0627\u0646\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u062c\u0648\u0627\u062f \u0645\u062c\u0627\u0628\u06cc\u060c \u0646\u0648\u06cc\u0633\u0646\u062f\u0647\u060c \u0634\u0627\u0639\u0631 \u0648 \u0645\u0646\u062a\u0642\u062f \u0627\u062f\u0628\u06cc \u062f\u0631\u06af\u0630\u0634\u062a",
-          "link": "https://www.bbc.com/persian/articles/crr47750p4ro?at_medium=RSS&at_campaign=rss",
-          "summary": "\u062c\u0648\u0627\u062f \u0645\u062c\u0627\u0628\u06cc\u060c \u0646\u0648\u06cc\u0633\u0646\u062f\u0647\u060c \u0634\u0627\u0639\u0631\u060c \u0637\u0646\u0632\u067e\u0631\u062f\u0627\u0632\u060c \u0646\u0642\u0627\u0634 \u0648 \u0645\u0646\u062a\u0642\u062f \u0627\u062f\u0628\u06cc \u0648 \u0647\u0646\u0631\u06cc\u060c \u067e\u0633 \u0627\u0632 \u06cc\u06a9 \u062f\u0648\u0631\u0647 \u0628\u06cc\u0645\u0627\u0631\u06cc \u062f\u0631 \u06f8\u06f7 \u0633\u0627\u0644\u06af\u06cc \u062f\u0631\u06af\u0630\u0634\u062a. \u0627\u0648 \u0627\u0632 \u0686\u0647\u0631\u0647\u200c\u0647\u0627\u06cc \u0634\u0646\u0627\u062e\u062a\u0647\u200c\u0634\u062f\u0647 \u0627\u062f\u0628\u06cc\u0627\u062a \u0648 \u0647\u0646\u0631 \u0645\u0639\u0627\u0635\u0631 \u0627\u06cc\u0631\u0627\u0646 \u0628\u0648\u062f \u06a9\u0647 \u062f\u0631 \u062d\u0648\u0632\u0647\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641\u06cc \u0641\u0639\u0627\u0644\u06cc\u062a \u06a9\u0631\u062f \u0627\u0632 \u062c\u0645\u0644\u0647 \u0627\u062f\u0628\u06cc\u0627\u062a\u060c \u0647\u0646\u0631\u0647\u0627\u06cc \u062a\u062c\u0633\u0645\u2026",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u0628\u0631\u0648\u0632 \u0627\u062e\u062a\u0644\u0627\u0644 \u062f\u0631 \u0628\u0646\u062f\u0631 \u062f\u0648\u0648\u0631 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u067e\u06cc \u0628\u0633\u062a\u0647 \u0634\u062f\u0646 \u0631\u0627\u0647\u200c\u0647\u0627 \u062a\u0648\u0633\u0637 \u0645\u0631\u062f\u0627\u0646 \u0646\u0642\u0627\u0628\u200c\u062f\u0627\u0631 \u0633\u06cc\u0627\u0647\u200c\u067e\u0648\u0634",
-          "link": "https://www.bbc.com/persian/articles/c5ym8007np8o?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0628\u0647 \u062f\u0644\u06cc\u0644 \u062d\u0636\u0648\u0631 \u0627\u0639\u062a\u0631\u0627\u0636\u06cc \u06af\u0631\u0648\u0647 \u0628\u0632\u0631\u06af\u06cc \u0627\u0632 \u0645\u0631\u062f\u0627\u0646 \u0646\u0642\u0627\u0628\u062f\u0627\u0631\u060c \u0627\u062e\u062a\u0644\u0627\u0644\u06cc \u06af\u0633\u062a\u0631\u062f\u0647 \u062f\u0631 \u0628\u0646\u062f\u0631 \u062f\u0648\u0648\u0631 \u062f\u0631 \u062c\u0646\u0648\u0628 \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646 \u0627\u06cc\u062c\u0627\u062f \u0634\u062f\u0647 \u0627\u0633\u062a. \u0635\u062f\u0647\u0627 \u0645\u0639\u062a\u0631\u0636\u060c \u0628\u0627 \u0644\u0628\u0627\u0633 \u0633\u06cc\u0627\u0647 \u0648 \u0645\u0627\u0633\u06a9\u060c \u062c\u0627\u062f\u0647\u200c\u0647\u0627 \u0631\u0627 \u0645\u0633\u062f\u0648\u062f \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u0648 \u0634\u0639\u0627\u0631 \u0645\u06cc\u200c\u062f\u0647\u0646\u062f \u06a9\u0647 \u00ab\u0642\u0627\u06cc\u0642\u200c\u0647\u0627 \u0631\u0627 \u0645\u062a\u0648\u0642\u0641 \u06a9\u0646\u06cc\u062f\u00bb.",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         }
       ]
     },
@@ -88,7 +88,7 @@
       "source_url": "https://ir.voanews.com/api/zbtpil-vomx-tpeqiyp",
       "items": [
         {
-          "title": "\ud83d\udd34 \u0633\u0646\u062a\u06a9\u0627\u0645: \u0633\u0647 \u0646\u0641\u062a\u06a9\u0634 \u062d\u0627\u0645\u0644 \u0646\u0641\u062a \u0645\u0631\u062a\u0628\u0637 \u0628\u0627 \u0633\u067e\u0627\u0647 \u067e\u0627\u0633\u062f\u0627\u0631\u0627\u0646 \u0631\u0627 \u0647\u062f\u0641 \u0642\u0631\u0627\u0631 \u062f\u0627\u062f\u06cc\u0645",
+          "title": "\ud83d\udd34 \u0647\u0634\u062f\u0627\u0631 \u0648\u0632\u06cc\u0631 \u062c\u0646\u06af \u0622\u0645\u0631\u06cc\u06a9\u0627: \u0627\u06af\u0631 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0628\u0647 \u06a9\u0634\u062a\u06cc\u200c\u0647\u0627\u06cc \u0645\u0627 \u0634\u0644\u06cc\u06a9 \u06a9\u0646\u062f \u0646\u0641\u062a\u06a9\u0634\u200c\u0647\u0627\u06cc\u0634 \u0631\u0627 \u063a\u0631\u0642 \u0645\u06cc\u200c\u06a9\u0646\u06cc\u0645",
           "link": "https://ir.voanews.com/a/iran-us-related-live-news-coverage/8162914.html",
           "summary": "\u0641\u0631\u0645\u0627\u0646\u062f\u0647\u06cc \u0645\u0631\u06a9\u0632\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647\u060c \u0633\u0646\u062a\u06a9\u0627\u0645\u060c \u0631\u0648\u0632 \u0634\u0646\u0628\u0647 \u06f1\u06f4 \u0634\u0647\u0631\u06cc\u0648\u0631 \u0627\u0639\u0644\u0627\u0645 \u06a9\u0631\u062f \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u0633\u0647 \u0646\u0641\u062a\u06a9\u0634 \u062d\u0627\u0645\u0644 \u0646\u0641\u062a \u062e\u0627\u0645 \u0645\u0631\u062a\u0628\u0637 \u0628\u0627 \u0633\u067e\u0627\u0647 \u067e\u0627\u0633\u062f\u0627\u0631\u0627\u0646 \u0631\u0627 \u0647\u062f\u0641 \u0642\u0631\u0627\u0631 \u062f\u0627\u062f\u0647\u200c\u0627\u0646\u062f\u061b \u0627\u0642\u062f\u0627\u0645\u06cc \u06a9\u0647 \u0628\u0647 \u06af\u0641\u062a\u0647 \u0633\u0646\u062a\u06a9\u0627\u0645 \u067e\u0633 \u0627\u0632 \u0634\u0644\u06cc\u06a9 \u0645\u0648\u0634\u06a9\u200c\u0647\u0627\u06cc \u0628\u0627\u0644\u0633\u062a\u06cc\u06a9 \u0633\u067e\u0627\u0647 \u067e\u0627\u0633\u062f\u0627\u0631\u0627\u0646 \u0628\u0647\u2026",
           "source": "\u062e\u0628\u0631 \u0627\u0648\u0644 - \u0635\u062f\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
@@ -134,6 +134,20 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
+          "title": "The Luxuries in Life",
+          "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
+          "title": "Learn Programming with OCaml",
+          "link": "https://usr.lmf.cnrs.fr/lpo/",
+          "summary": "Comments",
+          "source": "Hacker News",
+          "source_url": "https://news.ycombinator.com/rss"
+        },
+        {
           "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
           "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
           "summary": "Comments",
@@ -141,15 +155,8 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Flock used >100 times to track veteran who recorded traffic stop",
-          "link": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Actively exploited sandbox RCE in all Chromium versions",
-          "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+          "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+          "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -157,13 +164,6 @@
         {
           "title": "Discovery of a new OpenAI agent message board",
           "link": "https://collusion.wiki/",
-          "summary": "Comments",
-          "source": "Hacker News",
-          "source_url": "https://news.ycombinator.com/rss"
-        },
-        {
-          "title": "Nitter has more working instances than before the takedowns",
-          "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-          "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-          "summary": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+          "title": "France denies inciting failed Niger mutiny, calls accusation \u2018pure fantasy\u2019",
+          "link": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
+          "summary": "Niger's government has widened its blame to unnamed neighbours a week after the assault on a military base.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Israel claims control of Lebanon\u2019s key Ali al-Taher ridge: What that means",
-          "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-          "summary": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
+          "title": "Jerusalem Daily: raids, settlers & sieges",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
+          "summary": "Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "US says it hit three Iranian oil tankers after attacks on warships",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-          "summary": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
+          "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+          "link": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
+          "summary": "The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Israeli campaign of West Bank destruction moves on to region\u2019s food basket",
-          "link": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-          "summary": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.",
+          "title": "Woman beaten to death as bystanders watch in India\u2019s Gujarat",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss",
+          "summary": "A woman was beaten to death at a crowded bus station in India, with CCTV showing bystanders watching.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-          "link": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-          "summary": "Rescues fuel hope more could be found alive as Nepal's flood death toll passes 1,331, with people missing on both sides.",
+          "title": "Shoppers interact with Hong Kong\u2019s first robot shopkeeper",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss",
+          "summary": "Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -215,6 +215,13 @@
       "source": "World news | The Guardian",
       "source_url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+          "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+          "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking na\u2026",
+          "source": "World news | The Guardian",
+          "source_url": "https://www.theguardian.com/world/rss"
+        },
         {
           "title": "UN votes to adopt new world map that shows Africa\u2019s true scale",
           "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
@@ -240,13 +247,6 @@
           "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
           "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
           "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that signific\u2026",
-          "source": "World news | The Guardian",
-          "source_url": "https://www.theguardian.com/world/rss"
-        },
-        {
-          "title": "Almost half of world\u2019s farmers poisoned by pesticides every year, experts find",
-          "link": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-          "summary": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world\u2019s farmers are poisoned by pesticides every single year, a study has found\u2026",
           "source": "World news | The Guardian",
           "source_url": "https://www.theguardian.com/world/rss"
         }
@@ -278,16 +278,16 @@
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         },
         {
-          "title": "Whatever happened to the floating schools of Bangladesh?",
-          "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
-          "summary": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
+          "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
+          "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
+          "summary": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         },
         {
-          "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-          "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-          "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit,\u2026",
+          "title": "Whatever happened to the floating schools of Bangladesh?",
+          "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
+          "summary": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
@@ -311,358 +311,7 @@
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": [
-        {
-          "title": "EE UU destruye tres petroleros iran\u00edes en respuesta a los \u00faltimos ataques de Teher\u00e1n",
-          "link": "https://www.laverdad.es/internacional/eeuu/destruye-tres-petroleros-iranies-respuesta-ultimos-ataques-20260905180726-ntrc.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "link": "https://abc7chicago.com/post/us-military-hits-3-iranian-oil-tankers-saying-navy-warships-were-targeted-missiles/19795020/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03c1\u03cc\u03bc\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1 \u03b1\u03bd\u03ac\u03c6\u03bb\u03b5\u03be\u03b7 \u03c3\u03c4\u03bf Hormuz \u2013 \u039c\u03ae\u03bd\u03c5\u03bc\u03b1 \u03c3\u03bf\u03ba \u0399\u03c1\u03ac\u03bd \u03b3\u03b9\u03b1 \u03bd\u03c4\u03cc\u03bc\u03b9\u03bd\u03bf \u03c0\u03bf\u03bb\u03ad\u03bc\u03bf\u03c5 \u03bc\u03b5 \u03b5\u03bc\u03c0\u03bb\u03bf\u03ba\u03ae \u039d . \u039a\u03bf\u03c1\u03ad\u03b1\u03c2 \u2013 \u03a8\u03ac\u03c7\u03bd\u03b5\u03b9 ... \u03bd\u03af\u03ba\u03b7 \u03bf Trump",
-          "link": "https://www.bankingnews.gr/diethni/articles/897604/tromos-gia-pagkosmia-anafleksi-sto-hormuz-minyma-sok-iran-gia-domino-polemou-me-emploki-n-koreas-psaxnei-niki-o-trump%20title=",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Planul SUA care promite s\u0103 schimbe radical harta Orientului Mijlociu . Trump preg\u0103te\u0219te o strategie post - r\u0103zboi",
-          "link": "https://www.mediafax.ro/externe/planul-sua-care-promite-sa-schimbe-radical-harta-orientului-mijlociu-trump-pregateste-o-strategie-post-razboi-23802409",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a4\u03c1\u03cc\u03bc\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1 \u03b1\u03bd\u03ac\u03c6\u03bb\u03b5\u03be\u03b7 \u03c3\u03c4\u03bf Hormuz \u2013 \u039c\u03ae\u03bd\u03c5\u03bc\u03b1 \u03c3\u03bf\u03ba \u0399\u03c1\u03ac\u03bd \u03b3\u03b9\u03b1 \u03bd\u03c4\u03cc\u03bc\u03b9\u03bd\u03bf \u03c0\u03bf\u03bb\u03ad\u03bc\u03bf\u03c5 \u03bc\u03b5 \u03b5\u03bc\u03c0\u03bb\u03bf\u03ba\u03ae \u039d . \u039a\u03bf\u03c1\u03ad\u03b1\u03c2 \u2013 \u03a8\u03ac\u03c7\u03bd\u03b5\u03b9 ... \u03bd\u03af\u03ba\u03b7 \u03bf Trump",
-          "link": "https://www.bankingnews.gr/diethni/articles/897604/tromos-gia-pagkosmia-anafleksi-sto-hormuz-minyma-sok-iran-gia-domino-polemou-me-emploki-n-koreas-psaxnei-niki-o-trump",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u00dcber 60 Tote bei neuen K\u00e4mpfen im Jemen",
-          "link": "https://www.vol.at/mehr-als-60-tote-bei-neuen-kaempfen-im-jemen/10444112",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "link": "https://abc13.com/post/us-military-hits-3-iranian-oil-tankers-saying-navy-warships-were-targeted-missiles/19795020/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran zamierza przej\u015b\u0107 do ataku . Nowe informacje wywiadu united states . Trump ma powody do niepokoju",
-          "link": "https://wiadomosci.onet.pl/swiat/iran-zamierza-przejsc-do-ataku-nowe-informacje-wywiadu-usa-trump-ma-powody-do/lment65",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Si mund t\u00eb p\u00ebrfundoj\u00eb lufta SHBA - Iran ?",
-          "link": "https://zeri.info/bota/635875/si-mund-te-perfundoje-lufta-shba-iran/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "LIran attacca due navi united states Washington risponde | distrutte tre petroliere di Teheran",
-          "link": "https://www.zazoom.it/2026-09-05/liran-attacca-due-navi-usa-washington-risponde-distrutte-tre-petroliere-di-teheran/19645815/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u03a3\u03c4\u03b5\u03bd\u03ac \u03c4\u03bf\u03c5 \u039f\u03c1\u03bc\u03bf\u03cd\u03b6 : \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ac \u03c0\u03bb\u03ae\u03b3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03b5 \u03c4\u03c1\u03af\u03b1 \u03b9\u03c1\u03b1\u03bd\u03b9\u03ba\u03ac \u03c4\u03ac\u03bd\u03ba\u03b5\u03c1",
-          "link": "https://gr.euronews.com/2026/09/05/iranian-media-report-a-us-strike-on-an-iranian-oil-tanker-near-kharg-island",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n asegura tener un plan para derrotar a EE . UU . en su guerra econ\u00f3mica",
-          "link": "https://actualidad.rt.com/actualidad/626071-iran-asegurar-tener-plan-derrotar-eeuu-guerra-economica",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "link": "https://www.stcatharinesstandard.ca/news/world/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/article_c6f25ec4-c989-51ba-ba8b-435d9c29c204.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "link": "https://www.whec.com/ap-top-news/ap-top-news-international/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Trump 2 . 0 : el Gobierno a golpe de amenazas maximalistas a pa\u00edses , aliados e instituciones \u2013 Peri\u00f3dico Z\u00f3calo | Noticias de Saltillo , Torre\u00f3n , Piedras Negras , Monclova , Acu\u00f1a",
-          "link": "https://www.zocalo.com.mx/trump-2-0-el-gobierno-a-golpe-de-amenazas-maximalistas-a-paises-aliados-e-instituciones/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles \u2013 Brandon Sun",
-          "link": "https://www.brandonsun.com/lifestyles/2026/09/05/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "U . S . pressure on Iran starting to tell , as sanctions and blockade bite",
-          "link": "https://kaieteurnewsonline.com/2026/09/05/u-s-pressure-on-iran-starting-to-tell-as-sanctions-and-blockade-bite/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "NYT \u0443\u0437\u043d\u0430\u043b\u0430 \u043e \u043f\u043b\u0430\u043d\u0430\u0445 \u0418\u0440\u0430\u043d\u0430 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u044c \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442 \u0434\u043e \u0432\u044b\u0431\u043e\u0440\u043e\u0432 \u0432 \u0421\u0428\u0410",
-          "link": "https://www.bfm.ru/news/617080",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0628\u0639\u062f \u062a\u0647\u062f\u064a\u062f \u062a\u0631\u0627\u0645\u0628 \u0628\u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0645\u0646\u0634\u0623\u0629 \u062c\u0628\u0644 \u0627\u0644\u0641\u0623\u0633 \u0627\u0644\u0646\u0648\u0648\u064a\u0629 ... \u062e\u0628\u0631\u0627\u0621 \u064a\u062d\u0630\u0631\u0648\u0646 \u0645\u0646 \u0627\u0646\u062f\u0644\u0627\u0639 \u062d\u0631\u0628 \u0634\u0627\u0645\u0644\u0629 \u0641\u0649 \u0627\u0644\u0645\u0646\u0637\u0642\u0629",
-          "link": "https://www.fj-p.com/433923/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%86%D8%B4%D8%A3%D8%A9-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D9%81/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u039f\u03b9 \u0397\u03a0\u0391 \u03c7\u03c4\u03cd\u03c0\u03b7\u03c3\u03b1\u03bd \u03c4\u03c1\u03af\u03b1 \u03b9\u03c1\u03b1\u03bd\u03b9\u03ba\u03ac \u03c4\u03ac\u03bd\u03ba\u03b5\u03c1 \u03bc\u03b5 \u03c0\u03b5\u03c4\u03c1\u03ad\u03bb\u03b1\u03b9\u03bf \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03c3\u03b7 \u03bc\u03b5 \u03b2\u03b1\u03bb\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c0\u03c5\u03c1\u03b1\u03cd\u03bb\u03bf\u03c5\u03c2",
-          "link": "https://www.inewsgr.com/93/oi-ipa-chtypisan-tria-iranika-tanker-me-petrelaio-meta-apo-epithesi-me-vallistikous-pyravlous.htm",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Larm\u00e9e am\u00e9ricaine dit avoir  d\u00e9truit  trois p\u00e9troliers iraniens",
-          "link": "http://seneweb.com/fr/news/International/larmee-americaine-dit-avoir-detruit-trois-petroliers-iraniens_n_503443.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-          "link": "https://www.yahoo.com/news/us/articles/us-military-hits-3-iranian-135346839.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Estados Unidos ataca un petrolero iran\u00ed cerca de la isla de Jarg , seg\u00fan medios iran\u00edes \u2013 Peri\u00f3dico Z\u00f3calo | Noticias de Saltillo , Torre\u00f3n , Piedras Negras , Monclova , Acu\u00f1a",
-          "link": "https://www.zocalo.com.mx/estados-unidos-ataca-un-petrolero-irani-cerca-de-la-isla-de-jarg-segun-medios-iranies/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iran rebuilding its axis of resistance for attack , Israeli intelligence . suggests",
-          "link": "https://www.jpost.com/middle-east/article-907636",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Lufthansa Aktie : Riyadh - Fl\u00fcge ab 10 . September",
-          "link": "https://www.boerse-express.com/news/articles/lufthansa-aktie-riyadh-fluege-ab-10-september-945023",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041f\u0440\u0438\u0437\u043d\u0430\u043a\u043e\u0432 \u0433\u043e\u0442\u043e\u0432\u043d\u043e\u0441\u0442\u0438 \u0418\u0440\u0430\u043d\u0430 \u043a \u0441\u043e\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044e \u0441 \u0421\u0428\u0410 \u043c\u0430\u043b\u043e NYT - \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0441\u0435\u0433\u043e\u0434\u043d\u044f",
-          "link": "http://pressorg24.com/news?id=844083",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u043d\u0430\u0437\u0432\u0430\u043b \u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u0443 \u041e\u0440\u043c\u0443\u0437\u0441\u043a\u043e\u043c\u0443 \u043f\u0440\u043e\u043b\u0438\u0432\u0443 \u043a\u0430\u043a \u044d\u0442\u043e \u043f\u043e\u0432\u043b\u0438\u044f\u0435\u0442 \u043d\u0430 \u0445\u043e\u0434 \u0432\u043e\u0439\u043d\u044b",
-          "link": "https://www.obozrevatel.com/novosti-mir/tramp-nashel-alternativu-ormuzskomu-prolivu-i-vyistupil-s-preduprezhdeniem-v-adres-irana.htm",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n denuncia ataque de EEUU contra petrolero cerca de la isla de Kharg - Agencia Venezolana de Noticias",
-          "link": "https://avn.info.ve/iran-denuncia-ataque-de-eeuu-contra-petrolero-cerca-de-la-isla-de-kharg/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "News",
-          "link": "https://www.pakistanlink.org/Headlines/Sep26/04/13.htm",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian Media Report Tanker Hit Near Key Oil Hub",
-          "link": "http://www.southeastasiapost.com/news/279287938/iranian-media-report-tanker-hit-near-key-oil-hub",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "News",
-          "link": "https://www.pakistanlink.org/Headlines/Sep26/04/04.htm",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Israel intensifica ataques no L\u00edbano e deixa mortos e feridos",
-          "link": "https://operamundi.uol.com.br/guerra-israel-x-libano/israel-intensifica-ataques-no-libano-e-bombardeios-deixam-mortos-e-feridos/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0418\u0440\u0430\u043d \u0442\u0435\u0440\u044f\u0435\u0442 \u0432\u043b\u0438\u044f\u043d\u0438\u0435 \u043d\u0430 \u043d\u0435\u0444\u0442\u044f\u043d\u043e\u043c \u0440\u044b\u043d\u043a\u0435",
-          "link": "https://korrespondent.net/business/economics/4909246-yran-teriaet-vlyianye-na-neftianom-rynke",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Vicepre\u0219edintele Statelor Unite , JD Vance : \u201e Nu suntem \u00een r\u0103zboi cu Iranul",
-          "link": "https://www.stiripesurse.ro/vicepresedintele-statelor-unite-jd-vance-nu-suntem-in-razboi-cu-iranul_3917597",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "US issues sanctions on Turkish bank that it calls a  critical financial lifeline  for Iran",
-          "link": "https://www.timesfreepress.com/news/2026/sep/04/us-issues-sanctions-on-turkish-bank-that-it-calls-a-critical-financial-lifeline-for-iran/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Widow of airman killed in Mideast upset when she told Iran wasnt a war while sorting out benefits",
-          "link": "https://www.inquirer.com/news/nation-world/iran-us-war-airman-killed-crash-widow-benefits-combat-pay-air-force-trump-vance-20260904.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian media report explosions in Kharg Island area of Gulf",
-          "link": "https://www.bssnews.net/international/421238",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "ABDnin yapt\u0131r\u0131m uygulad\u0131\u011f\u0131 T\u00fcrk bankas\u0131 hakk\u0131nda neler biliniyor ?",
-          "link": "https://t24.com.tr/ekonomi/abd-nin-yaptirim-uyguladigi-turk-bankasi-hakkinda-neler-biliniyor,1346061",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iranian Oil Tanker Struck by Four Missiles Near Major Persian Gulf Export Hub",
-          "link": "https://www.lankanewspapers.com/2026/09/05/iranian-oil-tanker-struck-by-four-missiles-near-major-persian-gulf-export-hub",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1ni tankert l\u0151tt ki az amerikai l\u00e9gier\u0151 - porr\u00e1 z\u00fazz\u00e1k a Kharg - szigetet ?",
-          "link": "https://www.vg.hu/hirek/2026/09/irani-tankert-lottek-ki-az-amerikaiak-kharg-sziget",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Teher\u00e1n cambia de estrategia : Ir\u00e1n adopta una doctrina de  ataques preventivos  ante las ofensivas por goteo de EEUU y de Israel",
-          "link": "https://www.lasexta.com/noticias/internacional/teheran-cambia-estrategia-iran-adopta-doctrina-ataques-preventivos-ofensivas-goteo-eeuu-israel_202609056a9c08374941316b1e78cd18.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0645\u062d\u0645\u062f\u0631\u0636\u0627 \u0627\u062e\u0628\u0627\u0631\u06cc \u061b \u06f5 \u0646\u06a9\u062a\u0647 \u0627\u0632 \u0628\u0627\u0632\u06af\u0634\u062a \u062c\u0646\u062c\u0627\u0644\u06cc \u06a9\u0627\u067e\u06cc\u062a\u0627\u0646 \u0633\u0627\u0628\u0642 \u062a\u0631\u0627\u06a9\u062a\u0648\u0631 \u0628\u0647 \u062a\u0628\u0631\u06cc\u0632",
-          "link": "https://www.ipna.ir/%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%DB%8C%D8%9B-5-%D9%86%DA%A9%D8%AA%D9%87-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%AC%D9%86%D8%AC%D8%A7%D9%84%DB%8C/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Iraqis Queue for Fuel as Regional War Disrupts Imports",
-          "link": "https://english.aawsat.com/arab-world/5314943-iraqis-queue-fuel-regional-war-disrupts-imports",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Strait Of Hormuz Remains Effectively Closed As Six - Month Iran Crisis Grinds Into September Amid Tanker Attacks",
-          "link": "https://www.ibtimes.com.au/strait-hormuz-crisis-global-oil-trade-disruption-1875063",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Per naujus m\u016b\u0161ius Jemene \u017euvo daugiau kaip 60 \u017emoni\u0173",
-          "link": "https://www.lrytas.lt/pasaulis/konfliktai-ir-saugumas/2026/09/05/news/per-naujus-musius-jemene-zuvo-daugiau-kaip-60-zmoniu-43885793/",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Tanquero petrolero iran\u00ed sufre ataque con misiles de EE . UU . cerca de la isla de Jarg",
-          "link": "http://spanish.xinhuanet.com/20260905/0cccfe6769c242c38aab160f59003a31/c.html",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u041e\u0437\u043d\u0430\u043a \u0433\u043e\u0442\u043e\u0432\u043d\u043e\u0441\u0442\u0456 \u0406\u0440\u0430\u043d\u0443 \u0434\u043e \u0443\u0433\u043e\u0434\u0438 \u0437\u0456 \u0421\u0428\u0410 \u043c\u0430\u043b\u043e - NYT",
-          "link": "https://unn.ua/news/oznak-hotovnosti-iranu-do-uhody-zi-ssha-malo-nyt",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "\u0647\u0644 \u064a\u0635\u0645\u062f \u062a\u0648\u0627\u0641\u0642 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0648\u0627\u0644\u062c\u0645\u0627\u0639\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0641\u064a \u0628\u0627\u0643\u0633\u062a\u0627\u0646 \u0628\u0634\u0623\u0646 \u0636\u0631\u064a\u0628\u0629 \u0627\u0644\u0628\u062a\u0631\u0648\u0644 \u061f",
-          "link": "https://www.aljazeera.net/politics/2026/9/5/%D9%87%D9%84-%D9%8A%D8%B5%D9%85%D8%AF-%D8%AA%D9%88%D8%A7%D9%81%D9%82-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D8%A9",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Ir\u00e1n asegura que tiene un  plan  para responder a la guerra ecom\u00f3mica de EEUU",
-          "link": "https://www.diariosigloxxi.com/texto-ep/mostrar/20260905132424/iran-asegura-tiene-plan-responder-guerra-ecomomica-eeuu",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        },
-        {
-          "title": "Irak : des files dattente pour lessence sur fond de perturbation des importations - 05 / 09 / 2026 \u00e0 13 : 38",
-          "link": "https://www.boursorama.com/actualite-economique/actualites/irak-des-files-d-attente-pour-l-essence-sur-fond-de-perturbation-des-importations-9d135789b483fc3530c9687ebc636571",
-          "summary": "",
-          "source": "GDELT: Tehran",
-          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-        }
-      ]
+      "items": []
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -674,16 +323,9 @@
     {
       "title": "US hits three Iranian oil tankers after saying its warships were targeted",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-    },
-    {
-      "title": "US says it hit three Iranian oil tankers after attacks on warships",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-      "summary": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
-      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
     },
     {
       "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
@@ -691,160 +333,6 @@
       "summary": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
       "source": "NPR Topics: News",
       "source_url": "https://feeds.npr.org/1001/rss.xml"
-    },
-    {
-      "title": "EE UU destruye tres petroleros iran\u00edes en respuesta a los \u00faltimos ataques de Teher\u00e1n",
-      "link": "https://www.laverdad.es/internacional/eeuu/destruye-tres-petroleros-iranies-respuesta-ultimos-ataques-20260905180726-ntrc.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-      "link": "https://abc7chicago.com/post/us-military-hits-3-iranian-oil-tankers-saying-navy-warships-were-targeted-missiles/19795020/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-      "link": "https://abc13.com/post/us-military-hits-3-iranian-oil-tankers-saying-navy-warships-were-targeted-missiles/19795020/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran zamierza przej\u015b\u0107 do ataku . Nowe informacje wywiadu united states . Trump ma powody do niepokoju",
-      "link": "https://wiadomosci.onet.pl/swiat/iran-zamierza-przejsc-do-ataku-nowe-informacje-wywiadu-usa-trump-ma-powody-do/lment65",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Si mund t\u00eb p\u00ebrfundoj\u00eb lufta SHBA - Iran ?",
-      "link": "https://zeri.info/bota/635875/si-mund-te-perfundoje-lufta-shba-iran/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "LIran attacca due navi united states Washington risponde | distrutte tre petroliere di Teheran",
-      "link": "https://www.zazoom.it/2026-09-05/liran-attacca-due-navi-usa-washington-risponde-distrutte-tre-petroliere-di-teheran/19645815/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-      "link": "https://www.stcatharinesstandard.ca/news/world/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/article_c6f25ec4-c989-51ba-ba8b-435d9c29c204.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-      "link": "https://www.whec.com/ap-top-news/ap-top-news-international/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles \u2013 Brandon Sun",
-      "link": "https://www.brandonsun.com/lifestyles/2026/09/05/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "U . S . pressure on Iran starting to tell , as sanctions and blockade bite",
-      "link": "https://kaieteurnewsonline.com/2026/09/05/u-s-pressure-on-iran-starting-to-tell-as-sanctions-and-blockade-bite/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Larm\u00e9e am\u00e9ricaine dit avoir  d\u00e9truit  trois p\u00e9troliers iraniens",
-      "link": "http://seneweb.com/fr/news/International/larmee-americaine-dit-avoir-detruit-trois-petroliers-iraniens_n_503443.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
-      "link": "https://www.yahoo.com/news/us/articles/us-military-hits-3-iranian-135346839.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Estados Unidos ataca un petrolero iran\u00ed cerca de la isla de Jarg , seg\u00fan medios iran\u00edes \u2013 Peri\u00f3dico Z\u00f3calo | Noticias de Saltillo , Torre\u00f3n , Piedras Negras , Monclova , Acu\u00f1a",
-      "link": "https://www.zocalo.com.mx/estados-unidos-ataca-un-petrolero-irani-cerca-de-la-isla-de-jarg-segun-medios-iranies/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iran rebuilding its axis of resistance for attack , Israeli intelligence . suggests",
-      "link": "https://www.jpost.com/middle-east/article-907636",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian Media Report Tanker Hit Near Key Oil Hub",
-      "link": "http://www.southeastasiapost.com/news/279287938/iranian-media-report-tanker-hit-near-key-oil-hub",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Vicepre\u0219edintele Statelor Unite , JD Vance : \u201e Nu suntem \u00een r\u0103zboi cu Iranul",
-      "link": "https://www.stiripesurse.ro/vicepresedintele-statelor-unite-jd-vance-nu-suntem-in-razboi-cu-iranul_3917597",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US issues sanctions on Turkish bank that it calls a  critical financial lifeline  for Iran",
-      "link": "https://www.timesfreepress.com/news/2026/sep/04/us-issues-sanctions-on-turkish-bank-that-it-calls-a-critical-financial-lifeline-for-iran/",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Widow of airman killed in Mideast upset when she told Iran wasnt a war while sorting out benefits",
-      "link": "https://www.inquirer.com/news/nation-world/iran-us-war-airman-killed-crash-widow-benefits-combat-pay-air-force-trump-vance-20260904.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian media report explosions in Kharg Island area of Gulf",
-      "link": "https://www.bssnews.net/international/421238",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Iranian Oil Tanker Struck by Four Missiles Near Major Persian Gulf Export Hub",
-      "link": "https://www.lankanewspapers.com/2026/09/05/iranian-oil-tanker-struck-by-four-missiles-near-major-persian-gulf-export-hub",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Strait Of Hormuz Remains Effectively Closed As Six - Month Iran Crisis Grinds Into September Amid Tanker Attacks",
-      "link": "https://www.ibtimes.com.au/strait-hormuz-crisis-global-oil-trade-disruption-1875063",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Tanquero petrolero iran\u00ed sufre ataque con misiles de EE . UU . cerca de la isla de Jarg",
-      "link": "http://spanish.xinhuanet.com/20260905/0cccfe6769c242c38aab160f59003a31/c.html",
-      "summary": "",
-      "source": "GDELT: Tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     }
   ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
