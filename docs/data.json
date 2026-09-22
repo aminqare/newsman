@@ -1,14 +1,21 @@
 {
-  "generated_at": "2026-09-22T16:39:35Z",
+  "generated_at": "2026-09-22T21:05:52Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
         {
-          "title": "New EU industry rules would damage UK, warns Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-          "summary": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+          "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+          "link": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+          "summary": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+          "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+          "summary": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
@@ -20,9 +27,9 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-          "link": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
-          "summary": "Two men were arrested over a suspected terrorist plot to target the Jewish community, police say.",
+          "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+          "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
+          "summary": "Princess Diana's brother apologised to Morgan for a factual error in his memoir. Morgan said he is \"pursuing legal action\" against Spencer.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
@@ -30,13 +37,6 @@
           "title": "Father admits causing death of his son in hotel fall",
           "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
           "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "Earl Spencer apologises to Piers Morgan over factual error in Diana book",
-          "link": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&at_campaign=rss",
-          "summary": "The BBC understands the book's publisher, Penguin, will be amending the inaccuracy in future editions of the book.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -88,9 +88,9 @@
       "source_url": "https://ir.voanews.com/api/zbtpil-vomx-tpeqiyp",
       "items": [
         {
-          "title": "\ud83d\udd34 \u067e\u0631\u0632\u06cc\u062f\u0646\u062a \u062a\u0631\u0627\u0645\u067e \u062f\u0631 \u0645\u062c\u0645\u0639 \u0639\u0645\u0648\u0645\u06cc \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644: \u062e\u0627\u0645\u0646\u0647\u200c\u0627\u06cc \u062d\u0645\u0644\u0647 \u06f7 \u0627\u06a9\u062a\u0628\u0631 \u0631\u0627 \u062c\u0634\u0646 \u06af\u0631\u0641\u062a \u0648 \u06f7\u06f2 \u0647\u0632\u0627\u0631 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0631\u0627 \u0642\u062a\u0644\u200c\u0639\u0627\u0645 \u06a9\u0631\u062f",
+          "title": "\ud83d\udd34 \u067e\u0631\u0632\u06cc\u062f\u0646\u062a \u062a\u0631\u0627\u0645\u067e: \u0628\u0627 \u0647\u06cc\u0626\u062a \u0646\u0645\u0627\u06cc\u0646\u062f\u06af\u06cc \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u062f\u0631 \u0646\u06cc\u0648\u06cc\u0648\u0631\u06a9 \u0645\u0630\u0627\u06a9\u0631\u0647 \u06a9\u0631\u062f\u06cc\u0645 \u0648 \u0641\u06a9\u0631 \u0645\u06cc\u200c\u06a9\u0646\u0645 \u0628\u0647 \u062a\u0648\u0627\u0641\u0642 \u0628\u0631\u0633\u06cc\u0645",
           "link": "https://ir.voanews.com/a/iran-us-related-live-news-coverage/8162914.html",
-          "summary": "\u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e\u060c \u0631\u0626\u06cc\u0633 \u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u062f\u0631 \u0633\u062e\u0646\u0631\u0627\u0646\u06cc \u062e\u0648\u062f \u062f\u0631 \u0645\u062c\u0645\u0639 \u0639\u0645\u0648\u0645\u06cc \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0645\u062a\u062d\u062f \u06af\u0641\u062a \u06a9\u0647 \u0631\u0647\u0628\u0631 \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u062d\u0645\u0644\u0647 \u062a\u0631\u0648\u0631\u06cc\u0633\u062a\u06cc \u06f7 \u0627\u06a9\u062a\u0628\u0631 \u0628\u0647 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0631\u0627 \u062c\u0634\u0646 \u06af\u0631\u0641\u062a \u0648 \u06f7\u06f2 \u0647\u0632\u0627\u0631 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0631\u0627 \u0642\u062a\u0644\u200c\u0639\u0627\u0645 \u06a9\u0631\u062f.",
+          "summary": "\u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e\u060c \u0631\u0626\u06cc\u0633 \u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627\u060c \u0631\u0648\u0632 \u0633\u0647\u200c\u0634\u0646\u0628\u0647 \u06f3\u06f1 \u0634\u0647\u0631\u06cc\u0648\u0631 \u06af\u0641\u062a \u0645\u0642\u0627\u0645\u200c\u0647\u0627\u06cc \u0627\u0631\u0634\u062f \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0633\u0647 \u0633\u0627\u0639\u062a \u0628\u0627 \u0647\u06cc\u0626\u062a \u0646\u0645\u0627\u06cc\u0646\u062f\u06af\u06cc \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u062f\u0631 \u0633\u0627\u0632\u0645\u0627\u0646 \u0645\u0644\u0644 \u0645\u0630\u0627\u06a9\u0631\u0647 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u0648 \u0627\u0628\u0631\u0627\u0632 \u0627\u0637\u0645\u06cc\u0646\u0627\u0646 \u06a9\u0631\u062f \u06af\u0641\u062a\u200c\u0648\u06af\u0648\u0647\u0627\u06cc \u062f\u0648 \u0637\u0631\u0641 \u062f\u0631 \u0646\u0647\u0627\u06cc\u062a \u0628\u0647 \u062a\u0648\u0627\u0641\u0642 \u0645\u0646\u062c\u0631 \u0628\u0634\u2026",
           "source": "\u062e\u0628\u0631 \u0627\u0648\u0644 - \u0635\u062f\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
           "source_url": "https://ir.voanews.com/api/zbtpil-vomx-tpeqiyp"
         },
@@ -134,8 +134,8 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
-          "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-          "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "title": "GPT-6 Sol and Luna",
+          "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -148,22 +148,22 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "16-bit Intel 8088 chip",
-          "link": "https://allpoetry.com/16-bit-Intel-8088-chip",
+          "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+          "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "OpenAI is well positioned to fast-follow Jev",
-          "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+          "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+          "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-          "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+          "title": "SAML: A Fractal of Bad Design",
+          "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Trump: \u2018My honour to settle eight wars\u2019 including \u2018war in Gaza\u2019",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
-          "summary": "Speaking at the UN General Assembly, US President Donald Trump claimed he helped end the war in Gaza.",
+          "title": "Saudi Arabia\u2019s King Salman slams targeting of Mecca by \u2018terrorist\u2019 Houthis",
+          "link": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+          "summary": "Saudi monarch's rare condemnation hints at sense of urgency in the kingdom amid ramped-up attacks from Yemen.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "UNGA 2026: Can the UN stop wars?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss",
-          "summary": "Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN\u2019s role in resolving conflicts.",
+          "title": "Trump: US-Iran meeting at UN was \u2018very good\u2019",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+          "summary": "US President Donald Trump says he had a \u2018very good\u2019 three-hour meeting with Iranian officials at the UN.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Trump TV: Can the US president bypass mainstream media?",
-          "link": "https://www.aljazeera.com/news/2026/9/22/trump-tv-can-the-us-president-bypass-mainstream-media?traffic_source=rss",
-          "summary": "Trump has launched his own channel amid an ongoing rift with the White House press pool.",
+          "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+          "link": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+          "summary": "Settlement is largest of its kind in any US city and is set to affect 260,000 delivery drivers.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "The return of Palestinian football: \u2018We are a people who must live\u2019",
-          "link": "https://www.aljazeera.com/features/2026/9/22/the-return-of-palestinian-football-we-are-a-people-who-must?traffic_source=rss",
-          "summary": "The Martyrs\u2019 World Cup brings Palestinian football back after nearly three years, despite military restrictions.",
+          "title": "Brazil\u2019s Lula: Gaza\u2019s \u2018pain and trauma\u2019 will last generations",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+          "summary": "Brazilian President Luiz Inacio Lula da Silva condemned the \u201cpain and trauma\u201d inflicted by Israel\u2019s government in Gaza.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Rubio defends Trump\u2019s White House ban on CNN, MS NOW and Politico",
-          "link": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
-          "summary": "The White House launched 'Trump TV' as major networks suspended the television pool covering the US president.",
+          "title": "Djibouti minister appeals for aid for Yemeni refugees",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+          "summary": "Djibouti\u2019s Minister of Social Affairs and Solidarity, Ouloufa Ismail Abdo, appeals for aid for Yemeni refugees",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,13 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "Trump's D.C. arch is now a military complex. Here's how that complicates things",
+          "link": "https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions",
+          "summary": "The future of Trump's D.C. arch was already fraught. Then he rebranded it as a military complex. Experts say that only raises more legal and logistical questions.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
           "link": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
           "summary": "Wired 's Andy Greenberg explains how a cybercrime operation in Southeast Asia trapped computer engineers into defrauding victims of billions of dollars. Plus, he discusses the scam involving Fresh Air.",
@@ -283,13 +290,6 @@
           "summary": "CNN, MS NOW and Politico have sued Trump after the networks were suspended from the White House. And, Paramount makes concessions to resolve a lawsuit over its massive Warner Bros. Discovery merger.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
-          "link": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
-          "summary": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
       ]
     },
@@ -301,358 +301,709 @@
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "\u053b\u0580\u0561\u0576\u0561\u056f\u0561\u0576 \u0561\u057e\u056b\u0561\u0568\u0576\u056f\u0565\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580\u056b \u0579\u057e\u0565\u0580\u0569\u0576\u0565\u0580\u0568 \u0564\u0565\u057a\u056b \u0531\u0564\u0580\u0562\u0565\u057b\u0561\u0576 \u0564\u0561\u0564\u0561\u0580\u0565\u0581\u057e\u0565\u056c \u0565\u0576",
+          "link": "https://www.yerkir.am/hy/article/2026/09/22/319282",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0628\u0639\u062f \u0627\u062c\u062a\u0645\u0627\u0639 3 \u0633\u0627\u0639\u0627\u062a .. \u0645\u0627\u0630\u0627 \u0648\u0631\u0627\u0621 \u0627\u0644\u062a\u062d\u0631\u0643 \u0627\u0644\u062c\u062f\u064a\u062f \u0628\u064a\u0646 \u0623\u0645\u0631\u064a\u0643\u0627 \u0648\u0625\u064a\u0631\u0627\u0646 \u0631\u063a\u0645 \u0641\u062c\u0648\u0629 \u0627\u0644\u0645\u0648\u0627\u0642\u0641 \u061f",
+          "link": "https://www.almasryalyoum.com/news/details/4365730",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tramp otkrio svoje planove : OVO su najva\u017enije poruke iz njegovog govora u UN",
+          "link": "https://www.telegraf.rs/vesti/svet/4401517-tramp-otkrio-svoje-planove-ovo-su-najvaznije-poruke-iz-njegovog-govora-u-un",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump defends Iran war at UN , signals he may still strike a deal",
+          "link": "https://article.wn.com/view/2026/09/22/Trump_defends_Iran_war_at_UN_signals_he_may_still_strike_a_d/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+          "link": "https://www.northerndailyleader.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "New York Rally Urges Action Against Iran Executions , Highlights Resistance Units and Rejects Return to Monarchy",
+          "link": "https://www.ncr-iran.org/en/news/iran-resistance/new-york-rally-urges-action-against-irans-executions-highlights-resistance-units-and-rejects-return-to-monarchy/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Aktien New York Schluss : Dow schw\u00e4chelt trotz Nahost - Hoffnung",
+          "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69648581-aktien-new-york-schluss-dow-schwaechelt-trotz-nahost-hoffnung-nasdaq-rekord-016.htm",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u018frdo\u011fan Endi B\u00f6rnheml\u0259 Q\u0259zzada v\u0259 Ukraynadak\u0131 v\u0259ziyy\u0259ti m\u00fczakir\u0259 edib",
+          "link": "https://www.adalet.az/az/posts/detail/erdogan-endi-bornhemle-qezzada-ve-ukraynadaki-veziyyeti-muzakire-edib-1790107169",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u4e2d\u4e1c\u6218\u5730\u624b\u8bb0\uff5c\u6218\u4e89\u672a\u8fdc \uff0c \u4ee5\u8272\u5217\u4eba\u5728\u4e0d\u5b89\u4e2d\u76fc\u671b\u5e73\u9759",
+          "link": "https://baijiahao.baidu.com/s?id=1877025370251213497",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Poll shows Americans sour on Iran war as Trump talks deal or annihilation",
+          "link": "https://bakersfieldnow.com/news/nation-world/poll-shows-americans-sour-on-iran-war-as-trump-talks-deal-or-annihilation",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "US - UK relationship  more up  with Burnham than Starmer , Trump claims",
+          "link": "https://www.harrowtimes.co.uk/news/national/26573270.us-uk-relationship-more-up-burnham-starmer-trump-claims/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fact Check Team : What does the UN record show about Israel , Palestine & Iran ?",
+          "link": "https://13wham.com/news/nation-world/fact-check-team-what-does-the-un-record-show-about-israel-palestine-iran-arab-states-general-assembly",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Chanceler do Ir\u00e3 deu a enviado dos EUA condies para reabertura de Ormuz",
+          "link": "http://www.em.com.br/internacional/2026/09/7506076-chanceler-do-ira-deu-a-enviado-dos-eua-condicoes-para-reabertura-de-ormuz.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Warns Iran at UNGA , Calls for Global Sanctions , Labels AI  Super Intelligence",
+          "link": "https://article.wn.com/view/2026/09/22/Trump_Warns_Iran_at_UNGA_Calls_for_Global_Sanctions_Labels_A/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Donald Trump Iran conflict fuels record global diesel prices | The Land",
+          "link": "https://www.theland.com.au/story/9354746/donald-trump-iran-conflict-fuels-record-global-diesel-prices/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Poll shows Americans sour on Iran war as Trump talks deal or annihilation",
+          "link": "https://13wham.com/news/nation-world/poll-shows-americans-sour-on-iran-war-as-trump-talks-deal-or-annihilation",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 : \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03bf\u03af \u03ba\u03b1\u03b9 \u0399\u03c1\u03b1\u03bd\u03bf\u03af \u03b1\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03bf\u03cd\u03c7\u03bf\u03b9 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7 \u039d\u03ad\u03b1 \u03a5\u03cc\u03c1\u03ba\u03b7 \u2013 \u00ab \u03a0\u03ae\u03b3\u03b5 \u03c0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03ac \u00bb",
+          "link": "https://www.kathimerini.gr/world/564474349/tramp-amerikanoi-kai-iranoi-axiomatoychoi-synantithikan-sti-nea-yorki-pige-poly-kala/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Global diesel prices hit record highs , further gains possible",
+          "link": "http://www.thailandnews.net/news/279321934/global-diesel-prices-hit-record-highs-further-gains-possible",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041a\u043e\u043c\u0435\u043d\u0442\u0430\u0440\u0438 - \u0421\u0410\u0429 , \u0414\u0430\u043d\u0438\u044f \u0438 \u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f \u043f\u043e\u0434\u043f\u0438\u0441\u0430\u0445\u0430 \u0441\u043f\u043e\u0440\u0430\u0437\u0443\u043c\u0435\u043d\u0438\u0435 , \u043a\u043e\u0435\u0442\u043e \u0438\u0437\u043e\u043b\u0438\u0440\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0442\u0435 \u0438\u0437\u0432\u044a\u043d \u041d\u0410\u0422\u041e \u0438 \u0415\u0421",
+          "link": "https://dnes.dir.bg/comments/sasht-daniya-i-grenlandiya-podpisaha-sporazumenie-koeto-izolira-stranite-izvan-es-i-nato",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wiens B\u00f6rse beendet den Tag mit leichten Gewinnen",
+          "link": "https://www.trend.at/news/wiens-borse-beendet-den-tag-mit-leichten-gewinnen",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0130ran avia\u015firk\u0259tl\u0259rinin Az\u0259rbaycana u\u00e7u\u015fu dayand\u0131r\u0131ld\u0131 - YEN\u0130L\u018fN\u0130B",
+          "link": "https://www.adalet.az/az/posts/detail/iran-aviasirketlerinin-azerbaycana-ucusu-dayandirildi-yenilenib-1790103951",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Republicans want to turn Mamdani into a bogeyman for the midterms . Trump just made that harder \u2013 Winnipeg Free Press",
+          "link": "https://www.winnipegfreepress.com/world/2026/09/22/republicans-want-to-turn-mamdani-into-a-bogeyman-for-the-midterms-trump-just-made-that-harder",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Kurbani - KOHA",
+          "link": "https://koha.mk/kurbani/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Wife of detained Chinese American scientist hopes Trump brings up his case in Xi summit",
+          "link": "https://www.clickondetroit.com/news/world/2026/09/22/wife-of-detained-chinese-american-scientist-hopes-trump-brings-up-his-case-in-xi-summit/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "ABD Ba\u015fkan\u0131 Trump , \u0130ran heyetiyle 3 saat s\u00fcren verimli bir toplant\u0131 ger\u00e7ekle\u015ftirdiklerini a\u00e7\u0131klad\u0131 .",
+          "link": "https://www.mersinhaber.com/haber-abd-baskani-trump-iran-heyetiyle-3-saat-suren-verimli-bir-toplanti-gerceklestirdiklerini-acikladi/782581",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u7f8e\u56fd\u8d22\u653f\u90e8\u957f \uff1a \u7279\u6717\u666e\u653f\u5e9c\u6b63\u5728\u7814\u7a76\u7981\u6b62\u67f4\u6cb9\u51fa\u53e3\u662f\u5426\u53ef\u884c",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistvuv1718086.shtml",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tramps atkal sola atrisin\u0101t Krievijas un Ukrainas konfliktu",
+          "link": "https://www.lsm.lv/raksts/zinas/arzemes/22.09.2026-tramps-atkal-sola-atrisinat-krievijas-un-ukrainas-konfliktu.a664364/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Przem\u00f3wienie Trumpa w ONZ . Prezydent united states zmieni\u0142 podej\u015bcie do Rosji ?",
+          "link": "https://www.tokfm.pl/swiat/przemowienie-trumpa-w-onz-prezydent-usa-zmienil-podejscie-do-rosji",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Britain will work hard on Chagos deal resolution , PM says after Trump criticism",
+          "link": "https://www.cambstimes.co.uk/news/national/26573390.britain-will-work-hard-chagos-deal-resolution-pm-says-trump-criticism/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.cambstimes.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "La advertencia de Trump a Ir\u00e1n en la asamblea de la ONU : Hacemos un trato o los llevo al infierno",
+          "link": "https://www.diariopopular.com.ar/internacionales/la-advertencia-trump-iran-la-asamblea-la-onu-hacemos-un-trato-o-los-llevo-al-infierno-n920998",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0646\u0647\u0627\u0631 \u0627\u0644\u0643\u0648\u064a\u062a\u064a\u0629 | \u0641\u0648\u0632 \u0639\u0631\u064a\u0636 \u0644\u0640 \u00ab \u0623\u0632\u0631\u0642 \u0627\u0644\u064a\u062f \u00bb \u0639\u0644\u0649 \u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646",
+          "link": "https://www.annaharkw.com/annahar/Article.aspx?id=1055125",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "American power , AI and a walkout - key moments from Trump UN speech",
+          "link": "https://www.bbc.co.uk/news/articles/c6rm903e22lgo",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Donald Trump at U . N .: Stopping Iran Regime  a Reality We Had to Confront",
+          "link": "https://www.breitbart.com/middle-east/2026/09/22/trump-stopping-iran-regime-sponsoring-terror-getting-nuclear-weapons-reality-we-had-confront/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "81E AG DE LONU : Ce  machin  qui a atteint ses limites",
+          "link": "https://lepays.bf/81e-ag-de-lonu-ce-machin-qui-a-atteint-ses-limites-2/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Los errores de Estados Unidos con China no deben repetirse",
+          "link": "https://vanguardia.com.mx/opinion/los-errores-de-estados-unidos-con-china-no-deben-repetirse-AC23654567",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u062e\u0635\u0627\u0648\u0646\u0629 : \u062e\u0637\u0627\u0628 \u0627\u0644\u0645\u0644\u0643 \u0623\u0645\u0627\u0645 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0633\u062a\u062b\u0646\u0627\u0626\u064a",
+          "link": "https://alanbatnews.net/article/483649",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Sikorski ostrzega Putina po mowie Trumpa w ONZ . Zwr\u00f3ci\u0142 uwag\u0119 na 1 rzecz",
+          "link": "https://natemat.pl/669196,sikorski-ostrzega-putina-po-mowie-trumpa-w-onz-zwrocil-uwage-na-1-rzecz",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "tats - Unis . Gaza , Ukraine , IA alternative : \u00e0 lONU , Macron met en garde contre  la lente division du monde",
+          "link": "https://www.republicain-lorrain.fr/politique/2026/09/22/gaza-ukraine-ia-alternative-a-l-onu-macron-met-en-garde-contre-la-lente-division-du-monde",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump allOnu  Altri hanno parlato di pace , io lho realizzata",
+          "link": "https://www.sassuolo2000.it/2026/09/22/trump-allonu-altri-hanno-parlato-di-pace-io-lho-realizzata/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.maldonandburnhamstandard.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "ABD Ba\u00fekan\u00fd Trump : Erdo\u00f0an \u00e7ok iyi bir dostum",
+          "link": "https://www.star.com.tr/dunya/abd-baskani-trump-erdogan-cok-iyi-bir-dostum-haber-2041925/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tramp : Produktivan razgovor predstavnika SAD i Irana na marginama GS UN",
+          "link": "https://www.tanjug.rs/svet/politika/283216/tramp-produktivan-razgovor-predstavnika-sad-i-irana-na-marginama-gs-un/vest",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fact Check Team : What does the UN record show about Israel , Palestine & Iran ?",
+          "link": "https://fox11online.com/news/nation-world/fact-check-team-what-does-the-un-record-show-about-israel-palestine-iran-arab-states-general-assembly",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Vrlo dobar sastanak  Tramp potvrdio da su se sreli ameri\u010dki i iranski zvani\u010dnici : Ne mogu da zamislim za\u0161to Iranci ne bi hteli da sklope sporazum !",
+          "link": "https://naslovi.net/2026-09-22/kurir/vrlo-dobar-sastanak-tramp-potvrdio-da-su-se-sreli-americki-i-iranski-zvanicnici-ne-mogu-da-zamislim-zasto-iranci-ne-bi-hteli-da-sklope-sporazum/42393882",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump amenaza con  aniquilar  Ir\u00e1n , pero cree que habr\u00e1 acuerdo",
+          "link": "https://www.diariodeavila.es/noticia/zddfbf643-21e3-4c2f-8153288470e8f85c/202609/trump-amenaza-con-aniquilar-iran-pero-cree-que-habra-acuerdo",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0633\u0631\u0644\u0634\u06a9\u0631 \u0635\u0641\u0648\u06cc : \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0633\u0631\u0627\u0646\u062c\u0627\u0645 \u0627\u0632 \u0645\u0646\u0637\u0642\u0647 \u062e\u0627\u0631\u062c \u0645\u06cc\u0634\u0648\u062f \u061b \u0645\u0627 \u0645\u06cc\u0645\u0627\u0646\u06cc\u0645 \u0648 \u06a9\u0634\u0648\u0631\u0647\u0627\u06cc \u0639\u0631\u0628\u06cc !",
+          "link": "https://spnfa.ir/20260922/31395238.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Predicts Iran Deal Post - Midterms | Talk Radio 1080",
+          "link": "https://talkradio1080.iheart.com/content/2026-09-22-trump-predicts-iran-deal-post-midterms/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0422\u0440\u0430\u043c\u043f \u0438 \u0417\u0435\u043b\u0435\u043d\u0441\u043a\u0438\u0439 \u043e\u0431\u0441\u0443\u0434\u044f\u0442 \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u0438 Patriot \u0434\u043b\u044f \u0423\u043a\u0440\u0430\u0438\u043d\u044b 22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f \u2013 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438",
+          "link": "https://24tv.ua/ru/tramp-i-zelenskij-obsudjat-licenzii-patriot-dlja-ukrainy-22-sentjabrja-podrobnosti_n3147115",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Stubb urges global cooperation as Finland seeks UN Security Council seat",
+          "link": "https://www.helsinkitimes.fi/world-int/29305-stubb-urges-global-cooperation-as-finland-seeks-un-security-council-seat.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
       "items": [
         {
-          "title": "UN report : Iran committed crimes against humanity during protest crackdown",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-909319",
+          "title": "\u0628\u0639\u062f \u0627\u062c\u062a\u0645\u0627\u0639 3 \u0633\u0627\u0639\u0627\u062a .. \u0645\u0627\u0630\u0627 \u0648\u0631\u0627\u0621 \u0627\u0644\u062a\u062d\u0631\u0643 \u0627\u0644\u062c\u062f\u064a\u062f \u0628\u064a\u0646 \u0623\u0645\u0631\u064a\u0643\u0627 \u0648\u0625\u064a\u0631\u0627\u0646 \u0631\u063a\u0645 \u0641\u062c\u0648\u0629 \u0627\u0644\u0645\u0648\u0627\u0642\u0641 \u061f",
+          "link": "https://www.almasryalyoum.com/news/details/4365730",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Ir\u00e1n podr\u00eda reabrir el estrecho de Ormuz en siete d\u00edas , pero pone condiciones",
-          "link": "https://www.eluniverso.com/noticias/internacional/iran-podria-reabrir-el-estrecho-de-ormuz-en-siete-dias-pero-pone-condiciones-nota/",
+          "title": "Tramp otkrio svoje planove : OVO su najva\u017enije poruke iz njegovog govora u UN",
+          "link": "https://www.telegraf.rs/vesti/svet/4401517-tramp-otkrio-svoje-planove-ovo-su-najvaznije-poruke-iz-njegovog-govora-u-un",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0432\u044b\u0440\u0430\u0437\u0438\u043b \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0432 \u0441\u0434\u0435\u043b\u043a\u0435 \u0441 \u0418\u0440\u0430\u043d\u043e\u043c \u043f\u043e\u0441\u043b\u0435 \u0432\u044b\u0431\u043e\u0440\u043e\u0432 \u0432 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441",
-          "link": "https://vestikavkaza.ru/news/tramp-vyrazil-uverennost-v-sdelke-s-iranom-posle-vyborov-v-kongress.html",
+          "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+          "link": "https://www.northerndailyleader.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-          "link": "https://www.t-online.de/nachrichten/ausland/id_101446246/guterres-bei-un-abschiedsrede-zu-iran-krieg-genug-ist-genug.html",
+          "title": "New York Rally Urges Action Against Iran Executions , Highlights Resistance Units and Rejects Return to Monarchy",
+          "link": "https://www.ncr-iran.org/en/news/iran-resistance/new-york-rally-urges-action-against-irans-executions-highlights-resistance-units-and-rejects-return-to-monarchy/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "B\u00d6RSE AKTUELL : Dienstag an der B\u00f6rse Frankfurt - DAX letztlich wenig ver\u00e4ndert",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-oelpreise-fallen-dax-nach-volatilem-handel-letztlich-wenig-bewegt-50-tage-linie-im-fokus-15943636",
+          "title": "Poll shows Americans sour on Iran war as Trump talks deal or annihilation",
+          "link": "https://bakersfieldnow.com/news/nation-world/poll-shows-americans-sour-on-iran-war-as-trump-talks-deal-or-annihilation",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Donald trump parla allassemblea generale delle nazioni unite :  sono convinto che liran far\u00c0 ...",
-          "link": "https://www.dagospia.com/politica/donald-trump-parla-all-assemblea-generale-delle-nazioni-unite-sono-487787",
+          "title": "Chanceler do Ir\u00e3 deu a enviado dos EUA condies para reabertura de Ormuz",
+          "link": "http://www.em.com.br/internacional/2026/09/7506076-chanceler-do-ira-deu-a-enviado-dos-eua-condicoes-para-reabertura-de-ormuz.html",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "LIran ofereix als EUA reobrir Ormuz en set dies si rebaixa la pressi\u00f3 militar i aixeca el bloqueig naval",
-          "link": "https://www.ara.cat/internacional/proxim-orient/l-iran-ofereix-als-eua-reobrir-ormuz-set-dies-rebaixen-pressio-militar-aixequen-bloqueig-naval_25_5857344.html",
+          "title": "Poll shows Americans sour on Iran war as Trump talks deal or annihilation",
+          "link": "https://13wham.com/news/nation-world/poll-shows-americans-sour-on-iran-war-as-trump-talks-deal-or-annihilation",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "El precio del petr\u00f3leo cay\u00f3 por debajo de los US$ 100 luego de que Ir\u00e1n ofreciera reabrir el estrecho de Ormuz",
-          "link": "http://www.eldestapeweb.com/internacionales/crudo-cae-1-tras-reportes-sobre-posible-reapertura-del-estrecho-de-ormuz-por-parte-de-iran-202692274318",
+          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 : \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03bf\u03af \u03ba\u03b1\u03b9 \u0399\u03c1\u03b1\u03bd\u03bf\u03af \u03b1\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03bf\u03cd\u03c7\u03bf\u03b9 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7 \u039d\u03ad\u03b1 \u03a5\u03cc\u03c1\u03ba\u03b7 \u2013 \u00ab \u03a0\u03ae\u03b3\u03b5 \u03c0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03ac \u00bb",
+          "link": "https://www.kathimerini.gr/world/564474349/tramp-amerikanoi-kai-iranoi-axiomatoychoi-synantithikan-sti-nea-yorki-pige-poly-kala/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0432\u044b\u0441\u0442\u0443\u043f\u0438\u043b \u0432 \u041e\u041e\u041d - \u0447\u0442\u043e \u043e\u043d \u0441\u043a\u0430\u0437\u0430\u043b \u043e\u0431 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0438 \u043a\u0430\u043a\u043e\u0439 \u0441\u0438\u0433\u043d\u0430\u043b \u043f\u043e\u0441\u043b\u0430\u043b \u041f\u0443\u0442\u0438\u043d\u0443",
-          "link": "https://glavred.info/world/tramp-vystupil-v-oon-chto-on-skazal-ob-ukraine-i-kakoy-signal-poslal-putinu-10798538.html",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.cambstimes.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0627\u0646\u062e\u0641\u0627\u0636 \u0639\u0648\u0627\u0626\u062f \u0627\u0644\u0633\u0646\u062f\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0645\u0639 \u062a\u0631\u0642\u0628 \u0645\u062d\u0627\u062f\u062b\u0627\u062a \u0648\u0627\u0634\u0646\u0637\u0646 \u0648\u0637\u0647\u0631\u0627\u0646",
-          "link": "https://www.argaam.com/ar/article/articledetail/id/1938304",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.maldonandburnhamstandard.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Gulf leaders meet Trump fearing more war and less protection | Nation & World News",
-          "link": "https://www.komu.com/news/nationworld/gulf-leaders-meet-trump-with-two-fears-more-war-and-less-us-protection/article_032d2521-1ebe-5bba-9eb0-49d91d26bf6b.html",
+          "title": "Tramp : Produktivan razgovor predstavnika SAD i Irana na marginama GS UN",
+          "link": "https://www.tanjug.rs/svet/politika/283216/tramp-produktivan-razgovor-predstavnika-sad-i-irana-na-marginama-gs-un/vest",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Ir\u00e1n ofrece reabrir el estrecho de Ormuz en siete d\u00edas si EE . UU . reduce la presi\u00f3n militar",
-          "link": "https://elsoldesantiago.com/iran-ofrece-reabrir-el-estrecho-de-ormuz-en-siete-dias-si-ee-uu-reduce-la-presion-militar/",
+          "title": "Isplivao snimak osoba koje su okretale prase u ba\u0161ti Muzeja :  Evo ga u Teheranu , ovo je najbolje za kulturu u Sarajevu \u0161to se mo\u017ee desiti",
+          "link": "https://avaz.ba/vijesti/bih/1074647/isplivao-snimak-osoba-koje-su-okretale-prase-u-basti-muzeja-evo-ga-u-teheranu-ovo-je-najbolje-za-kulturu-u-sarajevu-sto-se-moze-desiti",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump returns to UN at a moment of anxiety about Iran , AI and the future of the world body itself",
-          "link": "https://www.1011now.com/2026/09/22/trump-returns-un-moment-anxiety-about-iran-ai-future-world-body-itself/",
+          "title": "Trump amenaza con  aniquilar  Ir\u00e1n , pero cree que habr\u00e1 acuerdo",
+          "link": "https://www.diariodeavila.es/noticia/zddfbf643-21e3-4c2f-8153288470e8f85c/202609/trump-amenaza-con-aniquilar-iran-pero-cree-que-habra-acuerdo",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump droht Iran mit  H\u00f6lle  und k\u00fcndigt Entscheidung an",
-          "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69646725-trump-droht-iran-mit-hoelle-und-kuendigt-entscheidung-an-016.htm",
+          "title": "Stubb urges global cooperation as Finland seeks UN Security Council seat",
+          "link": "https://www.helsinkitimes.fi/world-int/29305-stubb-urges-global-cooperation-as-finland-seeks-un-security-council-seat.html",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump in address at UN defends his decision to start Iran War",
-          "link": "https://www.wlwt.com/article/trump-defends-iran-war-un-general-assembly/73835687",
+          "title": "Trump touts  very good  Iran talks after tough UN speech",
+          "link": "https://fox11online.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u041a\u0421\u0418\u0420 \u0433\u043e\u0442\u043e\u0432 \u043a \u043b\u044e\u0431\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0430",
-          "link": "https://vestikavkaza.ru/news/ksir-gotov-k-lubym-variantam-razvitia-konflikta.html",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.falmouthpacket.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Ir\u00e1n insin\u00faa que habr\u00e1 conversaciones con Estados Unidos sobre estrecho de Ormuz en el marco de la ONU",
-          "link": "http://www.eldestapeweb.com/internacionales/iran-insinua-que-habra-conversaciones-con-eeuu-sobre-estrecho-de-ormuz-en-el-marco-de-la-onu-202692294725",
+          "title": "\ud83c\udfa5President Trump tells U . N . he has a big decision to make on Iran",
+          "link": "https://salinapost.com/posts/b9ab4bc1-fc98-49aa-b161-0960c4515310",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Lurer . com | \u053b\u0580\u0561\u0576\u0568 \u057a\u0561\u057f\u0580\u0561\u057d\u057f \u0567 \u0574\u0565\u056f \u0577\u0561\u0562\u0561\u0569\u057e\u0561 \u0568\u0576\u0569\u0561\u0581\u0584\u0578\u0582\u0574 \u0562\u0561\u0581\u0565\u056c \u0540\u0578\u0580\u0574\u0578\u0582\u0566\u056b \u0576\u0565\u0572\u0578\u0582\u0581\u0568 \u055d \u057a\u0561\u0575\u0574\u0561\u0576\u0576\u0565\u0580 \u0561\u057c\u0561\u057b\u0561\u0564\u0580\u0565\u056c\u0578\u057e \u0531\u0544\u0546 - \u056b\u0576",
-          "link": "https://lurer.com/article/753618/am",
+          "title": "Trump says US and Iranian officials met Tuesday , shortly after warning he may  annihilate  Iran",
+          "link": "https://www.union-bulletin.com/news/national/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/article_7dca151d-7f30-5034-9537-ef6b63910e28.html",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump arrives at UN headquarters for high stakes address , urges Putin to settle war",
-          "link": "https://news.webindia123.com/news/Articles/World/20260922/4502109.html",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.messengernewspapers.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump , il discorso allOnu : lelogio allAmerica , la guerra in Iran , lattacco a Cuba e il messaggio a Putin",
-          "link": "https://www.ilgazzettino.it:443/persone/trump_onu_discorso_cosa_ha_detto-9778916.html",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.elystandard.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u5362\u6bd4\u5965 \uff1a \u7279\u6717\u666e\u603b\u7edf\u5bf9\u4e0e\u4f0a\u6717\u9886\u5bfc\u4eba\u4f1a\u9762  \u6301\u5f00\u653e\u6001\u5ea6",
-          "link": "https://www.voachinese.com/a/rubion-says-president-trump-open-to-meeting-with-iranian-leader-20260922/8202864.html",
+          "title": "Trump threatens Iran with  hell  but unveils fresh talks",
+          "link": "https://www.standardmedia.co.ke/world/article/2001558428/trump-threatens-iran-with-hell-but-unveils-fresh-talks",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iranian president says UNGA opportunity to expound Iran positions , regional realities - Xinhua",
-          "link": "https://english.news.cn/20260922/5e5065b76895431083322e7e37ec2f26/c.html",
+          "title": "Trump says US and Iranian officials met Tuesday , shortly after warning he may  annihilate  Iran",
+          "link": "https://www.messenger-inquirer.com/ap/elections/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/article_ff76ab83-55a7-5dcf-b01f-e82dd36c8b54.html",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump na p\u00f4de OSN pohrozil Ir\u00e1nu zni\u010den\u00edm . Z\u00e1rove\u0148 ver\u00ed , \u017ee po vo\u013eb\u00e1ch pr\u00edde dohoda - Svet - Spr\u00e1vy",
-          "link": "https://www.pravda.sk/spravy/svet/clanok/2045971-donald-trump-osn-iran-dohoda-usa",
+          "title": "A lONU , Trump d\u00e9fend son nationalisme , sourd aux appels \u00e0 la coop\u00e9ration internationale - 22 / 09 / 2026 \u00e0 20 : 29",
+          "link": "https://www.boursorama.com/actualite-economique/actualites/a-l-onu-trump-defend-son-nationalisme-sourd-aux-appels-a-la-cooperation-internationale-219364d3d05876c878945ce03f96aff8",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u05d4\u05de\u05d3\u05d9\u05e0\u05d5\u05ea \u05d4\u05de\u05ea\u05d5\u05d5\u05db\u05d5\u05ea \u05e4\u05d5\u05e2\u05dc\u05d5\u05ea \u05dc\u05e7\u05d9\u05d3\u05d5\u05dd \u05e4\u05d2\u05d9\u05e9\u05d4 \u05d1\u05d9\u05df \u05d0\u05e8\u05d4  \u05d1 \u05dc\u05d0\u05d9\u05e8\u05d0\u05df",
-          "link": "https://www.walla.co.il:443/news/world/383955032",
+          "title": "Trump says relations better with Burnham than Starmer after first face - to - face meeting",
+          "link": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 \u03c3\u03c4\u03bf\u03bd \u039f\u0397\u0395 : \u00ab \u03a4\u03bf \u0399\u03c1\u03ac\u03bd \u03b1\u03bd\u03ad\u03c0\u03c4\u03c5\u03be\u03b5 \u03c0\u03cd\u03c1\u03b1\u03c5\u03bb\u03bf \u03c0\u03bf\u03c5 \u03b1\u03c0\u03b5\u03b9\u03bb\u03b5\u03af \u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 - \u039d\u03b1 \u03c4\u03bf \u03be\u03ad\u03c1\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c3\u03c4\u03b7\u03bd \u0395\u0395 \u00bb",
-          "link": "https://www.ethnos.gr/World/article/421414/trampstonohetoirananeptyxepyraylopoyapeileithneyrophnatoxereteaytosthnee",
+          "title": "FOKUS \u2013 Irani premton vijimin e fluturimeve pavar\u00ebsisht sanksioneve amerikane",
+          "link": "https://24-ore.com/fokus-irani-premton-vijimin-e-fluturimeve-pavaresisht-sanksioneve-amerikane/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "I proclami trionfalistici di Trump allONU nascondono la fine dellordine unipolare",
-          "link": "https://www.lantidiplomatico.it/dettnews-i_proclami_trionfalistici_di_trump_allonu_nascondono_la_fine_dellordine_unipolare/45289_69056/",
+          "title": "Lurer . com | \u0531\u0575\u057d\u0585\u0580 \u0532\u0561\u0584\u0578\u0582\u0576 \u0583\u0561\u056f\u0578\u0582\u0574 \u0567 \u056b\u0580\u0561\u0576\u0561\u056f\u0561\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0565\u0580\u056b \u0569\u057c\u056b\u0579\u0584\u0576\u0565\u0580\u0568 \u0564\u0565\u057a\u056b \u0531\u0564\u0580\u0562\u0565\u057b\u0561\u0576 , \u056b\u057d\u056f \u056b \u055e \u0576\u0579 \u056f\u0561\u0576\u056b \u057e\u0561\u0572\u0568 , \u0565\u0569\u0565 \u0539\u0550\u053b\u0553 - \u056b \u0574\u056b\u057b\u0578\u0581\u0578\u057e \u0571\u0565\u057c\u0584 \u0563\u0581\u056b \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0570\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u0570\u0561\u057f\u057e\u0561\u056e\u056b\u0576 . \u0531\u0580\u0574\u0565\u0576 \u0531\u0575\u057e\u0561\u0566\u0575\u0561\u0576",
+          "link": "https://lurer.com/article/753699/am",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump : Kam nj\u00eb vendim t\u00eb madh p\u00ebr t\u00eb marr\u00eb lidhur me Iranin",
-          "link": "https://tv21.tv/trump-kam-nje-vendim-te-madh-per-te-marre-lidhur-me-iranin/",
+          "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+          "link": "https://www.theadvocate.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u062a\u0631\u0627\u0645\u0628 \u0623\u0645\u0627\u0645 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 : \u062f\u0645\u0651\u0631\u0646\u0627 \u0642\u062f\u0631\u0627\u062a \u0625\u064a\u0631\u0627\u0646 \u0648  \u0645\u062c\u0644\u0633 \u0627\u0644\u0633\u0644\u0627\u0645  \u064a\u0642\u0648\u062f \u0625\u0639\u0627\u062f\u0629 \u0625\u0639\u0645\u0627\u0631 \u063a\u0632\u0629",
-          "link": "https://www.alquds.co.uk/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7/",
+          "title": "Ir\u00e1n amenaza con utilizar  nuevas armas estrat\u00e9gicas  y su presidente hablar\u00e1 al mundo | WEB OJO PRINT | INTERNACIONAL",
+          "link": "https://ojo.pe/internacional/iran-amenaza-con-utilizar-nuevas-armas-estrategicas-y-su-presidente-hablara-al-mundo-web-ojo-print-noticia/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "The Latest : Trump returns to UN at moment of anxiety about Iran , AI and future of world body itself",
-          "link": "http://www.thegazette.com/news/national/the-latest-trump-returns-to-un-at-moment-of-anxiety-about-iran-ai-and-future/article_958c09bc-1049-5b31-b461-ed486d9efec6.html",
+          "title": "Objekt misterioz i ndritsh\u00ebm filmohet mbi Teheran , pamjet nxisin spekulime p\u00ebr UFO",
+          "link": "https://www.gazetaexpress.com/objekt-misterioz-i-ndritshem-filmohet-mbi-teheran-pamjet-nxisin-spekulime-per-ufo/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iranian officials deny reports of plans to reopen Strait of Hormuz within seven days",
-          "link": "https://en.apa.az/america/iranian-officials-deny-reports-of-plans-to-reopen-strait-of-hormuz-within-seven-days-updated-525568",
+          "title": "Trump Denounces Iran As State Sponsor Of Terror , Recalls Horrors Of October 7",
+          "link": "https://www.worthynews.com/117690-trump-denounces-iran-as-state-sponsor-of-terror-recalls-horrors-of-october-7",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "UN - Generaldebatte : Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-          "link": "https://www.handelsblatt.com/politik/international/un-generaldebatte-guterres-bei-un-abschiedsrede-zu-iran-krieg-genug-ist-genug/100256391.html",
+          "title": "Trump amena\u00e7a des de lONU amb  aniquilar  els iranians si no arriben a un acord",
+          "link": "https://www.ara.cat/internacional/estats-units/trump-amenaca-des-l-onu-aniquilar-iranians-no-arriben-acord_1_5857509.html",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0437\u0430\u044f\u0432\u0438\u043b \u043e \u0432\u044b\u0431\u043e\u0440\u0435 \u043c\u0435\u0436\u0434\u0443 \u0441\u0434\u0435\u043b\u043a\u043e\u0439 \u0441 \u0418\u0440\u0430\u043d\u043e\u043c \u0438 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u0435\u043c \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438",
-          "link": "https://www.vesti.ru/ns/tramp-zayavil-o-vybore-mezhdu-sdelkoj-s-iranom-i-unichtozheniem-respubliki",
+          "title": "US , Iranian heads in same room . Will talks happen ?",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/us-iranian-heads-in-same-room-will-talks-happen/articleshow/134419805.cms",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u062a\u0648\u0645 \u0628\u0631\u0627\u0643 : \u062d\u0635\u0631 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0628\u064a\u062f \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 \u0628\u062d\u0644\u0648\u0644 \u062d\u0632\u064a\u0631\u0627\u0646 2027",
-          "link": "https://mustaqila.com/%D8%AA%D9%88%D9%85-%D8%A8%D8%B1%D8%A7%D9%83-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/",
+          "title": "Trump , en su discurso en la ONU , amenaz\u00f3 con  aniquilar  a Ir\u00e1n y defendi\u00f3 su gesti\u00f3n :: El Diario de La Pampa",
+          "link": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump in address at UN defends his decision to start Iran War",
-          "link": "https://www.wisn.com/article/trump-defends-iran-war-un-general-assembly/73835687",
+          "title": "Trump touts  very good  Iran talks after tough UN speech",
+          "link": "https://wsbt.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump : I offered a diplomatic solution to halt Iran nuclear program , but Tehran rejected it",
-          "link": "https://en.apa.az/america/trump-i-offered-a-diplomatic-solution-to-halt-irans-nuclear-program-but-tehran-rejected-it-525618",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.brentwoodlive.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Isolate Iran economically : Donald Trump urges nations in UNGA address",
-          "link": "https://aninews.in/news/world/us/isolate-iran-economically-donald-trump-urges-nations-in-unga-address20260922205619/",
+          "title": "UN General Assembly opens with Macron , Trump in NYC",
+          "link": "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0393\u03b5\u03bd\u03b9\u03ba\u03ae \u03a3\u03c5\u03bd\u03ad\u03bb\u03b5\u03c5\u03c3\u03b7 \u039f\u0397\u0395 : \u039f \u03a4\u03c1\u03b1\u03bc\u03c0 \u03b6\u03ae\u03c4\u03b7\u03c3\u03b5 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03b1\u03c0\u03bf\u03bc\u03cc\u03bd\u03c9\u03c3\u03b7 \u0399\u03c1\u03ac\u03bd",
-          "link": "https://dialogos.com.cy/geniki-syneleysi-oie-o-tramp-zitise-oikonomiki-apomonosi-iran/",
+          "title": "Ir\u00e3 endureceu condies apresentadas aos EUA para encerrar a guerra , diz Guarda Revolucion\u00e1ria",
+          "link": "http://www.em.com.br/internacional/2026/09/7506053-ira-endureceu-condicoes-apresentadas-aos-eua-para-encerrar-a-guerra-diz-guarda-revolucionaria.html",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "UN - Generaldebatte : Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-          "link": "https://www.oz-online.de/artikel/1688954/Guterres-bei-UN-Abschiedsrede-zu-Iran-Krieg-Genug-ist-genug",
+          "title": "\u0648\u0643\u0627\u0644\u0629 : \u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0631\u062d\u0644\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0645\u0646 \u0637\u0647\u0631\u0627\u0646 \u0625\u0644\u0649 \u0628\u063a\u062f\u0627\u062f \u0648\u0645\u0633\u0642\u0637",
+          "link": "https://www.eremnews.com/news/arab-world/41jnkjy",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u062a\u0642\u0631\u0631 \u062a\u0648\u0641\u064a\u0631 \u0641\u0631\u064a\u0642 \u062d\u0645\u0627\u064a\u0629 \u0625\u0636\u0627\u0641\u064a \u0644\u0639\u0631\u0627\u0642\u062c\u064a \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643",
-          "link": "https://www.alquds.co.uk/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D9%82%D8%B1%D8%B1-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D9%81%D8%B1%D9%8A%D9%82-%D8%AD%D9%85%D8%A7%D9%8A/",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.dudleynews.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Turkish Airlines , AJet and Pegasus Suspend Iran Flights as US Sanctions Bite",
-          "link": "https://www.rustourismnews.com/2026/09/22/turkish-airlines-ajet-and-pegasus-suspend-iran-flights-as-us-sanctions-bite/",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.braintreeandwithamtimes.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "World leaders , including Donald Trump , Guterres address UN General Assembly",
-          "link": "https://www.jpost.com/international/article-909318",
+          "title": "Tramp rekao da su se danas sastali ameri\u010dki i iranski zvani\u010dnici",
+          "link": "https://naslovi.net/2026-09-22/beta/tramp-rekao-da-su-se-danas-sastali-americki-i-iranski-zvanicnici/42393867",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u039f \u039d\u03c4\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b2\u03ae\u03bc\u03b1 \u03c4\u03bf\u03c5 \u039f\u0397\u0395 : \u0394\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u0399\u03c1\u03ac\u03bd \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03b5\u03c0\u03b9\u03c4\u03b5\u03cd\u03b3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae\u03c2",
-          "link": "https://www.madata.gr/epikairotita/world/981539-o-ntonalnt-tramp-apo-to-vima-toy-oie-diloseis-gia-to-iran-kai-ta-epiteygmata-tis-amerikis.html",
+          "title": "Trump Urges ICC Withdrawal , Says Iran Rejected US Nuclear Deal At UNGA",
+          "link": "https://www.i24news.tv/en/news/international/americas/artc-trump-urges-icc-withdrawal-says-iran-rejected-us-nuclear-deal-at-unga",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Arab states , Israel expand regional air defense cooperation under CENTCOM",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-909323",
+          "title": "\u03a4\u03c1\u03af\u03c9\u03c1\u03b7 \u03c3\u03c5\u03bd\u03ac\u03bd\u03c4\u03b7\u03c3\u03b7 A\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 I\u03c1\u03b1\u03bd\u03ce\u03bd \u03b1\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03bf\u03cd\u03c7\u03c9\u03bd \u03c3\u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b8\u03ce\u03c1\u03b9\u03bf \u03c4\u03b7\u03c2 \u0393\u03a3 \u039f\u0397\u0395",
+          "link": "https://www.sigmalive.com/news/international/1330470/triori-sinantisi-amerikanwn-kai-iranwn-aksiomatoukhon-sto-perithwrio-tis-gs-ohe",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump ruft Staaten zu Austritt aus Strafgerichtshof auf",
-          "link": "https://www.watson.ch/international/usa/451500708-trump-ruft-staaten-zu-austritt-aus-strafgerichtshof-auf",
+          "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+          "link": "https://www.yasstribune.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "US Diplomatic Security providing additional support for Iranian FM",
-          "link": "http://www.washingtonexaminer.com/news/world/4737165/us-diplomatic-security-additional-support-iran-foreign-minister-threats/",
+          "title": "No English Test for You : Trump Campaign Against Iran Now Targets Education",
+          "link": "https://truthout.org/articles/no-english-test-for-you-trumps-campaign-against-iran-now-targets-education/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Generalna debata GS UN u Njujorku ; Tramp zapretio Iranu \u201e uni\u0161tenjem  i najavio izgradnju vojnih baza na Grenlandu",
-          "link": "https://naslovi.net/2026-09-22/rts/generalna-debata-gs-un-u-njujorku-tramp-zapretio-iranu-unistenjem-i-najavio-izgradnju-vojnih-baza-na-grenlandu/42393056",
+          "title": "D\u00f3lar m\u00e1s caro : la moneda cierra al alza y supera los 3 . 200 pesos",
+          "link": "https://www.semana.com/economia/macroeconomia/articulo/dolar-mas-caro-la-moneda-cierra-al-alza-y-supera-la-barrera-de-los-3200-pesos/202631/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Tramp u GS UN o ratu Rusije i Ukrajine : Vreme je da se zaustavi ubijanje",
-          "link": "https://www.tanjug.rs/svet/politika/282959/tramp-u-gs-un-o-ratu-rusije-i-ukrajine-vreme-je-da-se-zaustavi-ubijanje/vest",
+          "title": "Trump amenaza con destruir a Ir\u00e1n en discurso ante la ONU ; se presenta como defensor de la paz",
+          "link": "https://tribuna.com.mx/mundo/2026/09/22/trump-amenaza-con-destruir-a-iran-en-discurso-ante-la-onu-se-presenta-como-defensor-de-la-paz_692006/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Assemblea Onu , il discorso di oggi di Trump , dallIran alle elezioni midterm : cosa ha detto",
-          "link": "https://tg24.sky.it/mondo/2026/09/22/assemblea-onu-discorso-trump",
+          "title": "Trump touts  very good  Iran talks after tough UN speech",
+          "link": "https://kfdm.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Ir\u00e1n captura un submarino no tripulado de Estados Unidos en el estrecho de Ormuz y anuncia que lo someter\u00e1 a ingenier\u00eda inversa",
-          "link": "https://puranoticia.pnt.cl/internacional/iran-captura-un-submarino-no-tripulado-de-estados-unidos-en-el-estrecho-de",
+          "title": "Trump in address at UN defends his decision to start war against Iran",
+          "link": "https://www.republicanherald.com/2026/09/22/trump-un-general-assembly/",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump arrives at UN headquarters for high stakes address , urges Putin to settle war",
-          "link": "https://aninews.in/news/world/us/trump-arrives-at-un-headquarters-for-high-stakes-address-urges-putin-to-settle-war20260922200843/",
+          "title": "Isplivao snimak osoba koje su okretale prase u ba\u0161ti Muzeja :  Evo ga u Teheranu , ovo je najbolje za kulturu u Sarajevu \u0161to se mo\u017ee desiti",
+          "link": "http://www.avaz.ba/vijesti/bih/1074647/isplivao-snimak-osoba-koje-su-okretale-prase-u-basti-muzeja-evo-ga-u-teheranu-ovo-je-najbolje-za-kulturu-u-sarajevu-sto-se-moze-desiti",
           "summary": "",
           "source": "GDELT: tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
@@ -664,351 +1015,351 @@
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
       "items": [
         {
-          "title": "UN report : Iran committed crimes against humanity during protest crackdown",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-909319",
+          "title": "\u0628\u0639\u062f \u0627\u062c\u062a\u0645\u0627\u0639 3 \u0633\u0627\u0639\u0627\u062a .. \u0645\u0627\u0630\u0627 \u0648\u0631\u0627\u0621 \u0627\u0644\u062a\u062d\u0631\u0643 \u0627\u0644\u062c\u062f\u064a\u062f \u0628\u064a\u0646 \u0623\u0645\u0631\u064a\u0643\u0627 \u0648\u0625\u064a\u0631\u0627\u0646 \u0631\u063a\u0645 \u0641\u062c\u0648\u0629 \u0627\u0644\u0645\u0648\u0627\u0642\u0641 \u061f",
+          "link": "https://www.almasryalyoum.com/news/details/4365730",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Ir\u00e1n podr\u00eda reabrir el estrecho de Ormuz en siete d\u00edas , pero pone condiciones",
-          "link": "https://www.eluniverso.com/noticias/internacional/iran-podria-reabrir-el-estrecho-de-ormuz-en-siete-dias-pero-pone-condiciones-nota/",
+          "title": "Tramp otkrio svoje planove : OVO su najva\u017enije poruke iz njegovog govora u UN",
+          "link": "https://www.telegraf.rs/vesti/svet/4401517-tramp-otkrio-svoje-planove-ovo-su-najvaznije-poruke-iz-njegovog-govora-u-un",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0432\u044b\u0440\u0430\u0437\u0438\u043b \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u0432 \u0441\u0434\u0435\u043b\u043a\u0435 \u0441 \u0418\u0440\u0430\u043d\u043e\u043c \u043f\u043e\u0441\u043b\u0435 \u0432\u044b\u0431\u043e\u0440\u043e\u0432 \u0432 \u041a\u043e\u043d\u0433\u0440\u0435\u0441\u0441",
-          "link": "https://vestikavkaza.ru/news/tramp-vyrazil-uverennost-v-sdelke-s-iranom-posle-vyborov-v-kongress.html",
+          "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+          "link": "https://www.northerndailyleader.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-          "link": "https://www.t-online.de/nachrichten/ausland/id_101446246/guterres-bei-un-abschiedsrede-zu-iran-krieg-genug-ist-genug.html",
+          "title": "New York Rally Urges Action Against Iran Executions , Highlights Resistance Units and Rejects Return to Monarchy",
+          "link": "https://www.ncr-iran.org/en/news/iran-resistance/new-york-rally-urges-action-against-irans-executions-highlights-resistance-units-and-rejects-return-to-monarchy/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "B\u00d6RSE AKTUELL : Dienstag an der B\u00f6rse Frankfurt - DAX letztlich wenig ver\u00e4ndert",
-          "link": "https://www.finanzen.net/nachricht/aktien/dax-aktuell-oelpreise-fallen-dax-nach-volatilem-handel-letztlich-wenig-bewegt-50-tage-linie-im-fokus-15943636",
+          "title": "Poll shows Americans sour on Iran war as Trump talks deal or annihilation",
+          "link": "https://bakersfieldnow.com/news/nation-world/poll-shows-americans-sour-on-iran-war-as-trump-talks-deal-or-annihilation",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Donald trump parla allassemblea generale delle nazioni unite :  sono convinto che liran far\u00c0 ...",
-          "link": "https://www.dagospia.com/politica/donald-trump-parla-all-assemblea-generale-delle-nazioni-unite-sono-487787",
+          "title": "Chanceler do Ir\u00e3 deu a enviado dos EUA condies para reabertura de Ormuz",
+          "link": "http://www.em.com.br/internacional/2026/09/7506076-chanceler-do-ira-deu-a-enviado-dos-eua-condicoes-para-reabertura-de-ormuz.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "LIran ofereix als EUA reobrir Ormuz en set dies si rebaixa la pressi\u00f3 militar i aixeca el bloqueig naval",
-          "link": "https://www.ara.cat/internacional/proxim-orient/l-iran-ofereix-als-eua-reobrir-ormuz-set-dies-rebaixen-pressio-militar-aixequen-bloqueig-naval_25_5857344.html",
+          "title": "Poll shows Americans sour on Iran war as Trump talks deal or annihilation",
+          "link": "https://13wham.com/news/nation-world/poll-shows-americans-sour-on-iran-war-as-trump-talks-deal-or-annihilation",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "El precio del petr\u00f3leo cay\u00f3 por debajo de los US$ 100 luego de que Ir\u00e1n ofreciera reabrir el estrecho de Ormuz",
-          "link": "http://www.eldestapeweb.com/internacionales/crudo-cae-1-tras-reportes-sobre-posible-reapertura-del-estrecho-de-ormuz-por-parte-de-iran-202692274318",
+          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 : \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03bf\u03af \u03ba\u03b1\u03b9 \u0399\u03c1\u03b1\u03bd\u03bf\u03af \u03b1\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03bf\u03cd\u03c7\u03bf\u03b9 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7 \u039d\u03ad\u03b1 \u03a5\u03cc\u03c1\u03ba\u03b7 \u2013 \u00ab \u03a0\u03ae\u03b3\u03b5 \u03c0\u03bf\u03bb\u03cd \u03ba\u03b1\u03bb\u03ac \u00bb",
+          "link": "https://www.kathimerini.gr/world/564474349/tramp-amerikanoi-kai-iranoi-axiomatoychoi-synantithikan-sti-nea-yorki-pige-poly-kala/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0432\u044b\u0441\u0442\u0443\u043f\u0438\u043b \u0432 \u041e\u041e\u041d - \u0447\u0442\u043e \u043e\u043d \u0441\u043a\u0430\u0437\u0430\u043b \u043e\u0431 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 \u0438 \u043a\u0430\u043a\u043e\u0439 \u0441\u0438\u0433\u043d\u0430\u043b \u043f\u043e\u0441\u043b\u0430\u043b \u041f\u0443\u0442\u0438\u043d\u0443",
-          "link": "https://glavred.info/world/tramp-vystupil-v-oon-chto-on-skazal-ob-ukraine-i-kakoy-signal-poslal-putinu-10798538.html",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.cambstimes.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0627\u0646\u062e\u0641\u0627\u0636 \u0639\u0648\u0627\u0626\u062f \u0627\u0644\u0633\u0646\u062f\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0645\u0639 \u062a\u0631\u0642\u0628 \u0645\u062d\u0627\u062f\u062b\u0627\u062a \u0648\u0627\u0634\u0646\u0637\u0646 \u0648\u0637\u0647\u0631\u0627\u0646",
-          "link": "https://www.argaam.com/ar/article/articledetail/id/1938304",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.maldonandburnhamstandard.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Gulf leaders meet Trump fearing more war and less protection | Nation & World News",
-          "link": "https://www.komu.com/news/nationworld/gulf-leaders-meet-trump-with-two-fears-more-war-and-less-us-protection/article_032d2521-1ebe-5bba-9eb0-49d91d26bf6b.html",
+          "title": "Tramp : Produktivan razgovor predstavnika SAD i Irana na marginama GS UN",
+          "link": "https://www.tanjug.rs/svet/politika/283216/tramp-produktivan-razgovor-predstavnika-sad-i-irana-na-marginama-gs-un/vest",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Ir\u00e1n ofrece reabrir el estrecho de Ormuz en siete d\u00edas si EE . UU . reduce la presi\u00f3n militar",
-          "link": "https://elsoldesantiago.com/iran-ofrece-reabrir-el-estrecho-de-ormuz-en-siete-dias-si-ee-uu-reduce-la-presion-militar/",
+          "title": "Isplivao snimak osoba koje su okretale prase u ba\u0161ti Muzeja :  Evo ga u Teheranu , ovo je najbolje za kulturu u Sarajevu \u0161to se mo\u017ee desiti",
+          "link": "https://avaz.ba/vijesti/bih/1074647/isplivao-snimak-osoba-koje-su-okretale-prase-u-basti-muzeja-evo-ga-u-teheranu-ovo-je-najbolje-za-kulturu-u-sarajevu-sto-se-moze-desiti",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump returns to UN at a moment of anxiety about Iran , AI and the future of the world body itself",
-          "link": "https://www.1011now.com/2026/09/22/trump-returns-un-moment-anxiety-about-iran-ai-future-world-body-itself/",
+          "title": "Trump amenaza con  aniquilar  Ir\u00e1n , pero cree que habr\u00e1 acuerdo",
+          "link": "https://www.diariodeavila.es/noticia/zddfbf643-21e3-4c2f-8153288470e8f85c/202609/trump-amenaza-con-aniquilar-iran-pero-cree-que-habra-acuerdo",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump droht Iran mit  H\u00f6lle  und k\u00fcndigt Entscheidung an",
-          "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69646725-trump-droht-iran-mit-hoelle-und-kuendigt-entscheidung-an-016.htm",
+          "title": "Stubb urges global cooperation as Finland seeks UN Security Council seat",
+          "link": "https://www.helsinkitimes.fi/world-int/29305-stubb-urges-global-cooperation-as-finland-seeks-un-security-council-seat.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump in address at UN defends his decision to start Iran War",
-          "link": "https://www.wlwt.com/article/trump-defends-iran-war-un-general-assembly/73835687",
+          "title": "Trump touts  very good  Iran talks after tough UN speech",
+          "link": "https://fox11online.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u041a\u0421\u0418\u0420 \u0433\u043e\u0442\u043e\u0432 \u043a \u043b\u044e\u0431\u044b\u043c \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430\u043c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0430",
-          "link": "https://vestikavkaza.ru/news/ksir-gotov-k-lubym-variantam-razvitia-konflikta.html",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.falmouthpacket.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Ir\u00e1n insin\u00faa que habr\u00e1 conversaciones con Estados Unidos sobre estrecho de Ormuz en el marco de la ONU",
-          "link": "http://www.eldestapeweb.com/internacionales/iran-insinua-que-habra-conversaciones-con-eeuu-sobre-estrecho-de-ormuz-en-el-marco-de-la-onu-202692294725",
+          "title": "\ud83c\udfa5President Trump tells U . N . he has a big decision to make on Iran",
+          "link": "https://salinapost.com/posts/b9ab4bc1-fc98-49aa-b161-0960c4515310",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Lurer . com | \u053b\u0580\u0561\u0576\u0568 \u057a\u0561\u057f\u0580\u0561\u057d\u057f \u0567 \u0574\u0565\u056f \u0577\u0561\u0562\u0561\u0569\u057e\u0561 \u0568\u0576\u0569\u0561\u0581\u0584\u0578\u0582\u0574 \u0562\u0561\u0581\u0565\u056c \u0540\u0578\u0580\u0574\u0578\u0582\u0566\u056b \u0576\u0565\u0572\u0578\u0582\u0581\u0568 \u055d \u057a\u0561\u0575\u0574\u0561\u0576\u0576\u0565\u0580 \u0561\u057c\u0561\u057b\u0561\u0564\u0580\u0565\u056c\u0578\u057e \u0531\u0544\u0546 - \u056b\u0576",
-          "link": "https://lurer.com/article/753618/am",
+          "title": "Trump says US and Iranian officials met Tuesday , shortly after warning he may  annihilate  Iran",
+          "link": "https://www.union-bulletin.com/news/national/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/article_7dca151d-7f30-5034-9537-ef6b63910e28.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump arrives at UN headquarters for high stakes address , urges Putin to settle war",
-          "link": "https://news.webindia123.com/news/Articles/World/20260922/4502109.html",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.messengernewspapers.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump , il discorso allOnu : lelogio allAmerica , la guerra in Iran , lattacco a Cuba e il messaggio a Putin",
-          "link": "https://www.ilgazzettino.it:443/persone/trump_onu_discorso_cosa_ha_detto-9778916.html",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.elystandard.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u5362\u6bd4\u5965 \uff1a \u7279\u6717\u666e\u603b\u7edf\u5bf9\u4e0e\u4f0a\u6717\u9886\u5bfc\u4eba\u4f1a\u9762  \u6301\u5f00\u653e\u6001\u5ea6",
-          "link": "https://www.voachinese.com/a/rubion-says-president-trump-open-to-meeting-with-iranian-leader-20260922/8202864.html",
+          "title": "Trump threatens Iran with  hell  but unveils fresh talks",
+          "link": "https://www.standardmedia.co.ke/world/article/2001558428/trump-threatens-iran-with-hell-but-unveils-fresh-talks",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iranian president says UNGA opportunity to expound Iran positions , regional realities - Xinhua",
-          "link": "https://english.news.cn/20260922/5e5065b76895431083322e7e37ec2f26/c.html",
+          "title": "Trump says US and Iranian officials met Tuesday , shortly after warning he may  annihilate  Iran",
+          "link": "https://www.messenger-inquirer.com/ap/elections/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/article_ff76ab83-55a7-5dcf-b01f-e82dd36c8b54.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump na p\u00f4de OSN pohrozil Ir\u00e1nu zni\u010den\u00edm . Z\u00e1rove\u0148 ver\u00ed , \u017ee po vo\u013eb\u00e1ch pr\u00edde dohoda - Svet - Spr\u00e1vy",
-          "link": "https://www.pravda.sk/spravy/svet/clanok/2045971-donald-trump-osn-iran-dohoda-usa",
+          "title": "A lONU , Trump d\u00e9fend son nationalisme , sourd aux appels \u00e0 la coop\u00e9ration internationale - 22 / 09 / 2026 \u00e0 20 : 29",
+          "link": "https://www.boursorama.com/actualite-economique/actualites/a-l-onu-trump-defend-son-nationalisme-sourd-aux-appels-a-la-cooperation-internationale-219364d3d05876c878945ce03f96aff8",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u05d4\u05de\u05d3\u05d9\u05e0\u05d5\u05ea \u05d4\u05de\u05ea\u05d5\u05d5\u05db\u05d5\u05ea \u05e4\u05d5\u05e2\u05dc\u05d5\u05ea \u05dc\u05e7\u05d9\u05d3\u05d5\u05dd \u05e4\u05d2\u05d9\u05e9\u05d4 \u05d1\u05d9\u05df \u05d0\u05e8\u05d4  \u05d1 \u05dc\u05d0\u05d9\u05e8\u05d0\u05df",
-          "link": "https://www.walla.co.il:443/news/world/383955032",
+          "title": "Trump says relations better with Burnham than Starmer after first face - to - face meeting",
+          "link": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 \u03c3\u03c4\u03bf\u03bd \u039f\u0397\u0395 : \u00ab \u03a4\u03bf \u0399\u03c1\u03ac\u03bd \u03b1\u03bd\u03ad\u03c0\u03c4\u03c5\u03be\u03b5 \u03c0\u03cd\u03c1\u03b1\u03c5\u03bb\u03bf \u03c0\u03bf\u03c5 \u03b1\u03c0\u03b5\u03b9\u03bb\u03b5\u03af \u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 - \u039d\u03b1 \u03c4\u03bf \u03be\u03ad\u03c1\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03cc \u03c3\u03c4\u03b7\u03bd \u0395\u0395 \u00bb",
-          "link": "https://www.ethnos.gr/World/article/421414/trampstonohetoirananeptyxepyraylopoyapeileithneyrophnatoxereteaytosthnee",
+          "title": "FOKUS \u2013 Irani premton vijimin e fluturimeve pavar\u00ebsisht sanksioneve amerikane",
+          "link": "https://24-ore.com/fokus-irani-premton-vijimin-e-fluturimeve-pavaresisht-sanksioneve-amerikane/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "I proclami trionfalistici di Trump allONU nascondono la fine dellordine unipolare",
-          "link": "https://www.lantidiplomatico.it/dettnews-i_proclami_trionfalistici_di_trump_allonu_nascondono_la_fine_dellordine_unipolare/45289_69056/",
+          "title": "Lurer . com | \u0531\u0575\u057d\u0585\u0580 \u0532\u0561\u0584\u0578\u0582\u0576 \u0583\u0561\u056f\u0578\u0582\u0574 \u0567 \u056b\u0580\u0561\u0576\u0561\u056f\u0561\u0576 \u0585\u0564\u0561\u0576\u0561\u057e\u0565\u0580\u056b \u0569\u057c\u056b\u0579\u0584\u0576\u0565\u0580\u0568 \u0564\u0565\u057a\u056b \u0531\u0564\u0580\u0562\u0565\u057b\u0561\u0576 , \u056b\u057d\u056f \u056b \u055e \u0576\u0579 \u056f\u0561\u0576\u056b \u057e\u0561\u0572\u0568 , \u0565\u0569\u0565 \u0539\u0550\u053b\u0553 - \u056b \u0574\u056b\u057b\u0578\u0581\u0578\u057e \u0571\u0565\u057c\u0584 \u0563\u0581\u056b \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0570\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u0570\u0561\u057f\u057e\u0561\u056e\u056b\u0576 . \u0531\u0580\u0574\u0565\u0576 \u0531\u0575\u057e\u0561\u0566\u0575\u0561\u0576",
+          "link": "https://lurer.com/article/753699/am",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump : Kam nj\u00eb vendim t\u00eb madh p\u00ebr t\u00eb marr\u00eb lidhur me Iranin",
-          "link": "https://tv21.tv/trump-kam-nje-vendim-te-madh-per-te-marre-lidhur-me-iranin/",
+          "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+          "link": "https://www.theadvocate.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u062a\u0631\u0627\u0645\u0628 \u0623\u0645\u0627\u0645 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 : \u062f\u0645\u0651\u0631\u0646\u0627 \u0642\u062f\u0631\u0627\u062a \u0625\u064a\u0631\u0627\u0646 \u0648  \u0645\u062c\u0644\u0633 \u0627\u0644\u0633\u0644\u0627\u0645  \u064a\u0642\u0648\u062f \u0625\u0639\u0627\u062f\u0629 \u0625\u0639\u0645\u0627\u0631 \u063a\u0632\u0629",
-          "link": "https://www.alquds.co.uk/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7/",
+          "title": "Ir\u00e1n amenaza con utilizar  nuevas armas estrat\u00e9gicas  y su presidente hablar\u00e1 al mundo | WEB OJO PRINT | INTERNACIONAL",
+          "link": "https://ojo.pe/internacional/iran-amenaza-con-utilizar-nuevas-armas-estrategicas-y-su-presidente-hablara-al-mundo-web-ojo-print-noticia/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "The Latest : Trump returns to UN at moment of anxiety about Iran , AI and future of world body itself",
-          "link": "http://www.thegazette.com/news/national/the-latest-trump-returns-to-un-at-moment-of-anxiety-about-iran-ai-and-future/article_958c09bc-1049-5b31-b461-ed486d9efec6.html",
+          "title": "Objekt misterioz i ndritsh\u00ebm filmohet mbi Teheran , pamjet nxisin spekulime p\u00ebr UFO",
+          "link": "https://www.gazetaexpress.com/objekt-misterioz-i-ndritshem-filmohet-mbi-teheran-pamjet-nxisin-spekulime-per-ufo/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Iranian officials deny reports of plans to reopen Strait of Hormuz within seven days",
-          "link": "https://en.apa.az/america/iranian-officials-deny-reports-of-plans-to-reopen-strait-of-hormuz-within-seven-days-updated-525568",
+          "title": "Trump Denounces Iran As State Sponsor Of Terror , Recalls Horrors Of October 7",
+          "link": "https://www.worthynews.com/117690-trump-denounces-iran-as-state-sponsor-of-terror-recalls-horrors-of-october-7",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "UN - Generaldebatte : Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-          "link": "https://www.handelsblatt.com/politik/international/un-generaldebatte-guterres-bei-un-abschiedsrede-zu-iran-krieg-genug-ist-genug/100256391.html",
+          "title": "Trump amena\u00e7a des de lONU amb  aniquilar  els iranians si no arriben a un acord",
+          "link": "https://www.ara.cat/internacional/estats-units/trump-amenaca-des-l-onu-aniquilar-iranians-no-arriben-acord_1_5857509.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0422\u0440\u0430\u043c\u043f \u0437\u0430\u044f\u0432\u0438\u043b \u043e \u0432\u044b\u0431\u043e\u0440\u0435 \u043c\u0435\u0436\u0434\u0443 \u0441\u0434\u0435\u043b\u043a\u043e\u0439 \u0441 \u0418\u0440\u0430\u043d\u043e\u043c \u0438 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u0435\u043c \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438",
-          "link": "https://www.vesti.ru/ns/tramp-zayavil-o-vybore-mezhdu-sdelkoj-s-iranom-i-unichtozheniem-respubliki",
+          "title": "US , Iranian heads in same room . Will talks happen ?",
+          "link": "https://economictimes.indiatimes.com/news/international/world-news/us-iranian-heads-in-same-room-will-talks-happen/articleshow/134419805.cms",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u062a\u0648\u0645 \u0628\u0631\u0627\u0643 : \u062d\u0635\u0631 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0628\u064a\u062f \u0627\u0644\u062f\u0648\u0644\u0629 \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629 \u0628\u062d\u0644\u0648\u0644 \u062d\u0632\u064a\u0631\u0627\u0646 2027",
-          "link": "https://mustaqila.com/%D8%AA%D9%88%D9%85-%D8%A8%D8%B1%D8%A7%D9%83-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D9%82%D9%88%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/",
+          "title": "Trump , en su discurso en la ONU , amenaz\u00f3 con  aniquilar  a Ir\u00e1n y defendi\u00f3 su gesti\u00f3n :: El Diario de La Pampa",
+          "link": "https://www.eldiariodelapampa.com.ar/mundo/80597/trump-en-su-discurso-en-la-onu-amenazo-con-aniquilar-a-iran-y-defendio-su-gestion",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump in address at UN defends his decision to start Iran War",
-          "link": "https://www.wisn.com/article/trump-defends-iran-war-un-general-assembly/73835687",
+          "title": "Trump touts  very good  Iran talks after tough UN speech",
+          "link": "https://wsbt.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump : I offered a diplomatic solution to halt Iran nuclear program , but Tehran rejected it",
-          "link": "https://en.apa.az/america/trump-i-offered-a-diplomatic-solution-to-halt-irans-nuclear-program-but-tehran-rejected-it-525618",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.brentwoodlive.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Isolate Iran economically : Donald Trump urges nations in UNGA address",
-          "link": "https://aninews.in/news/world/us/isolate-iran-economically-donald-trump-urges-nations-in-unga-address20260922205619/",
+          "title": "UN General Assembly opens with Macron , Trump in NYC",
+          "link": "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0393\u03b5\u03bd\u03b9\u03ba\u03ae \u03a3\u03c5\u03bd\u03ad\u03bb\u03b5\u03c5\u03c3\u03b7 \u039f\u0397\u0395 : \u039f \u03a4\u03c1\u03b1\u03bc\u03c0 \u03b6\u03ae\u03c4\u03b7\u03c3\u03b5 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03b1\u03c0\u03bf\u03bc\u03cc\u03bd\u03c9\u03c3\u03b7 \u0399\u03c1\u03ac\u03bd",
-          "link": "https://dialogos.com.cy/geniki-syneleysi-oie-o-tramp-zitise-oikonomiki-apomonosi-iran/",
+          "title": "Ir\u00e3 endureceu condies apresentadas aos EUA para encerrar a guerra , diz Guarda Revolucion\u00e1ria",
+          "link": "http://www.em.com.br/internacional/2026/09/7506053-ira-endureceu-condicoes-apresentadas-aos-eua-para-encerrar-a-guerra-diz-guarda-revolucionaria.html",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "UN - Generaldebatte : Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-          "link": "https://www.oz-online.de/artikel/1688954/Guterres-bei-UN-Abschiedsrede-zu-Iran-Krieg-Genug-ist-genug",
+          "title": "\u0648\u0643\u0627\u0644\u0629 : \u0625\u0644\u063a\u0627\u0621 \u0627\u0644\u0631\u062d\u0644\u0627\u062a \u0627\u0644\u062c\u0648\u064a\u0629 \u0645\u0646 \u0637\u0647\u0631\u0627\u0646 \u0625\u0644\u0649 \u0628\u063a\u062f\u0627\u062f \u0648\u0645\u0633\u0642\u0637",
+          "link": "https://www.eremnews.com/news/arab-world/41jnkjy",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u062a\u0642\u0631\u0631 \u062a\u0648\u0641\u064a\u0631 \u0641\u0631\u064a\u0642 \u062d\u0645\u0627\u064a\u0629 \u0625\u0636\u0627\u0641\u064a \u0644\u0639\u0631\u0627\u0642\u062c\u064a \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643",
-          "link": "https://www.alquds.co.uk/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D9%82%D8%B1%D8%B1-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D9%81%D8%B1%D9%8A%D9%82-%D8%AD%D9%85%D8%A7%D9%8A/",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.dudleynews.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Turkish Airlines , AJet and Pegasus Suspend Iran Flights as US Sanctions Bite",
-          "link": "https://www.rustourismnews.com/2026/09/22/turkish-airlines-ajet-and-pegasus-suspend-iran-flights-as-us-sanctions-bite/",
+          "title": "Greenland deal protects Europe , says Trump as he hails  bond  after tensions",
+          "link": "https://www.braintreeandwithamtimes.co.uk/news/national/26573257.greenland-deal-protects-europe-says-trump-hails-bond-tensions/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "World leaders , including Donald Trump , Guterres address UN General Assembly",
-          "link": "https://www.jpost.com/international/article-909318",
+          "title": "Tramp rekao da su se danas sastali ameri\u010dki i iranski zvani\u010dnici",
+          "link": "https://naslovi.net/2026-09-22/beta/tramp-rekao-da-su-se-danas-sastali-americki-i-iranski-zvanicnici/42393867",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "\u039f \u039d\u03c4\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b2\u03ae\u03bc\u03b1 \u03c4\u03bf\u03c5 \u039f\u0397\u0395 : \u0394\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u0399\u03c1\u03ac\u03bd \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03b5\u03c0\u03b9\u03c4\u03b5\u03cd\u03b3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae\u03c2",
-          "link": "https://www.madata.gr/epikairotita/world/981539-o-ntonalnt-tramp-apo-to-vima-toy-oie-diloseis-gia-to-iran-kai-ta-epiteygmata-tis-amerikis.html",
+          "title": "Trump Urges ICC Withdrawal , Says Iran Rejected US Nuclear Deal At UNGA",
+          "link": "https://www.i24news.tv/en/news/international/americas/artc-trump-urges-icc-withdrawal-says-iran-rejected-us-nuclear-deal-at-unga",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Arab states , Israel expand regional air defense cooperation under CENTCOM",
-          "link": "https://www.jpost.com/middle-east/iran-news/article-909323",
+          "title": "\u03a4\u03c1\u03af\u03c9\u03c1\u03b7 \u03c3\u03c5\u03bd\u03ac\u03bd\u03c4\u03b7\u03c3\u03b7 A\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 I\u03c1\u03b1\u03bd\u03ce\u03bd \u03b1\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03bf\u03cd\u03c7\u03c9\u03bd \u03c3\u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b8\u03ce\u03c1\u03b9\u03bf \u03c4\u03b7\u03c2 \u0393\u03a3 \u039f\u0397\u0395",
+          "link": "https://www.sigmalive.com/news/international/1330470/triori-sinantisi-amerikanwn-kai-iranwn-aksiomatoukhon-sto-perithwrio-tis-gs-ohe",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump ruft Staaten zu Austritt aus Strafgerichtshof auf",
-          "link": "https://www.watson.ch/international/usa/451500708-trump-ruft-staaten-zu-austritt-aus-strafgerichtshof-auf",
+          "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+          "link": "https://www.yasstribune.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "US Diplomatic Security providing additional support for Iranian FM",
-          "link": "http://www.washingtonexaminer.com/news/world/4737165/us-diplomatic-security-additional-support-iran-foreign-minister-threats/",
+          "title": "No English Test for You : Trump Campaign Against Iran Now Targets Education",
+          "link": "https://truthout.org/articles/no-english-test-for-you-trumps-campaign-against-iran-now-targets-education/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Generalna debata GS UN u Njujorku ; Tramp zapretio Iranu \u201e uni\u0161tenjem  i najavio izgradnju vojnih baza na Grenlandu",
-          "link": "https://naslovi.net/2026-09-22/rts/generalna-debata-gs-un-u-njujorku-tramp-zapretio-iranu-unistenjem-i-najavio-izgradnju-vojnih-baza-na-grenlandu/42393056",
+          "title": "D\u00f3lar m\u00e1s caro : la moneda cierra al alza y supera los 3 . 200 pesos",
+          "link": "https://www.semana.com/economia/macroeconomia/articulo/dolar-mas-caro-la-moneda-cierra-al-alza-y-supera-la-barrera-de-los-3200-pesos/202631/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Tramp u GS UN o ratu Rusije i Ukrajine : Vreme je da se zaustavi ubijanje",
-          "link": "https://www.tanjug.rs/svet/politika/282959/tramp-u-gs-un-o-ratu-rusije-i-ukrajine-vreme-je-da-se-zaustavi-ubijanje/vest",
+          "title": "Trump amenaza con destruir a Ir\u00e1n en discurso ante la ONU ; se presenta como defensor de la paz",
+          "link": "https://tribuna.com.mx/mundo/2026/09/22/trump-amenaza-con-destruir-a-iran-en-discurso-ante-la-onu-se-presenta-como-defensor-de-la-paz_692006/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Assemblea Onu , il discorso di oggi di Trump , dallIran alle elezioni midterm : cosa ha detto",
-          "link": "https://tg24.sky.it/mondo/2026/09/22/assemblea-onu-discorso-trump",
+          "title": "Trump touts  very good  Iran talks after tough UN speech",
+          "link": "https://kfdm.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Ir\u00e1n captura un submarino no tripulado de Estados Unidos en el estrecho de Ormuz y anuncia que lo someter\u00e1 a ingenier\u00eda inversa",
-          "link": "https://puranoticia.pnt.cl/internacional/iran-captura-un-submarino-no-tripulado-de-estados-unidos-en-el-estrecho-de",
+          "title": "Trump in address at UN defends his decision to start war against Iran",
+          "link": "https://www.republicanherald.com/2026/09/22/trump-un-general-assembly/",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
         },
         {
-          "title": "Trump arrives at UN headquarters for high stakes address , urges Putin to settle war",
-          "link": "https://aninews.in/news/world/us/trump-arrives-at-un-headquarters-for-high-stakes-address-urges-putin-to-settle-war20260922200843/",
+          "title": "Isplivao snimak osoba koje su okretale prase u ba\u0161ti Muzeja :  Evo ga u Teheranu , ovo je najbolje za kulturu u Sarajevu \u0161to se mo\u017ee desiti",
+          "link": "http://www.avaz.ba/vijesti/bih/1074647/isplivao-snimak-osoba-koje-su-okretale-prase-u-basti-muzeja-evo-ga-u-teheranu-ovo-je-najbolje-za-kulturu-u-sarajevu-sto-se-moze-desiti",
           "summary": "",
           "source": "GDELT: Tehran",
           "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
@@ -1023,6 +1374,13 @@
   ],
   "iran": [
     {
+      "title": "Trump: US-Iran meeting at UN was \u2018very good\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+      "summary": "US President Donald Trump says he had a \u2018very good\u2019 three-hour meeting with Iranian officials at the UN.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
       "title": "Banished to alien lands: Trump\u2019s secret deportation deals",
       "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
       "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens\u2026",
@@ -1030,155 +1388,211 @@
       "source_url": "https://www.theguardian.com/world/rss"
     },
     {
-      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
-      "link": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
-      "summary": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people.",
-      "source": "NPR Topics: News",
-      "source_url": "https://feeds.npr.org/1001/rss.xml"
+      "title": "Trump defends Iran war at UN , signals he may still strike a deal",
+      "link": "https://article.wn.com/view/2026/09/22/Trump_defends_Iran_war_at_UN_signals_he_may_still_strike_a_d/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "UN report : Iran committed crimes against humanity during protest crackdown",
-      "link": "https://www.jpost.com/middle-east/iran-news/article-909319",
+      "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+      "link": "https://www.northerndailyleader.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "New York Rally Urges Action Against Iran Executions , Highlights Resistance Units and Rejects Return to Monarchy",
+      "link": "https://www.ncr-iran.org/en/news/iran-resistance/new-york-rally-urges-action-against-irans-executions-highlights-resistance-units-and-rejects-return-to-monarchy/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Poll shows Americans sour on Iran war as Trump talks deal or annihilation",
+      "link": "https://bakersfieldnow.com/news/nation-world/poll-shows-americans-sour-on-iran-war-as-trump-talks-deal-or-annihilation",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Fact Check Team : What does the UN record show about Israel , Palestine & Iran ?",
+      "link": "https://13wham.com/news/nation-world/fact-check-team-what-does-the-un-record-show-about-israel-palestine-iran-arab-states-general-assembly",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump Warns Iran at UNGA , Calls for Global Sanctions , Labels AI  Super Intelligence",
+      "link": "https://article.wn.com/view/2026/09/22/Trump_Warns_Iran_at_UNGA_Calls_for_Global_Sanctions_Labels_A/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Donald Trump Iran conflict fuels record global diesel prices | The Land",
+      "link": "https://www.theland.com.au/story/9354746/donald-trump-iran-conflict-fuels-record-global-diesel-prices/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Poll shows Americans sour on Iran war as Trump talks deal or annihilation",
+      "link": "https://13wham.com/news/nation-world/poll-shows-americans-sour-on-iran-war-as-trump-talks-deal-or-annihilation",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Donald Trump at U . N .: Stopping Iran Regime  a Reality We Had to Confront",
+      "link": "https://www.breitbart.com/middle-east/2026/09/22/trump-stopping-iran-regime-sponsoring-terror-getting-nuclear-weapons-reality-we-had-confront/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Tramp : Produktivan razgovor predstavnika SAD i Irana na marginama GS UN",
+      "link": "https://www.tanjug.rs/svet/politika/283216/tramp-produktivan-razgovor-predstavnika-sad-i-irana-na-marginama-gs-un/vest",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Fact Check Team : What does the UN record show about Israel , Palestine & Iran ?",
+      "link": "https://fox11online.com/news/nation-world/fact-check-team-what-does-the-un-record-show-about-israel-palestine-iran-arab-states-general-assembly",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Vrlo dobar sastanak  Tramp potvrdio da su se sreli ameri\u010dki i iranski zvani\u010dnici : Ne mogu da zamislim za\u0161to Iranci ne bi hteli da sklope sporazum !",
+      "link": "https://naslovi.net/2026-09-22/kurir/vrlo-dobar-sastanak-tramp-potvrdio-da-su-se-sreli-americki-i-iranski-zvanicnici-ne-mogu-da-zamislim-zasto-iranci-ne-bi-hteli-da-sklope-sporazum/42393882",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump Predicts Iran Deal Post - Midterms | Talk Radio 1080",
+      "link": "https://talkradio1080.iheart.com/content/2026-09-22-trump-predicts-iran-deal-post-midterms/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump touts  very good  Iran talks after tough UN speech",
+      "link": "https://fox11online.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-      "link": "https://www.t-online.de/nachrichten/ausland/id_101446246/guterres-bei-un-abschiedsrede-zu-iran-krieg-genug-ist-genug.html",
+      "title": "\ud83c\udfa5President Trump tells U . N . he has a big decision to make on Iran",
+      "link": "https://salinapost.com/posts/b9ab4bc1-fc98-49aa-b161-0960c4515310",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Donald trump parla allassemblea generale delle nazioni unite :  sono convinto che liran far\u00c0 ...",
-      "link": "https://www.dagospia.com/politica/donald-trump-parla-all-assemblea-generale-delle-nazioni-unite-sono-487787",
+      "title": "Trump says US and Iranian officials met Tuesday , shortly after warning he may  annihilate  Iran",
+      "link": "https://www.union-bulletin.com/news/national/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/article_7dca151d-7f30-5034-9537-ef6b63910e28.html",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "LIran ofereix als EUA reobrir Ormuz en set dies si rebaixa la pressi\u00f3 militar i aixeca el bloqueig naval",
-      "link": "https://www.ara.cat/internacional/proxim-orient/l-iran-ofereix-als-eua-reobrir-ormuz-set-dies-rebaixen-pressio-militar-aixequen-bloqueig-naval_25_5857344.html",
+      "title": "Trump threatens Iran with  hell  but unveils fresh talks",
+      "link": "https://www.standardmedia.co.ke/world/article/2001558428/trump-threatens-iran-with-hell-but-unveils-fresh-talks",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump returns to UN at a moment of anxiety about Iran , AI and the future of the world body itself",
-      "link": "https://www.1011now.com/2026/09/22/trump-returns-un-moment-anxiety-about-iran-ai-future-world-body-itself/",
+      "title": "Trump says US and Iranian officials met Tuesday , shortly after warning he may  annihilate  Iran",
+      "link": "https://www.messenger-inquirer.com/ap/elections/trump-says-us-and-iranian-officials-met-tuesday-shortly-after-warning-he-may-annihilate-iran/article_ff76ab83-55a7-5dcf-b01f-e82dd36c8b54.html",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump droht Iran mit  H\u00f6lle  und k\u00fcndigt Entscheidung an",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69646725-trump-droht-iran-mit-hoelle-und-kuendigt-entscheidung-an-016.htm",
+      "title": "FOKUS \u2013 Irani premton vijimin e fluturimeve pavar\u00ebsisht sanksioneve amerikane",
+      "link": "https://24-ore.com/fokus-irani-premton-vijimin-e-fluturimeve-pavaresisht-sanksioneve-amerikane/",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump in address at UN defends his decision to start Iran War",
-      "link": "https://www.wlwt.com/article/trump-defends-iran-war-un-general-assembly/73835687",
+      "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+      "link": "https://www.theadvocate.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump , il discorso allOnu : lelogio allAmerica , la guerra in Iran , lattacco a Cuba e il messaggio a Putin",
-      "link": "https://www.ilgazzettino.it:443/persone/trump_onu_discorso_cosa_ha_detto-9778916.html",
+      "title": "Trump Denounces Iran As State Sponsor Of Terror , Recalls Horrors Of October 7",
+      "link": "https://www.worthynews.com/117690-trump-denounces-iran-as-state-sponsor-of-terror-recalls-horrors-of-october-7",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranian president says UNGA opportunity to expound Iran positions , regional realities - Xinhua",
-      "link": "https://english.news.cn/20260922/5e5065b76895431083322e7e37ec2f26/c.html",
+      "title": "Trump amena\u00e7a des de lONU amb  aniquilar  els iranians si no arriben a un acord",
+      "link": "https://www.ara.cat/internacional/estats-units/trump-amenaca-des-l-onu-aniquilar-iranians-no-arriben-acord_1_5857509.html",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump : Kam nj\u00eb vendim t\u00eb madh p\u00ebr t\u00eb marr\u00eb lidhur me Iranin",
-      "link": "https://tv21.tv/trump-kam-nje-vendim-te-madh-per-te-marre-lidhur-me-iranin/",
+      "title": "US , Iranian heads in same room . Will talks happen ?",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-iranian-heads-in-same-room-will-talks-happen/articleshow/134419805.cms",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "The Latest : Trump returns to UN at moment of anxiety about Iran , AI and future of world body itself",
-      "link": "http://www.thegazette.com/news/national/the-latest-trump-returns-to-un-at-moment-of-anxiety-about-iran-ai-and-future/article_958c09bc-1049-5b31-b461-ed486d9efec6.html",
+      "title": "Trump touts  very good  Iran talks after tough UN speech",
+      "link": "https://wsbt.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Iranian officials deny reports of plans to reopen Strait of Hormuz within seven days",
-      "link": "https://en.apa.az/america/iranian-officials-deny-reports-of-plans-to-reopen-strait-of-hormuz-within-seven-days-updated-525568",
+      "title": "Tramp rekao da su se danas sastali ameri\u010dki i iranski zvani\u010dnici",
+      "link": "https://naslovi.net/2026-09-22/beta/tramp-rekao-da-su-se-danas-sastali-americki-i-iranski-zvanicnici/42393867",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "UN - Generaldebatte : Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-      "link": "https://www.handelsblatt.com/politik/international/un-generaldebatte-guterres-bei-un-abschiedsrede-zu-iran-krieg-genug-ist-genug/100256391.html",
+      "title": "Trump Urges ICC Withdrawal , Says Iran Rejected US Nuclear Deal At UNGA",
+      "link": "https://www.i24news.tv/en/news/international/americas/artc-trump-urges-icc-withdrawal-says-iran-rejected-us-nuclear-deal-at-unga",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump in address at UN defends his decision to start Iran War",
-      "link": "https://www.wisn.com/article/trump-defends-iran-war-un-general-assembly/73835687",
+      "title": "Trump says Iran deal near , Tehran offers Hormuz reopen",
+      "link": "https://www.yasstribune.com.au/story/9355618/trump-says-iran-deal-near-tehran-offers-hormuz-reopen/",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Trump : I offered a diplomatic solution to halt Iran nuclear program , but Tehran rejected it",
-      "link": "https://en.apa.az/america/trump-i-offered-a-diplomatic-solution-to-halt-irans-nuclear-program-but-tehran-rejected-it-525618",
+      "title": "No English Test for You : Trump Campaign Against Iran Now Targets Education",
+      "link": "https://truthout.org/articles/no-english-test-for-you-trumps-campaign-against-iran-now-targets-education/",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "Isolate Iran economically : Donald Trump urges nations in UNGA address",
-      "link": "https://aninews.in/news/world/us/isolate-iran-economically-donald-trump-urges-nations-in-unga-address20260922205619/",
+      "title": "Trump touts  very good  Iran talks after tough UN speech",
+      "link": "https://kfdm.com/news/nation-world/president-donald-trump-touts-very-good-iran-talks-followed-combative-un-united-nations-general-assembly-speech-new-york-us-iranian-envoys-delegation-middle-east-nuclear-weapons-islamic-republic",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
     },
     {
-      "title": "UN - Generaldebatte : Guterres bei UN - Abschiedsrede zu Iran - Krieg : Genug ist genug",
-      "link": "https://www.oz-online.de/artikel/1688954/Guterres-bei-UN-Abschiedsrede-zu-Iran-Krieg-Genug-ist-genug",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Turkish Airlines , AJet and Pegasus Suspend Iran Flights as US Sanctions Bite",
-      "link": "https://www.rustourismnews.com/2026/09/22/turkish-airlines-ajet-and-pegasus-suspend-iran-flights-as-us-sanctions-bite/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "US Diplomatic Security providing additional support for Iranian FM",
-      "link": "http://www.washingtonexaminer.com/news/world/4737165/us-diplomatic-security-additional-support-iran-foreign-minister-threats/",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Generalna debata GS UN u Njujorku ; Tramp zapretio Iranu \u201e uni\u0161tenjem  i najavio izgradnju vojnih baza na Grenlandu",
-      "link": "https://naslovi.net/2026-09-22/rts/generalna-debata-gs-un-u-njujorku-tramp-zapretio-iranu-unistenjem-i-najavio-izgradnju-vojnih-baza-na-grenlandu/42393056",
-      "summary": "",
-      "source": "GDELT: tehran",
-      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
-    },
-    {
-      "title": "Assemblea Onu , il discorso di oggi di Trump , dallIran alle elezioni midterm : cosa ha detto",
-      "link": "https://tg24.sky.it/mondo/2026/09/22/assemblea-onu-discorso-trump",
+      "title": "Trump in address at UN defends his decision to start war against Iran",
+      "link": "https://www.republicanherald.com/2026/09/22/trump-un-general-assembly/",
       "summary": "",
       "source": "GDELT: tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
