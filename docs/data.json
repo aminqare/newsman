@@ -1,10 +1,17 @@
 {
-  "generated_at": "2026-10-04T18:35:21Z",
+  "generated_at": "2026-10-04T23:54:02Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
+        {
+          "title": "US removes all bombers from RAF Fairford base",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+          "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+          "source": "BBC News",
+          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
         {
           "title": "Green Party members back 'Zionism is racism' motion",
           "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
@@ -20,16 +27,9 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-          "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-          "source": "BBC News",
-          "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
-        },
-        {
-          "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-          "summary": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
+          "title": "Polls close in Brazil as Lula and Fl\u00e1vio Bolsonaro remain neck and neck",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+          "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
@@ -47,9 +47,30 @@
       "source_url": "https://feeds.bbci.co.uk/persian/rss.xml",
       "items": [
         {
-          "title": "\u0645\u062d\u0633\u0646 \u067e\u0627\u06a9\u200c\u0646\u0698\u0627\u062f\u060c \u0648\u0632\u06cc\u0631 \u0646\u0641\u062a \u0627\u0633\u062a\u0639\u0641\u0627 \u06a9\u0631\u062f",
-          "link": "https://www.bbc.co.uk/persian/live/c9rkym3gj8vet?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0645\u0647\u062f\u06cc \u0637\u0628\u0627\u0637\u0628\u0627\u06cc\u06cc\u060c \u0645\u0639\u0627\u0648\u0646 \u0627\u0631\u062a\u0628\u0627\u0637\u0627\u062a \u0648 \u0627\u0637\u0644\u0627\u0639\u200c\u0631\u0633\u0627\u0646\u06cc \u062f\u0641\u062a\u0631 \u0645\u0633\u0639\u0648\u062f \u067e\u0632\u0634\u06a9\u06cc\u0627\u0646\u060c \u0627\u0632 \u067e\u0630\u06cc\u0631\u0634 \u0627\u0633\u062a\u0639\u0641\u0627\u06cc \u0645\u062d\u0633\u0646 \u067e\u0627\u06a9\u200c\u0646\u0698\u0627\u062f\u060c \u0648\u0632\u06cc\u0631 \u0646\u0641\u062a\u060c \u062e\u0628\u0631 \u062f\u0627\u062f. \u0628\u0647 \u06af\u0641\u062a\u0647 \u0627\u0648\u060c \u0628\u0627 \u062d\u06a9\u0645 \u0631\u0626\u06cc\u0633 \u062c\u0645\u0647\u0648\u0631 \u062d\u0645\u06cc\u062f \u0628\u0648\u0631\u062f \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 \u0633\u0631\u067e\u0631\u0633\u062a \u0648\u0632\u0627\u0631\u062a \u0646\u0641\u062a \u0645\u0646\u0635\u0648\u0628 \u0634\u062f\u0647 \u0627\u0633\u062a. \u062c\u0646\u06af \u062f\u0631 \u06cc\u0645\u0646 \u0634\u062f\u062a \u06af\u0631\u0641\u062a\u0647 \u0627\u0633\u2026",
+          "title": "\u0622\u0645\u0631\u06cc\u06a9\u0627 \u062a\u0645\u0627\u0645\u06cc \u0628\u0645\u0628\u200c\u0627\u0641\u06a9\u0646\u200c\u0647\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0627\u0632 \u067e\u0627\u06cc\u06af\u0627\u0647 \u0641\u0631\u0641\u0648\u0631\u062f \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062e\u0627\u0631\u062c \u06a9\u0631\u062f",
+          "link": "https://www.bbc.co.uk/persian/live/c64g15wzejldt?at_medium=RSS&at_campaign=rss",
+          "summary": "\u067e\u0646\u062a\u0627\u06af\u0648\u0646 - \u0648\u0632\u0627\u0631\u062a \u062f\u0641\u0627\u0639 \u0622\u0645\u0631\u06cc\u06a9\u0627 - \u062a\u0627\u06cc\u06cc\u062f \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a \u06a9\u0647 \u062a\u0645\u0627\u0645\u06cc \u0628\u0645\u0628\u200c\u0627\u0641\u06a9\u0646\u200c\u0647\u0627\u06cc \u0628\u06cc\u06f1 \u0646\u06cc\u0631\u0648\u06cc \u0647\u0648\u0627\u06cc\u06cc \u0627\u06cc\u0646 \u06a9\u0634\u0648\u0631 \u0628\u0627 \u062a\u0631\u06a9 \u067e\u0627\u06cc\u06af\u0627\u0647 \u0641\u0631\u0641\u0648\u0631\u062f \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u0628\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0628\u0627\u0632\u06af\u0634\u062a\u0647\u200c\u0627\u0646\u062f. \u0631\u0633\u0627\u0646\u0647\u200c\u0647\u0627\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0639\u0644\u062a \u0627\u06cc\u0646 \u0627\u0642\u062f\u0627\u0645 \u0631\u0627 \u00ab\u0639\u0642\u0628\u200c\u0646\u0634\u06cc\u0646\u06cc \u062f\u0631 \u067e\u06cc \u0646\u06af\u0631\u0627\u0646\u06cc\u200c\u0647\u0627\u06cc \u0627\u0645\u0646\u06cc\u062a\u06cc \u062f\u0631 \u0627\u0637\u2026",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0631\u06cc\u0627\u0633\u062a \u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0631\u0632\u06cc\u0644\u061b \u0634\u0645\u0627\u0631\u0634 \u0622\u0631\u0627 \u0622\u063a\u0627\u0632 \u0634\u062f\u060c \u0628\u0648\u0644\u0633\u0646\u0627\u0631\u0648 \u067e\u06cc\u0634\u062a\u0627\u0632 \u0631\u0642\u0627\u0628\u062a \u0628\u0633\u06cc\u0627\u0631 \u0646\u0632\u062f\u06cc\u06a9 \u062f\u0631 \u0645\u0631\u062d\u0644\u0647 \u0627\u0648\u0644",
+          "link": "https://www.bbc.com/persian/articles/c6qxnr4eppv5o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u067e\u0627\u06cc\u0627\u0646 \u0631\u0627\u06cc\u200c\u06af\u06cc\u0631\u06cc \u062f\u0631 \u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0631\u06cc\u0627\u0633\u062a\u200c\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0631\u0632\u06cc\u0644\u061b \u0631\u0642\u0627\u0628\u062a \u0646\u0632\u062f\u06cc\u06a9 \u062f\u0631 \u062f\u0648\u0631 \u0646\u062e\u0633\u062a \u0631\u0627\u06cc\u200c\u06af\u06cc\u0631\u06cc \u062f\u0631 \u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0633\u0631\u0627\u0633\u0631\u06cc \u0628\u0631\u0632\u06cc\u0644 \u067e\u0633 \u0627\u0632 \u0622\u0646 \u0628\u0647 \u067e\u0627\u06cc\u0627\u0646 \u0631\u0633\u06cc\u062f \u06a9\u0647 \u0631\u0627\u06cc\u200c\u062f\u0647\u0646\u062f\u06af\u0627\u0646 \u0628\u0631\u0627\u06cc \u0634\u0631\u06a9\u062a \u062f\u0631 \u062f\u0648\u0631 \u0646\u062e\u0633\u062a \u0631\u0642\u0627\u0628\u062a \u0641\u0634\u0631\u062f\u0647 \u0631\u06cc\u0627\u0633\u062a\u200c\u062c\u0645\u0647\u0648\u0631\u06cc\u060c \u062f\u0631 \u0635\u0641\u200c\u0647\u0627\u06cc \u0637\u0648\u0644\u0627\u0646\u06cc \u0627\u06cc\u0633\u062a\u0627\u062f\u0646\u062f. \u0644\u2026",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u0631\u0627\u0632 \u0628\u0642\u0627\u06cc \u06a9\u0647\u0646\u200c\u062a\u0631\u06cc\u0646 \u062a\u0645\u062f\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627\u061b \u0633\u0627\u0632\u06af\u0627\u0631\u06cc \u0628\u0647 \u062c\u0627\u06cc \u062c\u0646\u06af",
+          "link": "https://www.bbc.com/persian/articles/c3rv1dp1le0o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u0628\u0627\u0633\u062a\u0627\u0646\u200c\u0634\u0646\u0627\u0633\u0627\u0646 \u062f\u0631 \u067e\u0631\u0648 \u0634\u0647\u0631\u06cc \u06f3\u06f8\u06f0\u06f0 \u0633\u0627\u0644\u0647 \u0631\u0627 \u06a9\u0634\u0641 \u06a9\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u062f\u0631\u06a9 \u067e\u0698\u0648\u0647\u0634\u06af\u0631\u0627\u0646 \u0627\u0632 \u062e\u0627\u0633\u062a\u06af\u0627\u0647 \u062a\u0645\u062f\u0646 \u062f\u0631 \u0642\u0627\u0631\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0631\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0647\u062f. \u06cc\u0627\u0641\u062a\u0647\u200c\u0647\u0627\u06cc \u062a\u0627\u0632\u0647 \u0627\u0632 \u0645\u062d\u0648\u0637\u0647 \u00ab\u067e\u0650\u0646\u06cc\u06a9\u0648\u00bb \u0646\u0634\u0627\u0646 \u0645\u06cc\u200c\u062f\u0647\u062f \u0628\u062e\u0634\u06cc \u0627\u0632 \u0645\u0631\u062f\u0645 \u062a\u0645\u062f\u0646 \u06a9\u0627\u0631\u0627\u0644 \u067e\u0633 \u0627\u0632 \u06cc\u06a9 \u0628\u062d\u0631\u0627\u0646 \u0627\u0642\u0644\u06cc\u0645\u06cc \u0637\u0648\u0644\u0627\u0646\u2026",
+          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
+          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
+        },
+        {
+          "title": "\u0631\u0648\u0627\u06cc\u062a \u062c\u0627\u0646 \u0644\u06cc \u0627\u0646\u062f\u0631\u0633\u0648\u0646 \u0627\u0632 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc \u0644\u0627\u062a\u06cc\u0646 \u062f\u0631 \u0639\u0635\u0631 \u062a\u0631\u0627\u0645\u067e: \u00ab\u0648\u0627\u0631\u062f \u062f\u0648\u0631\u0647\u200c\u0627\u06cc \u0634\u0648\u0645 \u0634\u062f\u0647\u200c\u0627\u06cc\u0645\u00bb",
+          "link": "https://www.bbc.com/persian/articles/c9n73ymkk8v3o?at_medium=RSS&at_campaign=rss",
+          "summary": "\u062c\u0627\u0646 \u0644\u06cc \u0627\u0646\u062f\u0631\u0633\u0648\u0646\u060c \u0631\u0648\u0632\u0646\u0627\u0645\u0647\u200c\u0646\u06af\u0627\u0631 \u0648 \u0646\u0648\u06cc\u0633\u0646\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc \u06a9\u0647 \u0686\u0647\u0627\u0631 \u062f\u0647\u0647 \u062a\u062d\u0648\u0644\u0627\u062a \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc \u0644\u0627\u062a\u06cc\u0646 \u0631\u0627 \u0627\u0632 \u0646\u0632\u062f\u06cc\u06a9 \u062f\u0646\u0628\u0627\u0644 \u06a9\u0631\u062f\u0647\u060c \u0645\u06cc\u200c\u06af\u0648\u06cc\u062f \u0627\u06cc\u0646 \u0642\u0627\u0631\u0647 \u0648\u0627\u0631\u062f \u062f\u0648\u0631\u0647\u200c\u0627\u06cc \u00ab\u0634\u0648\u0645\u00bb \u0648 \u067e\u0631\u0627\u0628\u0647\u0627\u0645 \u0634\u062f\u0647 \u0627\u0633\u062a\u061b \u062f\u0648\u0631\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0628\u0647 \u0628\u0627\u0648\u0631 \u0627\u0648 \u062f\u0648\u0646\u0627\u0644\u062f \u062a\u0631\u0627\u0645\u067e \u0628\u06cc\u0634 \u0627\u0632 \u0647\u0631 \u0632\u0645\u0627\u0646 \u062f\u06cc\u06af\u0631\u06cc \u0628\u0631\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         },
@@ -57,27 +78,6 @@
           "title": "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627 \u062f\u0631 \u062d\u0627\u0644 \u0628\u0631\u0631\u0633\u06cc \u0627\u0631\u062a\u0628\u0627\u0637 \u06a9\u0645\u06a9\u200c\u062e\u0644\u0628\u0627\u0646 \u0647\u0648\u0627\u067e\u06cc\u0645\u0627\u06cc \u0641\u0644\u0627\u06cc\u200c\u062f\u0628\u06cc \u0628\u0627 \u0622\u0646 \u06a9\u0634\u0648\u0631 \u0627\u0633\u062a",
           "link": "https://www.bbc.com/persian/articles/ck7vp6dvlez8o?at_medium=RSS&at_campaign=rss",
           "summary": "\u0645\u0642\u0627\u0645\u0627\u062a \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627\u06cc\u06cc \u062f\u0631 \u062d\u0627\u0644 \u0628\u0631\u0631\u0633\u06cc \u0627\u0631\u062a\u0628\u0627\u0637\u0627\u062a \u06a9\u0645\u06a9\u200c\u062e\u0644\u0628\u0627\u0646 \u0647\u0648\u0627\u067e\u06cc\u0645\u0627\u06cc \u0641\u0644\u0627\u06cc\u200c\u062f\u0628\u06cc \u0628\u0627 \u0622\u0646 \u06a9\u0634\u0648\u0631 \u0647\u0633\u062a\u0646\u062f. \u0627\u0648 \u062a\u0644\u0627\u0634 \u06a9\u0631\u062f\u0647 \u0628\u0648\u062f \u06a9\u0646\u062a\u0631\u0644 \u0647\u0648\u0627\u067e\u06cc\u0645\u0627\u06cc \u0627\u0645\u0627\u0631\u0627\u062a\u06cc \u0639\u0627\u0632\u0645 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0631\u0627 \u0628\u0647 \u062f\u0633\u062a \u0628\u06af\u06cc\u0631\u062f. \u06af\u0641\u062a\u0647 \u0645\u06cc\u200c\u0634\u0648\u062f \u06a9\u0647 \u0627\u06cc\u0646 \u06a9\u0645\u06a9\u200c\u062e\u0644\u0628\u0627\u0646 \u062f\u0631 \u062c\u0631\u06cc\u0627\u0646 \u067e\u0631\u0648\u0627\u0632 \u0627\u0632 \u062f\u0648\u0628\u06cc \u0628\u0647 \u062a\u0644\u200c\u0622\u0648\u06cc\u0648\u2026",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u0627\u062a\u0647\u0627\u0645\u200c\u0647\u0627\u06cc \u0645\u0646\u0686\u0633\u062a\u0631 \u0633\u06cc\u062a\u06cc\u061b \u067e\u0648\u0644 \u0628\u0627\u0634\u06af\u0627\u0647 \u06a9\u062c\u0627 \u0633\u0631\u0627\u0632\u06cc\u0631 \u0634\u062f \u0648 \u0686\u0647 \u062a\u0627\u062b\u06cc\u0631\u06cc \u062f\u0631 \u0641\u0648\u062a\u0628\u0627\u0644 \u062c\u0647\u0627\u0646 \u062f\u0627\u0634\u062a\u061f",
-          "link": "https://www.bbc.com/persian/articles/cj040pn12xz0o?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0627\u06cc\u0646 \u0645\u0637\u0644\u0628 \u0646\u06af\u0627\u0647\u06cc \u062f\u0627\u0631\u062f \u0628\u0647 \u0627\u062a\u0647\u0627\u0645\u0627\u062a\u06cc \u06a9\u0647 \u0633\u06cc\u062a\u06cc \u0628\u0627 \u0622\u0646 \u0631\u0648\u0628\u0631\u0648 \u0627\u0633\u062a \u0648 \u0647\u0645\u0686\u0646\u06cc\u0646 \u062a\u0644\u0627\u0634 \u0645\u06cc\u200c\u06a9\u0646\u062f \u0628\u0647 \u0627\u06cc\u0646 \u0633\u0626\u0648\u0627\u0644 \u062c\u0648\u0627\u0628 \u062f\u0647\u062f \u06a9\u0647 \u0686\u0647 \u0628\u0627\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0628\u06cc\u0634\u062a\u0631\u06cc\u0646 \u0646\u0641\u0639 \u0631\u0627 \u0627\u0632 \u0639\u0645\u0644\u06a9\u0631\u062f \u0645\u0646\u0686\u0633\u062a\u0631 \u0633\u06cc\u062a\u06cc \u0628\u0631\u062f\u0647\u200c\u0627\u0646\u062f \u0648 \u0622\u06cc\u0627 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646 \u06af\u0641\u062a \u06a9\u0647 \u0627\u0642\u062f\u0627\u0645\u0627\u062a \u0627\u06cc\u0646 \u0628\u0627\u0634\u06af\u0627\u0647 \u0627\u0646\u06af\u0644\u06cc\u0633\u06cc \u062f\u0631 \u0628\u0639\u0636\u06cc \u062c\u2026",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u0622\u06cc\u0627 \u0645\u0648\u0634\u06a9\u200c\u0647\u0627\u06cc \u0628\u0627\u0644\u0633\u062a\u06cc\u06a9 \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646 \u0628\u0647 \u0645\u0633\u06a9\u0648 \u062e\u0648\u0627\u0647\u0646\u062f \u0631\u0633\u06cc\u062f\u061f",
-          "link": "https://www.bbc.com/persian/articles/cw8d3ddy89p5o?at_medium=RSS&at_campaign=rss",
-          "summary": "\u0648\u0644\u0648\u062f\u06cc\u0645\u06cc\u0631 \u0632\u0644\u0646\u0633\u06a9\u06cc \u0627\u0632 \u0646\u062e\u0633\u062a\u06cc\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0631\u0632\u0645\u06cc \u0645\u0648\u0634\u06a9 \u0628\u0627\u0644\u0633\u062a\u06cc\u06a9 \u062a\u0627\u06a9\u062a\u06cc\u06a9\u06cc \u0627\u0641\u200c\u067e\u06cc-\u06f7 \u062e\u0628\u0631 \u062f\u0627\u062f\u0647 \u0627\u0633\u062a\u060c \u0627\u0645\u0627 \u062a\u0648\u062c\u0647\u200c\u0647\u0627 \u0647\u0645\u0686\u0646\u0627\u0646 \u0628\u0647 \u0645\u0648\u0634\u06a9 \u062f\u0648\u0631\u0628\u0631\u062f \u0627\u0641\u200c\u067e\u06cc-\u06f9 \u062f\u0648\u062e\u062a\u0647 \u0634\u062f\u0647\u061b \u0645\u0648\u0634\u06a9\u06cc \u06a9\u0647 \u0634\u0631\u06a9\u062a \u0627\u0648\u06a9\u0631\u0627\u06cc\u0646\u06cc \u0641\u0627\u06cc\u0631 \u067e\u0648\u06cc\u0646\u062a \u067e\u06cc\u0634\u200c\u062a\u0631 \u0648\u0639\u062f\u0647 \u062f\u0627\u062f\u0647 \u0628\u0648\u062f \u0628\u062a\u0648\u0627\u0646\u062f \u0645\u0633\u06a9\u0648 \u0631\u0627 \u0647\u062f\u0641 \u0642\u0631\u0627\u0631 \u062f\u0647\u062f.\u2026",
-          "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
-          "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
-        },
-        {
-          "title": "\u06af\u0633\u062a\u0631\u0634 \u0646\u0641\u0648\u0630 \u062d\u0648\u062b\u06cc\u200c\u0647\u0627 \u062f\u0631 \u0622\u0641\u0631\u06cc\u0642\u0627\u061b \u0627\u06cc\u0631\u0627\u0646 \u0686\u0647 \u0646\u0642\u0634\u06cc \u062f\u0627\u0631\u062f\u061f",
-          "link": "https://www.bbc.com/persian/articles/c64grg7j897no?at_medium=RSS&at_campaign=rss",
-          "summary": "\u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627\u06cc \u0627\u062e\u06cc\u0631 \u0627\u0632 \u06af\u0633\u062a\u0631\u0634 \u0631\u0648\u0627\u0628\u0637 \u062d\u0648\u062b\u06cc\u200c\u0647\u0627\u06cc \u06cc\u0645\u0646 \u0628\u0627 \u06af\u0631\u0648\u0647\u200c\u0647\u0627\u06cc \u0645\u0633\u0644\u062d \u062f\u0631 \u0634\u0627\u062e \u0622\u0641\u0631\u06cc\u0642\u0627\u060c \u0628\u0627\u0631 \u062f\u06cc\u06af\u0631 \u062a\u0648\u062c\u0647\u200c\u0647\u0627 \u0631\u0627 \u0628\u0647 \u0646\u0642\u0634 \u0627\u06cc\u0631\u0627\u0646 \u062f\u0631 \u0627\u06cc\u0646 \u0645\u0639\u0627\u062f\u0644\u0647 \u062c\u0644\u0628 \u06a9\u0631\u062f\u0647 \u0627\u0633\u062a. \u0647\u0631\u0686\u0646\u062f \u06af\u0632\u0627\u0631\u0634\u200c\u0647\u0627 \u0627\u0632 \u0647\u0645\u06a9\u0627\u0631\u06cc\u200c\u0647\u0627\u06cc \u0631\u0648 \u0628\u0647 \u0631\u0634\u062f \u0645\u06cc\u0627\u0646 \u0627\u0646\u0635\u0627\u0631\u0627\u0644\u0644\u0647 \u0648 \u0628\u0631\u062e\u06cc \u0628\u0627\u0632\u06cc\u06af\u0631\u0627\u0646 \u0645\u0633\u0644\u062d \u062f\u0631 \u0622\u0646 \u0633\u0648\u2026",
           "source": "BBC &#8238;\u0641\u0627\u0631\u0633\u06cc",
           "source_url": "https://feeds.bbci.co.uk/persian/rss.xml"
         }
@@ -141,29 +141,29 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "A Map of Every Lighthouse on the Planet",
-          "link": "https://mapped.earth/lighthouses/world",
+          "title": "\"No Vendor Lock-In\" Is Code for \"No Product\"",
+          "link": "https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Car is a smartphone on wheels. Here's who's listening",
-          "link": "https://automatictransmission.khoury.northeastern.edu/",
+          "title": "Infidel goes wild",
+          "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
-          "link": "https://awesomedataviz.com/",
+          "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "link": "https://github.com/omlahore/RemoveMacAI",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "Tell HN: Bob Cringely has died",
-          "link": "https://news.ycombinator.com/item?id=49949438",
+          "title": "Improper redaction reveals Google Data Center water and electricity usage",
+          "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
-          "title": "Police investigating Flydubai co-pilot\u2019s Australia ties",
-          "link": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
-          "summary": "Australian police and intelligence join the list of those probing the incident.",
+          "title": "Manchester City must be relegated, says Canada\u2019s ex-Leeds manager",
+          "link": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+          "summary": "Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
-          "link": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
-          "summary": "Trilateral talks could happen this month in UAE or another US-proposed venue, says the president.",
+          "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+          "link": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
+          "summary": "Ex-Manchester United and Real Madrid star Cristiano Ronaldo left Portugal squad on Wednesday, but door open for return.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Mass protests demanding poll chief resignation shake India for third day",
-          "link": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
-          "summary": "Protesters say the election commission\u2019s voter-roll revision has removed millions of eligible voters to benefit PM Modi.",
+          "title": "Mysterious luminous object burns in the skies above Libya",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+          "summary": "A mysterious object has been filmed flying over Tripoli and western Libya, followed by reports of a loud explosion.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Germany\u2019s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
-          "summary": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
+          "title": "Man\u2019s miraculous catch saves child after balcony fall in Egypt",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
+          "summary": "Dramatic video shows a man in Egypt rushing and catching a child who fell from the second floor.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         },
         {
-          "title": "Air strike in Sudan kills UN aid truck driver: WFP",
-          "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
-          "summary": "Trucks were 'clearly marked as humanitarian vehicles', UN agency says.",
+          "title": "Nicaragua says it will withdraw from Central American Parliament",
+          "link": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
+          "summary": "The country's crackdown on human rights has left it increasingly isolated in Latin America.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -257,6 +257,20 @@
       "source_url": "https://feeds.npr.org/1001/rss.xml",
       "items": [
         {
+          "title": "Brazil votes, with Lula facing Bolsonaro's son",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+          "summary": "In Brazil, President Lula da Silva faces Fl\u00e1vio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
+          "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+          "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+          "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+          "source": "NPR Topics: News",
+          "source_url": "https://feeds.npr.org/1001/rss.xml"
+        },
+        {
           "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
           "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
           "summary": "Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell's history,\" he added.",
@@ -274,20 +288,6 @@
           "title": "How the Cornell case is affecting women who have experienced sexual assault",
           "link": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
           "summary": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences \u2014 and call for a wider reckoning over sexual violence.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "She died covering war for Fox News. Her parents blame the network \u2014 and a star reporter",
-          "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
-          "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
-          "source": "NPR Topics: News",
-          "source_url": "https://feeds.npr.org/1001/rss.xml"
-        },
-        {
-          "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-          "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-          "summary": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
           "source": "NPR Topics: News",
           "source_url": "https://feeds.npr.org/1001/rss.xml"
         }
