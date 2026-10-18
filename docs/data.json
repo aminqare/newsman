@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-18T20:22:51Z",
+  "generated_at": "2026-10-18T22:55:03Z",
   "sources": [
     {
       "source": "BBC News",
       "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
       "items": [
         {
-          "title": "Macron calls for calm in France and warns rioting must not escalate",
+          "title": "Macron calls for 'calm and order' after riots across France",
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-          "summary": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
+          "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
@@ -34,9 +34,9 @@
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         },
         {
-          "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-          "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
-          "summary": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+          "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
           "source": "BBC News",
           "source_url": "https://feeds.bbci.co.uk/news/rss.xml"
         }
@@ -134,15 +134,15 @@
       "source_url": "https://news.ycombinator.com/rss",
       "items": [
         {
-          "title": "Someone behind the software",
-          "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "link": "https://arxiv.org/abs/2610.18861",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "RepRapMicron",
-          "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+          "title": "Someone behind the software",
+          "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -155,15 +155,15 @@
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "PalmOS Lemmings",
-          "link": "https://github.com/ardiri/palmos-lemmings",
+          "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+          "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
         },
         {
-          "title": "The Intel 8087 chip: floating-point addition and subtraction",
-          "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+          "title": "RepRapMicron",
+          "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
           "summary": "Comments",
           "source": "Hacker News",
           "source_url": "https://news.ycombinator.com/rss"
@@ -175,37 +175,37 @@
       "source_url": "http://www.aljazeera.com/xml/rss/all.xml",
       "items": [
         {
+          "title": "Alberta independence referendum: Will separatists survive a loss?",
+          "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+          "summary": "Alberta\u2019s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
+          "title": "Macron condemns violence after riots lead to looting and mass arrests",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+          "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
+          "title": "Fire engulfs Albania\u2019s Supreme Court as protests enter fifth day",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+          "summary": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
+          "title": "\u2018Anger and shame\u2019: Macron denounces France\u2019s nationwide rioting, looting",
+          "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+          "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
+          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+        },
+        {
           "title": "What\u2019s behind Europe\u2019s youth protests?",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
           "summary": "What's behind Europe's youth protests?",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "India\u2019s crackdown on cockroaches, critics and cameras",
-          "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-          "summary": "A government at war with its critics - from young protesters to the media.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "How will Europe deal with youth-led protests?",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
-          "summary": "Demonstrations are spreading across the continent.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "Clarence Seedorf calls out genocide in first Corinthians press conference",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
-          "summary": "Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world.",
-          "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
-          "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
-        },
-        {
-          "title": "Russia\u2019s war on Ukraine \u2018must be brought to an end\u2019, Zelenskyy says",
-          "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-          "summary": "Ukraine's president says communication between Washington and Kyiv 'virtually nonstop', despite a spat with Trump.",
           "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
           "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
         }
@@ -301,7 +301,358 @@
     {
       "source": "GDELT: Iran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "White House Defends Diesel Export Deal With Russia",
+          "link": "https://1190kex.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "KBS \ub274\uc2a4",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8688568",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u092e\u0926\u0930 \u0911\u092b \u0911\u0932 \u092c\u092e \u0938\u0947 \u0921\u0930\u0928\u0947\u0935\u093e\u0932\u0947 \u0928\u0939\u0940\u0902 , \u0908\u0930\u093e\u0928 \u0915\u0947 \u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0947 \u0926\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 - iran new defense minister issues warning to us we will not be intimidated by america mother of all bombs",
+          "link": "https://www.jagran.com/world/middle-east-iran-new-defense-minister-issues-warning-to-us-we-will-not-be-intimidated-by-america-mother-of-all-bombs-40409573.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide",
+          "link": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u7269\u4fa1\u9ad8 \u3001 \u95a2\u7a0e\u3067\u6c11\u4e3b\u515a\u304c\u653b\u52e2 \u7c73\u6fc0\u6226\u5dde\u5019\u88dc\u3089 \u3001 \u820c\u6226\u904e\u71b1",
+          "link": "http://373news.com/news/national/detail/2026101901000153/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Endorses Netanyahu Ahead Of Israeli Elections",
+          "link": "https://kwhn.iheart.com/content/2026-10-18-trump-endorses-netanyahu-ahead-of-israeli-elections/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0433\u043e\u043b\u043e\u0441\u0430 \u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u044b \u0432 \u0413\u0410 \u041e\u041e\u041d",
+          "link": "https://iz.ru/2185332/vladislav-petrov-anastasiia-kostina/rf-rasschityvaet-na-vozvrat-venesuehle-golosa-v-ga-oon",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Courts Russia as Ukraine Faces a More Uncertain American Partner",
+          "link": "https://finchannel.com/trump-courts-russia-as-ukraine-faces-a-more-uncertain-american-partner/138644/americas/white-house-en/2026/10/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u30a4\u30b9\u30e9\u30a8\u30eb\u9996\u76f8\u306e\u7d9a\u6295 \u300c \u652f\u6301 \u300d \u30c8\u30e9\u30f3\u30d7\u6c0f \u3001 \u7dcf\u9078\u6319\u524d\u306b\u8868\u660e | \u5171\u540c\u901a\u4fe1 \u30cb\u30e5\u30fc\u30b9",
+          "link": "https://www.okinawatimes.co.jp/articles/-/1947450",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+          "link": "https://kfgo.com/2026/10/17/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u751f\u7269\u591a\u6837\u6027\u9886\u5bfc\u4eba\u5cf0\u4f1a\u5411COP17\u63d0\u51fa\u54ea\u4e9b\u8bc9\u6c42",
+          "link": "http://news.china.com.cn/2026-10/19/content_118738696.shtml",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u062a\u0639\u0644\u0646 \u0645\u0642\u062a\u0644 \u0636\u0627\u0628\u0637\u064a\u0646 \u0641\u064a \u062a\u062d\u0637\u0645 \u0645\u0631\u0648\u062d\u064a\u0629 \u0628\u0646\u062c\u0631\u0627\u0646 \u0648\u0627\u0644\u062d\u0648\u062b\u064a\u0648\u0646 \u064a\u062f\u0651\u0639\u0648\u0646 \u0625\u0633\u0642\u0627\u0637\u0647\u0627",
+          "link": "https://akhbarlibya24.net/2026/10/18/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%86%D8%AC%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%B6%D8%A7%D8%A8%D8%B7-%D8%AA%D8%AD%D8%B7%D9%85-%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%A9",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Fransa Cumhurba\u015fkan\u0131 Macrondan protestolara kar\u015f\u0131 yeni yasaklar : Valiler devreye girecek",
+          "link": "https://t24.com.tr/dunya/fransa-cumhurbaskani-macrondan-protestolara-karsi-yeni-yasaklar-valiler-devreye-girecek,1353939",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Tramp podr\u017eao da Netanjahu ostane premijer Izraela",
+          "link": "https://www.danas.rs/svet/tramp-podrzao-da-netanjahu-ostane-premijer-izraela/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0391\u03bd\u03c4\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u0386\u03b9\u03b6\u03b5\u03bd\u03ba\u03bf\u03c4 \u03b3\u03b9\u03b1 \u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03c3\u03b5 \u039d\u03b5\u03c4\u03b1\u03bd\u03b9\u03ac\u03c7\u03bf\u03c5 : \u00ab \u039c\u03cc\u03bd\u03bf \u03bf\u03b9 \u0399\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03bf\u03af \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b5\u03c0\u03b9\u03bb\u03ad\u03b3\u03bf\u03c5\u03bd \u03c4\u03bf\u03bd \u03b7\u03b3\u03ad\u03c4\u03b7 \u03c4\u03bf\u03c5\u03c2 \u00bb",
+          "link": "https://www.lifo.gr/now/world/antidrasi-aizenkot-gia-stirixi-tramp-se-netaniahoy-mono-oi-israilinoi-mporoyn-na",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0130ran Genelkurmay Ba\u015fkan\u0131  ndan Trumpa : ABD Ba\u015fkan\u0131 art\u0131k ya\u015fland\u0131 , yerinden kalkacak durumda de\u011fil",
+          "link": "https://t24.com.tr/dunya/iran-genelkurmay-baskanindan-trumpa-abd-baskani-artik-yaslandi-yerinden-kalkacak-durumda-degil,1353933",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Arnavutlukta protestolar kontrolden \u00e7\u0131kt\u0131 : Ba\u015fbakanl\u0131k binas\u0131na dronlu sald\u0131r\u0131 giri\u015fimi",
+          "link": "https://www.f5haber.com/dunya/arnavutlukta-protestolar-kontrolden-cikti-basbakanlik-binasina-dronlu-saldiri-girisimi-6989837",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05de\u05d3\u05d9\u05e0\u05d4 \u05e2\u05e6\u05de\u05d0\u05d9\u05ea : \u05db\u05e9\u05e0\u05e9\u05d9\u05d0 \u05d0\u05e8\u05d4  \u05d1 \u05d4\u05ea\u05e2\u05e8\u05d1 \u05e0\u05d2\u05d3 \u05e0\u05ea\u05e0\u05d9\u05d4\u05d5",
+          "link": "https://www.ynet.co.il/news/elections2026/article/sktwbtm3zx",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u05e9\u05d9\u05e0\u05d5\u05d9 \u05d4\u05db\u05d9\u05d5\u05d5\u05df \u05e9\u05dc \u05d8\u05e8\u05d0\u05de\u05e4 \u2013 \u05d5\u05d4\u05d7\u05e9\u05e9 \u05de\u05e2\u05ea\u05d9\u05d3 \u05d4\u05d9\u05d7\u05e1\u05d9\u05dd \u05e2\u05dd \u05d0\u05e8\u05d4  \u05d1",
+          "link": "https://www.ynet.co.il/news/elections2026/article/hkdoxkf3ge",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0399\u03c1\u03ac\u03bd : \u039d\u03ad\u03bf\u03c2 \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0386\u03bc\u03c5\u03bd\u03b1\u03c2 \u03bf \u039c\u03b5\u03c7\u03c1\u03bd\u03c4\u03ac\u03bd\u03c4 \u0391\u03c7\u03bb\u03b1\u03b3\u03af \u03bc\u03b5 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u039a\u03bf\u03b9\u03bd\u03bf\u03b2\u03bf\u03c5\u03bb\u03af\u03bf\u03c5",
+          "link": "https://www.sofokleousin.gr/epikairotita/diethni/iran-neos-ypourgos-amynas-o-mexrntant-axlagi-me-egkrisi-tou-koino",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Endorses Netanyahu Ahead Of Israeli Elections",
+          "link": "https://1430kasi.iheart.com/content/2026-10-18-trump-endorses-netanyahu-ahead-of-israeli-elections/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "GPW liderem rynk\u00f3w akcji",
+          "link": "https://www.parkiet.com/felietony/art45353801-gpw-liderem-rynkow-akcji",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump endorses Netanyahu for re - election as Israeli PM",
+          "link": "http://www.bignewsnetwork.com/news/279383373/trump-endorses-netanyahu-for-re-election-as-israeli-pm",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u039d\u03ad\u03bf \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1 \u039d\u03b5\u03c4\u03b1\u03bd\u03b9\u03ac\u03c7\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c2 \u03a4\u03c1\u03b1\u03bc\u03c0 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7 \u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 : \u039f\u03b9 \u0397\u03a0\u0391 , \u03c4\u03bf \u0399\u03c3\u03c1\u03b1\u03ae\u03bb \u03ba\u03b1\u03b9 \u03bf\u03b9 \u0395\u03b2\u03c1\u03b1\u03af\u03bf\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03c5\u03c7\u03b5\u03c1\u03bf\u03af \u03c0\u03bf\u03c5 \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c3\u03c4\u03b5 \u03c3\u03c4\u03bf \u03b1\u03be\u03af\u03c9\u03bc\u03b1",
+          "link": "https://www.naftemporiki.gr/kosmos/2176705/neo-minyma-netaniachoy-pros-tramp-meta-ti-stirixi-oi-ipa-to-israil-kai-oi-evraioi-einai-tycheroi-poy-vriskeste-sto-axioma/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump endorses Netanyahu ahead of Israel election , warns U . S . could face Iran alone",
+          "link": "https://abc7amarillo.com/news/nation-world/trump-endorses-netanyahu-ahead-of-israel-election-warns-us-could-face-iran-alone",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump endorses Netanyahu in Israeli election",
+          "link": "https://www.irishtimes.com/world/middle-east/2026/10/18/trump-endorses-netanyahu-in-israeli-election/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a3\u03ba\u03bb\u03b7\u03c1\u03ae \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 Ghalibaf \u03c3\u03c4\u03b9\u03c2 \u03b5\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b5\u03c2 AI : \u00ab \u039f\u03cd\u03c4\u03b5 \u03ad\u03bd\u03b1 \u03b4\u03bf\u03bb\u03ac\u03c1\u03b9\u03bf \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03bf\u03c5\u03bd \u03c3\u03c4\u03b7 \u03b4\u03bf\u03bb\u03bf\u03c6\u03bf\u03bd\u03af\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd \u00bb",
+          "link": "https://www.bankingnews.gr/diethni/articles/905844/skliri-proeidopoiisi-ghalibaf-stis-etaireies-ai-oyte-ena-dolario-se-osous-symmetexoun-sti-dolofonia-paidion",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "White House Defends Diesel Export Deal With Russia",
+          "link": "https://khvhradio.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "High oil prices fuel renewed inflation fears",
+          "link": "https://www.crikey.com.au/2026/10/19/economy-oil-prices-inflation-rba-interest-rates-trump-ukraine-zelenskyy/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0645\u062d\u0645\u0648\u062f \u0645\u0633\u0644\u0645 : \u0627\u0644\u0628\u0631\u0644\u0645\u0627\u0646 \u064a\u062a\u062c\u0647 \u0644\u0644\u0645\u0648\u0627\u0641\u0642\u0629 \u0639\u0644\u0649 \u0625\u0631\u0633\u0627\u0644 \u0642\u0648\u0627\u062a \u0645\u0635\u0631\u064a\u0629 \u0644\u0644\u062f\u0641\u0627\u0639 \u0639\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0625\u0630\u0627 \u0637\u0644\u0628\u062a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u062f\u0639\u0645",
+          "link": "https://www.shorouknews.com/news/view.aspx?cdate=18102026&id=aa371ac0-2ca1-4f31-9d19-973280b4fb75",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Axios : Trump breaks precedent with Netanyahu endorsement ahead of Israel elections",
+          "link": "https://www.israelnationalnews.com/news/434797",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump endorses Netanyahu ahead of Israel election , warns U . S . could face Iran alone",
+          "link": "https://fox11online.com/news/nation-world/trump-endorses-netanyahu-ahead-of-israel-election-warns-us-could-face-iran-alone",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "White House Defends Diesel Export Deal With Russia",
+          "link": "https://1430kasi.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Endorses Netanyahu Ahead Of Israeli Elections",
+          "link": "https://khvhradio.iheart.com/content/2026-10-18-trump-endorses-netanyahu-ahead-of-israeli-elections/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "White House Defends Diesel Export Deal With Russia",
+          "link": "https://wmrn.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Premio : Rosa Mar\u00eda Pay\u00e1 recibe en Madrid el Premio FAES de la Libertad",
+          "link": "https://www.14ymedio.com/internacional/rosa-maria-paya-recibe-madrid_1_1132061.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0628\u0639\u062f \u00ab \u0625\u0639\u0644\u0627\u0646 \u0628\u063a\u062f\u0627\u062f \u00bb \u0627\u0644\u0639\u0631\u0627\u0642 \u064a\u062a\u062d\u0631\u0643 \u0644\u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0627\u062c\u062a\u0645\u0627\u0639 \u0628\u064a\u0646 \u0625\u064a\u0631\u0627\u0646 \u0648\u062f\u0648\u0644 \u0627\u0644\u062e\u0644\u064a\u062c",
+          "link": "https://almadapaper.net/457288/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Endorses Netanyahu Ahead Of Israeli Elections",
+          "link": "https://1190talkradio.iheart.com/content/2026-10-18-trump-endorses-netanyahu-ahead-of-israeli-elections/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Endorses Netanyahu Ahead Of Israeli Elections | NewsTalk WMEQ",
+          "link": "https://wmeq.iheart.com/content/2026-10-18-trump-endorses-netanyahu-ahead-of-israeli-elections/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041d\u043e\u0432\u0438 \u043d\u0430\u043f\u0430\u0434\u0438 \u0443 \u0421\u0430\u0443\u0434\u0438\u0458\u0441\u043a\u043e\u0458 \u0410\u0440\u0430\u0431\u0438\u0458\u0438 : \u043f\u0430\u043e \u043f\u0440\u043e\u0458\u0435\u043a\u0442\u0438\u043b , \u0440\u0430\u045a\u0435\u043d\u043e \u0448\u0435\u0441\u0442 \u043e\u0441\u043e\u0431\u0430",
+          "link": "https://www.politika.rs/scc/clanak/794754/novi-napadi-u-saudijskoj-arabiji-pao-projektil-ranjeno-sest-osoba",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Macron insta a los prefectos a  prohibir ciertas reuniones  tras la  violencia desenfrenada  del s\u00e1bado",
+          "link": "https://www.europapress.es/internacional/noticia-macron-insta-prefectos-prohibir-ciertas-reuniones-violencia-desenfrenada-sabado-20261018203206.html",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Endorses Netanyahu Ahead Of Israeli Elections",
+          "link": "https://newsradio1470.iheart.com/content/2026-10-18-trump-endorses-netanyahu-ahead-of-israeli-elections/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Netanyahu se\u00e7im \u00f6ncesi yeni doktrinini a\u00e7\u0131klad\u0131 : Hedefi  \u0130ran rejimini devirmek",
+          "link": "https://www.birgun.net/haber/netanyahu-secim-oncesi-yeni-doktrinini-acikladi-hedefi-iran-rejimini-devirmek-741087",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0130ran D\u0131\u015fi\u015fleri Bakan\u0131 Arak\u00e7i , Pakistanl\u0131 mevkida\u015f\u0131 Dar ile g\u00f6r\u00fc\u015ft\u00fc",
+          "link": "https://www.malatyaguncel.com/iran-disisleri-bakani-arakci-pakistanli-mevkidasi-3117618h.htm",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump endorses Netanyahu for reelection",
+          "link": "https://www.vindy.com/news/latest-news/2026/10/trump-endorses-netanyahu-for-president/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "White House Defends Diesel Export Deal With Russia",
+          "link": "https://1190talkradio.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "White House Defends Diesel Export Deal With Russia",
+          "link": "https://newsradio1470.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Analysis : Trump says he a great dealmaker . His record says otherwise \u2013 Twin Cities",
+          "link": "https://www.twincities.com/2026/10/18/analysis-trump-says-hes-a-great-dealmaker-his-record-says-otherwise/",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a1\u03c9\u03c3\u03af\u03b1 \u2013 \u0399\u03c1\u03ac\u03bd : \u03a3\u03c4\u03bf \u03b5\u03c0\u03af\u03ba\u03b5\u03bd\u03c4\u03c1\u03bf \u03c4\u03c9\u03bd \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03b9\u03ce\u03bd Lavrov \u2013 Araghchi \u03b5\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03b9\u03c2 , \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03c6\u03bf\u03c1\u03ad\u03c2",
+          "link": "https://www.bankingnews.gr/diethni/articles/905846/rosia-iran-sto-epikentro-ton-synomilion-lavrov-araghchi-ependyseis-energeia-kai-metafores",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0422\u0443\u0440\u0435\u0447\u0447\u0438\u043d\u0430 \u043e\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0442\u0438\u043c\u0435 \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0434\u0438\u0437\u0435\u043b\u044c \u0443 \u043c\u0435\u0436\u0430\u0445 \u0434\u043e\u043c\u043e\u0432\u043b\u0435\u043d\u043e\u0441\u0442\u0435\u0439 \u0456\u0437 \u0422\u0440\u0430\u043c\u043f\u043e\u043c",
+          "link": "https://wz.lviv.ua/news/560453-turechchyna-otrymuvatyme-rosiiskyi-dyzel-u-mezhakh-domovlenostei-iz-trampom",
+          "summary": "",
+          "source": "GDELT: Iran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: tehran",
@@ -311,7 +662,358 @@
     {
       "source": "GDELT: Tehran",
       "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc",
-      "items": []
+      "items": [
+        {
+          "title": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u092e\u0926\u0930 \u0911\u092b \u0911\u0932 \u092c\u092e \u0938\u0947 \u0921\u0930\u0928\u0947\u0935\u093e\u0932\u0947 \u0928\u0939\u0940\u0902 , \u0908\u0930\u093e\u0928 \u0915\u0947 \u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0947 \u0926\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 - iran new defense minister issues warning to us we will not be intimidated by america mother of all bombs",
+          "link": "https://www.jagran.com/world/middle-east-iran-new-defense-minister-issues-warning-to-us-we-will-not-be-intimidated-by-america-mother-of-all-bombs-40409573.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide",
+          "link": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0399\u03c1\u03ac\u03bd : \u039d\u03ad\u03bf\u03c2 \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0386\u03bc\u03c5\u03bd\u03b1\u03c2 \u03bf \u039c\u03b5\u03c7\u03c1\u03bd\u03c4\u03ac\u03bd\u03c4 \u0391\u03c7\u03bb\u03b1\u03b3\u03af \u03bc\u03b5 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u039a\u03bf\u03b9\u03bd\u03bf\u03b2\u03bf\u03c5\u03bb\u03af\u03bf\u03c5",
+          "link": "https://www.sofokleousin.gr/epikairotita/diethni/iran-neos-ypourgos-amynas-o-mexrntant-axlagi-me-egkrisi-tou-koino",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Premio : Rosa Mar\u00eda Pay\u00e1 recibe en Madrid el Premio FAES de la Libertad",
+          "link": "https://www.14ymedio.com/internacional/rosa-maria-paya-recibe-madrid_1_1132061.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Sudan : Drohnenangriffe versch\u00e4rfen humanit\u00e4re Krise",
+          "link": "https://www.dw.com/de/sudan-klimawandel-flucht-hunger/a-79682596",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Analysis : Trump says he a great dealmaker . His record says otherwise \u2013 Twin Cities",
+          "link": "https://www.twincities.com/2026/10/18/analysis-trump-says-hes-a-great-dealmaker-his-record-says-otherwise/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a1\u03c9\u03c3\u03af\u03b1 \u2013 \u0399\u03c1\u03ac\u03bd : \u03a3\u03c4\u03bf \u03b5\u03c0\u03af\u03ba\u03b5\u03bd\u03c4\u03c1\u03bf \u03c4\u03c9\u03bd \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03b9\u03ce\u03bd Lavrov \u2013 Araghchi \u03b5\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03b9\u03c2 , \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03c6\u03bf\u03c1\u03ad\u03c2",
+          "link": "https://www.bankingnews.gr/diethni/articles/905846/rosia-iran-sto-epikentro-ton-synomilion-lavrov-araghchi-ependyseis-energeia-kai-metafores",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "KEVIN MAGUIRE :  Farage bad apple defence of Reform doesnt wash and his poisonous party is slipping in polls",
+          "link": "https://www.mirror.co.uk/news/politics/nigel-farage-reform-polls-politics-37785259",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0642\u0627\u0626\u062f \u0627\u0644\u062c\u064a\u0634 \u0627\u0644\u0628\u0627\u0643\u0633\u062a\u0627\u0646\u064a \u064a\u0632\u0648\u0631 \u0625\u064a\u0631\u0627\u0646 \u0627\u0644\u0623\u0633\u0628\u0648\u0639 \u0627\u0644\u062c\u0627\u0631\u064a",
+          "link": "https://www.vetogate.com/5753030",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Egypt on brink of joining Saudi - Houthi conflict",
+          "link": "https://morningstaronline.co.uk/article/egypt-brink-joining-saudi-houthi-conflict",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0635\u0639\u064a\u062f \u0637\u0647\u0631\u0627\u0646 \u064a\u062d\u0631\u062c \u0645\u0648\u0633\u0643\u0648 .. \u062f\u0648\u0644 \u0627\u0644\u062e\u0644\u064a\u062c \u062a\u0637\u0627\u0644\u0628 \u0628\u062f\u0648\u0631 \u0631\u0648\u0633\u064a \u0641\u0627\u0639\u0644",
+          "link": "https://www.newsyemen.net/news106460.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0627\u0644\u0633\u064a\u0627\u0633\u064a \u064a\u062a\u062c\u0627\u0647\u0644 \u0625\u064a\u0631\u0627\u0646 \u0641\u064a \u0627\u0644\u064a\u0645\u0646 \u2026",
+          "link": "https://www.newsyemen.net/opinions/20261018-7e5e1d",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u064a\u0639\u0644\u0646 \u0625\u0642\u0627\u0645\u0629 \u0645\u0646\u0627\u0637\u0642 \u0639\u0627\u0632\u0644\u0629 \u0639\u0644\u0649 \u062d\u062f\u0648\u062f \u0627\u0644\u0623\u0631\u062f\u0646 \u0648\u0645\u0635\u0631 \u0648\u0644\u0628\u0646\u0627\u0646",
+          "link": "https://alquds.com/ar/posts/262810",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0631\u0645\u0628 \u064a\u062a\u062f\u062e\u0644 \u0641\u064a \u0627\u0644\u0627\u0646\u062a\u062e\u0627\u0628\u0627\u062a \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0648\u064a\u062f\u0639\u0645 \u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u0644\u0648\u0644\u0627\u064a\u0629 \u0633\u0627\u0628\u0639\u0629 \u0645\u062d\u0630\u0631\u0627 \u0645\u0646 \u0627\u062e\u062a\u064a\u0627\u0631 \u0645\u0646\u0627\u0641\u0633\u064a\u0647",
+          "link": "https://alquds.com/ar/posts/262797",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u062d\u0631\u0643\u0627\u062a \u0631\u0648\u0633\u064a\u0629 \u0639\u0631\u0627\u0642\u064a\u0629 \u0644\u062d\u0644 \u0623\u0632\u0645\u0629 \u0625\u064a\u0631\u0627\u0646 \u0648\u0623\u0645\u0646 \u0627\u0644\u062e\u0644\u064a\u062c",
+          "link": "https://alquds.com/ar/posts/262798",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Gives Netanyahu  Complete and Total Endorsement  Nine Days Before Israeli Election",
+          "link": "https://www.algemeiner.com/2026/10/18/trump-gives-netanyahu-complete-total-endorsement-nine-days-before-israeli-election/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u0628\u0631\u0644\u0645\u0627\u0646 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a \u064a\u0635\u0627\u062f\u0642 \u0639\u0644\u0649 \u062a\u0648\u0644\u064a \u0645\u0647\u0631\u062f\u0627\u062f \u0623\u062e\u0644\u0627\u0642\u064a \u062d\u0642\u064a\u0628\u0629 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629",
+          "link": "https://mustaqila.com/%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B5%D8%A7%D8%AF%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%84%D9%8A-%D9%85%D9%87%D8%B1%D8%AF/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u062e\u0644\u064a\u062c \u064a\u0633\u062a\u0646\u0641\u0631 \u0636\u062f \u0627\u0644\u062d\u0648\u062b\u064a\u064a\u0646 .. \u062f\u0639\u0648\u0629 \u0644\u062a\u0635\u0646\u064a\u0641\u0647\u0645 \u0625\u0631\u0647\u0627\u0628\u064a\u064a\u0646 \u0648\u0648\u0642\u0641 \u062a\u0633\u0644\u064a\u062d\u0647\u0645",
+          "link": "https://www.newsyemen.net/news106463.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0639\u064a\u064a\u0646 \u0645\u0647\u0631\u062f\u0627\u062f \u0623\u062e\u0644\u0627\u0642\u064a \u0648\u0632\u064a\u0631\u0627 \u0644\u0644\u062f\u0641\u0627\u0639 \u0641\u064a \u0625\u064a\u0631\u0627\u0646 : \u0627\u0644\u062f\u0644\u0627\u0644\u0627\u062a \u0648\u0627\u0644\u0645\u0647\u0627\u0645",
+          "link": "https://alquds.com/ar/posts/262801",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Off the Record : Trump accusa Zelensky per coprire i suoi errori in settimana tesa per Ucraina",
+          "link": "https://it.euronews.com/2026/10/18/off-the-record-trump-accusa-zelensky-per-coprire-i-suoi-errori-in-settimana-tesa-per-ucrai",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Oman Stayed Neutral . Its Ports Couldnt .",
+          "link": "https://www.moroccoworldnews.com/2026/10/342759/oman-stayed-neutral-its-ports-couldnt/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Elezioni in Israele , Trump sostiene Netanyahu :  E  diventato pi\u00f9 forte  \u2013 Padovanews",
+          "link": "https://www.padovanews.it/2026/10/18/elezioni-in-israele-trump-sostiene-netanyahu-e-diventato-piu-forte/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Leo Dautzenberg : Iran Regime Intensifies Political Executions to Prevent Another Uprising",
+          "link": "https://irannewsupdate.com/news/iranian-opposition/leo-dautzenberg-irans-regime-intensifies-political-executions-to-prevent-another-uprising/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump Endorses Netanyahu for Reelection Amid Political Challenges",
+          "link": "https://www.moroccoworldnews.com/2026/10/342775/trump-endorses-netanyahu-for-reelection-amid-political-challenges/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u03a4\u03c1\u03b1\u03bc\u03c0 : \u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03ae \u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 \u03c3\u03c4\u03bf\u03bd \u039d\u03b5\u03c4\u03b1\u03bd\u03b9\u03ac\u03c7\u03bf\u03c5 \u03b5\u03bd\u03cc\u03c8\u03b5\u03b9 \u03c4\u03c9\u03bd \u03b9\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03ce\u03bd \u03b5\u03ba\u03bb\u03bf\u03b3\u03ce\u03bd",
+          "link": "https://www.tribune.gr/world/news/article/957881/tramp-anoichti-stirixi-ston-netaniachoy-enopsei-ton-israilinon-eklogon.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran Proposes Seven - Day Plan to Reopen Strait of Hormuz , Conditional on US Compliance",
+          "link": "https://openthemagazine.com/world/iran-proposes-seven-day-plan-offers-conditional-hormuz-reopening-on-day-six",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u062a\u0631\u0627\u0645\u0628 \u064a\u0644\u0648\u062d \u0628\u0636\u0631\u0628\u0627\u062a \u062c\u062f\u064a\u062f\u0629 \u0636\u062f \u0625\u064a\u0631\u0627\u0646 \u0648\u064a\u0624\u0643\u062f \u062f\u0639\u0645\u0647 \u0644\u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u060c \u0648\u0637\u0647\u0631\u0627\u0646 \u062a\u062d\u0630\u0631 \u0645\u0646 \u062e\u0637\u0629  \u0623\u0634\u062f \u062a\u062f\u0645\u064a\u0631\u0627\u064b",
+          "link": "https://pnn.ps/news/729095",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Russia Lavrov to visit Tehran on Monday , Iran says",
+          "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russias-lavrov-visit-tehran-monday-iran-says",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump spricht Wahlempfehlung f\u00fcr Netanjahu aus",
+          "link": "https://www.abendzeitung-muenchen.de/politik/trump-spricht-wahlempfehlung-fuer-netanjahu-aus-art-1166633",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0434\u0438\u0430\u043b\u043e\u0433 \u0432 \u041c\u0430\u043d\u0430\u043c\u0435 : \u043a\u0430\u043a \u0420\u043e\u0441\u0441\u0438\u044f \u0432\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u0442 \u043d\u043e\u0432\u0443\u044e \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u043d\u0430 \u0411\u043b\u0438\u0436\u043d\u0435\u043c \u0412\u043e\u0441\u0442\u043e\u043a\u0435 | \u041c\u043e\u0441\u043a\u0432\u0430",
+          "link": "https://fedpress.ru/article/3456376",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Lavrov , Araghchi to Discuss Trade , Economic , Investment Cooperation",
+          "link": "https://sputnikglobe.com/20261018/lavrov-araghchi-to-discuss-trade-economic-investment-cooperation-1124899103.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Nuevo ministro de Defensa de Ir\u00e1n amenaza con  da\u00f1os enormes  si EU ataca Teher\u00e1n",
+          "link": "https://www.excelsior.com.mx/internacional/nuevo-ministro-defensa-iran-amenaza-con-danos-enormes-si-eu-ataca-teheran",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "La regista di Teheran :  Il dilemma dellIran , contrari al regime ma anche alla guerra di Trump",
+          "link": "https://www.lastampa.it/esteri/2026/10/18/news/la_regista_di_teheran_il_dilemma_dell_iran_contrari_al_regime_ma_anche_alla_guerra_di_trump-15770194/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "DRAMATI\u010cNO UPOZORENJE IZ TEHERANA :  Prst nam je na okida\u010du , spremni smo za borbu protiv cionista !",
+          "link": "https://www.slobodna-bosna.ba/vijest/510891/dramatichno_upozorenje_iz_teherana_prst_nam_je_na_okidachu_spremni_smo_za_borbu_protiv_cionista.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "How Trump endorsement of Netanyahu could change Israel electoral map",
+          "link": "https://www.jns.org/analysis/how-trumps-endorsement-of-netanyahu-could-change-israels-electoral-map",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Arak\u010di : Predlog Teherana o planu za ponovno otvaranje Ormuskog moreuza i dalje na stolu",
+          "link": "https://naslovi.net/2026-10-18/insajder/arakci-predlog-teherana-o-planu-za-ponovno-otvaranje-ormuskog-moreuza-i-dalje-na-stolu/42501375",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump wades into Israel election to back ally Netanyahu",
+          "link": "https://www.salon.com/2026/10/18/trump-wades-into-israels-election-to-back-ally-netanyahu/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Iran says its seven - day plan to reopen Hormuz Strait still on table",
+          "link": "https://www.prokerala.com/news/articles/a1826100.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u062e\u0644\u064a\u062c\u064a \u064a\u0624\u0643\u062f \u062f\u0639\u0645 \u0633\u064a\u0627\u062f\u0629 \u0627\u0644\u064a\u0645\u0646 \u0648\u0648\u062d\u062f\u062a\u0647 \u0648\u064a\u062f\u0639\u0648 \u0644\u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u062d\u0648\u062b\u064a\u064a\u0646  \u062c\u0645\u0627\u0639\u0629 \u0625\u0631\u0647\u0627\u0628\u064a\u0629",
+          "link": "https://www.alsahwa-yemen.net/p-96377",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Shtetet e Gjirit mb\u00ebshtesin Arabin\u00eb Saudite dhe k\u00ebrkojn\u00eb dialog p\u00ebr tensionet SHBA \u2013 Iran",
+          "link": "https://24-ore.com/shtetet-e-gjirit-mbeshtesin-arabine-saudite-dhe-kerkojne-dialog-per-tensionet-shba-iran/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Vor den Wahlen in Israel : Trump spricht Wahlempfehlung f\u00fcr Netanjahu aus",
+          "link": "https://www.stuttgarter-zeitung.de/politik/vor-den-wahlen-in-israel-trump-spricht-wahlempfehlung-fuer-netanjahu-aus-79584101.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Angespanntes Verh\u00e4ltnis : Trump spricht Wahlempfehlung f\u00fcr Netanjahu aus - Politik",
+          "link": "https://www.rnz.de/politik/nachrichten_artikel,-Angespanntes-Verhaeltnis-Trump-spricht-Wahlempfehlung-fuer-Netanjahu-aus-_arid,2458311.html",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump spricht Wahlempfehlung f\u00fcr Netanjahu aus",
+          "link": "https://www.weser-kurier.de/politik/ausland/trump-spricht-wahlempfehlung-fuer-netanjahu-aus-doc8832zj5zq52fwxkvdy",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "That one time the US Navy torpedoed FDR",
+          "link": "https://www.militarytimes.com/off-duty/military-culture/2022/10/12/that-one-time-the-us-navy-torpedoed-fdr/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u041b\u0430\u0432\u0440\u043e\u0432 : \u0411\u043b\u0438\u0437\u043a\u0438\u044f\u0442 \u0438\u0437\u0442\u043e\u043a \u0435 \u043d\u0430 \u0440\u044a\u0431\u0430 \u043d\u0430 \u0433\u043e\u043b\u044f\u043c\u0430 \u0432\u043e\u0439\u043d\u0430",
+          "link": "https://fakti.bg/world/1091372-lavrov-blizkiat-iztok-e-na-raba-na-golama-voina",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump spricht Wahlempfehlung f\u00fcr Netanjahu aus",
+          "link": "https://web.de/magazine/politik/us-politik/trump-spricht-wahlempfehlung-netanjahu-42849186",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u0418\u0440\u0430\u043d \u0441\u0435 \u0437\u0430\u043a\u0430\u043d\u0438 \u0441\u043e \u043d\u043e\u0432 \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u043f\u043b\u0430\u043d \u0437\u0430 \u0421\u0410\u0414 \u0438 \u0418\u0437\u0440\u0430\u0435\u043b : \u201e \u040c\u0435 \u0433\u0438 \u043e\u0434\u043d\u0435\u0441\u0435\u043c\u0435 \u043d\u0430 \u043d\u0435\u043f\u043e\u0437\u043d\u0430\u0442 \u0442\u0435\u0440\u0435\u043d",
+          "link": "https://makfax.com.mk/svet/iran-se-zakani-so-nov-operativen-plan-za-sad-i-izrael-ke-gi-odneseme-na-nepoznat-teren/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "AS Tinggalkan Selat Hormuz , Harga BBM di Amerika Serikat Terancam Naik Tiga Kali Lipat",
+          "link": "https://koran-jakarta.com/2026-10-19/as-tinggalkan-selat-hormuz-harga-bbm-di-amerika-serikat-terancam-naik-tiga-kali-lipat",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "\u039d\u03b5\u03c4\u03b1\u03bd\u03b9\u03ac\u03c7\u03bf\u03c5 \u03c3\u03b5 \u03a4\u03c1\u03b1\u03bc\u03c0 : \u00ab \u039c\u03b1\u03b6\u03af \u03b8\u03b1 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03ce\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae \u03bc\u03b1\u03c2 \u00bb \u2013 \u0395\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03af\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 \u03b5\u03bd\u03cc\u03c8\u03b5\u03b9 \u03c4\u03c9\u03bd \u03b5\u03ba\u03bb\u03bf\u03b3\u03ce\u03bd \u03c3\u03c4\u03bf \u0399\u03c3\u03c1\u03b1\u03ae\u03bb",
+          "link": "https://newpost.gr/eidiseis/netaniachoy-se-tramp-mazi-tha-oloklirosoyme-tin-apostoli-mas-eycharisties-gia-ti-stirixi-enopsei-ton-eklogon-sto-israil/",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        },
+        {
+          "title": "Trump endorses Netanyahu for re - election , warns US could",
+          "link": "http://www.middleeaststar.com/news/279383178/trump-endorses-netanyahu-for-re-election-warns-us-could-finish-the-job-against-iran",
+          "summary": "",
+          "source": "GDELT: Tehran",
+          "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+        }
+      ]
     },
     {
       "source": "GDELT: \u0627\u06cc\u0631\u0627\u0646\u060c\u062a\u0647\u0631\u0627\u0646",
@@ -319,6 +1021,84 @@
       "items": []
     }
   ],
-  "iran": [],
+  "iran": [
+    {
+      "title": "Fire engulfs Albania\u2019s Supreme Court as protests enter fifth day",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+      "summary": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+      "source": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
+      "source_url": "http://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "title": "\u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u092e\u0926\u0930 \u0911\u092b \u0911\u0932 \u092c\u092e \u0938\u0947 \u0921\u0930\u0928\u0947\u0935\u093e\u0932\u0947 \u0928\u0939\u0940\u0902 , \u0908\u0930\u093e\u0928 \u0915\u0947 \u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0947 \u0926\u0940 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 - iran new defense minister issues warning to us we will not be intimidated by america mother of all bombs",
+      "link": "https://www.jagran.com/world/middle-east-iran-new-defense-minister-issues-warning-to-us-we-will-not-be-intimidated-by-america-mother-of-all-bombs-40409573.html",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide",
+      "link": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump endorses Netanyahu ahead of Israel election , warns U . S . could face Iran alone",
+      "link": "https://abc7amarillo.com/news/nation-world/trump-endorses-netanyahu-ahead-of-israel-election-warns-us-could-face-iran-alone",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Trump endorses Netanyahu ahead of Israel election , warns U . S . could face Iran alone",
+      "link": "https://fox11online.com/news/nation-world/trump-endorses-netanyahu-ahead-of-israel-election-warns-us-could-face-iran-alone",
+      "summary": "",
+      "source": "GDELT: Iran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Iran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Leo Dautzenberg : Iran Regime Intensifies Political Executions to Prevent Another Uprising",
+      "link": "https://irannewsupdate.com/news/iranian-opposition/leo-dautzenberg-irans-regime-intensifies-political-executions-to-prevent-another-uprising/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran Proposes Seven - Day Plan to Reopen Strait of Hormuz , Conditional on US Compliance",
+      "link": "https://openthemagazine.com/world/iran-proposes-seven-day-plan-offers-conditional-hormuz-reopening-on-day-six",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Russia Lavrov to visit Tehran on Monday , Iran says",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/russias-lavrov-visit-tehran-monday-iran-says",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "La regista di Teheran :  Il dilemma dellIran , contrari al regime ma anche alla guerra di Trump",
+      "link": "https://www.lastampa.it/esteri/2026/10/18/news/la_regista_di_teheran_il_dilemma_dell_iran_contrari_al_regime_ma_anche_alla_guerra_di_trump-15770194/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Iran says its seven - day plan to reopen Hormuz Strait still on table",
+      "link": "https://www.prokerala.com/news/articles/a1826100.html",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    },
+    {
+      "title": "Shtetet e Gjirit mb\u00ebshtesin Arabin\u00eb Saudite dhe k\u00ebrkojn\u00eb dialog p\u00ebr tensionet SHBA \u2013 Iran",
+      "link": "https://24-ore.com/shtetet-e-gjirit-mbeshtesin-arabine-saudite-dhe-kerkojne-dialog-per-tensionet-shba-iran/",
+      "summary": "",
+      "source": "GDELT: Tehran",
+      "source_url": "https://api.gdeltproject.org/api/v2/doc/doc?query=Tehran&mode=artlist&format=json&maxrecords=50&timespan=1day&sort=datedesc"
+    }
+  ],
   "access_hash": "043950549e7ce0e1e95856516147886ef890b7b8676842c9b4f8135a8d27c5f2"
 }
